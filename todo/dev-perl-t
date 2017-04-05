@@ -40,7 +40,6 @@
 =dev-perl/Test-Fatal-0.14.0                                                      #
 =dev-perl/Test-Inline-2.213.0-r1                                                 #
 =dev-perl/Test-Inter-1.60.0                                                      #
-=dev-perl/Test-LeakTrace-0.150.0                                                 #        #+
 =dev-perl/Test-LongString-0.170.0                                                #
 =dev-perl/Test-Manifest-2.20.0                                                   #
 =dev-perl/Test-Memory-Cycle-1.60.0                                               #
@@ -56,7 +55,6 @@
 =dev-perl/Test-Number-Delta-1.40.0                                               #
 #=dev-perl/Test-Number-Delta-1.60.0                                              #
 =dev-perl/Test-Object-0.70.0-r1                                                  #
-=dev-perl/Test-Output-1.30.0                                                     #        #+
 #=dev-perl/Test-Output-1.31.0                                                    #testing
 =dev-perl/Test-Pod-1.510.0                                                       #
 =dev-perl/Test-Pod-Coverage-1.100.0                                              #

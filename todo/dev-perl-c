@@ -177,7 +177,6 @@
 #=dev-perl/Curses-1.360.0                                                        #testing
 =dev-perl/Curses-UI-0.960.900-r1                                                 #
 =dev-perl/CursesWidgets-1.997.0-r1                                               #
-=dev-perl/Cwd-Guard-0.40.0                                                       #        #+
 #=dev-perl/Cwd-Guard-0.50.0                                                      #testing
 =dev-perl/capitalization-0.30.0-r1                                               #
 =dev-perl/common-sense-3.740.0                                                   #
