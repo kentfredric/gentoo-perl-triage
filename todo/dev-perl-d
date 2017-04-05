@@ -22,9 +22,6 @@
 =dev-perl/Data-Diver-1.010.1                                                     #
 =dev-perl/Data-Dump-1.230.0                                                      #
 =dev-perl/Data-DumpXML-1.60.0-r1                                                 #
-=dev-perl/Data-FormValidator-4.810.0-r1                                          #
-#=dev-perl/Data-FormValidator-4.850.0                                            #testing
-#=dev-perl/Data-FormValidator-4.860.0                                            #testing
 =dev-perl/Data-GUID-0.48.0                                                       #
 #=dev-perl/Data-GUID-0.49.0                                                      #testing
 =dev-perl/Data-HexDump-0.02-r1                                                   #
@@ -122,9 +119,6 @@
 #=dev-perl/Devel-StackTrace-2.10.0                                               #testing
 =dev-perl/Devel-StackTrace-AsHTML-0.140.0-r1                                     #testing
 #=dev-perl/Devel-StackTrace-AsHTML-0.150.0                                       #
-=dev-perl/Devel-Symdump-2.150.0                                                  #
-#=dev-perl/Devel-Symdump-2.170.0                                                 #testing
-#=dev-perl/Devel-Symdump-2.180.0                                                 #testing
 =dev-perl/Device-SerialPort-1.40.0-r1                                            #
 =dev-perl/Digest-BubbleBabble-0.20.0-r1                                          #
 =dev-perl/Digest-CRC-0.210.0                                                     #
