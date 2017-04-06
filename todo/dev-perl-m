@@ -109,6 +109,7 @@
 #=dev-perl/MCE-1.809.0                                                           #testing
 #=dev-perl/MCE-1.821.0                                                           #testing
 #=dev-perl/MCE-1.826.0                                                           #testing
+#=dev-perl/MCE-1.827.0                                                           #testing
 =dev-perl/MIME-Base32-1.20.0                                                     #testing
 =dev-perl/MIME-Lite-HTML-1.240.0                                                 #testing
 =dev-perl/MP4-Info-1.130.0                                                       #testing

@@ -103,7 +103,7 @@
 =dev-perl/MooseX-Types-0.360.0                                                   #testing
 #=dev-perl/MooseX-Types-0.460.0                                                  #
 =dev-perl/Mouse-2.4.5                                                            #        # broken: 614788
-#=dev-perl/Mouse-2.4.9                                                           #        # needs stable
+#=dev-perl/Mouse-2.4.9                                                           #testing # needs stable
 =dev-perl/MouseX-Types-0.60.0                                                    #        # broken: 614790
 =dev-perl/Mozilla-CA-20999999                                                    #
 =dev-perl/MusicBrainz-DiscID-0.30.0-r1                                           #
@@ -118,6 +118,7 @@
 #=dev-perl/MCE-1.809.0                                                           #testing
 #=dev-perl/MCE-1.821.0                                                           #testing
 #=dev-perl/MCE-1.826.0                                                           #testing
+#=dev-perl/MCE-1.827.0                                                           #testing
 =dev-perl/MIME-Base32-1.20.0                                                     #testing
 =dev-perl/MIME-Lite-HTML-1.240.0                                                 #testing
 =dev-perl/MP4-Info-1.130.0                                                       #testing

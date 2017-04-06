@@ -239,6 +239,7 @@
 #=dev-perl/Cpanel-JSON-XS-3.23.100                                               #testing
 =dev-perl/Crypt-CipherSaber-1.10.0                                               #testing
 =dev-perl/Crypt-Curve25519-0.50.0                                                #testing
+#=dev-perl/Crypt-Curve25519-0.60.0                                               #testing
 =dev-perl/Crypt-OpenSSL-DSA-0.150.0-r1                                           #testing
 #=dev-perl/Crypt-OpenSSL-DSA-0.180.0                                             #testing
 #=dev-perl/Crypt-OpenSSL-DSA-0.190.0                                             #testing
@@ -252,5 +253,6 @@
 #=dev-perl/CryptX-0.39.0                                                         #testing
 #=dev-perl/CryptX-0.44.0                                                         #testing
 #=dev-perl/CryptX-0.46.0                                                         #testing
+#=dev-perl/CryptX-0.47.0                                                         #testing
 =dev-perl/constant-boolean-0.20.0-r1                                             #testing
 =dev-perl/constant-defer-6.0.0                                                   #testing
