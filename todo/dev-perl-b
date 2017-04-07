@@ -1,13 +1,4 @@
 ## stable:
-#=dev-perl/B-Keywords-1.150.0                                                    #testing
-=dev-perl/Bio-ASN1-EntrezGene-1.91.0-r1                                          #
-#=dev-perl/Bio-ASN1-EntrezGene-1.700.0                                           #testing
-=dev-perl/Bit-Vector-Minimal-1.300.0-r1                                          #
-=dev-perl/Boulder-1.300.0-r1                                                     #
-=dev-perl/Business-FedEx-DirectConnect-1.10.0-r1                                 #
-=dev-perl/Business-Hours-0.120.0-r1                                              #
-=dev-perl/Business-UPS-2.10.0-r1                                                 #
-=dev-perl/boolean-0.450.0                                                        #
 ## testing:
 =dev-perl/B-OPCheck-0.300.0                                                      #testing
 =dev-perl/B-Utils-0.270.0                                                        #testing
