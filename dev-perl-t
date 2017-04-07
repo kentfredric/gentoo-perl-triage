@@ -200,9 +200,7 @@
 =dev-perl/Test2-Plugin-NoWarnings-0.50.0                                         #testing
 =dev-perl/Test2-Suite-0.0.60                                                     #testing
 =dev-perl/Text-Aligner-0.130.0                                                   #testing
-=dev-perl/Text-BibTeX-0.780.0-r1                                                 #testing
-#=dev-perl/Text-BibTeX-0.790.0                                                   #testing
-#=dev-perl/Text-BibTeX-0.800.0                                                   #testing
+=dev-perl/Text-BibTeX-0.800.0                                                    #testing
 =dev-perl/Text-FindIndent-0.110.0                                                #testing
 =dev-perl/Text-Netstring-0.70.0-r1                                               #testing
 =dev-perl/Text-Roman-3.500.0                                                     #testing

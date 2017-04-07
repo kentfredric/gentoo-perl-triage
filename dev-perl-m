@@ -56,8 +56,7 @@
 =dev-perl/Mo-0.390.0                                                             #
 #=dev-perl/Mo-0.400.0                                                            #testing
 =dev-perl/Modem-Vgetty-0.30.0-r1                                                 #
-=dev-perl/Module-Build-0.420.500                                                 #
-#=dev-perl/Module-Build-0.421.600                                                #
+=dev-perl/Module-Build-0.421.600                                                 #
 #=dev-perl/Module-Build-0.421.800                                                #testing
 #=dev-perl/Module-Build-0.422.200                                                #testing
 =dev-perl/Module-Build-Tiny-0.39.0                                               #

@@ -6,6 +6,7 @@
 #=dev-perl/CGI-4.250.0                                                           #testing
 #=dev-perl/CGI-4.310.0                                                           #testing
 #=dev-perl/CGI-4.330.0                                                           #testing
+#=dev-perl/CGI-4.360.0                                                           #testing
 =dev-perl/CGI-Compile-0.210.0                                                    #
 #=dev-perl/CGI-Compile-0.220.0                                                   #testing
 =dev-perl/CGI-Emulate-PSGI-0.210.0                                               #testing
