@@ -83,6 +83,7 @@
 #=dev-perl/DateTime-Format-Strptime-1.700.0                                      #testing
 #=dev-perl/DateTime-Format-Strptime-1.730.0                                      #testing
 =dev-perl/DateTime-Format-W3CDTF-0.60.0-r1                                       #
+#=dev-perl/DateTime-Format-W3CDTF-0.70.0                                         #testing
 =dev-perl/DateTime-Locale-0.460.0                                                #
 #=dev-perl/DateTime-Locale-1.20.0                                                #testing
 #=dev-perl/DateTime-Locale-1.30.0                                                #testing
@@ -104,6 +105,7 @@
 =dev-perl/Devel-CheckLib-1.60.0                                                  #
 #=dev-perl/Devel-CheckLib-1.70.0                                                 #testing
 #=dev-perl/Devel-CheckLib-1.90.0                                                 #testing
+#=dev-perl/Devel-CheckLib-1.100.0                                                #testing
 =dev-perl/Devel-Cycle-1.120.0                                                    #
 =dev-perl/Devel-GlobalDestruction-0.120.0                                        #
 #=dev-perl/Devel-GlobalDestruction-0.130.0                                       #

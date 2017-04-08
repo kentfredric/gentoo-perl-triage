@@ -136,6 +136,7 @@
 =dev-perl/Math-BigInt-Lite-0.140.0                                               #testing
 =dev-perl/Math-CDF-0.100.0                                                       #testing
 =dev-perl/Math-FFT-1.280.0                                                       #testing
+#=dev-perl/Math-FFT-1.340.0                                                      #testing
 =dev-perl/Math-Factor-XS-0.400.0                                                 #testing
 =dev-perl/Math-Libm-1.0.0                                                        #testing
 =dev-perl/Math-ModInt-0.11.0                                                     #testing
@@ -148,6 +149,7 @@
 =dev-perl/Math-Random-MT-1.170.0                                                 #testing
 =dev-perl/Math-Round-0.70.0                                                      #testing
 =dev-perl/Mixin-Linewise-0.108.0                                                 #testing
+=dev-perl/Mock-Config-0.30.0                                                     #testing
 =dev-perl/Modern-Perl-1.201.501.270                                              #testing
 #=dev-perl/Modern-Perl-1.201.612.290                                             #testing
 #=dev-perl/Modern-Perl-1.201.701.170                                             #testing
@@ -167,6 +169,7 @@
 #=dev-perl/Mojolicious-7.200.0                                                   #testing
 #=dev-perl/Mojolicious-7.210.0                                                   #testing
 #=dev-perl/Mojolicious-7.290.0                                                   #testing
+#=dev-perl/Mojolicious-7.300.0                                                   #testing
 =dev-perl/MongoDB-0.708.3.0                                                      #testing
 #=dev-perl/MongoDB-1.2.2                                                         #testing
 #=dev-perl/MongoDB-1.6.0                                                         #testing

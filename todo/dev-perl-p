@@ -122,6 +122,7 @@
 =dev-perl/Perl-Unsafe-Signals-0.30.0                                             #testing
 =dev-perl/Perl-Version-1.13.0                                                    #testing
 =dev-perl/PerlIO-utf8_strict-0.6.0                                               #testing
+#=dev-perl/PerlIO-utf8_strict-0.7.0                                              #testing
 =dev-perl/PerlIO-via-Timeout-0.320.0                                             #testing
 =dev-perl/Perlbal-1.800.0-r1                                                     #testing
 =dev-perl/Perlbal-XS-HTTPHeaders-0.200.0-r1                                      #testing
