@@ -5,7 +5,7 @@
 =dev-perl/Algorithm-Annotate-0.100.0-r1                                          #        #+
 =dev-perl/Algorithm-C3-0.100.0                                                   #        #+
 =dev-perl/Algorithm-Dependency-1.110.0-r1                                        #        # broken: 614678
-=dev-perl/Algorithm-Diff-1.190.300                                               #        #+ 
+=dev-perl/Algorithm-Diff-1.190.300                                               #        #+
 =dev-perl/Algorithm-Munkres-0.80.0-r1                                            #        #+
 =dev-perl/Alien-SDL-1.446.0                                                      #        #+
 =dev-perl/Alien-wxWidgets-0.670.0-r1                                             #        #+

@@ -63,7 +63,9 @@ while ( my $line = <$fh> ) {
     #    $display_pkg = $pfx . $real_package;
     #}
     my $suffix = $status;
+    $suffix =~ s/\s*$//;
     if ( defined $final_whiteboard ) {
+      $final_whiteboard =~ s/\s*$//;
       $suffix = sprintf "%-7s #%s", $suffix, $final_whiteboard;
     }
     printf "%-80s #%s\n", $display_pkg, $suffix;
