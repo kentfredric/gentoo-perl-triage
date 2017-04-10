@@ -8,6 +8,7 @@
 =dev-perl/MIME-Types-2.120.0                                                     #
 #=dev-perl/MIME-Types-2.130.0                                                    #testing
 =dev-perl/MIME-tools-5.507.0                                                     #
+#=dev-perl/MIME-tools-5.509.0                                                    #testing
 =dev-perl/MLDBM-2.50.0                                                           #
 =dev-perl/MLDBM-Sync-0.300.0-r1                                                  #
 =dev-perl/MP3-Info-1.240.0-r1                                                    #

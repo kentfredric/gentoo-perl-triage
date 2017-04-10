@@ -178,8 +178,7 @@
 =dev-perl/Devel-ArgNames-0.30.0-r1                                               #testing
 =dev-perl/Devel-Cover-1.230.0                                                    #testing
 #=dev-perl/Devel-Cover-1.230.0-r1                                                #testing
-=dev-perl/Devel-Declare-0.6.18                                                   #testing
-#=dev-perl/Devel-Declare-0.6.19                                                  #testing
+=dev-perl/Devel-Declare-0.6.19                                                   #testing
 =dev-perl/Devel-Dumpvar-1.60.0-r1                                                #testing
 =dev-perl/Devel-FindPerl-0.14.0                                                  #testing
 =dev-perl/Devel-Leak-0.30.0                                                      #testing

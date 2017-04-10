@@ -106,7 +106,7 @@
 =dev-perl/ParaDNS-2.0.0-r1                                                       #testing
 =dev-perl/Parallel-Iterator-1.0.0                                                #testing
 #=dev-perl/Parallel-Iterator-1.0.0-r1                                            #testing
-=dev-perl/Params-ValidationCompiler-0.230.0                                      #testing
+=dev-perl/Params-ValidationCompiler-0.240.0                                      #testing
 =dev-perl/Parse-ErrorString-Perl-0.220.0                                         #testing
 =dev-perl/Parse-ExuberantCTags-1.20.0-r1                                         #testing
 =dev-perl/Passwd-Linux-1.200.0-r1                                                #testing
