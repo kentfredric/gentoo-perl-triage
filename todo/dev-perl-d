@@ -115,8 +115,7 @@
 #=dev-perl/Devel-PatchPerl-1.460.0                                               #testing
 #=dev-perl/Devel-PatchPerl-1.480.0                                               #testing
 =dev-perl/Devel-Size-0.800.0                                                     #
-=dev-perl/Devel-SmallProf-2.20.0-r1                                              #
-#=dev-perl/Devel-SmallProf-2.20.0-r2                                             #
+=dev-perl/Devel-SmallProf-2.20.0-r2                                              #
 =dev-perl/Devel-StackTrace-2.0.0                                                 #
 #=dev-perl/Devel-StackTrace-2.10.0                                               #testing
 =dev-perl/Devel-StackTrace-AsHTML-0.140.0-r1                                     #testing

@@ -72,7 +72,6 @@
 =dev-perl/XML-Directory-1.0.0                                                    #testing
 =dev-perl/XML-Entities-1.0.200                                                   #testing
 =dev-perl/XML-FeedPP-0.430.0                                                     #testing
-#=dev-perl/XML-FeedPP-0.430.0-r1                                                 #testing
 =dev-perl/XML-LibXML-Simple-0.970.0                                              #testing
 =dev-perl/XML-SAX-Expat-0.510.0                                                  #testing
 =dev-perl/XML-SAX-ExpatXS-1.330.0                                                #testing

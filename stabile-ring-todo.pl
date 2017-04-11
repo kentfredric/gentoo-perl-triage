@@ -2,7 +2,6 @@
 use strict;
 use warnings;
 
-use Data::Dump qw(pp);
 open my $fh, '<', $ARGV[0] or die "Can't open $ARGV[0], $!";
 
 while ( my $line = <$fh> ) {

@@ -170,8 +170,7 @@
 =dev-perl/Test-Deep-JSON-0.30.0                                                  #testing
 =dev-perl/Test-Dependencies-0.120.0                                              #testing
 #=dev-perl/Test-Dependencies-0.210.0                                             #testing
-=dev-perl/Test-File-1.410.0                                                      #testing
-#=dev-perl/Test-File-1.442.0                                                     #testing
+=dev-perl/Test-File-1.442.0                                                      #testing
 =dev-perl/Test-File-ShareDir-1.1.2                                               #testing
 =dev-perl/Test-Files-0.140.0                                                     #testing
 =dev-perl/Test-MinimumVersion-0.101.82                                           #testing
@@ -188,9 +187,7 @@
 =dev-perl/Test-UseAllModules-0.170.0                                             #testing
 =dev-perl/Test-Version-2.50.0                                                    #testing
 =dev-perl/Test-Without-Module-0.180.0                                            #testing
-=dev-perl/Test-utf8-1.0.0-r1                                                     #testing
-#=dev-perl/Test-utf8-1.10.0                                                      #testing
-#=dev-perl/Test-utf8-1.10.0                                                      #testing
+=dev-perl/Test-utf8-1.10.0                                                       #testing
 =dev-perl/Test2-Plugin-NoWarnings-0.50.0                                         #testing
 =dev-perl/Test2-Suite-0.0.60                                                     #testing
 =dev-perl/Text-Aligner-0.130.0                                                   #testing
@@ -201,8 +198,7 @@
 =dev-perl/Text-Soundex-3.50.0                                                    #testing
 =dev-perl/Text-Table-1.130.0                                                     #testing
 #=dev-perl/Text-Table-1.132.0                                                    #testing
-=dev-perl/Text-VimColor-0.110.0                                                  #testing
-#=dev-perl/Text-VimColor-0.260-r1                                                #testing
+=dev-perl/Text-VimColor-0.260-r1                                                 #testing
 =dev-perl/Tie-CPHash-2.0.0                                                       #testing
 =dev-perl/Tie-Cache-0.190.0-r1                                                   #testing
 #=dev-perl/Tie-Cache-0.210.0                                                     #testing

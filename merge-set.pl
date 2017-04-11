@@ -2,8 +2,6 @@
 use strict;
 use warnings;
 
-use Data::Dump qw(pp);
-
 my ( $master, $updates ) = @ARGV;
 
 my %details;

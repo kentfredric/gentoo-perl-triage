@@ -86,8 +86,7 @@
 =dev-perl/Encode-IMAPUTF7-1.50.0-r1                                              #testing
 =dev-perl/Encode-JIS2K-0.02                                                      #testing
 #=dev-perl/Encode-JIS2K-0.30.0                                                   #testing
-=dev-perl/Exception-Base-0.250-r1                                                #testing
-#=dev-perl/Exception-Base-0.250.0-r2                                             #testing
+=dev-perl/Exception-Base-0.250.0-r2                                              #testing
 #=dev-perl/Exception-Base-0.250.100                                              #testing
 =dev-perl/Exception-Died-0.60.0-r1                                               #testing
 =dev-perl/Exception-System-0.110.0-r1                                            #testing

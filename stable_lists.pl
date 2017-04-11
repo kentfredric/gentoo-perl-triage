@@ -2,7 +2,6 @@
 
 use strict;
 use warnings;
-use Data::Dump qw(pp);
 use Term::ANSIColor qw( colored );
 
 my ($atom) = @ARGV;

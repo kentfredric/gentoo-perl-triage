@@ -16,8 +16,7 @@
 =dev-perl/CQL-Parser-1.130.0                                                     #testing
 =dev-perl/CSS-Minifier-0.10.0-r1                                                 #testing
 =dev-perl/CSS-Packer-2.0.0                                                       #testing
-=dev-perl/CSS-Tiny-1.190.0                                                       #testing
-#=dev-perl/CSS-Tiny-1.200.0                                                      #testing
+=dev-perl/CSS-Tiny-1.200.0                                                       #testing
 =dev-perl/Cache-FastMmap-1.400.0                                                 #testing
 #=dev-perl/Cache-FastMmap-1.440.0                                                #testing
 #=dev-perl/Cache-FastMmap-1.450.0                                                #testing
@@ -58,8 +57,7 @@
 #=dev-perl/Contextual-Return-0.4.10                                              #testing
 #=dev-perl/Contextual-Return-0.4.11                                              #testing
 =dev-perl/Coro-6.511.0                                                           #testing
-=dev-perl/Cpanel-JSON-XS-3.11.500                                                #testing
-#=dev-perl/Cpanel-JSON-XS-3.23.0                                                 #testing
+=dev-perl/Cpanel-JSON-XS-3.23.0                                                  #testing
 #=dev-perl/Cpanel-JSON-XS-3.23.100                                               #testing
 =dev-perl/Crypt-CipherSaber-1.10.0                                               #testing
 =dev-perl/Crypt-Curve25519-0.50.0                                                #testing
