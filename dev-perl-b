@@ -5,6 +5,7 @@
 #=dev-perl/B-Keywords-1.150.0                                                    #testing #+
 =dev-perl/BSD-Resource-1.290.800                                                 #        # broken: 614854
 #=dev-perl/BSD-Resource-1.290.900                                                #testing # broken: 614854
+#=dev-perl/BSD-Resource-1.291.100                                                #testing
 =dev-perl/BerkeleyDB-0.550.0                                                     #        #+
 =dev-perl/Bio-ASN1-EntrezGene-1.91.0-r1                                          #        # broken: 614938
 #=dev-perl/Bio-ASN1-EntrezGene-1.700.0                                           #testing # broken: 614938
@@ -18,8 +19,7 @@
 =dev-perl/boolean-0.450.0                                                        #        #+
 ## testing:
 =dev-perl/B-Hooks-OP-Check-0.190.0-r1                                            #testing # broken: 613756
-=dev-perl/B-Hooks-Parser-0.160.0                                                 #testing # broken: 614718
-#=dev-perl/B-Hooks-Parser-0.190.0                                                #testing #+
+=dev-perl/B-Hooks-Parser-0.190.0                                                 #testing #+
 =dev-perl/B-OPCheck-0.300.0                                                      #testing # broken: 614944
 #=dev-perl/B-OPCheck-0.320.0                                                     #testing #+
 =dev-perl/B-Utils-0.270.0                                                        #testing #+

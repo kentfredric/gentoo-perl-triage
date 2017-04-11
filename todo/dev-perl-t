@@ -180,13 +180,13 @@
 =dev-perl/Test-Needs-0.2.2                                                       #testing
 =dev-perl/Test-Perl-Critic-1.20.0-r1                                             #testing
 #=dev-perl/Test-Perl-Critic-1.30.0                                               #testing
-=dev-perl/Test-Regexp-2016060501.0.0                                             #testing
-#=dev-perl/Test-Regexp-2017040101.0.0                                            #testing
+=dev-perl/Test-Regexp-2017040101.0.0                                             #testing
 =dev-perl/Test-Timer-0.130.0                                                     #testing
 =dev-perl/Test-Unit-Lite-0.120.200-r1                                            #testing
 =dev-perl/Test-UseAllModules-0.170.0                                             #testing
 =dev-perl/Test-Version-2.50.0                                                    #testing
 =dev-perl/Test-Without-Module-0.180.0                                            #testing
+#=dev-perl/Test-Without-Module-0.200.0                                           #testing
 =dev-perl/Test-utf8-1.10.0                                                       #testing
 =dev-perl/Test2-Plugin-NoWarnings-0.50.0                                         #testing
 =dev-perl/Test2-Suite-0.0.60                                                     #testing
@@ -214,6 +214,7 @@
 #=dev-perl/Time-Moment-0.390.0                                                   #testing
 #=dev-perl/Time-Moment-0.400.0                                                   #testing
 #=dev-perl/Time-Moment-0.410.0                                                   #testing
+#=dev-perl/Time-Moment-0.420.0                                                   #testing
 =dev-perl/Time-Out-0.110.0                                                       #testing
 =dev-perl/Time-Piece-MySQL-0.60.0-r1                                             #testing
 =dev-perl/Time-Stopwatch-1.0.0                                                   #testing

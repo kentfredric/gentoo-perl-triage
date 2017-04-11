@@ -38,7 +38,7 @@
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #        #+
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #        #+
 =dev-perl/Cache-2.40.0-r1                                                        #        # random breakage
-#=dev-perl/Cache-2.110.0                                                         #testing #+
+#=dev-perl/Cache-2.110.0                                                         #        #+
 =dev-perl/Cache-Cache-1.80.0                                                     #        #+
 =dev-perl/Cache-Memcached-1.300.0-r1                                             #        #+
 =dev-perl/Cache-Simple-TimedExpiry-0.270.0-r1                                    #        # broken: 615118
@@ -66,7 +66,7 @@
 #=dev-perl/Class-Accessor-Lite-0.80.0                                            #        # broken: 613708
 =dev-perl/Class-Autouse-2.10.0-r1                                                #        # broken: 615124
 =dev-perl/Class-C3-0.300.0                                                       #        # broken: 615100
-#=dev-perl/Class-C3-0.310.0                                                      #testing # needs stable
+#=dev-perl/Class-C3-0.310.0                                                      #        # needs stable
 =dev-perl/Class-C3-XS-0.130.0-r1                                                 #        # broken: 615128
 #=dev-perl/Class-C3-XS-0.140.0                                                   #testing # needs stable
 =dev-perl/Class-Container-0.120.0-r1                                             #        #+
@@ -82,6 +82,7 @@
 #=dev-perl/Class-Inspector-1.310.0                                               #testing # needs stable
 =dev-perl/Class-Load-0.200.0-r1                                                  #        #+
 #=dev-perl/Class-Load-0.230.0                                                    #        #+
+#=dev-perl/Class-Load-0.240.0                                                    #testing
 =dev-perl/Class-Load-XS-0.60.0-r1                                                #        #+
 #=dev-perl/Class-Load-XS-0.90.0                                                  #testing #+
 =dev-perl/Class-Loader-2.30.0-r1                                                 #        #+
@@ -105,6 +106,7 @@
 =dev-perl/Color-Library-0.21.0-r1                                                #        #+
 =dev-perl/Compress-Bzip2-2.220.0                                                 #        # broken: 615026
 #=dev-perl/Compress-Bzip2-2.240.0                                                #testing # broken: 615026
+#=dev-perl/Compress-Bzip2-2.260.0                                                #testing
 =dev-perl/Config-Any-0.260.0                                                     #        # broken: 613358
 #=dev-perl/Config-Any-0.270.0                                                    #testing # broken: 613358
 #=dev-perl/Config-Any-0.290.0                                                    #testing # needs stable
@@ -136,7 +138,6 @@
 =dev-perl/Convert-PEM-0.80.0-r1                                                  #        # broken: 613632
 =dev-perl/Convert-TNEF-0.180.0-r1                                                #        #+
 =dev-perl/Convert-UUlib-1.400.0-r1                                               #        #+
-#=dev-perl/Convert-UUlib-1.400.0-r2                                              #testing # broken:
 #=dev-perl/Convert-UUlib-1.500.0-r1                                              #testing #+
 =dev-perl/Cookie-Baker-0.60.0                                                    #        #+
 #=dev-perl/Cookie-Baker-0.70.0                                                   #testing #+
@@ -178,7 +179,7 @@
 =dev-perl/Crypt-X509-0.510.0                                                     #
 =dev-perl/Curses-1.320.0                                                         #        #+
 #=dev-perl/Curses-1.330.0                                                        #testing #+
-#=dev-perl/Curses-1.360.0                                                        #testing #+
+#=dev-perl/Curses-1.360.0                                                        #        #+
 =dev-perl/Curses-UI-0.960.900-r1                                                 #        # broken: 615110
 =dev-perl/CursesWidgets-1.997.0-r1                                               #        #+
 =dev-perl/Cwd-Guard-0.40.0                                                       #        #+
@@ -208,14 +209,15 @@
 #=dev-perl/Class-Base-0.60.0                                                     #testing
 =dev-perl/Class-C3-Componentised-1.1.0-r1                                        #testing
 =dev-perl/Class-DBI-AbstractSearch-0.70.0                                        #testing
-=dev-perl/Class-DBI-Plugin-0.30.0                                                #testing
+=dev-perl/Class-DBI-Plugin-0.30.0                                                #testing #+
 =dev-perl/Class-DBI-Plugin-DeepAbstractSearch-0.80.0                             #testing
 =dev-perl/Class-Data-Accessor-0.40.40-r1                                         #testing
 =dev-perl/Class-InsideOut-1.130.0-r1                                             #testing
+#=dev-perl/Class-InsideOut-1.140.0                                               #testing
 =dev-perl/Class-Member-1.600.0-r1                                                #testing
 =dev-perl/Class-Spiffy-0.150.0-r1                                                #testing
-=dev-perl/Class-Std-0.11.0-r1                                                    #testing
-#=dev-perl/Class-Std-0.13.0                                                      #testing
+=dev-perl/Class-Std-0.11.0-r1                                                    #testing #+
+#=dev-perl/Class-Std-0.13.0                                                      #testing #+
 =dev-perl/Class-Std-Fast-0.0.8-r1                                                #testing
 =dev-perl/Class-Tiny-1.0.0                                                       #testing
 #=dev-perl/Class-Tiny-1.4.0                                                      #testing
@@ -225,7 +227,7 @@
 =dev-perl/Config-AutoConf-0.311.0                                                #testing
 #=dev-perl/Config-AutoConf-0.313.0                                               #testing
 #=dev-perl/Config-AutoConf-0.314.0                                               #testing
-=dev-perl/Config-INI-0.25.0                                                      #testing
+=dev-perl/Config-INI-0.25.0                                                      #testing #+
 =dev-perl/Config-JSON-1.520.200                                                  #testing
 =dev-perl/Config-MVP-2.200.10                                                    #testing
 =dev-perl/Config-MVP-Reader-INI-2.101.463                                        #testing
@@ -238,8 +240,8 @@
 #=dev-perl/Contextual-Return-0.4.11                                              #testing
 =dev-perl/Cookie-Baker-XS-0.70.0                                                 #testing #+
 =dev-perl/Coro-6.511.0                                                           #testing
-=dev-perl/Cpanel-JSON-XS-3.23.0                                                  #testing
-#=dev-perl/Cpanel-JSON-XS-3.23.100                                               #testing
+=dev-perl/Cpanel-JSON-XS-3.23.0                                                  #testing #+
+#=dev-perl/Cpanel-JSON-XS-3.23.100                                               #testing #+
 =dev-perl/Crypt-CipherSaber-1.10.0                                               #testing
 =dev-perl/Crypt-Curve25519-0.50.0                                                #testing
 #=dev-perl/Crypt-Curve25519-0.60.0                                               #testing
@@ -252,10 +254,6 @@
 #=dev-perl/Crypt-SMIME-0.190.0                                                   #testing
 =dev-perl/Crypt-URandom-0.340.0                                                  #testing
 #=dev-perl/Crypt-URandom-0.360.0                                                 #testing
-=dev-perl/CryptX-0.25.0                                                          #testing # broken: 613620
-#=dev-perl/CryptX-0.39.0                                                         #testing # broken: 613620
-#=dev-perl/CryptX-0.44.0                                                         #testing # broken: 613620
-#=dev-perl/CryptX-0.46.0                                                         #testing #+
-#=dev-perl/CryptX-0.47.0                                                         #testing #+
+=dev-perl/CryptX-0.47.0                                                          #testing #+
 =dev-perl/constant-boolean-0.20.0-r1                                             #testing
 =dev-perl/constant-defer-6.0.0                                                   #testing

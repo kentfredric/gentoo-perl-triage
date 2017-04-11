@@ -80,7 +80,7 @@
 =dev-perl/DateTime-Format-Strptime-1.560.0                                       #
 #=dev-perl/DateTime-Format-Strptime-1.620.0                                      #testing
 #=dev-perl/DateTime-Format-Strptime-1.680.0                                      #testing
-#=dev-perl/DateTime-Format-Strptime-1.700.0                                      #testing
+#=dev-perl/DateTime-Format-Strptime-1.700.0                                      #
 #=dev-perl/DateTime-Format-Strptime-1.730.0                                      #testing
 =dev-perl/DateTime-Format-W3CDTF-0.60.0-r1                                       #
 #=dev-perl/DateTime-Format-W3CDTF-0.70.0                                         #testing
