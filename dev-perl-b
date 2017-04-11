@@ -5,11 +5,11 @@
 #=dev-perl/B-Keywords-1.150.0                                                    #testing #+
 =dev-perl/BSD-Resource-1.290.800                                                 #        # broken: 614854
 #=dev-perl/BSD-Resource-1.290.900                                                #testing # broken: 614854
-#=dev-perl/BSD-Resource-1.291.100                                                #testing
+#=dev-perl/BSD-Resource-1.291.100                                                #testing #+
 =dev-perl/BerkeleyDB-0.550.0                                                     #        #+
 =dev-perl/Bio-ASN1-EntrezGene-1.91.0-r1                                          #        # broken: 614938
 #=dev-perl/Bio-ASN1-EntrezGene-1.700.0                                           #testing # broken: 614938
-#=dev-perl/Bio-ASN1-EntrezGene-1.720.0                                           #testing
+#=dev-perl/Bio-ASN1-EntrezGene-1.720.0                                           #testing #+
 =dev-perl/Bit-Vector-7.400.0                                                     #        #+
 =dev-perl/Bit-Vector-Minimal-1.300.0-r1                                          #        #+
 =dev-perl/Boulder-1.300.0-r1                                                     #        #+
