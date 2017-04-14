@@ -1,4 +1,5 @@
 ## stable:
+#=dev-perl/Class-Load-XS-0.100.0                                                 #testing
 =dev-perl/Class-Mix-0.5.0-r1                                                     #
 =dev-perl/Crypt-Eksblowfish-0.9.0-r2                                             #
 =dev-perl/Crypt-OpenPGP-1.70.0                                                   #
@@ -52,6 +53,7 @@
 #=dev-perl/Contextual-Return-0.4.9                                               #testing
 #=dev-perl/Contextual-Return-0.4.10                                              #testing
 #=dev-perl/Contextual-Return-0.4.11                                              #testing
+#=dev-perl/Contextual-Return-0.4.12                                              #testing
 =dev-perl/Coro-6.511.0                                                           #testing
 =dev-perl/Crypt-CipherSaber-1.10.0                                               #testing
 =dev-perl/Crypt-Curve25519-0.50.0                                                #testing

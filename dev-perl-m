@@ -2,6 +2,7 @@
 =dev-perl/MD5-2.30.0-r1                                                          #
 =dev-perl/MIME-Charset-1.9.3                                                     #
 #=dev-perl/MIME-Charset-1.12.0                                                   #testing
+#=dev-perl/MIME-Charset-1.12.2                                                   #testing
 =dev-perl/MIME-EncWords-1.12.6-r1                                                #
 #=dev-perl/MIME-EncWords-1.14.3                                                  #testing
 =dev-perl/MIME-Lite-3.30.0                                                       #
@@ -175,6 +176,7 @@
 #=dev-perl/MongoDB-1.2.2                                                         #testing
 #=dev-perl/MongoDB-1.6.0                                                         #testing
 #=dev-perl/MongoDB-1.6.1                                                         #testing
+#=dev-perl/MongoDB-1.8.0                                                         #testing
 =dev-perl/MooX-Types-MooseLike-Numeric-1.20.0                                    #testing
 =dev-perl/MooseX-Aliases-0.110.0-r1                                              #testing
 =dev-perl/MooseX-ClassAttribute-0.270.0                                          #testing

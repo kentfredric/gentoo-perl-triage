@@ -11,6 +11,7 @@
 #=dev-perl/PDF-Create-1.390.0                                                    #testing
 #=dev-perl/PDF-Create-1.400.0                                                    #testing
 #=dev-perl/PDF-Create-1.410.0                                                    #testing
+#=dev-perl/PDF-Create-1.420.0                                                    #testing
 =dev-perl/PDL-2.17.0                                                             #
 =dev-perl/POE-1.367                                                              #
 =dev-perl/POE-Test-Loops-1.360.0                                                 #

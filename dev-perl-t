@@ -52,6 +52,7 @@
 =dev-perl/Test-Most-0.310.0-r1                                                   #
 #=dev-perl/Test-Most-0.340.0                                                     #testing
 =dev-perl/Test-NoTabs-1.400.0                                                    #
+#=dev-perl/Test-NoTabs-2.0.0-r1                                                  #testing
 =dev-perl/Test-NoWarnings-1.40.0-r3                                              #
 =dev-perl/Test-Number-Delta-1.40.0                                               #
 #=dev-perl/Test-Number-Delta-1.60.0                                              #
@@ -64,9 +65,9 @@
 =dev-perl/Test-Requires-0.60.0-r1                                                #        #+
 #=dev-perl/Test-Requires-0.100.0                                                 #
 =dev-perl/Test-RequiresInternet-0.50.0                                           #
-=dev-perl/Test-Script-1.70.0-r1                                                  #
-#=dev-perl/Test-Script-1.100.0                                                   #
+=dev-perl/Test-Script-1.100.0                                                    #
 #=dev-perl/Test-Script-1.120.0                                                   #testing
+#=dev-perl/Test-Script-1.180.0                                                   #testing
 =dev-perl/Test-SharedFork-0.210.0-r1                                             #
 #=dev-perl/Test-SharedFork-0.330.0                                               #
 #=dev-perl/Test-SharedFork-0.350.0                                               #
@@ -92,6 +93,7 @@
 #=dev-perl/Text-CSV-1.910.0                                                      #testing
 #=dev-perl/Text-CSV-1.920.0                                                      #testing
 #=dev-perl/Text-CSV-1.930.0                                                      #testing
+#=dev-perl/Text-CSV-1.940.0                                                      #testing
 =dev-perl/Text-CSV-Simple-1.0.0-r1                                               #
 =dev-perl/Text-CSV_XS-1.230.0                                                    #        # broken: 613582
 #=dev-perl/Text-CSV_XS-1.260.0                                                   #testing # broken: 613582
