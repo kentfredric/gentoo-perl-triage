@@ -1,9 +1,6 @@
 ## stable:
 #=dev-perl/DBIx-DBSchema-0.440.0                                                 #testing
-=dev-perl/Data-AMF-0.90.0-r1                                                     #
 #=dev-perl/Data-GUID-0.49.0                                                      #testing
-=dev-perl/Data-Page-2.20.0-r1                                                    #
-=dev-perl/Data-Uniqid-0.120.0-r1                                                 #
 #=dev-perl/Data-Validate-Domain-0.140.0                                          #testing
 #=dev-perl/Data-Validate-IP-0.260.0                                              #testing
 #=dev-perl/Data-Validate-IP-0.270.0                                              #testing
@@ -11,7 +8,6 @@
 #=dev-perl/Date-Manip-6.560.0                                                    #testing
 #=dev-perl/Date-Manip-6.570.0                                                    #testing
 #=dev-perl/Date-Manip-6.580.0                                                    #testing
-=dev-perl/Date-Pcalc-6.100.0-r1                                                  #
 #=dev-perl/DateTime-1.210.0                                                      #testing
 #=dev-perl/DateTime-1.280.0                                                      #testing
 #=dev-perl/DateTime-1.360.0                                                      #testing
@@ -30,7 +26,6 @@
 #=dev-perl/DateTime-TimeZone-1.940.0                                             #testing
 #=dev-perl/DateTime-TimeZone-2.10.0                                              #testing
 #=dev-perl/DateTime-TimeZone-2.110.0                                             #testing
-=dev-perl/Devel-CheckBin-0.40.0                                                  #
 #=dev-perl/Devel-CheckCompiler-0.60.0                                            #testing
 #=dev-perl/Devel-CheckCompiler-0.70.0                                            #testing
 #=dev-perl/Devel-CheckLib-1.70.0                                                 #testing
@@ -42,7 +37,6 @@
 #=dev-perl/Devel-PatchPerl-1.480.0                                               #testing
 #=dev-perl/Devel-StackTrace-2.10.0                                               #testing
 #=dev-perl/Devel-StackTrace-AsHTML-0.140.0-r1                                    #testing
-=dev-perl/Device-SerialPort-1.40.0-r1                                            #
 #=dev-perl/Digest-CRC-0.220.0_p2                                                 #testing
 ## testing:
 =dev-perl/DBICx-TestDatabase-0.40.0                                              #testing
