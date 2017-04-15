@@ -35,8 +35,8 @@
 =dev-perl/File-RsyncP-0.740.0                                                    #
 =dev-perl/File-ShareDir-1.30.0-r1                                                #
 #=dev-perl/File-ShareDir-1.102.0                                                 #
-=dev-perl/File-ShareDir-Install-0.90.0                                           #testing
-#=dev-perl/File-ShareDir-Install-0.110.0                                         #
+#=dev-perl/File-ShareDir-Install-0.90.0                                          #testing
+=dev-perl/File-ShareDir-Install-0.110.0                                          #
 =dev-perl/File-Slurp-9999.190.0-r1                                               #
 =dev-perl/File-Slurper-0.0.800                                                   #
 #=dev-perl/File-Slurper-0.9.0                                                    #testing

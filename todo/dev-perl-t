@@ -30,8 +30,8 @@
 #=dev-perl/Test-Command-0.110.0                                                  #
 =dev-perl/Test-Deep-1.120.0                                                      #
 #=dev-perl/Test-Deep-1.126.0                                                     #testing
-=dev-perl/Test-Differences-0.630.0                                               #testing
-#=dev-perl/Test-Differences-0.640.0                                              #
+#=dev-perl/Test-Differences-0.630.0                                              #testing
+=dev-perl/Test-Differences-0.640.0                                               #
 =dev-perl/Test-DistManifest-1.14.0                                               #
 =dev-perl/Test-Distribution-2.0.0-r1                                             #
 =dev-perl/Test-EOL-1.600.0                                                       #
@@ -82,8 +82,8 @@
 #=dev-perl/Test-Warn-0.310.0                                                     #testing
 =dev-perl/Test-Warnings-0.16.0                                                   #
 #=dev-perl/Test-Warnings-0.26.0                                                  #testing
-=dev-perl/Test-YAML-1.50.0                                                       #testing
-#=dev-perl/Test-YAML-1.60.0                                                      #
+#=dev-perl/Test-YAML-1.50.0                                                      #testing
+=dev-perl/Test-YAML-1.60.0                                                       #
 =dev-perl/Text-Aspell-0.90.0-r1                                                  #
 =dev-perl/Text-Autoformat-1.740.0                                                #
 =dev-perl/Text-CSV-1.330.0                                                       #

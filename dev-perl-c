@@ -9,8 +9,8 @@
 #=dev-perl/CGI-4.360.0                                                           #testing #+
 =dev-perl/CGI-Compile-0.210.0                                                    #        # broken: 614352
 #=dev-perl/CGI-Compile-0.220.0                                                   #testing # broken: 614352
-=dev-perl/CGI-Emulate-PSGI-0.210.0                                               #testing #+
-#=dev-perl/CGI-Emulate-PSGI-0.220.0                                              #        #+
+#=dev-perl/CGI-Emulate-PSGI-0.210.0                                              #testing #+
+=dev-perl/CGI-Emulate-PSGI-0.220.0                                               #        #+
 =dev-perl/CGI-Fast-2.100.0                                                       #        #+
 #=dev-perl/CGI-Fast-2.110.0                                                      #testing #+
 =dev-perl/CGI-FastTemplate-1.90.0-r1                                             #        #+
@@ -62,8 +62,8 @@
 =dev-perl/Class-Accessor-0.340.0-r1                                              #        #+
 =dev-perl/Class-Accessor-Chained-0.10.0-r1                                       #        #+
 =dev-perl/Class-Accessor-Grouped-0.100.120                                       #        # broken: 615014
-=dev-perl/Class-Accessor-Lite-0.50.0-r1                                          #testing # broken: 613708
-#=dev-perl/Class-Accessor-Lite-0.80.0                                            #        # broken: 613708
+#=dev-perl/Class-Accessor-Lite-0.50.0-r1                                         #testing # broken: 613708
+=dev-perl/Class-Accessor-Lite-0.80.0                                             #        # broken: 613708
 =dev-perl/Class-Autouse-2.10.0-r1                                                #        # broken: 615124
 =dev-perl/Class-C3-0.300.0                                                       #        # broken: 615100
 #=dev-perl/Class-C3-0.310.0                                                      #        # needs stable
@@ -134,8 +134,8 @@
 #=dev-perl/Convert-BinHex-1.125.0                                                #testing #+
 =dev-perl/Convert-Binary-C-0.770.0                                               #        # broken: 615016
 #=dev-perl/Convert-Binary-C-0.780.0                                              #testing # broken: 615016
-=dev-perl/Convert-Color-0.80.0-r1                                                #testing #+
-#=dev-perl/Convert-Color-0.110.0                                                 #        #+
+#=dev-perl/Convert-Color-0.80.0-r1                                               #testing #+
+=dev-perl/Convert-Color-0.110.0                                                  #        #+
 =dev-perl/Convert-PEM-0.80.0-r1                                                  #        # broken: 613632
 =dev-perl/Convert-TNEF-0.180.0-r1                                                #        #+
 =dev-perl/Convert-UUlib-1.400.0-r1                                               #        #+

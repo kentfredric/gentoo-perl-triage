@@ -95,8 +95,8 @@
 #=dev-perl/Moose-2.180.700                                                       #testing
 #=dev-perl/Moose-2.200.400                                                       #testing
 =dev-perl/MooseX-FollowPBP-0.50.0                                                #
-=dev-perl/MooseX-Types-0.360.0                                                   #testing
-#=dev-perl/MooseX-Types-0.460.0                                                  #
+#=dev-perl/MooseX-Types-0.360.0                                                  #testing
+=dev-perl/MooseX-Types-0.460.0                                                   #
 =dev-perl/Mozilla-CA-20999999                                                    #
 =dev-perl/MusicBrainz-DiscID-0.30.0-r1                                           #
 =dev-perl/mecab-perl-0.996                                                       #

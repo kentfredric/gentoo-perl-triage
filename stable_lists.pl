@@ -56,10 +56,15 @@ sub format_todo {
   my ( $atom, @versions ) = @{$item};
   my $first = 1;
   my @out;
+  my $has_stable = scalar grep { $_->[1] eq 'stable' } @versions;
   for my $item ( @versions ) {
     my $suffix = "";
     $suffix  = "testing" if $item->[1] ne 'stable';
     if ( $first ) {
+      if ( $has_stable and $item->[1] ne 'stable' ) {
+        push @out, sprintf "%-80s #%s", '#=' . $atom . '-' . $item->[0], $suffix;
+        next;
+      }
       push @out, sprintf "%-80s #%s", '=' . $atom . '-' . $item->[0], $suffix;
       $first--;
       next;

@@ -5,8 +5,8 @@
 =dev-perl/HTML-Form-6.30.0-r1                                                    #
 =dev-perl/HTML-Format-2.140.0                                                    #
 =dev-perl/HTML-FormatText-WithLinks-0.150.0                                      #
-=dev-perl/HTML-FormatText-WithLinks-AndTables-0.60.0                             #testing
-#=dev-perl/HTML-FormatText-WithLinks-AndTables-0.70.0                            #
+#=dev-perl/HTML-FormatText-WithLinks-AndTables-0.60.0                            #testing
+=dev-perl/HTML-FormatText-WithLinks-AndTables-0.70.0                             #
 =dev-perl/HTML-FromText-2.50.0-r1                                                #
 #=dev-perl/HTML-FromText-2.70.0                                                  #testing
 =dev-perl/HTML-HTMLDoc-0.100.0-r1                                                #

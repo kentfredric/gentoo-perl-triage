@@ -18,10 +18,10 @@
 =dev-perl/Net-HTTP-6.90.0                                                        #
 #=dev-perl/Net-HTTP-6.120.0                                                      #testing
 #=dev-perl/Net-HTTP-6.130.0                                                      #testing
-=dev-perl/Net-IDN-Encode-2.300.0                                                 #testing
+#=dev-perl/Net-IDN-Encode-2.300.0                                                #testing
 #=dev-perl/Net-IDN-Encode-2.301.0                                                #testing
 #=dev-perl/Net-IDN-Encode-2.302.0                                                #testing
-#=dev-perl/Net-IDN-Encode-2.303.0                                                #
+=dev-perl/Net-IDN-Encode-2.303.0                                                 #
 #=dev-perl/Net-IDN-Encode-2.400.0                                                #testing
 =dev-perl/Net-IP-1.260.0-r1                                                      #
 =dev-perl/Net-IP-Minimal-0.60.0                                                  #
