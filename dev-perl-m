@@ -137,8 +137,7 @@
 =dev-perl/Math-Bezier-0.10.0-r1                                                  #testing
 =dev-perl/Math-BigInt-Lite-0.140.0                                               #testing
 =dev-perl/Math-CDF-0.100.0                                                       #testing
-=dev-perl/Math-FFT-1.280.0                                                       #testing
-#=dev-perl/Math-FFT-1.340.0                                                      #testing
+=dev-perl/Math-FFT-1.340.0                                                       #testing
 =dev-perl/Math-Factor-XS-0.400.0                                                 #testing
 =dev-perl/Math-Libm-1.0.0                                                        #testing
 =dev-perl/Math-ModInt-0.11.0                                                     #testing

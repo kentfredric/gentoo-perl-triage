@@ -20,8 +20,7 @@
 ## testing:
 =dev-perl/B-Hooks-OP-Check-0.190.0-r1                                            #testing # broken: 613756
 =dev-perl/B-Hooks-Parser-0.190.0                                                 #testing #+
-=dev-perl/B-OPCheck-0.300.0                                                      #testing # broken: 614944
-#=dev-perl/B-OPCheck-0.320.0                                                     #testing #+
+=dev-perl/B-OPCheck-0.320.0                                                      #testing #+
 =dev-perl/B-Utils-0.270.0                                                        #testing #+
 =dev-perl/BSON-1.2.2                                                             #testing #+
 #=dev-perl/BSON-1.4.0                                                            #testing #+
@@ -40,5 +39,4 @@
 =dev-perl/Business-ISSN-0.910.0-r1                                               #testing #+
 =dev-perl/Business-Tax-VAT-Validation-1.20.0                                     #testing #+
 #=dev-perl/Business-Tax-VAT-Validation-1.100.0                                   #testing #+
-=dev-perl/bareword-filehandles-0.3.0                                             #testing # broken: 614970
-#=dev-perl/bareword-filehandles-0.4.0                                            #testing #+
+=dev-perl/bareword-filehandles-0.4.0                                             #testing #+
