@@ -153,8 +153,8 @@
 =dev-perl/Crypt-DSA-1.170.0                                                      #        # broken: 613630
 =dev-perl/Crypt-Eksblowfish-0.9.0-r2                                             #
 =dev-perl/Crypt-IDEA-1.100.0                                                     #        #+
-=dev-perl/Crypt-OpenPGP-1.70.0                                                   #
-#=dev-perl/Crypt-OpenPGP-1.120.0                                                 #testing
+=dev-perl/Crypt-OpenPGP-1.70.0                                                   #        # broken: 615794
+#=dev-perl/Crypt-OpenPGP-1.120.0                                                 #testing # needs stable
 =dev-perl/Crypt-OpenSSL-Bignum-0.40.0-r2                                         #        #+
 #=dev-perl/Crypt-OpenSSL-Bignum-0.70.0                                           #testing #+
 #=dev-perl/Crypt-OpenSSL-Bignum-0.80.0                                           #testing #+
