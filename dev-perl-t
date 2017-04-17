@@ -7,7 +7,9 @@
 =dev-perl/Template-DBI-2.650.0-r1                                                #
 =dev-perl/Template-GD-2.660.0-r1                                                 #
 =dev-perl/Template-Plugin-Latex-3.60.0                                           #
+#=dev-perl/Template-Plugin-Latex-3.110.0                                         #testing
 =dev-perl/Template-Toolkit-2.260.0                                               #
+#=dev-perl/Template-Toolkit-2.270.0                                              #testing
 =dev-perl/Template-XML-2.170.0-r1                                                #
 =dev-perl/Term-ANSIScreen-1.500.0-r1                                             #
 =dev-perl/Term-ProgressBar-2.170.0                                               #

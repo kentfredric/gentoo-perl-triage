@@ -47,6 +47,7 @@
 =dev-perl/Statistics-Descriptive-Discrete-0.70.0-r1                              #
 =dev-perl/Stream-Buffered-0.30.0                                                 #
 =dev-perl/String-Approx-3.270.0                                                  #
+#=dev-perl/String-Approx-3.280.0                                                 #testing
 =dev-perl/String-CRC32-1.500.0                                                   #
 =dev-perl/String-Ediff-0.90.0-r1                                                 #
 =dev-perl/String-Format-1.170.0-r1                                               #

@@ -234,12 +234,8 @@
 =dev-perl/Config-MVP-Reader-INI-2.101.463                                        #testing #+
 =dev-perl/Config-Properties-1.800.0                                              #testing #+
 =dev-perl/Context-Preserve-0.10.0-r1                                             #testing # broken: 615516
-=dev-perl/Contextual-Return-0.4.7-r1                                             #testing #+
-#=dev-perl/Contextual-Return-0.4.8                                               #testing #+
-#=dev-perl/Contextual-Return-0.4.9                                               #testing #+
-#=dev-perl/Contextual-Return-0.4.10                                              #testing #+
-#=dev-perl/Contextual-Return-0.4.11                                              #testing #+
-#=dev-perl/Contextual-Return-0.4.12                                              #testing #+, but random test segv: https://rt.cpan.org/Ticket/Display.html?id=121118
+=dev-perl/Contextual-Return-0.4.10                                               #testing #+
+#=dev-perl/Contextual-Return-0.4.14                                              #testing
 =dev-perl/Cookie-Baker-XS-0.70.0                                                 #testing #+
 =dev-perl/Coro-6.511.0                                                           #testing # broken: 615520
 =dev-perl/Cpanel-JSON-XS-3.23.0                                                  #testing #+
