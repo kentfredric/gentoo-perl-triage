@@ -122,7 +122,6 @@
 =dev-perl/Mail-Builder-Simple-0.160.0-r1                                         #testing
 =dev-perl/Mail-DMARC-1.201.509.80                                                #testing
 =dev-perl/Mail-Message-3.0.0                                                     #testing
-=dev-perl/Mail-SpamAssassin-Plugin-GoogleSafeBrowsing-1.30.0-r1                  #testing
 =dev-perl/Mail-Transport-3.0.0                                                   #testing
 =dev-perl/Math-Base-Convert-0.110.0                                              #testing
 =dev-perl/Math-Base36-0.140.0                                                    #testing

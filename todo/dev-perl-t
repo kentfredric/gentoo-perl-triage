@@ -155,6 +155,7 @@
 #=dev-perl/Tree-Simple-1.270.0                                                   #
 #=dev-perl/Tree-Simple-1.290.0                                                   #testing
 #=dev-perl/Tree-Simple-1.300.0                                                   #testing
+#=dev-perl/Tree-Simple-1.310.0                                                   #testing
 =dev-perl/Try-Tiny-0.220.0                                                       #
 #=dev-perl/Try-Tiny-0.240.0                                                      #
 =dev-perl/Type-Tiny-1.0.5                                                        #
@@ -175,6 +176,7 @@
 =dev-perl/Test-Dependencies-0.120.0                                              #testing
 #=dev-perl/Test-Dependencies-0.210.0                                             #testing
 =dev-perl/Test-File-1.442.0                                                      #testing
+#=dev-perl/Test-File-1.443.0                                                     #testing
 =dev-perl/Test-File-ShareDir-1.1.2                                               #testing
 =dev-perl/Test-Files-0.140.0                                                     #testing
 =dev-perl/Test-MinimumVersion-0.101.82                                           #testing
