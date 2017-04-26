@@ -1,7 +1,2 @@
 ## stable:
-#=dev-perl/Data-Validate-Domain-0.140.0                                          #testing
-#=dev-perl/DateTime-1.420.0                                                      #testing
-#=dev-perl/DateTime-Format-Strptime-1.730.0                                      #testing
-#=dev-perl/DateTime-Locale-1.160.0                                               #testing
-#=dev-perl/DateTime-TimeZone-2.110.0                                             #testing
 ## testing:

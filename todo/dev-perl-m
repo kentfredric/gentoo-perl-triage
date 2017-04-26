@@ -162,11 +162,7 @@
 #=dev-perl/Mojolicious-7.210.0                                                   #testing
 #=dev-perl/Mojolicious-7.290.0                                                   #testing
 #=dev-perl/Mojolicious-7.300.0                                                   #testing
-=dev-perl/MongoDB-0.708.3.0                                                      #testing
-#=dev-perl/MongoDB-1.2.2                                                         #testing
-#=dev-perl/MongoDB-1.6.0                                                         #testing
-#=dev-perl/MongoDB-1.6.1                                                         #testing
-#=dev-perl/MongoDB-1.8.0                                                         #testing
+=dev-perl/MongoDB-1.8.0                                                          #testing
 =dev-perl/MooX-Types-MooseLike-Numeric-1.20.0                                    #testing
 =dev-perl/MooseX-Aliases-0.110.0-r1                                              #testing
 =dev-perl/MooseX-ClassAttribute-0.270.0                                          #testing

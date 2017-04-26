@@ -40,7 +40,7 @@
 =dev-perl/Error-0.170.240                                                        #        #+
 =dev-perl/Eval-Closure-0.80.0-r1                                                 #        # broken: 554926
 #=dev-perl/Eval-Closure-0.130.0                                                  #        #+
-#=dev-perl/Eval-Closure-0.140.0                                                  #testing #+
+#=dev-perl/Eval-Closure-0.140.0                                                  #        #+
 =dev-perl/Eval-LineNumbers-0.340.0                                               #        #+
 =dev-perl/Event-1.240.0                                                          #        #+
 #=dev-perl/Event-1.260.0                                                         #testing #+
@@ -59,16 +59,17 @@
 #=dev-perl/Exporter-Tiny-0.44.0                                                  #testing #+
 =dev-perl/ExtUtils-AutoInstall-0.630.0-r1                                        #        # broken: 615830
 =dev-perl/ExtUtils-Config-0.7.0                                                  #        #+
-#=dev-perl/ExtUtils-Config-0.8.0                                                 #testing #+
+#=dev-perl/ExtUtils-Config-0.8.0                                                 #        #+
 =dev-perl/ExtUtils-Depends-0.404.0                                               #        #+
 #=dev-perl/ExtUtils-Depends-0.405.0                                              #testing #+
 =dev-perl/ExtUtils-F77-1.180.0                                                   #        #+
 #=dev-perl/ExtUtils-F77-1.190.0                                                  #testing #+
 #=dev-perl/ExtUtils-F77-1.200.0                                                  #testing #+
 =dev-perl/ExtUtils-Helpers-0.22.0                                                #        #+
-#=dev-perl/ExtUtils-Helpers-0.26.0                                               #testing #+
+#=dev-perl/ExtUtils-Helpers-0.26.0                                               #        #+
 =dev-perl/ExtUtils-InstallPaths-0.10.0                                           #        #+
-#=dev-perl/ExtUtils-InstallPaths-0.11.0                                          #testing #+
+#=dev-perl/ExtUtils-InstallPaths-0.11.0                                          #        #+
+=dev-perl/ExtUtils-LibBuilder-0.80.0                                             #        #+
 =dev-perl/ExtUtils-PkgConfig-1.150.0                                             #        # broken: 615098
 =dev-perl/ExtUtils-XSBuilder-0.280.0-r1                                          #        #+
 =dev-perl/ExtUtils-XSpp-0.170.0                                                  #        # broken: 615240
@@ -95,7 +96,6 @@
 #=dev-perl/ExtUtils-CChecker-0.100.0                                             #testing #+
 =dev-perl/ExtUtils-Constant-0.230.0                                              #testing # KILL ME
 =dev-perl/ExtUtils-CppGuess-0.110.0                                              #testing # broken: 615842
-=dev-perl/ExtUtils-LibBuilder-0.80.0                                             #testing #+
 =dev-perl/ExtUtils-Typemaps-Default-1.50.0                                       #testing #+
 =dev-perl/encoding-warnings-0.110.0-r1                                           #testing # broken: 615844 && blead
 =dev-perl/enum-1.16.0-r1                                                         #testing #+

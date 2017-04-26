@@ -65,8 +65,7 @@
 #=dev-perl/Class-Accessor-Lite-0.50.0-r1                                         #testing # broken: 613708
 =dev-perl/Class-Accessor-Lite-0.80.0                                             #        # broken: 613708
 =dev-perl/Class-Autouse-2.10.0-r1                                                #        # broken: 615124
-=dev-perl/Class-C3-0.300.0                                                       #        # broken: 615100
-#=dev-perl/Class-C3-0.310.0                                                      #        # needs stable
+=dev-perl/Class-C3-0.310.0                                                       #        # needs stable
 =dev-perl/Class-C3-XS-0.130.0-r1                                                 #        # broken: 615128
 #=dev-perl/Class-C3-XS-0.140.0                                                   #testing # needs stable
 =dev-perl/Class-Container-0.120.0-r1                                             #        #+
@@ -110,14 +109,17 @@
 #=dev-perl/Compress-Bzip2-2.260.0                                                #testing # needs stable
 =dev-perl/Config-Any-0.260.0                                                     #        # broken: 613358
 #=dev-perl/Config-Any-0.270.0                                                    #testing # broken: 613358
-#=dev-perl/Config-Any-0.290.0                                                    #testing # needs stable
+#=dev-perl/Config-Any-0.290.0                                                    #        # needs stable
 #=dev-perl/Config-Any-0.300.0                                                    #testing #+
 =dev-perl/Config-ApacheFormat-1.200.0-r1                                         #        #+
+#=dev-perl/Config-AutoConf-0.311.0                                               #testing #+
+=dev-perl/Config-AutoConf-0.313.0                                                #        #+
+#=dev-perl/Config-AutoConf-0.314.0                                               #testing #+
 =dev-perl/Config-Crontab-1.400.0                                                 #        # broken: 615114
 #=dev-perl/Config-Crontab-1.410.0                                                #testing # broken: 615114
 =dev-perl/Config-General-2.600.0                                                 #        #+
 #=dev-perl/Config-General-2.620.0                                                #testing #+
-#=dev-perl/Config-General-2.630.0                                                #testing #+
+#=dev-perl/Config-General-2.630.0                                                #        #+
 =dev-perl/Config-Grammar-1.100.0-r1                                              #        #+
 #=dev-perl/Config-Grammar-1.110.0                                                #testing #+
 =dev-perl/Config-IniFiles-2.880.0                                                #        #+
@@ -154,7 +156,7 @@
 =dev-perl/Crypt-Eksblowfish-0.9.0-r2                                             #
 =dev-perl/Crypt-IDEA-1.100.0                                                     #        #+
 =dev-perl/Crypt-OpenPGP-1.70.0                                                   #        # broken: 615794
-#=dev-perl/Crypt-OpenPGP-1.120.0                                                 #testing # needs stable
+#=dev-perl/Crypt-OpenPGP-1.120.0                                                 #        # needs stable
 =dev-perl/Crypt-OpenSSL-Bignum-0.40.0-r2                                         #        #+
 #=dev-perl/Crypt-OpenSSL-Bignum-0.70.0                                           #testing #+
 #=dev-perl/Crypt-OpenSSL-Bignum-0.80.0                                           #testing #+
@@ -198,6 +200,7 @@
 =dev-perl/CQL-Parser-1.130.0                                                     #testing # broken: 615502
 =dev-perl/CSS-Minifier-0.10.0-r1                                                 #testing #+
 =dev-perl/CSS-Packer-2.0.0                                                       #testing # broken: 615504
+#=dev-perl/CSS-Packer-2.30.0                                                     #testing #+
 =dev-perl/CSS-Tiny-1.200.0                                                       #testing #+
 =dev-perl/Cache-FastMmap-1.400.0                                                 #testing #+
 #=dev-perl/Cache-FastMmap-1.440.0                                                #testing #+
@@ -213,8 +216,7 @@
 =dev-perl/Class-DBI-Plugin-0.30.0                                                #testing #+
 =dev-perl/Class-DBI-Plugin-DeepAbstractSearch-0.80.0                             #testing #+
 =dev-perl/Class-Data-Accessor-0.40.40-r1                                         #testing # broken: 615512
-=dev-perl/Class-InsideOut-1.130.0-r1                                             #testing # broken: 615226
-#=dev-perl/Class-InsideOut-1.140.0                                               #testing #+
+=dev-perl/Class-InsideOut-1.140.0                                                #testing #+
 =dev-perl/Class-Member-1.600.0-r1                                                #testing #+
 =dev-perl/Class-Spiffy-0.150.0-r1                                                #testing # broken: 615514
 =dev-perl/Class-Std-0.11.0-r1                                                    #testing #+
@@ -225,9 +227,6 @@
 =dev-perl/Class-Unload-0.70.0-r1                                                 #testing #+
 #=dev-perl/Class-Unload-0.90.0                                                   #testing #+
 =dev-perl/Config-Auto-0.440.0                                                    #testing #+
-=dev-perl/Config-AutoConf-0.311.0                                                #testing #+
-#=dev-perl/Config-AutoConf-0.313.0                                               #testing #+
-#=dev-perl/Config-AutoConf-0.314.0                                               #testing #+
 =dev-perl/Config-INI-0.25.0                                                      #testing #+
 =dev-perl/Config-JSON-1.520.200                                                  #testing #+
 =dev-perl/Config-MVP-2.200.10                                                    #testing #+

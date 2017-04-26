@@ -25,7 +25,7 @@
 #=dev-perl/Apache-AuthCookie-3.260.0                                             #testing #+
 =dev-perl/Apache-DBI-1.120.0-r1                                                  #        #+
 =dev-perl/Apache-LogFormat-Compiler-0.330.0                                      #        # broken: 613594
-#=dev-perl/Apache-LogFormat-Compiler-0.350.0                                     #testing # needs stable
+#=dev-perl/Apache-LogFormat-Compiler-0.350.0                                     #        # needs stable
 =dev-perl/Apache-Reload-0.130.0                                                  #        #+
 =dev-perl/Apache-Session-1.930.0                                                 #        #+
 =dev-perl/Apache-SessionX-2.10.0-r1                                              #        #+

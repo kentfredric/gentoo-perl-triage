@@ -88,6 +88,7 @@
 =dev-perl/Test-YAML-1.60.0                                                       #
 =dev-perl/Text-Aspell-0.90.0-r1                                                  #
 =dev-perl/Text-Autoformat-1.740.0                                                #
+=dev-perl/Text-BibTeX-0.800.0                                                    #
 =dev-perl/Text-CSV-1.330.0                                                       #
 #=dev-perl/Text-CSV-1.910.0                                                      #testing
 #=dev-perl/Text-CSV-1.920.0                                                      #testing
@@ -197,7 +198,6 @@
 =dev-perl/Test2-Plugin-NoWarnings-0.50.0                                         #testing
 =dev-perl/Test2-Suite-0.0.60                                                     #testing
 =dev-perl/Text-Aligner-0.130.0                                                   #testing
-=dev-perl/Text-BibTeX-0.800.0                                                    #testing
 =dev-perl/Text-FindIndent-0.110.0                                                #testing
 =dev-perl/Text-Netstring-0.70.0-r1                                               #testing
 =dev-perl/Text-Roman-3.500.0                                                     #testing
@@ -216,11 +216,7 @@
 =dev-perl/Tie-ToObject-0.30.0-r1                                                 #testing
 =dev-perl/Time-Duration-Parse-0.130.0                                            #testing
 =dev-perl/Time-Format-1.120.0                                                    #testing
-=dev-perl/Time-Moment-0.380.0                                                    #testing
-#=dev-perl/Time-Moment-0.390.0                                                   #testing
-#=dev-perl/Time-Moment-0.400.0                                                   #testing
-#=dev-perl/Time-Moment-0.410.0                                                   #testing
-#=dev-perl/Time-Moment-0.420.0                                                   #testing
+=dev-perl/Time-Moment-0.420.0                                                    #testing
 =dev-perl/Time-Out-0.110.0                                                       #testing
 =dev-perl/Time-Piece-MySQL-0.60.0-r1                                             #testing
 =dev-perl/Time-Stopwatch-1.0.0                                                   #testing
