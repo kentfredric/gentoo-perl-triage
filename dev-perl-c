@@ -117,6 +117,7 @@
 #=dev-perl/Config-AutoConf-0.314.0                                               #testing #+
 =dev-perl/Config-Crontab-1.400.0                                                 #        # broken: 615114
 #=dev-perl/Config-Crontab-1.410.0                                                #testing # broken: 615114
+#=dev-perl/Config-Crontab-1.450.0                                                #testing #+
 =dev-perl/Config-General-2.600.0                                                 #        #+
 #=dev-perl/Config-General-2.620.0                                                #testing #+
 #=dev-perl/Config-General-2.630.0                                                #        #+
