@@ -3,7 +3,7 @@
 =dev-perl/LWP-MediaTypes-6.20.0-r1                                               #        #+
 =dev-perl/LWP-Protocol-http10-6.30.0                                             #        #+
 =dev-perl/LWP-Protocol-https-6.60.0                                              #        #+
-#=dev-perl/LWP-Protocol-https-6.70.0                                             #testing
+#=dev-perl/LWP-Protocol-https-6.70.0                                             #testing #+
 =dev-perl/LWPx-ParanoidAgent-1.100.0                                             #        #+
 =dev-perl/LaTeX-Driver-0.200.4                                                   #
 =dev-perl/LaTeX-Encode-0.91.6                                                    #        # REPORT
