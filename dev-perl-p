@@ -51,7 +51,7 @@
 #=dev-perl/Pegex-0.630.0                                                         #testing
 =dev-perl/Perl-Critic-1.123                                                      #        # broken: 615706
 #=dev-perl/Perl-Critic-1.126.0                                                   #testing # broken: 615706
-=dev-perl/Perl-Critic-Dynamic-0.50.0-r1                                          #
+=dev-perl/Perl-Critic-Dynamic-0.50.0-r1                                          #        #+
 =dev-perl/Perl-Tags-0.320.0                                                      #
 =dev-perl/Perl-Tidy-20160302.0.0                                                 #        #+
 =dev-perl/Perl6-Junction-1.600.0                                                 #        #+
@@ -59,7 +59,7 @@
 =dev-perl/PerlIO-eol-0.140.0-r1                                                  #        # REPORT
 =dev-perl/PerlIO-gzip-0.190.0                                                    #        #+
 =dev-perl/PerlIO-via-dynamic-0.140.0-r1                                          #        # REPORT
-=dev-perl/PerlIO-via-symlink-0.50.0-r1                                           #
+=dev-perl/PerlIO-via-symlink-0.50.0-r1                                           #        #+
 =dev-perl/PlRPC-0.202.0-r2                                                       #        #+
 =dev-perl/Plack-1.3.900                                                          #        # broken: 613368
 #=dev-perl/Plack-1.4.300                                                         #testing # needs stable

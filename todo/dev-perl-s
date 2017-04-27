@@ -4,8 +4,6 @@
 #=dev-perl/SQL-Abstract-1.840.0                                                  #testing
 #=dev-perl/SQL-Statement-1.412.0                                                 #testing
 =dev-perl/SVN-Simple-0.280.0-r1                                                  #
-=dev-perl/Sane-0.50.0-r1                                                         #
-=dev-perl/Schedule-At-1.150.0-r1                                                 #
 #=dev-perl/Search-Xapian-1.2.23.0-r1                                             #testing
 #=dev-perl/Server-Starter-0.320.0                                                #testing
 #=dev-perl/Starlet-0.290.0                                                       #testing

@@ -14,9 +14,9 @@
 =dev-perl/SVG-Graph-0.20.0-r1                                                    #        #+
 =dev-perl/SVN-Simple-0.280.0-r1                                                  #
 =dev-perl/Safe-Hole-0.130.0-r1                                                   #        #+
-=dev-perl/Sane-0.50.0-r1                                                         #
+=dev-perl/Sane-0.50.0-r1                                                         #        #+
 =dev-perl/Scalar-Properties-1.100.860-r1                                         #        #+
-=dev-perl/Schedule-At-1.150.0-r1                                                 #
+=dev-perl/Schedule-At-1.150.0-r1                                                 #        #+
 =dev-perl/Scope-Guard-0.210.0                                                    #        #+
 =dev-perl/Scope-Upper-0.290.0-r1                                                 #        #+
 =dev-perl/Search-Xapian-1.2.23.0                                                 #        #+

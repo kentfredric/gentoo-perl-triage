@@ -1,6 +1,4 @@
 ## stable:
-=dev-perl/Validate-Net-0.600.0-r1                                                #
-=dev-perl/Variable-Magic-0.590.0                                                 #
 #=dev-perl/Variable-Magic-0.600.0                                                #testing
 ## testing:
 =dev-perl/VM-EC2-1.280.0                                                         #testing

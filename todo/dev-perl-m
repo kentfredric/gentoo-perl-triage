@@ -20,9 +20,7 @@
 #=dev-perl/Module-Build-0.422.200                                                #testing
 #=dev-perl/Module-Info-0.370.0-r1                                                #testing
 #=dev-perl/Module-Install-1.180.0                                                #testing
-=dev-perl/Module-Install-AuthorTests-0.2.0                                       #
 #=dev-perl/Module-Starter-1.720.0                                                #testing
-=dev-perl/Monitoring-Plugin-0.390.0                                              #
 #=dev-perl/Moose-2.160.500                                                       #testing
 #=dev-perl/Moose-2.180.600                                                       #testing
 #=dev-perl/Moose-2.180.700                                                       #testing
