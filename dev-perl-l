@@ -34,7 +34,7 @@
 =dev-perl/Locale-Maketext-Lexicon-1.0.0                                          #        #+
 =dev-perl/Locale-PO-0.270.0                                                      #        #+
 =dev-perl/Locale-gettext-1.50.0-r1                                               #        #+
-#=dev-perl/Locale-gettext-1.70.0                                                 #testing REPORT
+#=dev-perl/Locale-gettext-1.70.0                                                 #testing
 =dev-perl/LockFile-Simple-0.208.0-r1                                             #        #+
 =dev-perl/Log-Agent-1.1.0                                                        #        # REPORT
 =dev-perl/Log-Any-1.38.0                                                         #        #+
