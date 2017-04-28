@@ -63,9 +63,7 @@
 =dev-perl/Hook-LexWrap-0.250.0                                                   #        #+
 ## testing:
 =dev-perl/HTML-Highlight-0.200.0                                                 #testing #+
-=dev-perl/HTML-Packer-2.0.0                                                      #testing # REPORT
-#=dev-perl/HTML-Packer-2.20.0                                                    #testing # REPORT
-#=dev-perl/HTML-Packer-2.50.0                                                    #testing #+
+=dev-perl/HTML-Packer-2.50.0                                                     #testing #+
 =dev-perl/HTML-StripScripts-1.60.0                                               #testing #+
 =dev-perl/HTML-StripScripts-Parser-1.30.0                                        #testing #+
 =dev-perl/HTML-TableContentParser-0.130.0                                        #testing #+

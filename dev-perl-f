@@ -74,8 +74,6 @@
 #=dev-perl/File-BOM-0.150.0                                                      #testing #+
 =dev-perl/File-Copy-Link-0.113.0-r1                                              #testing #+
 #=dev-perl/File-Copy-Link-0.140.0                                                #testing #+
-=dev-perl/File-DirWalk-0.400.0-r1                                                #
-#=dev-perl/File-DirWalk-0.500.0                                                  #testing
 =dev-perl/File-Grep-0.020.0-r1                                                   #testing #+
 =dev-perl/File-KeePass-2.30.0                                                    #testing #+
 =dev-perl/File-LibMagic-1.150.0                                                  #testing #+

@@ -17,6 +17,5 @@
 #=dev-perl/JSON-Parse-0.490.0                                                    #testing #+
 =dev-perl/JSON-XS-VersionOneAndTwo-0.310.0-r1                                    #testing #+
 =dev-perl/JavaScript-Minifier-1.140.0                                            #testing #+
-=dev-perl/JavaScript-Packer-2.0.0                                                #testing # REPORT
-#=dev-perl/JavaScript-Packer-2.30.0                                              #testing #+
+=dev-perl/JavaScript-Packer-2.30.0                                               #testing #+
 =dev-perl/JavaScript-SpiderMonkey-0.210.0-r1                                     #testing # REPORT

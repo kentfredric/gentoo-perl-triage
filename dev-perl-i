@@ -46,8 +46,7 @@
 ## testing:
 =dev-perl/IMAP-BodyStructure-1.30.0                                              #testing #+
 =dev-perl/IO-Capture-0.50.0-r1                                                   #testing #+
-=dev-perl/IO-Prompt-0.997.3                                                      #testing # REPORT
-#=dev-perl/IO-Prompt-0.997.4                                                     #testing #+
+=dev-perl/IO-Prompt-0.997.4                                                      #testing #+
 =dev-perl/IO-Socket-Multicast-1.120.0                                            #testing #+
 =dev-perl/IO-Socket-PortState-0.30.0                                             #testing #+
 =dev-perl/IO-Socket-Timeout-0.320.0                                              #testing #+

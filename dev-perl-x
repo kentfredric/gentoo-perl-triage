@@ -48,8 +48,7 @@
 #=dev-perl/XML-Simple-2.220.0                                                    #testing #+
 =dev-perl/XML-SimpleObject-0.530.0-r1                                            #        #+
 =dev-perl/XML-Stream-1.240.0                                                     #        #+
-=dev-perl/XML-Twig-3.490.0                                                       #        # REPORT
-#=dev-perl/XML-Twig-3.520.0                                                      #        #+
+=dev-perl/XML-Twig-3.520.0                                                       #        #+
 =dev-perl/XML-Writer-0.625.0                                                     #        #+
 =dev-perl/XML-XPath-1.130.0-r1                                                   #        #+
 #=dev-perl/XML-XPath-1.360.0                                                     #testing #+

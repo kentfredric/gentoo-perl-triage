@@ -200,8 +200,7 @@
 =dev-perl/CPAN-Uploader-0.103.13                                                 #testing #+
 =dev-perl/CQL-Parser-1.130.0                                                     #testing # broken: 615502
 =dev-perl/CSS-Minifier-0.10.0-r1                                                 #testing #+
-=dev-perl/CSS-Packer-2.0.0                                                       #testing # broken: 615504
-#=dev-perl/CSS-Packer-2.30.0                                                     #testing #+
+=dev-perl/CSS-Packer-2.30.0                                                      #testing #+
 =dev-perl/CSS-Tiny-1.200.0                                                       #testing #+
 =dev-perl/Cache-FastMmap-1.400.0                                                 #testing #+
 #=dev-perl/Cache-FastMmap-1.440.0                                                #testing #+
