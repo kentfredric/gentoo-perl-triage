@@ -2,7 +2,7 @@
 =dev-perl/RPC-XML-0.790.0                                                        #        #+
 =dev-perl/RadiusPerl-0.220.0-r1                                                  #        #+
 =dev-perl/Readonly-2.0.0                                                         #        #+
-#=dev-perl/Readonly-2.10.0                                                       #testing
+#=dev-perl/Readonly-2.10.0                                                       #testing #+
 =dev-perl/Regexp-Common-2013031301.0.0                                           #        # broken: 614210
 #=dev-perl/Regexp-Common-2016020301.0.0                                          #testing # broken: 614210
 #=dev-perl/Regexp-Common-2016060801.0.0                                          #testing # broken: 614210
@@ -17,10 +17,10 @@
 =dev-perl/Roman-1.240.0                                                          #        #+
 =dev-perl/rename-1.900.0                                                         #        #+
 ## testing:
-=dev-perl/REST-Client-249                                                        #testing
-#=dev-perl/REST-Client-273                                                       #testing
-=dev-perl/RRD-Simple-1.440.0-r1                                                  #testing
-=dev-perl/RTF-Writer-1.110.0-r2                                                  #testing
+=dev-perl/REST-Client-249                                                        #testing # REPORT
+#=dev-perl/REST-Client-273                                                       #testing # REPORT
+=dev-perl/RRD-Simple-1.440.0-r1                                                  #testing #+
+=dev-perl/RTF-Writer-1.110.0-r2                                                  #testing #+
 =dev-perl/Rcs-1.50.0-r1                                                          #testing
 =dev-perl/Readonly-XS-1.50.0-r1                                                  #testing
 =dev-perl/Redis-1.976.0                                                          #testing

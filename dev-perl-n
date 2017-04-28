@@ -96,10 +96,10 @@
 =dev-perl/Net-Server-Coro-1.300.0-r1                                             #testing # REPORT
 =dev-perl/Net-Subnet-1.30.0                                                      #testing #+
 =dev-perl/Net-Trackback-1.10.0                                                   #testing #+
-=dev-perl/Net-Twitter-4.10.100                                                   #testing
-#=dev-perl/Net-Twitter-4.10.410                                                  #testing
+=dev-perl/Net-Twitter-4.10.100                                                   #testing #+
+#=dev-perl/Net-Twitter-4.10.410                                                  #testing #+
 #=dev-perl/Net-Twitter-4.10.420                                                  #testing
-=dev-perl/Net-Whois-IP-1.190.0                                                   #testing
-=dev-perl/Net-Z3950-ZOOM-1.280.0-r1                                              #testing
-=dev-perl/NetxAP-0.20.0-r1                                                       #testing
-=dev-perl/Number-Fraction-2.0.0                                                  #testing
+=dev-perl/Net-Whois-IP-1.190.0                                                   #testing #+
+=dev-perl/Net-Z3950-ZOOM-1.280.0-r1                                              #testing #+
+=dev-perl/NetxAP-0.20.0-r1                                                       #testing #+
+=dev-perl/Number-Fraction-2.0.0                                                  #testing #+
