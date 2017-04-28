@@ -3,7 +3,7 @@
 =dev-perl/FCGI-ProcManager-0.250.0                                               #        #+
 #=dev-perl/FCGI-ProcManager-0.280.0                                              #testing #+
 =dev-perl/FLV-AudioExtractor-0.010.0                                             #        #+
-=dev-perl/Feed-Find-0.70.0-r1                                                    #        # REPORT
+=dev-perl/Feed-Find-0.70.0-r1                                                    #        # broken: 616836
 =dev-perl/Festival-Client-Async-0.30.300-r1                                      #        #+
 =dev-perl/File-BaseDir-0.30.0-r1                                                 #        #+
 #=dev-perl/File-BaseDir-0.70.0                                                   #testing #+
@@ -14,7 +14,7 @@
 #=dev-perl/File-Find-Rule-0.340.0                                                #testing #+
 =dev-perl/File-Find-Rule-Perl-1.130.0                                            #        # broken: 614650
 #=dev-perl/File-Find-Rule-Perl-1.150.0                                           #testing # needs stable
-=dev-perl/File-Flat-1.40.0-r1                                                    #        # REPORT
+=dev-perl/File-Flat-1.40.0-r1                                                    #        # broken: 616840
 =dev-perl/File-Flock-2014.10.0                                                   #        #+
 =dev-perl/File-HomeDir-1.0.0-r1                                                  #        # broken: 613752
 #=dev-perl/File-HomeDir-1.2.0                                                    #testing # needs stable
@@ -53,7 +53,7 @@
 =dev-perl/File-chmod-0.420.0                                                     #        #+
 =dev-perl/File-pushd-1.3.0-r1                                                    #        #+
 #=dev-perl/File-pushd-1.9.0                                                      #testing #+
-=dev-perl/FileHandle-Unget-0.162.800                                             #        # REPORT
+=dev-perl/FileHandle-Unget-0.162.800                                             #        # broken: 616844
 =dev-perl/Filesys-Df-0.920.0-r1                                                  #        #+
 =dev-perl/Filesys-DiskSpace-0.50.0-r1                                            #        #+
 =dev-perl/Filesys-Notify-Simple-0.120.0                                          #        #+
@@ -90,5 +90,5 @@
 =dev-perl/File-Stat-Moose-0.60.0-r1                                              #testing #+
 =dev-perl/Filesys-SmbClient-3.200.0-r1                                           #testing
 #=dev-perl/Filesys-SmbClient-3.200.0-r2                                          #testing
-=dev-perl/Format-Human-Bytes-0.60.0-r1                                           #testing # REPORT
+=dev-perl/Format-Human-Bytes-0.60.0-r1                                           #testing # broken: 616868
 =dev-perl/forks-0.360.0                                                          #testing #+
