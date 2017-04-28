@@ -1,17 +1,7 @@
 ## stable:
-#=dev-perl/WWW-Mechanize-1.790.0                                                 #testing
-#=dev-perl/WWW-Mechanize-1.840.0                                                 #testing
-#=dev-perl/WebService-MusicBrainz-0.940.0                                        #testing
 ## testing:
 =dev-perl/WWW-Dict-Leo-Org-1.400.0                                               #testing
 #=dev-perl/WWW-Dict-Leo-Org-2.0.0                                                #testing
-=dev-perl/WWW-Form-UrlEncoded-0.240.0                                            #testing
-=dev-perl/WWW-Form-UrlEncoded-XS-0.240.0                                         #testing
-=dev-perl/WWW-Pastebin-PastebinCom-Create-1.3.0-r1                               #testing
-=dev-perl/WWW-Shorten-3.93.0                                                     #testing
-=dev-perl/WattsUp-Daemon-0.4-r1                                                  #testing
-=dev-perl/Weather-Com-2.0.0                                                      #testing
-=dev-perl/WordNet-QueryData-1.490.0-r1                                           #testing
 =dev-perl/Wx-GLCanvas-0.90.0                                                     #testing
 =dev-perl/Wx-Perl-ProcessStream-0.320.0-r2                                       #testing
 =dev-perl/Wx-Scintilla-0.390.0-r2                                                #testing

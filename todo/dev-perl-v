@@ -1,7 +1,2 @@
 ## stable:
-#=dev-perl/Variable-Magic-0.600.0                                                #testing
 ## testing:
-=dev-perl/VM-EC2-1.280.0                                                         #testing
-=dev-perl/VM-EC2-Security-CredentialCache-0.250.0                                #testing
-=dev-perl/Validate-Tiny-1.551                                                    #testing
-#=dev-perl/Validate-Tiny-1.600                                                   #testing
