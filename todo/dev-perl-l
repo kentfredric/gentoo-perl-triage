@@ -1,8 +1,5 @@
 ## stable:
-=dev-perl/LaTeX-Driver-0.200.4                                                   #
-#=dev-perl/Locale-gettext-1.70.0                                                 #testing
-#=dev-perl/Log-Dispatch-2.630.0                                                  #testing
 ## testing:
 =dev-perl/Lab-Measurement-3.531.0                                                #testing
 #=dev-perl/Lab-Measurement-9999                                                  #testing
-#=dev-perl/Lab-Zhinst-9999                                                       #testing
+#=dev-perl/Lab-Zhinst-0.50.0                                                     #testing

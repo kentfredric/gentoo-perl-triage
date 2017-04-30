@@ -49,6 +49,7 @@
 =dev-perl/Capture-Tiny-0.360.0                                                   #        #+
 #=dev-perl/Capture-Tiny-0.420.0                                                  #testing #+
 #=dev-perl/Capture-Tiny-0.460.0                                                  #testing #+
+=dev-perl/Carp-Always-0.130.0                                                    #        #+
 =dev-perl/Carp-Assert-0.210.0                                                    #        #+
 =dev-perl/Carp-Assert-More-1.140.0                                               #        #+
 =dev-perl/Carp-Clan-6.40.0-r1                                                    #        # broken: 614206
@@ -206,7 +207,6 @@
 #=dev-perl/Cache-FastMmap-1.440.0                                                #testing #+
 #=dev-perl/Cache-FastMmap-1.450.0                                                #testing #+
 =dev-perl/Cache-Memcached-Fast-0.230.0                                           #testing #+
-=dev-perl/Carp-Always-0.130.0                                                    #testing #+
 =dev-perl/Cisco-IPPhone-0.50.0-r1                                                #testing #+
 =dev-perl/Class-Adapter-1.80.0-r1                                                #testing # broken: 615506
 =dev-perl/Class-Base-0.50.0-r1                                                   #testing #+
