@@ -25,8 +25,7 @@
 #=dev-perl/File-MimeInfo-0.280.0                                                 #testing #+
 =dev-perl/File-NCopy-0.360.0-r1                                                  #        #+
 =dev-perl/File-NFSLock-1.270.0                                                   #        # broken: 615094
-=dev-perl/File-Next-1.120.0-r1                                                   #        # broken: 615690
-#=dev-perl/File-Next-1.160.0                                                     #        # needs stable
+=dev-perl/File-Next-1.160.0                                                      #        # needs stable
 =dev-perl/File-Path-Expand-1.20.0-r1                                             #        #+
 =dev-perl/File-ReadBackwards-1.50.0-r1                                           #        #+
 =dev-perl/File-Remove-1.520.0-r1                                                 #        # broken: 614438

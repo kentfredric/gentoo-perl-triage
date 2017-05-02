@@ -108,9 +108,7 @@
 =dev-perl/Compress-Bzip2-2.220.0                                                 #        # broken: 615026
 #=dev-perl/Compress-Bzip2-2.240.0                                                #testing # broken: 615026
 #=dev-perl/Compress-Bzip2-2.260.0                                                #testing # needs stable
-=dev-perl/Config-Any-0.260.0                                                     #        # broken: 613358
-#=dev-perl/Config-Any-0.270.0                                                    #testing # broken: 613358
-#=dev-perl/Config-Any-0.290.0                                                    #        # needs stable
+=dev-perl/Config-Any-0.290.0                                                     #        # needs stable
 #=dev-perl/Config-Any-0.300.0                                                    #testing #+
 =dev-perl/Config-ApacheFormat-1.200.0-r1                                         #        #+
 #=dev-perl/Config-AutoConf-0.311.0                                               #testing #+
