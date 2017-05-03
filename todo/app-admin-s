@@ -1,8 +1,8 @@
-=app-admin/stow-2.2.2-r1                                                         #
-=app-admin/sudo-1.8.18_p1                                                        #
-=app-admin/sudo-1.8.19_p2                                                        #
-=app-admin/sudo-9999                                                             #
-=app-admin/sudo-1.8.20_rc1                                                       #
-=app-admin/sysklogd-1.5.1-r1                                                     #
-=app-admin/sysklogd-1.5.1                                                        #
-=app-admin/system-tools-backends-2.10.2                                          #
+=app-admin/stow-2.2.2-r1
+=app-admin/sudo-1.8.18_p1
+=app-admin/sudo-1.8.19_p2
+=app-admin/sudo-9999
+=app-admin/sudo-1.8.20_rc1
+=app-admin/sysklogd-1.5.1-r1
+=app-admin/sysklogd-1.5.1
+=app-admin/system-tools-backends-2.10.2

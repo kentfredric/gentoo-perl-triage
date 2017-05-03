@@ -1,7 +1,7 @@
-=mail-filter/sieve-connect-0.87                                                  #
-=mail-filter/spamassassin-botnet-0.8-r1                                          #
-=mail-filter/spamassassin-3.4.1-r8                                               #
-=mail-filter/spamassassin-3.4.1-r11                                              #
-=mail-filter/spampd-2.30                                                         #
-=mail-filter/spampd-2.42                                                         #
-=mail-filter/sqlgrey-1.7.6-r2                                                    #
+=mail-filter/sieve-connect-0.87
+=mail-filter/spamassassin-botnet-0.8-r1
+=mail-filter/spamassassin-3.4.1-r8
+=mail-filter/spamassassin-3.4.1-r11
+=mail-filter/spampd-2.30
+=mail-filter/spampd-2.42
+=mail-filter/sqlgrey-1.7.6-r2

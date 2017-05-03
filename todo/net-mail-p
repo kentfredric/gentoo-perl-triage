@@ -1,6 +1,6 @@
-=net-mail/pflogsumm-1.1.5                                                        #
-=net-mail/pop-before-smtp-1.42                                                   #
-=net-mail/pop2imap-1.18                                                          #
-=net-mail/pop2imap-1.21                                                          #
-=net-mail/popick-0.1                                                             #
-=net-mail/postfix-logwatch-1.40.03                                               #
+=net-mail/pflogsumm-1.1.5
+=net-mail/pop-before-smtp-1.42
+=net-mail/pop2imap-1.18
+=net-mail/pop2imap-1.21
+=net-mail/popick-0.1
+=net-mail/postfix-logwatch-1.40.03

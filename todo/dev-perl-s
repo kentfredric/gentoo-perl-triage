@@ -1,5 +1,3 @@
-## stable:
-#=dev-perl/Starlet-0.290.0                                                       #testing
-=dev-perl/Starlet-0.310.0                                                        #
-#=dev-perl/strictures-2.0.2                                                      #testing
-## testing:
+=dev-perl/Starlet-0.290.0
+=dev-perl/Starlet-0.310.0
+=dev-perl/strictures-2.0.2
