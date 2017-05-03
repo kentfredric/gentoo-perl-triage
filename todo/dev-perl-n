@@ -1,6 +1,5 @@
 ## stable:
-=dev-perl/Net-SSH-Perl-1.360.0-r1                                                #
-#=dev-perl/Net-SSH-Perl-1.420.0                                                  #testing
+#=dev-perl/Net-SSH-Perl-2.90.0_p1-r2                                             #testing
 #=dev-perl/Net-XMPP-1.50.0                                                       #testing
 ## testing:
 =dev-perl/Net-LDAP-Server-0.430.0                                                #testing

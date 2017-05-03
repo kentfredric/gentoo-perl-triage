@@ -52,9 +52,9 @@
 =dev-perl/Net-SNPP-1.170.0-r1                                                    #        #+
 =dev-perl/Net-SSH-Any-0.40.0                                                     #        #+
 =dev-perl/Net-SSH-AuthorizedKeysFile-0.170.0                                     #        #+
-=dev-perl/Net-SSH-Perl-1.360.0-r1                                                #
-#=dev-perl/Net-SSH-Perl-1.420.0                                                  #testing
-#=dev-perl/Net-SSH-Perl-2.90.0_p1-r1                                             #testing # REPORT
+=dev-perl/Net-SSH-Perl-1.360.0-r1                                                #        #+
+#=dev-perl/Net-SSH-Perl-1.420.0                                                  #testing #+
+#=dev-perl/Net-SSH-Perl-2.90.0_p1-r2                                             #testing
 =dev-perl/Net-SSLeay-1.800.0                                                     #        # broken: 313750
 #=dev-perl/Net-SSLeay-1.810.0                                                    #testing # broken: 314462
 =dev-perl/Net-Server-2.8.0                                                       #        # REPORT
