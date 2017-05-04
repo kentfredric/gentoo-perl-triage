@@ -14,7 +14,6 @@ for my $category ( $root->child("profiles/categories")->lines_raw({ chomp => 1 }
     next unless -d $dir;
     next if $category eq 'virtual' and $dir->basename =~ /^perl-/;
     for my $file ( $dir->children(qr/.ebuild$/) ) {
-
       if( has_perl_magic( $file ) ) {
         my $atom = $file->relative($root)->basename('.ebuild');
         my $pkg = $dir->basename;
@@ -32,8 +31,8 @@ sub write_to {
   my ( $category, $pkg, $atom ) = @_;
   my $short = as_short( $category, $pkg );
   if ( not exists $handles{ $short } ) {
-    printf "Creating $short.in\n";
-    $handles{ $short } = path( $short . '.in' )->openw_raw;
+    printf "Creating index.in/$short\n";
+    $handles{ $short } = path( 'index.in' , $short )->openw_raw;
   }
   $handles{$short}->printf("%-80s #\n", $atom);
 }

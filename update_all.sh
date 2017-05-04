@@ -1,7 +1,12 @@
-for i in a b c d e f g h i j k l m n o p q r s t u v w x y z; do
-  perl stable_lists.pl 'dev-perl/'${i}'*' > /tmp/perl-${i}.in
-  perl merge-set.pl dev-perl-${i} /tmp/perl-${i}.in > /tmp/perl-${i}.out
-  mv /tmp/perl-${i}.out dev-perl-${i}
-  chown root:wheel dev-perl-${i}
-  chmod u+rw,g+rw dev-perl-${i}
+for i in index.in/*; do
+  f="$(basename "${i}")"
+  if [[ ! -e "index/${f}" ]]; then
+    touch "index/${f}"
+  fi
+  echo "Merging ${f}"
+  perl merge-set.pl "index/${f}" "index.in/${f}" > "/tmp/${f}.out"
+  mv "/tmp/${f}.out" "index/${f}"
+  chown root:wheel "index/${f}"
+  chmod u+rw,g+rw "index/${f}"
+  rm "index.in/${f}"
 done
