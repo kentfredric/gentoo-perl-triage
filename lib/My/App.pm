@@ -35,7 +35,27 @@ sub run {
     $_[0]->can($fn_name)->( $_[0], @_[ 2 .. $#_ ] );
 }
 
-sub cmd_sync_eix {
+sub input_dir {
+    local $_ = $_[0]->{input_dir};
+    defined or die "input_dir must be defined";
+    length  or die "input_dir must have length";
+    -d      or die "input_dir must be an existing dir";
+    return $_;
+}
+
+sub portage_root {
+    local $_ = $_[0]->{portage_root};
+    defined or die "portage_root must be defined";
+    length  or die "portage_root must have length";
+    -d      or die "portage_root must be an existing dir";
+    return $_;
+}
+
+sub categories_file {
+    catfile( $_[0]->portage_root, qw( profiles categories ) );
+}
+
+sub cmd_sync_eix_in {
     $_[0]->cmd_sync_eix_perl_in;
     $_[0]->cmd_sync_eix_system_in;
 }
@@ -45,14 +65,8 @@ sub cmd_sync_eix_perl_in {
         einfo("eix perl sync skipped");
         return;
     }
-    for ( $_[0]->{input_dir} ) {
-        defined or die "input_dir must be defined";
-        length  or die "input_dir must have length";
-        -d      or die "input_dir must be an existing dir";
-        last;
-    }
     for ( q[a] .. q[z], 0 .. 9 ) {
-        write_todo( catfile( $_[0]->{input_dir}, 'dev-perl-' . $_ ),
+        write_todo( catfile( $_[0]->input_dir, 'dev-perl-' . $_ ),
             'dev-perl/' . $_ . '*' );
     }
 }
@@ -62,16 +76,8 @@ sub cmd_sync_eix_system_in {
         einfo("eix system sync skipped");
         return;
     }
-    for ( $_[0]->{portage_root} ) {
-        defined or die "portage_root must be defined";
-        length  or die "portage_root must have length";
-        -d      or die "portage_root must be an existing dir";
-        last;
-    }
-
     my @categories = do {
-        open my $fh, '<',
-          catfile( $_[0]->{portage_root}, 'profiles', 'categories' )
+        open my $fh, '<', $_[0]->categories_file
           or die "can't read categories file";
         map { chomp; $_ } <$fh>;
     };
@@ -97,16 +103,16 @@ sub cmd_sync_eix_system_in {
         next if $category eq 'dev-perl';
         next if $category eq 'perl-core';
         einfo("Doing category $category");
-        opendir( my $dh, catfile( $_[0]->{portage_root}, $category ) );
+        opendir( my $dh, catfile( $_[0]->portage_root, $category ) );
       PKG: while ( my $dir = readdir $dh ) {
             next if $dir =~ /^..?$/;
             next if $dir =~ /^perl-/;
             next if $dir =~ /\./;
-            next unless -d catfile( $_[0]->{portage_root}, $category, $dir );
+            next unless -d catfile( $_[0]->portage_root, $category, $dir );
             my $edh;
             if (
                 not opendir(
-                    $edh, catfile( $_[0]->{portage_root}, $category, $dir )
+                    $edh, catfile( $_[0]->portage_root, $category, $dir )
                 )
               )
             {
@@ -119,7 +125,7 @@ sub cmd_sync_eix_system_in {
                 if (
                     $has_line->(
                         catfile(
-                            $_[0]->{portage_root},
+                            $_[0]->portage_root,
                             $category, $dir, $filename
                         )
                     )
@@ -147,7 +153,7 @@ sub cmd_sync_eix_system_in {
         else {
             @out = @in;
         }
-        write_todo( catfile( $_[0]->{input_dir}, $bucket ), @out );
+        write_todo( catfile( $_[0]->input_dir, $bucket ), @out );
     }
 
 }

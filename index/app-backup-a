@@ -1,8 +1,10 @@
-=app-backup/amanda-3.3.3-r1                                                      #
+## stable:
 =app-backup/amanda-3.3.3                                                         #
-=app-backup/amanda-3.3.5                                                         #
-=app-backup/amanda-3.3.7                                                         #
-=app-backup/amanda-3.3.9                                                         #
-=app-backup/amanda-3.4.1                                                         #
-=app-backup/amanda-3.4.2                                                         #
-=app-backup/amanda-3.4.3                                                         #
+#=app-backup/amanda-3.3.3-r1                                                     #testing
+#=app-backup/amanda-3.3.5                                                        #testing
+#=app-backup/amanda-3.3.7                                                        #
+#=app-backup/amanda-3.3.9                                                        #
+#=app-backup/amanda-3.4.1                                                        #testing
+#=app-backup/amanda-3.4.2                                                        #testing
+#=app-backup/amanda-3.4.3                                                        #testing
+## testing:

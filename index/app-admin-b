@@ -1,2 +1,4 @@
-=app-admin/bastille-3.0.9-r1                                                     #
-=app-admin/bastille-3.0.9-r2                                                     #
+## stable:
+## testing:
+=app-admin/bastille-3.0.9-r1                                                     #testing
+#=app-admin/bastille-3.0.9-r2                                                    #testing

@@ -1,1 +1,4 @@
-=net-libs/xrootd-4.5.0                                                           #
+## stable:
+=net-libs/xrootd-4.4.0                                                           #
+#=net-libs/xrootd-4.5.0                                                          #testing
+## testing:

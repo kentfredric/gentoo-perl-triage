@@ -1,4 +1,6 @@
+## stable:
 =media-video/mpv-0.18.0-r1                                                       #
-=media-video/mpv-0.22.0-r2                                                       #
-=media-video/mpv-0.24.0                                                          #
-=media-video/mpv-9999                                                            #
+#=media-video/mpv-0.22.0-r2                                                      #testing
+#=media-video/mpv-0.24.0                                                         #testing
+#=media-video/mpv-9999                                                           #testing
+## testing:

@@ -1,2 +1,4 @@
-=app-text/u2ps-0.8.4                                                             #
+## stable:
 =app-text/unac-1.8.0                                                             #
+## testing:
+=app-text/u2ps-0.8.4                                                             #testing

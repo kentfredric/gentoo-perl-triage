@@ -1,2 +1,5 @@
-=net-dns/updatedd-2.6-r4                                                         #
-=net-dns/updatedd-2.6-r5                                                         #
+## stable:
+=net-dns/updatedd-2.6                                                            #
+#=net-dns/updatedd-2.6-r4                                                        #testing
+#=net-dns/updatedd-2.6-r5                                                        #testing
+## testing:

@@ -1,3 +1,5 @@
-=mail-mta/courier-0.75.0-r1                                                      #
+## stable:
 =mail-mta/courier-0.75.0                                                         #
-=mail-mta/courier-0.76.4                                                         #
+#=mail-mta/courier-0.75.0-r1                                                     #testing
+#=mail-mta/courier-0.76.4                                                        #testing
+## testing:

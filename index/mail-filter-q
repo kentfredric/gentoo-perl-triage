@@ -1,4 +1,6 @@
+## stable:
 =mail-filter/qmail-scanner-1.25-r1                                               #
-=mail-filter/qmail-scanner-2.05                                                  #
-=mail-filter/qmail-scanner-2.06                                                  #
-=mail-filter/qmail-scanner-2.08                                                  #
+#=mail-filter/qmail-scanner-2.05                                                 #
+#=mail-filter/qmail-scanner-2.06                                                 #testing
+#=mail-filter/qmail-scanner-2.08                                                 #
+## testing:

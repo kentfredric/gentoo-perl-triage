@@ -1,0 +1,6 @@
+## stable:
+=net-mail/notmuch-0.21                                                           #
+#=net-mail/notmuch-0.23.7                                                        #
+#=net-mail/notmuch-0.24                                                          #testing
+#=net-mail/notmuch-0.24.1                                                        #testing
+## testing:

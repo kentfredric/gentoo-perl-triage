@@ -1,2 +1,4 @@
-=app-editors/padre-1.0.0-r1                                                      #
-=app-editors/padre-1.0.0                                                         #
+## stable:
+## testing:
+=app-editors/padre-1.0.0                                                         #testing
+#=app-editors/padre-1.0.0-r1                                                     #testing

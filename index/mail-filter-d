@@ -1,4 +1,7 @@
+## stable:
 =mail-filter/dcc-1.3.140-r1                                                      #
-=mail-filter/dcc-1.3.154                                                         #
-=mail-filter/dcc-1.3.158                                                         #
-=mail-filter/disspam-0.14                                                        #
+#=mail-filter/dcc-1.3.154                                                        #testing
+#=mail-filter/dcc-1.3.158                                                        #testing
+=mail-filter/dkimproxy-1.4.1                                                     #
+## testing:
+=mail-filter/disspam-0.14                                                        #testing

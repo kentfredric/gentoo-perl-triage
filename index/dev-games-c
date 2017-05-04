@@ -1,2 +1,5 @@
-=dev-games/clanlib-2.3.7                                                         #
-=dev-games/clanlib-4.0.0                                                         #
+## stable:
+=dev-games/clanlib-0.8.1                                                         #
+#=dev-games/clanlib-2.3.7                                                        #
+#=dev-games/clanlib-4.0.0                                                        #testing
+## testing:

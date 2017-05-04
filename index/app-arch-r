@@ -1,5 +1,8 @@
+## stable:
 =app-arch/rpm-4.11.0.1                                                           #
-=app-arch/rpm-4.11.1                                                             #
-=app-arch/rpm-4.11.2-r1                                                          #
-=app-arch/rpm-4.11.2                                                             #
-=app-arch/rpm-4.12.0.1                                                           #
+#=app-arch/rpm-4.11.1                                                            #testing
+#=app-arch/rpm-4.11.2                                                            #testing
+#=app-arch/rpm-4.11.2-r1                                                         #testing
+#=app-arch/rpm-4.12.0.1                                                          #testing
+=app-arch/rpm2targz-9.0.0.5g                                                     #
+## testing:

@@ -1,3 +1,5 @@
+## stable:
 =net-analyzer/wireshark-2.2.5                                                    #
-=net-analyzer/wireshark-99999999                                                 #
-=net-analyzer/wireshark-2.2.6                                                    #
+#=net-analyzer/wireshark-2.2.6                                                   #testing
+#=net-analyzer/wireshark-99999999                                                #testing
+## testing:

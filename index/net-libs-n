@@ -1,2 +1,4 @@
-=net-libs/nfqueue-bindings-0.5                                                   #
-=net-libs/nfqueue-bindings-0.6                                                   #
+## stable:
+## testing:
+=net-libs/nfqueue-bindings-0.5                                                   #testing
+#=net-libs/nfqueue-bindings-0.6                                                  #testing

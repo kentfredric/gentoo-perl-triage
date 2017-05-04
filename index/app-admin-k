@@ -1,2 +1,4 @@
-=app-admin/kpcli-3.0                                                             #
-=app-admin/kpcli-3.1                                                             #
+## stable:
+## testing:
+=app-admin/kpcli-3.0                                                             #testing
+#=app-admin/kpcli-3.1                                                            #testing

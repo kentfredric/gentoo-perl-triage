@@ -1,3 +1,5 @@
+## stable:
 =net-misc/tigervnc-1.7.1-r2                                                      #
-=net-misc/tigervnc-1.7.1-r3                                                      #
+#=net-misc/tigervnc-1.7.1-r3                                                     #testing
 =net-misc/ttytter-2.1.00                                                         #
+## testing:

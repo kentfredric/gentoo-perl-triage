@@ -1,2 +1,5 @@
-=app-misc/vit-1.2-r1                                                             #
-=app-misc/vit-9999                                                               #
+## stable:
+## testing:
+=app-misc/vit-1.2-r1                                                             #testing
+#=app-misc/vit-9999                                                              #testing
+=app-misc/vittk-1.3                                                              #testing

@@ -1,4 +1,6 @@
+## stable:
 =app-backup/reoback-1.0_p3-r1                                                    #
 =app-backup/rsnapshot-1.3.1-r2                                                   #
-=app-backup/rsnapshot-1.4.1                                                      #
-=app-backup/rsnapshot-1.4.2                                                      #
+#=app-backup/rsnapshot-1.4.1                                                     #
+#=app-backup/rsnapshot-1.4.2                                                     #
+## testing:

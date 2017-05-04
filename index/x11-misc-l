@@ -1,2 +1,4 @@
-=x11-misc/light-locker-1.7.0-r1                                                  #
-=x11-misc/light-locker-1.7.0                                                     #
+## stable:
+## testing:
+=x11-misc/light-locker-1.7.0                                                     #testing
+#=x11-misc/light-locker-1.7.0-r1                                                 #testing

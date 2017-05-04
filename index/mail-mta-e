@@ -1,2 +1,4 @@
+## stable:
 =mail-mta/exim-4.88                                                              #
-=mail-mta/exim-4.89                                                              #
+#=mail-mta/exim-4.89                                                             #testing
+## testing:

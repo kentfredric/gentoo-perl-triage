@@ -1,3 +1,5 @@
+## stable:
 =media-tv/xmltv-0.5.57                                                           #
-=media-tv/xmltv-0.5.67                                                           #
-=media-tv/xmltv-0.5.68                                                           #
+#=media-tv/xmltv-0.5.67                                                          #testing
+#=media-tv/xmltv-0.5.68                                                          #testing
+## testing:

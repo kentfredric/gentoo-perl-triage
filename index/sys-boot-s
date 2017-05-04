@@ -1,0 +1,7 @@
+## stable:
+=sys-boot/syslinux-3.86                                                          #
+#=sys-boot/syslinux-4.07                                                         #
+#=sys-boot/syslinux-5.10                                                         #
+#=sys-boot/syslinux-6.03                                                         #testing
+#=sys-boot/syslinux-6.04_pre1                                                    #testing
+## testing:

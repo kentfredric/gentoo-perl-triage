@@ -1,4 +1,6 @@
+## stable:
 =dev-vcs/stgit-0.16-r2                                                           #
-=dev-vcs/stgit-0.17.1-r2                                                         #
+#=dev-vcs/stgit-0.17.1-r2                                                        #testing
 =dev-vcs/subversion-1.8.17                                                       #
-=dev-vcs/subversion-1.9.5                                                        #
+#=dev-vcs/subversion-1.9.5                                                       #
+## testing:

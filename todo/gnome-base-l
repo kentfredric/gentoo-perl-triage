@@ -1,2 +1,7 @@
 =gnome-base/libgnome-2.32.1-r1
+=gnome-base/libgnome-keyring-3.12.0
 =gnome-base/libgnomecanvas-2.30.3-r1
+=gnome-base/libgnomekbd-3.22.0.1
+=gnome-base/libgnomeprint-2.18.8-r1
+=gnome-base/libgnomeprintui-2.18.6-r2
+=gnome-base/libgnomeui-2.24.5-r1

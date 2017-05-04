@@ -1,7 +1,15 @@
 =dev-db/maatkit-7540-r1
-=dev-db/mtop-0.6.6-r3
+=dev-db/mariadb-5.5.54
+=dev-db/mariadb-5.5.55
+=dev-db/mariadb-10.0.29
+=dev-db/mariadb-10.0.30
+=dev-db/mariadb-10.1.22
+=dev-db/mariadb-10.2.1_alpha
 =dev-db/mysqltuner-1.2.0
 =dev-db/mysqltuner-1.6.0
 =dev-db/mysqltuner-1.6.18
 =dev-db/mytop-1.6-r4
 =dev-db/mytop-1.9.1
+=dev-db/mariadb-galera-10.0.28
+=dev-db/mariadb-galera-10.0.30
+=dev-db/mtop-0.6.6-r3

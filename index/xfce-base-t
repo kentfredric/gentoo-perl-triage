@@ -1,3 +1,5 @@
-=xfce-base/thunar-1.6.10-r1                                                      #
+## stable:
 =xfce-base/thunar-1.6.10                                                         #
-=xfce-base/thunar-1.6.11                                                         #
+#=xfce-base/thunar-1.6.10-r1                                                     #
+#=xfce-base/thunar-1.6.11                                                        #testing
+## testing:

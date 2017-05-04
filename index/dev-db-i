@@ -1,2 +1,4 @@
-=dev-db/innotop-1.11.1                                                           #
-=dev-db/innotop-1.11.4                                                           #
+## stable:
+## testing:
+=dev-db/innotop-1.11.1                                                           #testing
+#=dev-db/innotop-1.11.4                                                          #testing

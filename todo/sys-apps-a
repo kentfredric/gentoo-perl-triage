@@ -1,8 +1,8 @@
 =sys-apps/ack-2.14
 =sys-apps/ack-2.18-r1
 =sys-apps/adjtime-0.4-r2
-=sys-apps/apparmor-utils-2.10.1
-=sys-apps/apparmor-utils-2.11.0-r1
-=sys-apps/apparmor-utils-2.11.0
 =sys-apps/apparmor-2.10.1
 =sys-apps/apparmor-2.11.0
+=sys-apps/apparmor-utils-2.10.1
+=sys-apps/apparmor-utils-2.11.0
+=sys-apps/apparmor-utils-2.11.0-r1

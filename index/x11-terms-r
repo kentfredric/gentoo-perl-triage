@@ -1,4 +1,6 @@
+## stable:
 =x11-terms/rxvt-unicode-9.21                                                     #
-=x11-terms/rxvt-unicode-9.22-r1                                                  #
-=x11-terms/rxvt-unicode-9.22                                                     #
-=x11-terms/rxvt-unicode-9999                                                     #
+#=x11-terms/rxvt-unicode-9.22                                                    #testing
+#=x11-terms/rxvt-unicode-9.22-r1                                                 #testing
+#=x11-terms/rxvt-unicode-9999                                                    #testing
+## testing:

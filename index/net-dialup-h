@@ -1,2 +1,4 @@
-=net-dialup/hcfpcimodem-1.20                                                     #
-=net-dialup/hcfpcimodem-1.21                                                     #
+## stable:
+## testing:
+=net-dialup/hcfpcimodem-1.20                                                     #testing
+#=net-dialup/hcfpcimodem-1.21                                                    #testing

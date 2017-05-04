@@ -1,0 +1,6 @@
+## stable:
+=sys-block/parted-2.4                                                            #
+#=sys-block/parted-3.1-r1                                                        #
+#=sys-block/parted-3.2                                                           #
+#=sys-block/parted-3.2-r1                                                        #testing
+## testing:

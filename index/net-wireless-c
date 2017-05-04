@@ -1,1 +1,4 @@
-=net-wireless/crackle-9999                                                       #
+## stable:
+## testing:
+=net-wireless/crackle-0.1                                                        #testing
+#=net-wireless/crackle-9999                                                      #testing

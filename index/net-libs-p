@@ -1,2 +1,4 @@
-=net-libs/polarssl-1.3.9-r1                                                      #
+## stable:
 =net-libs/polarssl-1.3.9                                                         #
+#=net-libs/polarssl-1.3.9-r1                                                     #testing
+## testing:

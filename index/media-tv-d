@@ -1,2 +1,4 @@
-=media-tv/dvbstream-0.7_pre20080516-r1                                           #
-=media-tv/dvbstream-0.7_pre20080516                                              #
+## stable:
+## testing:
+=media-tv/dvbstream-0.7_pre20080516                                              #testing
+#=media-tv/dvbstream-0.7_pre20080516-r1                                          #testing

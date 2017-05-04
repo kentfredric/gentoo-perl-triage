@@ -1,1 +1,4 @@
+## stable:
 =media-sound/xmms2-0.8-r4                                                        #
+## testing:
+=media-sound/xmms2-scrobbler-0.4.0                                               #testing

@@ -1,1 +1,4 @@
-=app-arch/zpaq-7.13-r1                                                           #
+## stable:
+## testing:
+=app-arch/zpaq-7.13-r1                                                           #testing
+=app-arch/zpaq-extras-3                                                          #testing
