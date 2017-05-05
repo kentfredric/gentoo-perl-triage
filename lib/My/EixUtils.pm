@@ -23,6 +23,7 @@ our @EXPORT_OK = qw(
   check_isolated
   get_versions
   write_todo
+  get_package_names
 );
 
 sub get_versions {
@@ -38,10 +39,9 @@ sub get_versions {
 }
 
 sub write_todo {
-    my ( $file, @query ) = @_;
-    my $results = [ get_package_names( @query ) ];
+    my ( $file, $results ) = @_;
     if ( not @{ $results } ) {
-        einfo("No results for <@query>");
+        einfo("$file -> No results passed");
         return;
     }
     my $index = My::IndexFile->new();
@@ -53,12 +53,11 @@ sub write_todo {
       }
     }
     einfo(
-        sprintf "Writing todo stable: %s, testing: %s",
+        sprintf "Writing todo $file -> stable: %s, testing: %s",
         scalar @{ $index->{sections}->{stable} },
         scalar @{ $index->{sections}->{testing} }
     );
     $index->to_file($file);
-    einfo("done");
 }
 
 sub run_eix {
@@ -72,11 +71,6 @@ sub run_eix {
     }
     close $fh;
     return @lines;
-}
-
-sub get_stable_package_names {
-    my (@query) = @_;
-    get_package_names( '--stable-', @query );
 }
 
 sub get_package_names {

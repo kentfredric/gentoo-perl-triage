@@ -11,7 +11,7 @@ our $VERSION = '0.001000';
 # AUTHORITY
 
 use My::Utils qw( einfo ewarn );
-use My::EixUtils qw( check_isolated write_todo );
+use My::EixUtils qw( check_isolated write_todo get_package_names );
 use My::RepoScanner qw();
 use My::IndexFile qw();
 use File::Spec::Functions qw( catfile );
@@ -130,8 +130,10 @@ sub cmd_sync_eix_perl_in {
         return;
     }
     for ( q[a] .. q[z], 0 .. 9 ) {
-        write_todo( catfile( $_[0]->input_dir, 'dev-perl-' . $_ ),
-            'dev-perl/' . $_ . '*' );
+        write_todo(
+            catfile( $_[0]->input_dir, 'dev-perl-' . $_ ),
+            [ get_package_names( 'dev-perl/' . $_ . '*' ) ]
+        );
     }
 }
 
@@ -208,7 +210,8 @@ sub cmd_sync_eix_system_in {
         else {
             @out = ( '-e', @in );
         }
-        write_todo( catfile( $_[0]->input_dir, $bucket ), @out );
+        write_todo( catfile( $_[0]->input_dir, $bucket ),
+            [ get_package_names(@out) ] );
     }
 }
 1;
