@@ -173,21 +173,21 @@ sub cmd_sync_eix_system_in {
 
             if ( $line =~ /inherit.*perl-(module|functions)/ ) {
                 warn "inherit in $cat_pn ( via " . $scanner->file . " )\n";
-                $match_cache->{$token}->{$cat_pn} = 1;
+                $match_cache->{$cat_pn} = 1;
                 last ITEM unless $scanner->next_package;
                 next ITEM;
             }
             if ( $line =~ m/dev-lang\/perl/ ) {
                 warn "dev-lang/perl in $cat_pn ( via "
                   . $scanner->file . " )\n";
-                $match_cache->{$token}->{$cat_pn} = 1;
+                $match_cache->{$cat_pn} = 1;
 
                 last ITEM unless $scanner->next_package;
                 next ITEM;
             }
             if ( $line =~ m/(dev-perl\/|perl-core\/|virtual\/perl-)/ ) {
                 warn "$1 in $cat_pn ( via " . $scanner->file . " )\n";
-                $match_cache->{$token}->{$cat_pn} = 1;
+                $match_cache->{$cat_pn} = 1;
 
                 last ITEM unless $scanner->next_package;
 
@@ -196,10 +196,13 @@ sub cmd_sync_eix_system_in {
         }
         last unless $scanner->next_file;
     }
-    for my $bucket ( sort keys %{$match_cache} ) {
-        my (@out);
-        my (@in) = sort keys %{ $match_cache->{$bucket} };
-        einfo("Doing bucket $bucket: @in");
+    my (@all_matches) = ( sort keys %{$match_cache} );
+    my (@all_results);
+    while (@all_matches) {
+        my ( @in, @out );
+        while ( @in < 30 and @all_matches ) {
+            push @in, shift @all_matches;
+        }
         if ( @in > 1 ) {
             push @out, '-e', shift @in;
             while (@in) {
@@ -211,8 +214,12 @@ sub cmd_sync_eix_system_in {
         else {
             @out = ( '-e', @in );
         }
-        write_todo( catfile( $_[0]->input_dir, $bucket ),
-            [ get_package_names(@out) ] );
+        push @all_results, get_package_names(@out);
+    }
+
+    my $partitions = partition_packages( \@all_results );
+    for my $key ( sort keys %{$partitions} ) {
+        write_todo( catfile( $_[0]->input_dir, $key ), $partitions->{$key} );
     }
 }
 1;
