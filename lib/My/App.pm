@@ -74,6 +74,13 @@ sub categories_file {
     catfile( $_[0]->portage_root, qw( profiles categories ) );
 }
 
+sub cmd_all {
+    $_[0]->cmd_sync_eix_in;
+    $_[0]->cmd_merge_in;
+    $_[0]->cmd_update_todo;
+    $_[0]->cmd_check_index;
+}
+
 sub cmd_sync_eix_in {
     $_[0]->cmd_sync_eix_perl_in;
     $_[0]->cmd_sync_eix_system_in;
