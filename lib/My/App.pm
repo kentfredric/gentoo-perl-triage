@@ -12,6 +12,7 @@ our $VERSION = '0.001000';
 
 use My::Utils qw( einfo ewarn );
 use My::EixUtils qw( check_isolated write_todo );
+use My::RepoScanner qw();
 use File::Spec::Functions qw( catfile );
 
 sub new {
@@ -76,67 +77,39 @@ sub cmd_sync_eix_system_in {
         einfo("eix system sync skipped");
         return;
     }
-    my @categories = do {
-        open my $fh, '<', $_[0]->categories_file
-          or die "can't read categories file";
-        map { chomp; $_ } <$fh>;
-    };
+    my $scanner = My::RepoScanner->new(
+        {
+            root            => $_[0]->portage_root,
+            wanted_category => sub { $_[0] !~ /^(dev-perl|perl-core)$/ },
+            wanted_package => sub { $_[0] ne 'virtual' || $_[1] !~ /^perl-.*/ },
+            wanted_file => sub { $_[2] =~ /\.ebuild$/ },
+        }
+    );
     my $match_cache = {};
-    my $store_match = sub {
-        my ( $cat, $pkg ) = @_;
-        my $token = lc($cat) . '-' . lc( substr $pkg, 0, 1 );
-        $match_cache->{$token} = {} unless exists $match_cache->{$token};
-        $match_cache->{$token}->{ $cat . '/' . $pkg } = 1;
-    };
-    my $has_line = sub {
-        my ($path) = @_;
-        open my $fh, '<', $path or die "Can't open $path";
+    my $seen_cats   = {};
+  ITEM: while ( $scanner->category ) {
+        my $fn = catfile(
+            $_[0]->portage_root, $scanner->category,
+            $scanner->package,   $scanner->file
+        );
+        open my $fh, '<', $fn or die "Can't open $fn";
+        $seen_cats->{ $scanner->category }++ < 1
+          and warn $scanner->category . "\n";
+
         while ( my $line = <$fh> ) {
-            return 1 if $line =~ /inherit.*perl-(module|functions)/;
-            return 1 if $line =~ m/dev-lang\/perl/;
-            return 1 if $line =~ m/(dev-perl|perl-core)\//;
-            return 1 if $line =~ m/virtual\/perl-*/;
-        }
-        return 0;
-    };
-  CATEGORY: for my $category (@categories) {
-        next if $category eq 'dev-perl';
-        next if $category eq 'perl-core';
-        einfo("Doing category $category");
-        opendir( my $dh, catfile( $_[0]->portage_root, $category ) );
-      PKG: while ( my $dir = readdir $dh ) {
-            next if $dir =~ /^..?$/;
-            next if $dir =~ /^perl-/;
-            next if $dir =~ /\./;
-            next unless -d catfile( $_[0]->portage_root, $category, $dir );
-            my $edh;
-            if (
-                not opendir(
-                    $edh, catfile( $_[0]->portage_root, $category, $dir )
-                )
-              )
+            if (   $line =~ /inherit.*perl-(module|functions)/
+                or $line =~ m/dev-lang\/perl/
+                or $line =~ m/(dev-perl|perl-core)\//
+                or $line =~ m/virtual\/perl-*/ )
             {
-                ewarn("Can't read $category/$dir");
-                next PKG;
-            }
-          FIL: while ( my $filename = readdir $edh ) {
-                next if $filename =~ /^..?$/;
-                next unless $filename =~ /\.ebuild$/;
-                if (
-                    $has_line->(
-                        catfile(
-                            $_[0]->portage_root,
-                            $category, $dir, $filename
-                        )
-                    )
-                  )
-                {
-                    einfo("Matched $category/$dir");
-                    $store_match->( $category, $dir );
-                    next PKG;
-                }
+                my $token = lc( $scanner->category ) . '-'
+                  . lc( substr $scanner->package, 0, 1 );
+                $match_cache->{$token}->{ $scanner->package } = 1;
+                last ITEM unless $scanner->next_package;
+                next ITEM;
             }
         }
+        last unless $scanner->next_file;
     }
     for my $bucket ( sort keys %{$match_cache} ) {
         my (@out);
@@ -155,7 +128,6 @@ sub cmd_sync_eix_system_in {
         }
         write_todo( catfile( $_[0]->input_dir, $bucket ), @out );
     }
-
 }
 1;
 
