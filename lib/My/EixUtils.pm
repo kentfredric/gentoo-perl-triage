@@ -46,15 +46,13 @@ sub write_todo {
     }
     my $index = My::IndexFile->new();
     for my $stable ( @{ $results->{stable} } ) {
-        my ( $atom, @versions ) = @{$stable};
-        for my $record (@versions) {
+        for my $record ( @{ $stable->{versions} } ) {
             $index->add_row( 'stable', $record->{atom}, $record->{is_commented},
                 $record->{status}, undef );
         }
     }
     for my $test ( @{ $results->{testing} } ) {
-        my ( $atom, @versions ) = @{$test};
-        for my $record (@versions) {
+        for my $record ( @{ $test->{versions} } ) {
             $index->add_row( 'testing', $record->{atom},
                 $record->{is_commented},
                 $record->{status}, undef );
@@ -108,25 +106,26 @@ sub get_package_names {
         for my $item (@pairs) {
             my ( $version, $status ) = @{$item};
             my $record = {
-                atom   => ( '=' . $name . '-' . $version ),
-                status => ( $status ne 'stable' ? 'testing' : '' ),
+                atom         => ( '=' . $name . '-' . $version ),
+                status       => ( $status ne 'stable' ? 'testing' : '' ),
                 is_commented => 1,
             };
             if ( ( $first > 0 ) and $status eq 'stable' ) {
-              undef $record->{is_commented};
-              $first--;
+                undef $record->{is_commented};
+                $first--;
             }
             push @pairs_out, $record;
         }
-        push @out, [ $name, @pairs_out ];
+        push @out,
+          { name => $name, versions => \@pairs_out, has_stable => $has_stable };
     }
     return @out;
 }
 
 sub set_a_exclude_b {
     my ( $set_a, $set_b ) = @_;
-    my %set_b = map { $_->[0] => 1 } @{$set_b};
-    return grep { !exists $set_b{ $_->[0] } } @{$set_a};
+    my %set_b = map { $_->{name} => 1 } @{$set_b};
+    return grep { !exists $set_b{ $_->{name} } } @{$set_a};
 }
 
 sub check_isolated {
