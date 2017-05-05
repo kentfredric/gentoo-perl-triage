@@ -46,14 +46,15 @@ sub write_todo {
     }
     my $index = My::IndexFile->new();
     for my $stable ( @{ $results->{stable} } ) {
-        for my $record ( encode_todo($stable) ) {
+        my ( $atom, @versions ) = @{$stable};
+        for my $record (@versions) {
             $index->add_row( 'stable', $record->{atom}, $record->{is_commented},
                 $record->{status}, undef );
         }
     }
     for my $test ( @{ $results->{testing} } ) {
-        for my $record ( encode_todo($test) ) {
-
+        my ( $atom, @versions ) = @{$test};
+        for my $record (@versions) {
             $index->add_row( 'testing', $record->{atom},
                 $record->{is_commented},
                 $record->{status}, undef );
@@ -100,7 +101,24 @@ sub get_package_names {
       )
     {
         my ( $name, @rest ) = split / /, $line;
-        push @out, [ $name, map { [ split /=/ ] } @rest ];
+        my (@pairs) = map { [ split /=/ ] } @rest;
+        my (@pairs_out);
+        my $first = 1;
+        my $has_stable = scalar grep { $_->[1] eq 'stable' } @pairs;
+        for my $item (@pairs) {
+            my ( $version, $status ) = @{$item};
+            my $record = {
+                atom   => ( '=' . $name . '-' . $version ),
+                status => ( $status ne 'stable' ? 'testing' : '' ),
+                is_commented => 1,
+            };
+            if ( ( $first > 0 ) and $status eq 'stable' ) {
+              undef $record->{is_commented};
+              $first--;
+            }
+            push @pairs_out, $record;
+        }
+        push @out, [ $name, @pairs_out ];
     }
     return @out;
 }
@@ -109,32 +127,6 @@ sub set_a_exclude_b {
     my ( $set_a, $set_b ) = @_;
     my %set_b = map { $_->[0] => 1 } @{$set_b};
     return grep { !exists $set_b{ $_->[0] } } @{$set_a};
-}
-
-sub encode_todo {
-    my ($item) = @_;
-    my ( $atom, @versions ) = @{$item};
-    my $first = 1;
-    my @out;
-    my $has_stable = scalar grep { $_->[1] eq 'stable' } @versions;
-    for my $item (@versions) {
-        my $record = { status => '', is_commented => undef, };
-        $record->{status} = 'testing' if $item->[1] ne 'stable';
-        if ($first) {
-            if ( $has_stable and $item->[1] ne 'stable' ) {
-                $record->{is_commented} = 1;
-            }
-            else {
-                $record->{is_commented} = 0;
-                $first--;
-            }
-        }
-        else {
-            $record->{is_commented} = 1;
-        }
-        push @out, { %{$record}, atom => '=' . $atom . '-' . $item->[0] };
-    }
-    return @out;
 }
 
 sub check_isolated {
@@ -149,9 +141,8 @@ sub check_isolated {
     chomp $content;
     $is_isolated = 1;
     for ( grep { $_ ne 'gentoo' } split /\s+/, $content ) {
-        ewarn(
-"System has multiple repositories <$_>, eix sources may be contaminated"
-        );
+        ewarn(  "System has multiple repositories <$_>,"
+              . " eix sources may be contaminated" );
         $is_isolated = 0;
         return !!$is_isolated;
     }
