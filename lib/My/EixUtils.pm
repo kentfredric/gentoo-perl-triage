@@ -12,6 +12,7 @@ our $VERSION = '0.001000';
 
 use feature qw( state );
 use My::Utils qw( ewarn einfo_cmd einfo );
+use My::IndexFile qw();
 use Exporter qw();
 
 BEGIN {
@@ -25,8 +26,8 @@ our @EXPORT_OK = qw(
 );
 
 sub get_versions {
-    my (@query)   = @_;
-    einfo_cmd("get_versions", @query);
+    my (@query) = @_;
+    einfo_cmd( "get_versions", @query );
     my (@stable)  = get_stable_package_names(@query);
     my (@all)     = get_package_names(@query);
     my (@testing) = set_a_exclude_b( \@all, \@stable );
@@ -39,16 +40,32 @@ sub get_versions {
 sub write_todo {
     my ( $file, @query ) = @_;
     my $results = get_versions(@query);
-    if ( not @{$results->{stable}} and not @{$results->{testing}} ) {
-      einfo("No results for <@query>");
-      return;
+    if ( not @{ $results->{stable} } and not @{ $results->{testing} } ) {
+        einfo("No results for <@query>");
+        return;
     }
-    einfo(sprintf "Writing todo stable: %s, testing: %s", scalar @{ $results->{stable} }, scalar @{ $results->{testing}});
-    open my $fh, '>', $file or die "Can't open $file for writing";
-    $fh->printf( "## stable:\n%s\n",
-        join qq[\n], format_todos( $results->{stable} ) );
-    $fh->printf( "## testing:\n%s\n",
-        join qq[\n], format_todos( $results->{testing} ) );
+    my $index = My::IndexFile->new();
+    for my $stable ( @{ $results->{stable} } ) {
+        for my $record ( encode_todo($stable) ) {
+            $index->add_row( 'stable', $record->{atom}, $record->{is_commented},
+                $record->{status}, undef );
+        }
+    }
+    for my $test ( @{ $results->{testing} } ) {
+        for my $record ( encode_todo($test) ) {
+
+            $index->add_row( 'testing', $record->{atom},
+                $record->{is_commented},
+                $record->{status}, undef );
+        }
+    }
+
+    einfo(
+        sprintf "Writing todo stable: %s, testing: %s",
+        scalar @{ $results->{stable} },
+        scalar @{ $results->{testing} }
+    );
+    $index->to_file($file);
     einfo("done");
 }
 
@@ -94,35 +111,30 @@ sub set_a_exclude_b {
     return grep { !exists $set_b{ $_->[0] } } @{$set_a};
 }
 
-sub format_todo {
+sub encode_todo {
     my ($item) = @_;
     my ( $atom, @versions ) = @{$item};
     my $first = 1;
     my @out;
     my $has_stable = scalar grep { $_->[1] eq 'stable' } @versions;
     for my $item (@versions) {
-        my $suffix = "";
-        $suffix = "testing" if $item->[1] ne 'stable';
+        my $record = { status => '', is_commented => undef, };
+        $record->{status} = 'testing' if $item->[1] ne 'stable';
         if ($first) {
             if ( $has_stable and $item->[1] ne 'stable' ) {
-                push @out, sprintf "%-80s #%s",
-                  '#=' . $atom . '-' . $item->[0], $suffix;
-                next;
+                $record->{is_commented} = 1;
             }
-            push @out, sprintf "%-80s #%s", '=' . $atom . '-' . $item->[0],
-              $suffix;
-            $first--;
-            next;
+            else {
+                $record->{is_commented} = 0;
+                $first--;
+            }
         }
-        push @out, sprintf "%-80s #%s", '#=' . $atom . '-' . $item->[0],
-          $suffix;
+        else {
+            $record->{is_commented} = 1;
+        }
+        push @out, { %{$record}, atom => '=' . $atom . '-' . $item->[0] };
     }
     return @out;
-}
-
-sub format_todos {
-    my ($items) = @_;
-    return map { format_todo($_) } @{$items};
 }
 
 sub check_isolated {
