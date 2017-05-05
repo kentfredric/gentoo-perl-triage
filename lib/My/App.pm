@@ -89,6 +89,27 @@ sub cmd_normalize_index {
     }
 }
 
+sub cmd_check_index {
+    {
+        opendir my $fh, $_[0]->index_dir;
+        while ( my $file = readdir $fh ) {
+            next if $file =~ /\A..?\z/;
+            if ( !-f catfile( $_[0]->input_dir, $file ) ) {
+                ewarn("No $file in input but is in index");
+            }
+        }
+    }
+    {
+        opendir my $fh, $_[0]->todo_dir;
+        while ( my $file = readdir $fh ) {
+            next if $file =~ /\A..?\z/;
+            if ( !-f catfile( $_[0]->input_dir, $file ) ) {
+                ewarn("No $file in input, but is in todo");
+            }
+        }
+    }
+}
+
 sub cmd_help {
     my (@commands) =
       sort map { s/^cmd_//; s/_/-/g; $_ } grep { $_ =~ /^cmd_/ } keys %{
