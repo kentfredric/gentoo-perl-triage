@@ -30,7 +30,7 @@
 #=dev-perl/XML-LibXSLT-1.950.0                                                   #testing # REPORT
 =dev-perl/XML-Mini-1.380.0-r1                                                    #        #+
 =dev-perl/XML-NamespaceSupport-1.110.0-r1                                        #        # broken: 614530
-#=dev-perl/XML-NamespaceSupport-1.120.0                                          #testing #+
+#=dev-perl/XML-NamespaceSupport-1.120.0                                          #        #+
 =dev-perl/XML-NodeFilter-0.10.0-r1                                               #        #+
 =dev-perl/XML-Parser-2.440.0                                                     #        #+
 =dev-perl/XML-Parser-Lite-0.721.0                                                #        #+

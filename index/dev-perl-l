@@ -27,8 +27,9 @@
 =dev-perl/List-AllUtils-0.90.0                                                   #        #+
 #=dev-perl/List-AllUtils-0.140.0                                                 #testing #+
 =dev-perl/List-MoreUtils-0.413.0                                                 #        # broken: 613866
-#=dev-perl/List-MoreUtils-0.418.0                                                #testing #+
+#=dev-perl/List-MoreUtils-0.418.0                                                #        #+
 #=dev-perl/List-MoreUtils-0.419.0                                                #testing #+
+=dev-perl/List-MoreUtils-XS-0.418.0                                              #        #+
 =dev-perl/List-UtilsBy-0.100.0                                                   #        # broken: 615096
 =dev-perl/Locale-Maketext-Fuzzy-0.110.0-r1                                       #        # broken: 617046
 =dev-perl/Locale-Maketext-Lexicon-1.0.0                                          #        #+
@@ -77,7 +78,6 @@
 #=dev-perl/Linux-Distribution-0.230.0                                            #testing #+
 #=dev-perl/Linux-Inotify2-1.220.0-r1                                             #testing #+
 #=dev-perl/Linux-Smaps-0.130.0                                                   #testing #+
-#=dev-perl/List-MoreUtils-XS-0.418.0                                             #testing #+
 #=dev-perl/List-SomeUtils-0.530.0                                                #testing #+
 #=dev-perl/List-SomeUtils-XS-0.520.0                                             #testing #+
 #=dev-perl/Locale-Msgfmt-0.150.0-r1                                              #testing # broken: 617102

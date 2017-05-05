@@ -12,6 +12,7 @@
 #=app-emulation/wine-any-2.4                                                     #testing
 #=app-emulation/wine-any-2.5                                                     #testing
 #=app-emulation/wine-any-2.6                                                     #testing
+#=app-emulation/wine-any-2.7                                                     #testing
 #=app-emulation/wine-any-9999                                                    #testing
 #=app-emulation/wine-d3d9-2.0                                                    #testing
 #=app-emulation/wine-d3d9-2.1                                                    #testing
@@ -20,6 +21,7 @@
 #=app-emulation/wine-d3d9-2.4                                                    #testing
 #=app-emulation/wine-d3d9-2.5                                                    #testing
 #=app-emulation/wine-d3d9-2.6                                                    #testing
+#=app-emulation/wine-d3d9-2.7                                                    #testing
 #=app-emulation/wine-d3d9-9999                                                   #testing
 #=app-emulation/wine-staging-2.0                                                 #testing
 #=app-emulation/wine-staging-2.1                                                 #testing
