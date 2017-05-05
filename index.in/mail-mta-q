@@ -1,0 +1,6 @@
+## stable:
+
+## testing:
+=mail-mta/qpsmtpd-0.84-r2                                                        #testing
+#=mail-mta/qpsmtpd-0.95                                                          #testing
+#=mail-mta/qpsmtpd-9999                                                          #testing

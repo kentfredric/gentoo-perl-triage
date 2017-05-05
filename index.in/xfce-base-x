@@ -1,0 +1,8 @@
+## stable:
+=xfce-base/xfce4-panel-4.12.0                                                    #
+#=xfce-base/xfce4-panel-4.12.0-r1                                                #
+#=xfce-base/xfce4-panel-4.12.1                                                   #testing
+=xfce-base/xfconf-4.12.0-r1                                                      #
+#=xfce-base/xfconf-4.12.1                                                        #testing
+## testing:
+

@@ -1,0 +1,6 @@
+## stable:
+=media-sound/mp32ogg-0.11-r6                                                     #
+=media-sound/mserv-0.35-r1                                                       #
+## testing:
+=media-sound/mp3report-1.0.2                                                     #testing
+=media-sound/mplay-0.80                                                          #testing

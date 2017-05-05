@@ -1,0 +1,8 @@
+## stable:
+=sys-libs/freeipmi-1.2.2                                                         #
+#=sys-libs/freeipmi-1.4.3                                                        #
+#=sys-libs/freeipmi-1.4.8                                                        #testing
+#=sys-libs/freeipmi-1.5.4                                                        #testing
+#=sys-libs/freeipmi-1.5.5                                                        #testing
+## testing:
+

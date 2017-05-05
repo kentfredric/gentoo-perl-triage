@@ -1,0 +1,12 @@
+## stable:
+=app-admin/passook-20121001                                                      #
+=app-admin/perl-cleaner-2.20                                                     #
+#=app-admin/perl-cleaner-2.23                                                    #testing
+#=app-admin/perl-cleaner-2.24                                                    #testing
+#=app-admin/perl-cleaner-2.25                                                    #
+#=app-admin/perl-cleaner-9999                                                    #testing
+=app-admin/pprocm-1.0-r2                                                         #
+=app-admin/psmon-1.39-r1                                                         #
+## testing:
+=app-admin/petrovich-1.0.0                                                       #testing
+#=app-admin/petrovich-1.0.0-r1                                                   #testing

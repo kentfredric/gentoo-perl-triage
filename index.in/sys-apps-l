@@ -1,0 +1,14 @@
+## stable:
+=sys-apps/lm_sensors-3.3.4-r1                                                    #
+#=sys-apps/lm_sensors-3.3.5                                                      #
+#=sys-apps/lm_sensors-3.4.0                                                      #testing
+#=sys-apps/lm_sensors-3.4.0_p20160725                                            #
+=sys-apps/lnxhc-1.2-r1                                                           #
+=sys-apps/logwatch-7.4.3                                                         #
+=sys-apps/lsb-release-1.4                                                        #
+#=sys-apps/lsb-release-1.4-r1                                                    #testing
+#=sys-apps/lsb-release-1.4-r2                                                    #testing
+#=sys-apps/lsb-release-1.4-r3                                                    #testing
+## testing:
+=sys-apps/likwid-4.1.1                                                           #testing
+#=sys-apps/likwid-4.1.2                                                          #testing

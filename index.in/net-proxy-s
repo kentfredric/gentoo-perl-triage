@@ -1,0 +1,5 @@
+## stable:
+=net-proxy/squid-3.5.23                                                          #
+#=net-proxy/squid-3.5.24                                                         #testing
+## testing:
+

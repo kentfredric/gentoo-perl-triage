@@ -1,0 +1,11 @@
+## stable:
+=sci-biology/samtools-0.1.12                                                     #
+#=sci-biology/samtools-0.1.19-r2                                                 #testing
+#=sci-biology/samtools-0.1.20-r3                                                 #testing
+#=sci-biology/samtools-1.0                                                       #testing
+#=sci-biology/samtools-1.0-r1                                                    #
+#=sci-biology/samtools-1.1                                                       #testing
+#=sci-biology/samtools-1.2                                                       #testing
+#=sci-biology/samtools-1.3-r1                                                    #testing
+## testing:
+

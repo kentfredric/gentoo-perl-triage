@@ -1,0 +1,7 @@
+## stable:
+=dev-libs/ntl-5.5.2                                                              #
+#=dev-libs/ntl-6.1.0                                                             #testing
+#=dev-libs/ntl-9.3.0                                                             #
+#=dev-libs/ntl-9.6.4                                                             #testing
+## testing:
+

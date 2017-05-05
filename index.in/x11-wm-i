@@ -1,0 +1,10 @@
+## stable:
+=x11-wm/i3-4.8                                                                   #
+#=x11-wm/i3-4.9.1                                                                #testing
+#=x11-wm/i3-4.10.4                                                               #
+#=x11-wm/i3-4.11                                                                 #testing
+#=x11-wm/i3-4.12                                                                 #testing
+#=x11-wm/i3-4.13-r1                                                              #
+#=x11-wm/i3-9999                                                                 #testing
+## testing:
+

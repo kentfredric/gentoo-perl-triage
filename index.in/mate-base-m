@@ -1,0 +1,9 @@
+## stable:
+=mate-base/mate-panel-1.12.2-r3                                                  #
+#=mate-base/mate-panel-1.14.2                                                    #testing
+#=mate-base/mate-panel-1.16.0                                                    #testing
+=mate-base/mate-session-manager-1.12.2-r1                                        #
+#=mate-base/mate-session-manager-1.14.1                                          #testing
+#=mate-base/mate-session-manager-1.16.0                                          #testing
+## testing:
+

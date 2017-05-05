@@ -1,0 +1,8 @@
+## stable:
+=dev-util/lcov-1.9-r1                                                            #
+#=dev-util/lcov-1.11                                                             #
+#=dev-util/lcov-1.13                                                             #testing
+#=dev-util/lcov-1.13-r1                                                          #testing
+=dev-util/linklint-2.3.5                                                         #
+## testing:
+=dev-util/leaktracer-2.4-r3                                                      #testing

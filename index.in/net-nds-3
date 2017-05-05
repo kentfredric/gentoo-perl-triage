@@ -1,0 +1,6 @@
+## stable:
+
+## testing:
+=net-nds/389-ds-base-1.3.4.14                                                    #testing
+#=net-nds/389-ds-base-1.3.5.15-r1                                                #testing
+#=net-nds/389-ds-base-9999                                                       #testing

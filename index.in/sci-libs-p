@@ -1,0 +1,6 @@
+## stable:
+=sci-libs/plplot-5.11.1-r1                                                       #
+#=sci-libs/plplot-5.12.0-r1                                                      #testing
+## testing:
+=sci-libs/profphd-utils-1.0.10                                                   #testing
+#=sci-libs/profphd-utils-1.0.10-r1                                               #testing
