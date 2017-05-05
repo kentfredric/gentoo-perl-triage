@@ -1,6 +1,6 @@
 ## stable:
 ## testing:
-=sys-kernel/spl-0.6.0_rc13-r2                                                    #testing
+#=sys-kernel/spl-0.6.0_rc13-r2                                                   #testing
 #=sys-kernel/spl-0.6.0_rc14-r3                                                   #testing
 #=sys-kernel/spl-0.6.1-r3                                                        #testing
 #=sys-kernel/spl-0.6.2-r5                                                        #testing

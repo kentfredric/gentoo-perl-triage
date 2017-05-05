@@ -5,4 +5,4 @@
 #=dev-util/lcov-1.13-r1                                                          #testing
 =dev-util/linklint-2.3.5                                                         #
 ## testing:
-=dev-util/leaktracer-2.4-r3                                                      #testing
+#=dev-util/leaktracer-2.4-r3                                                     #testing

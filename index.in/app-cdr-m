@@ -1,5 +1,5 @@
 ## stable:
 =app-cdr/multicd-1.7.5-r1                                                        #
 ## testing:
-=app-cdr/mkcdtoc-1.0                                                             #testing
-=app-cdr/mp3burn-0.4.2                                                           #testing
+#=app-cdr/mkcdtoc-1.0                                                            #testing
+#=app-cdr/mp3burn-0.4.2                                                          #testing

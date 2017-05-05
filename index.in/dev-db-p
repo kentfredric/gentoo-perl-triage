@@ -24,4 +24,4 @@
 #=dev-db/postgresql-9.6.2-r1                                                     #testing
 #=dev-db/postgresql-9999                                                         #testing
 ## testing:
-=dev-db/pgbadger-9.1                                                             #testing
+#=dev-db/pgbadger-9.1                                                            #testing

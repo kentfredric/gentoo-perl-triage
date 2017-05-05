@@ -12,4 +12,4 @@
 #=app-editors/vim-core-8.0.0386                                                  #
 #=app-editors/vim-core-9999                                                      #testing
 ## testing:
-=app-editors/vim-qt-20150102-r1                                                  #testing
+#=app-editors/vim-qt-20150102-r1                                                 #testing

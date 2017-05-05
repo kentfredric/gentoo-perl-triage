@@ -6,4 +6,4 @@
 #=mail-filter/mimedefang-2.74                                                    #
 #=mail-filter/mimedefang-2.75                                                    #testing
 ## testing:
-=mail-filter/MailScanner-4.84.5.2                                                #testing
+#=mail-filter/MailScanner-4.84.5.2                                               #testing

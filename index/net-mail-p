@@ -3,6 +3,6 @@
 =net-mail/pop-before-smtp-1.42                                                   #
 =net-mail/postfix-logwatch-1.40.03                                               #
 ## testing:
-=net-mail/pop2imap-1.18                                                          #testing
+#=net-mail/pop2imap-1.18                                                         #testing
 #=net-mail/pop2imap-1.21                                                         #testing
-=net-mail/popick-0.1                                                             #testing
+#=net-mail/popick-0.1                                                            #testing

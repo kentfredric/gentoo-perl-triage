@@ -6,4 +6,4 @@
 #=net-analyzer/pnp4nagios-0.6.25-r2                                              #
 #=net-analyzer/pnp4nagios-0.6.25-r3                                              #testing
 ## testing:
-=net-analyzer/prelude-nessus-20021107                                            #testing
+#=net-analyzer/prelude-nessus-20021107                                           #testing

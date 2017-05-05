@@ -1,6 +1,6 @@
 ## stable:
 =dev-util/rej-0.16                                                               #
 ## testing:
-=dev-util/rpmdevtools-8.3                                                        #testing
+#=dev-util/rpmdevtools-8.3                                                       #testing
 #=dev-util/rpmdevtools-8.3-r1                                                    #testing
 #=dev-util/rpmdevtools-8.5                                                       #testing

@@ -8,4 +8,4 @@
 #=dev-util/suse-build-2015.11.05                                                 #
 #=dev-util/suse-build-9999                                                       #testing
 ## testing:
-=dev-util/smem-20071119_p1                                                       #testing
+#=dev-util/smem-20071119_p1                                                      #testing

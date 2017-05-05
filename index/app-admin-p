@@ -8,5 +8,5 @@
 =app-admin/pprocm-1.0-r2                                                         #
 =app-admin/psmon-1.39-r1                                                         #
 ## testing:
-=app-admin/petrovich-1.0.0                                                       #testing
+#=app-admin/petrovich-1.0.0                                                      #testing
 #=app-admin/petrovich-1.0.0-r1                                                   #testing

@@ -1,7 +1,6 @@
 ## stable:
-
 ## testing:
-=app-emulation/crossover-bin-12.5.0-r2                                           #testing
+#=app-emulation/crossover-bin-12.5.0-r2                                          #testing
 #=app-emulation/crossover-bin-12.5.1-r2                                          #testing
 #=app-emulation/crossover-bin-13.0.0-r2                                          #testing
 #=app-emulation/crossover-bin-13.0.1-r2                                          #testing

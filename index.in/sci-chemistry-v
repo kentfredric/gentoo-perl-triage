@@ -2,4 +2,4 @@
 =sci-chemistry/votca-csg-1.4                                                     #
 #=sci-chemistry/votca-csg-9999                                                   #testing
 ## testing:
-=sci-chemistry/vmd-1.9.2                                                         #testing
+#=sci-chemistry/vmd-1.9.2                                                        #testing

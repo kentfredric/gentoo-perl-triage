@@ -4,4 +4,4 @@
 #=media-video/vdr-2.2.0                                                          #
 #=media-video/vdr-2.2.0-r1                                                       #testing
 ## testing:
-=media-video/vdrsync-0.1.3_pre050322-r1                                          #testing
+#=media-video/vdrsync-0.1.3_pre050322-r1                                         #testing

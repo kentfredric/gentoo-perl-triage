@@ -9,7 +9,7 @@
 #=app-backup/btrbk-0.25.0                                                        #testing
 #=app-backup/btrbk-9999                                                          #testing
 ## testing:
-=app-backup/bup-0.28.1                                                           #testing
+#=app-backup/bup-0.28.1                                                          #testing
 #=app-backup/bup-0.29                                                            #testing
 #=app-backup/bup-0.29-r1                                                         #testing
 #=app-backup/bup-0.29.1                                                          #testing

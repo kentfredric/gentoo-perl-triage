@@ -6,4 +6,4 @@
 =dev-vcs/cvsd-1.0.7                                                              #
 #=dev-vcs/cvsd-1.0.17                                                            #testing
 ## testing:
-=dev-vcs/cvsutils-0.2.5                                                          #testing
+#=dev-vcs/cvsutils-0.2.5                                                         #testing

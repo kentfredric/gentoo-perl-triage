@@ -2,5 +2,5 @@
 =net-analyzer/icinga-1.13.4                                                      #
 #=net-analyzer/icinga-1.14.0                                                     #
 ## testing:
-=net-analyzer/ibmonitor-1.4                                                      #testing
-=net-analyzer/ipsumdump-1.85                                                     #testing
+#=net-analyzer/ibmonitor-1.4                                                     #testing
+#=net-analyzer/ipsumdump-1.85                                                    #testing

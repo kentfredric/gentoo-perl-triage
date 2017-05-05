@@ -7,5 +7,5 @@
 #=dev-libs/ossp-uuid-1.6.2-r5                                                    #testing
 #=dev-libs/ossp-uuid-1.6.2-r6                                                    #testing
 ## testing:
-=dev-libs/OpenSRF-1.2.0                                                          #testing
+#=dev-libs/OpenSRF-1.2.0                                                         #testing
 #=dev-libs/OpenSRF-2.1.1                                                         #testing

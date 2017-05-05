@@ -6,6 +6,6 @@
 =app-misc/golly-2.7-r1                                                           #
 #=app-misc/golly-2.8                                                             #testing
 ## testing:
-=app-misc/glastree-1.04                                                          #testing
-=app-misc/grabcartoons-2.8.4_p20141112                                           #testing
+#=app-misc/glastree-1.04                                                         #testing
+#=app-misc/grabcartoons-2.8.4_p20141112                                          #testing
 #=app-misc/grabcartoons-9999                                                     #testing

@@ -8,6 +8,6 @@
 #=net-analyzer/munin-2.0.25-r2                                                   #testing
 #=net-analyzer/munin-2.1.9999                                                    #testing
 ## testing:
-=net-analyzer/mk-livestatus-1.2.8_p10                                            #testing
+#=net-analyzer/mk-livestatus-1.2.8_p10                                           #testing
 #=net-analyzer/mk-livestatus-1.2.8_p16                                           #testing
-=net-analyzer/mrtg-ping-probe-2.2.0                                              #testing
+#=net-analyzer/mrtg-ping-probe-2.2.0                                             #testing

@@ -2,7 +2,7 @@
 =dev-lang/nasm-2.11.08                                                           #
 #=dev-lang/nasm-2.12.01                                                          #
 ## testing:
-=dev-lang/nqp-2016.10                                                            #testing
+#=dev-lang/nqp-2016.10                                                           #testing
 #=dev-lang/nqp-2016.11                                                           #testing
 #=dev-lang/nqp-2016.12                                                           #testing
 #=dev-lang/nqp-2017.01                                                           #testing

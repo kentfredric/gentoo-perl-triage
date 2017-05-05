@@ -7,4 +7,4 @@
 #=mail-filter/postgrey-1.36-r1                                                   #
 #=mail-filter/postgrey-1.37                                                      #testing
 ## testing:
-=mail-filter/postfwd-1.35-r3                                                     #testing
+#=mail-filter/postfwd-1.35-r3                                                    #testing

@@ -15,4 +15,4 @@
 =sci-biology/bwa-0.7.12                                                          #
 #=sci-biology/bwa-0.7.15                                                         #testing
 ## testing:
-=sci-biology/bfast-0.7.0a                                                        #testing
+#=sci-biology/bfast-0.7.0a                                                       #testing

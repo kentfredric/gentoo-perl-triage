@@ -39,30 +39,23 @@ sub get_versions {
 
 sub write_todo {
     my ( $file, @query ) = @_;
-    my $results = get_versions(@query);
-    if ( not @{ $results->{stable} } and not @{ $results->{testing} } ) {
+    my $results = [ get_package_names( @query ) ];
+    if ( not @{ $results } ) {
         einfo("No results for <@query>");
         return;
     }
     my $index = My::IndexFile->new();
-    for my $stable ( @{ $results->{stable} } ) {
-        for my $record ( @{ $stable->{versions} } ) {
-            $index->add_row( 'stable', $record->{atom}, $record->{is_commented},
-                $record->{status}, undef );
-        }
+    for my $record ( @{ $results } ) {
+      my $grade = $record->{has_stable} ? 'stable' : 'testing';
+      for my $version ( @{ $record->{versions} } ) {
+          $index->add_row( $grade, $version->{atom}, $version->{is_commented},
+            $version->{status}, undef );
+      }
     }
-    for my $test ( @{ $results->{testing} } ) {
-        for my $record ( @{ $test->{versions} } ) {
-            $index->add_row( 'testing', $record->{atom},
-                $record->{is_commented},
-                $record->{status}, undef );
-        }
-    }
-
     einfo(
         sprintf "Writing todo stable: %s, testing: %s",
-        scalar @{ $results->{stable} },
-        scalar @{ $results->{testing} }
+        scalar @{ $index->{sections}->{stable} },
+        scalar @{ $index->{sections}->{testing} }
     );
     $index->to_file($file);
     einfo("done");

@@ -35,14 +35,14 @@
 #=dev-vcs/gitolite-gentoo-3.6.5                                                  #testing #+
 #=dev-vcs/gitolite-gentoo-9999                                                   #testing
 ## testing:
-=dev-vcs/git-annex-6.20160126                                                    #testing #+
+#=dev-vcs/git-annex-6.20160126                                                   #testing #+
 #=dev-vcs/git-annex-6.20160318                                                   #testing #+
 #=dev-vcs/git-annex-6.20160419                                                   #testing #+
 #=dev-vcs/git-annex-6.20160923                                                   #testing #+
 #=dev-vcs/git-annex-6.20160923-r1                                                #testing #+
 #=dev-vcs/git-annex-6.20161031                                                   #testing #+
 #=dev-vcs/git-annex-6.20170101                                                   #testing #+
-=dev-vcs/git-deploy-6.0.1_p20131024                                              #testing #+
-=dev-vcs/gitstats-0_pre131024                                                    #testing
+#=dev-vcs/git-deploy-6.0.1_p20131024                                             #testing #+
+#=dev-vcs/gitstats-0_pre131024                                                   #testing
 #=dev-vcs/gitstats-0_pre20151223                                                 #testing #+
 #=dev-vcs/gitstats-9999                                                          #testing

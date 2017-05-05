@@ -1,4 +1,4 @@
 ## stable:
 ## testing:
-=dev-ml/llvm-ocaml-4.0.0                                                         #testing
+#=dev-ml/llvm-ocaml-4.0.0                                                        #testing
 #=dev-ml/llvm-ocaml-9999                                                         #testing

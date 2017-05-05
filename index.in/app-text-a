@@ -1,4 +1,4 @@
 ## stable:
 =app-text/adiff-1.4                                                              #
 ## testing:
-=app-text/antixls-0.3b                                                           #testing
+#=app-text/antixls-0.3b                                                          #testing

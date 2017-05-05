@@ -10,5 +10,5 @@
 #=net-misc/stunnel-5.39                                                          #testing
 #=net-misc/stunnel-5.40                                                          #testing
 ## testing:
-=net-misc/slimrat-9999                                                           #testing
-=net-misc/ssh-chain-20131217                                                     #testing
+#=net-misc/slimrat-9999                                                          #testing
+#=net-misc/ssh-chain-20131217                                                    #testing
