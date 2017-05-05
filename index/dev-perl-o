@@ -7,9 +7,9 @@
 =dev-perl/OpenGL-0.670.400                                                       #        #+
 #=dev-perl/OpenGL-0.700.0                                                        #testing #+
 ## testing:
-=dev-perl/OOTools-2.300.0-r1                                                     #testing #+
-=dev-perl/ORLite-Migrate-1.100.0-r1                                              #testing
-=dev-perl/Object-Enum-0.75.0                                                     #testing #+
-=dev-perl/Object-Event-1.230.0                                                   #testing #+
-=dev-perl/Object-MultiType-0.50.0                                                #testing #+
-=dev-perl/Olson-Abbreviations-0.40.0                                             #testing # broken: 617140
+#=dev-perl/OOTools-2.300.0-r1                                                    #testing #+
+#=dev-perl/ORLite-Migrate-1.100.0-r1                                             #testing
+#=dev-perl/Object-Enum-0.75.0                                                    #testing #+
+#=dev-perl/Object-Event-1.230.0                                                  #testing #+
+#=dev-perl/Object-MultiType-0.50.0                                               #testing #+
+#=dev-perl/Olson-Abbreviations-0.40.0                                            #testing # broken: 617140

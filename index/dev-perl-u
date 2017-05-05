@@ -21,11 +21,11 @@
 =dev-perl/User-Identity-0.940.0                                                  #        #+
 #=dev-perl/User-Identity-0.970.0                                                 #testing #+
 ## testing:
-=dev-perl/URI-Encode-1.1.1                                                       #testing #+
-=dev-perl/URI-Find-20140709.0.0                                                  #testing #+
+#=dev-perl/URI-Encode-1.1.1                                                      #testing #+
+#=dev-perl/URI-Find-20140709.0.0                                                 #testing #+
 #=dev-perl/URI-Find-20160806.0.0                                                 #testing #+
-=dev-perl/UUID-0.250.0                                                           #testing #+
+#=dev-perl/UUID-0.250.0                                                          #testing #+
 #=dev-perl/UUID-0.260.0                                                          #testing #+
-=dev-perl/UUID-Tiny-1.40.0                                                       #testing #+
-=dev-perl/UltraDNS-0.60.0-r1                                                     #testing # REPORT
-=dev-perl/Unicode-Stringprep-1.105.0-r1                                          #testing #+
+#=dev-perl/UUID-Tiny-1.40.0                                                      #testing #+
+#=dev-perl/UltraDNS-0.60.0-r1                                                    #testing # REPORT
+#=dev-perl/Unicode-Stringprep-1.105.0-r1                                         #testing #+
