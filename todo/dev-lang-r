@@ -1,3 +1,6 @@
+=dev-lang/R-3.2.2
+=dev-lang/R-3.3.1
+=dev-lang/R-3.3.2
 =dev-lang/rakudo-2016.10
 =dev-lang/rakudo-2016.11
 =dev-lang/rakudo-2016.12
@@ -8,9 +11,3 @@
 =dev-lang/rakudo-9999
 =dev-lang/rust-1.15.1
 =dev-lang/rust-1.16.0
-=dev-lang/rust-bin-1.12.1
-=dev-lang/rust-bin-1.13.0
-=dev-lang/rust-bin-1.14.0
-=dev-lang/rust-bin-1.15.0
-=dev-lang/rust-bin-1.15.1
-=dev-lang/rust-bin-1.16.0

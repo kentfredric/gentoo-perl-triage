@@ -7,11 +7,4 @@
 =app-emulation/libvirt-3.1.0
 =app-emulation/libvirt-3.2.0
 =app-emulation/libvirt-9999
-=app-emulation/libvirt-glib-1.0.0
-=app-emulation/libvirt-glib-1.0.0-r1
 =app-emulation/libguestfs-1.28.5-r2
-=app-emulation/libguestfs-appliance-1.26.0-r1
-=app-emulation/libguestfs-appliance-1.28.1
-=app-emulation/libguestfs-appliance-1.28.1-r1
-=app-emulation/libvirt-snmp-0.0.2-r2
-=app-emulation/libvirt-snmp-0.0.3

@@ -20,7 +20,7 @@ sub new {
     return bless { ref $_[1] ? %{ $_[1] } : @_[ 1 .. $#_ ] }, $_[0];
 }
 
-sub cmd_to_fn_name {
+sub _cmd_to_fn_name {
     my $copy = $_[1];
     $copy =~ s/-/_/g;
     return "cmd_" . $copy;
@@ -30,7 +30,7 @@ sub run {
     if ( not $_[1] ) {
         die "No command specified";
     }
-    my $fn_name = $_[0]->cmd_to_fn_name( $_[1] );
+    my $fn_name = $_[0]->_cmd_to_fn_name( $_[1] );
     if ( not $_[0]->can($fn_name) ) {
         die "No such command $_[1]";
     }
@@ -61,6 +61,14 @@ sub portage_root {
     return $_;
 }
 
+sub todo_dir {
+    local $_ = $_[0]->{todo_dir};
+    defined or die "todo_dir must be defined";
+    length  or die "todo_dir must have length";
+    -d      or die "todo_dir must be an existing dir";
+    return $_;
+}
+
 sub categories_file {
     catfile( $_[0]->portage_root, qw( profiles categories ) );
 }
@@ -77,6 +85,27 @@ sub cmd_normalize_index {
         my $index =
           My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
         $index->to_file( catfile( $_[0]->index_dir, $file ) );
+    }
+}
+
+sub cmd_help {
+    my (@commands) =
+      sort map { s/^cmd_//; s/_/-/g; $_ } grep { $_ =~ /^cmd_/ } keys %{
+        no strict 'refs';
+        \%{ __PACKAGE__ . '::' }
+      };
+    print "$_\n" for @commands;
+}
+
+sub cmd_update_todo {
+    opendir my $fh, $_[0]->index_dir;
+    while ( my $file = readdir $fh ) {
+        next if $file =~ /\A..?\z/;
+        my $index =
+          My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
+
+        my $todo_file = catfile( $_[0]->todo_dir, $file );
+        $index->to_file_todo($todo_file);
     }
 }
 
