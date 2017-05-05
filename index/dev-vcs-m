@@ -1,4 +1,6 @@
+## stable:
 =dev-vcs/mr-1.20150503                                                           #
-=dev-vcs/mr-1.20160123                                                           #
-=dev-vcs/mr-1.20170129                                                           #
-=dev-vcs/mr-1.99999999                                                           #
+#=dev-vcs/mr-1.20160123                                                          #
+#=dev-vcs/mr-1.20170129                                                          #testing
+#=dev-vcs/mr-1.99999999                                                          #testing
+## testing:

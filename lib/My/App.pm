@@ -13,6 +13,7 @@ our $VERSION = '0.001000';
 use My::Utils qw( einfo ewarn );
 use My::EixUtils qw( check_isolated write_todo );
 use My::RepoScanner qw();
+use My::IndexFile qw();
 use File::Spec::Functions qw( catfile );
 
 sub new {
@@ -44,6 +45,14 @@ sub input_dir {
     return $_;
 }
 
+sub index_dir {
+    local $_ = $_[0]->{index_dir};
+    defined or die "index_dir must be defined";
+    length  or die "index_dir must have length";
+    -d      or die "index_dir must be an existing dir";
+    return $_;
+}
+
 sub portage_root {
     local $_ = $_[0]->{portage_root};
     defined or die "portage_root must be defined";
@@ -59,6 +68,31 @@ sub categories_file {
 sub cmd_sync_eix_in {
     $_[0]->cmd_sync_eix_perl_in;
     $_[0]->cmd_sync_eix_system_in;
+}
+
+sub cmd_normalize_index {
+    opendir my $fh, $_[0]->index_dir;
+    while ( my $file = readdir $fh ) {
+        next if $file =~ /\A..?\z/;
+        my $index =
+          My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
+        $index->to_file( catfile( $_[0]->index_dir, $file ) );
+    }
+}
+
+sub cmd_merge_in {
+    opendir my $dh, $_[0]->input_dir;
+    while ( my $file = readdir $dh ) {
+        next if $file =~ /\A..?\z/;
+        my $merge_data =
+          My::IndexFile->parse_file( catfile( $_[0]->input_dir, $file ) );
+        my $target = catfile( $_[0]->index_dir, $file );
+        if ( -f $target ) {
+            my $old_data = My::IndexFile->parse_file($target);
+            $merge_data->inherit_whiteboard($old_data);
+        }
+        $merge_data->to_file($target);
+    }
 }
 
 sub cmd_sync_eix_perl_in {
@@ -80,13 +114,16 @@ sub cmd_sync_eix_system_in {
     my $scanner = My::RepoScanner->new(
         {
             root            => $_[0]->portage_root,
-            wanted_category => sub { $_[0] !~ /^(dev-perl|perl-core)$/ },
+            wanted_category => sub {
+                $_[0] !~ /\A(dev-perl|perl-core)\z/;
+            },
             wanted_package => sub { $_[0] ne 'virtual' || $_[1] !~ /^perl-.*/ },
             wanted_file => sub { $_[2] =~ /\.ebuild$/ },
         }
     );
     my $match_cache = {};
     my $seen_cats   = {};
+    my $seen_atoms  = {};
   ITEM: while ( $scanner->category ) {
         my $fn = catfile(
             $_[0]->portage_root, $scanner->category,
@@ -96,16 +133,32 @@ sub cmd_sync_eix_system_in {
         $seen_cats->{ $scanner->category }++ < 1
           and warn $scanner->category . "\n";
 
+        my $cat_pn = $scanner->category . '/' . $scanner->package;
+        $seen_atoms->{$cat_pn}++ < 1 and warn " >$cat_pn\n";
         while ( my $line = <$fh> ) {
-            if (   $line =~ /inherit.*perl-(module|functions)/
-                or $line =~ m/dev-lang\/perl/
-                or $line =~ m/(dev-perl|perl-core)\//
-                or $line =~ m/virtual\/perl-*/ )
-            {
-                my $token = lc( $scanner->category ) . '-'
-                  . lc( substr $scanner->package, 0, 1 );
-                $match_cache->{$token}->{ $scanner->package } = 1;
+            my $token = lc( $scanner->category ) . '-'
+              . lc( substr $scanner->package, 0, 1 );
+
+            if ( $line =~ /inherit.*perl-(module|functions)/ ) {
+                warn "inherit in $cat_pn ( via " . $scanner->file . " )\n";
+                $match_cache->{$token}->{$cat_pn} = 1;
                 last ITEM unless $scanner->next_package;
+                next ITEM;
+            }
+            if ( $line =~ m/dev-lang\/perl/ ) {
+                warn "dev-lang/perl in $cat_pn ( via "
+                  . $scanner->file . " )\n";
+                $match_cache->{$token}->{$cat_pn} = 1;
+
+                last ITEM unless $scanner->next_package;
+                next ITEM;
+            }
+            if ( $line =~ m/(dev-perl\/|perl-core\/|virtual\/perl-)/ ) {
+                warn "$1 in $cat_pn ( via " . $scanner->file . " )\n";
+                $match_cache->{$token}->{$cat_pn} = 1;
+
+                last ITEM unless $scanner->next_package;
+
                 next ITEM;
             }
         }
@@ -116,15 +169,15 @@ sub cmd_sync_eix_system_in {
         my (@in) = sort keys %{ $match_cache->{$bucket} };
         einfo("Doing bucket $bucket: @in");
         if ( @in > 1 ) {
-            push @out, shift @in;
+            push @out, '-e', shift @in;
             while (@in) {
-                push @out, '-o', shift @in;
+                push @out, '-o', '-e', shift @in;
             }
             unshift @out, '-(';
             push @out, '-)';
         }
         else {
-            @out = @in;
+            @out = ( '-e', @in );
         }
         write_todo( catfile( $_[0]->input_dir, $bucket ), @out );
     }

@@ -6,4 +6,3 @@
 #=app-crypt/gnupg-2.1.20                                                         #testing
 =app-crypt/gpg-ringmgr-1.12                                                      #
 ## testing:
-=app-crypt/gnupg-pkcs11-scd-0.7.6                                                #testing

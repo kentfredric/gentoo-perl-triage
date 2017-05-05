@@ -81,7 +81,7 @@ sub next_package {
         return unless $_[0]->next_category;
         return $_[0]->next_package;
     }
-    if ( $next_package =~ /^..?$/ ) {
+    if ( $next_package =~ /^\.\.?$/ ) {
 
         #        warn "$DEPTH '.' ($next_package)\n";
         return $_[0]->next_package;
@@ -125,7 +125,7 @@ sub next_file {
         return unless $_[0]->next_package;
         return $_[0]->next_file;
     }
-    if ( $next_file =~ /^..?$/ ) {
+    if ( $next_file =~ /^\.\.?$/ ) {
 
         # warn "$DEPTH '.' ($next_file)\n";
         return $_[0]->next_file;

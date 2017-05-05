@@ -11,5 +11,3 @@
 #=sys-devel/llvm-4.0.0-r2                                                        #testing
 #=sys-devel/llvm-9999                                                            #testing
 ## testing:
-=sys-devel/llvmgold-4                                                            #testing
-#=sys-devel/llvmgold-5                                                           #testing

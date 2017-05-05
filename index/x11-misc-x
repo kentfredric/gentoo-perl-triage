@@ -1,7 +1,6 @@
 ## stable:
 =x11-misc/xdg-utils-1.1.1-r1                                                     #
 =x11-misc/xscreensaver-5.36                                                      #
-=x11-misc/xscreensaver-app-2.3-r3                                                #
 =x11-misc/xsnap-1.5.15-r1                                                        #
 ## testing:
 =x11-misc/xbattbar-1.4.3                                                         #testing

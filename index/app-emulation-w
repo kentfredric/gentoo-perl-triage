@@ -21,10 +21,6 @@
 #=app-emulation/wine-d3d9-2.5                                                    #testing
 #=app-emulation/wine-d3d9-2.6                                                    #testing
 #=app-emulation/wine-d3d9-9999                                                   #testing
-=app-emulation/wine-desktop-common-20150204                                      #testing
-=app-emulation/wine-gecko-2.47-r1                                                #testing
-=app-emulation/wine-mono-4.6.4                                                   #testing
-#=app-emulation/wine-mono-4.7.0                                                  #testing
 =app-emulation/wine-staging-2.0                                                  #testing
 #=app-emulation/wine-staging-2.1                                                 #testing
 #=app-emulation/wine-staging-2.2                                                 #testing
@@ -44,5 +40,3 @@
 #=app-emulation/wine-vanilla-2.6                                                 #testing
 #=app-emulation/wine-vanilla-2.7                                                 #testing
 #=app-emulation/wine-vanilla-9999                                                #testing
-=app-emulation/winetricks-20170327                                               #
-#=app-emulation/winetricks-99999999                                              #testing

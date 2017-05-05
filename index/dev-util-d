@@ -6,6 +6,4 @@
 #=dev-util/debhelper-10.2.4                                                      #testing
 #=dev-util/debhelper-10.2.5                                                      #testing
 =dev-util/distro-info-0.14                                                       #
-=dev-util/distro-info-data-0.29                                                  #
-#=dev-util/distro-info-data-0.32                                                 #testing
 ## testing:

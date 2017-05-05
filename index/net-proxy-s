@@ -1,7 +1,4 @@
 ## stable:
 =net-proxy/squid-3.5.23                                                          #
 #=net-proxy/squid-3.5.24                                                         #testing
-=net-proxy/squidclamav-6.8                                                       #
-#=net-proxy/squidclamav-6.10                                                     #testing
-=net-proxy/squidguard-1.5_beta-r1                                                #
 ## testing:

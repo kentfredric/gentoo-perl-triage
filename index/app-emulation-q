@@ -3,7 +3,4 @@
 #=app-emulation/qemu-2.8.1-r2                                                    #
 #=app-emulation/qemu-2.9.0-r1                                                    #testing
 #=app-emulation/qemu-9999                                                        #testing
-=app-emulation/qemu-guest-agent-2.5.0                                            #
-#=app-emulation/qemu-guest-agent-2.6.0                                           #testing
 ## testing:
-=app-emulation/qemu-init-scripts-0.3.0                                           #testing

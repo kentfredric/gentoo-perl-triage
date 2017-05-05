@@ -8,9 +8,5 @@
 #=sys-devel/clang-3.9.1-r100                                                     #
 #=sys-devel/clang-4.0.0-r2                                                       #testing
 #=sys-devel/clang-9999                                                           #testing
-#=sys-devel/clang-runtime-3.9.0                                                  #testing
-=sys-devel/clang-runtime-3.9.1                                                   #
-#=sys-devel/clang-runtime-4.0.0                                                  #testing
-#=sys-devel/clang-runtime-9999                                                   #testing
 ## testing:
 =sys-devel/cons-2.2.0                                                            #testing

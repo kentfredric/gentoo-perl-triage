@@ -27,8 +27,6 @@
 =dev-libs/libparserutils-0.2.3                                                   #testing
 =dev-libs/libprelude-3.0.0                                                       #testing
 #=dev-libs/libprelude-3.1.0-r1                                                   #testing
-=dev-libs/libpreludedb-3.0.0                                                     #testing
-#=dev-libs/libpreludedb-3.1.0                                                    #testing
 =dev-libs/libsolv-0.6.22                                                         #testing
 =dev-libs/ltxml-1.2.5                                                            #testing
 #=dev-libs/ltxml-1.2.9                                                           #testing

@@ -11,10 +11,6 @@
 #=sys-devel/autoconf-2.69                                                        #
 #=sys-devel/autoconf-2.69-r3                                                     #testing
 #=sys-devel/autoconf-9999                                                        #testing
-=sys-devel/autoconf-archive-2016.03.20-r1                                        #
-#=sys-devel/autoconf-archive-2016.09.16                                          #testing
-#=sys-devel/autoconf-archive-2017.03.21                                          #testing
-=sys-devel/autoconf-wrapper-13                                                   #
 =sys-devel/automake-1.4_p6-r2                                                    #
 #=sys-devel/automake-1.5-r2                                                      #
 #=sys-devel/automake-1.6.3-r2                                                    #
@@ -35,5 +31,4 @@
 #=sys-devel/automake-1.15-r1                                                     #testing
 #=sys-devel/automake-1.15-r2                                                     #
 #=sys-devel/automake-9999                                                        #testing
-=sys-devel/automake-wrapper-10                                                   #
 ## testing:
