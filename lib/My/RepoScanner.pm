@@ -39,6 +39,7 @@ our $DEPTH = 0;
 
 sub next_category {
     local $DEPTH = $DEPTH + 1;
+
     # warn "$DEPTH > next_category\n";
 
     return unless @{ $_[0]->{categories} };
@@ -81,7 +82,8 @@ sub next_package {
         return $_[0]->next_package;
     }
     if ( $next_package =~ /^..?$/ ) {
-#        warn "$DEPTH '.' ($next_package)\n";
+
+        #        warn "$DEPTH '.' ($next_package)\n";
         return $_[0]->next_package;
     }
     if ( !-d catfile( $_[0]->root, $category, $next_package ) ) {
@@ -159,75 +161,6 @@ sub package {
 sub file {
     return $_[0]->{file} if exists $_[0]->{file};
     return $_[0]->next_file;
-}
-
-sub tree_ebuild_iterator {
-    my ( $self, %opts ) = @_;
-    my $root = $self->root;
-    my (@categories) = $self->categories;
-
-    my (
-        $category, $category_dh, $category_path,
-        $package,  $package_dh,  $package_path,
-    );
-    return sub {
-
-        while (1) {
-            if ( not defined $category and @categories ) {
-                my ($next_category) = shift @categories;
-                warn "Get next category -> $next_category\n";
-
-                if ( exists $opts{wanted_category} ) {
-                    next unless $opts{wanted_category}->($next_category);
-                }
-                $category_path = catfile( $root, $next_category );
-                if ( not opendir $category_dh, $category_path ) {
-                    warn "Cant open category $next_category";
-                    next;
-                }
-                $category = $next_category;
-            }
-            return if not defined $category;
-            if ( not defined $package ) {
-                my $next_package = readdir $category_dh;
-
-                if ( not defined $next_package ) {
-                    undef $category;
-                    next;
-                }
-                next if $next_package =~ /^..?$/;
-                $package_path = catfile( $root, $category, $next_package );
-                next unless -d $package_path;
-                if ( exists $opts{wanted_package} ) {
-                    next
-                      unless $opts{wanted_package}
-                      ->( $category, $next_package );
-                }
-
-                if ( not opendir $package_dh, $package_path ) {
-                    warn "Cant open package $category/$next_package";
-                    next;
-                }
-                $package = $next_package;
-            }
-
-            my $filename = readdir($package_dh);
-            if ( not defined $filename ) {
-                undef $package;
-                next;
-            }
-            if ( $filename =~ /^..?$/ ) {
-                next;
-            }
-            if ( exists $opts{wanted_file} ) {
-                next
-                  unless $opts{wanted_file}->( $category, $package, $filename );
-            }
-            return [ $filename, catfile( $package_path, $filename ) ];
-        }
-        return;
-    };
-
 }
 
 1;
