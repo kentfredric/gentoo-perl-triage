@@ -24,7 +24,24 @@ our @EXPORT_OK = qw(
   get_versions
   write_todo
   get_package_names
+  partition_packages
 );
+
+sub partition_packages {
+    my ($results) = @_;
+    my %parts;
+    for my $result ( @{$results} ) {
+        my $name = $result->{name};
+        if ( $name =~ qr{\A([^/]+)/(.)} ) {
+            my $part_name = lc("$1-$2");
+            push @{ $parts{$part_name} }, $result;
+        }
+        else {
+            ewarn("$name did not match re");
+        }
+    }
+    return \%parts;
+}
 
 sub get_versions {
     my (@query) = @_;
@@ -40,17 +57,17 @@ sub get_versions {
 
 sub write_todo {
     my ( $file, $results ) = @_;
-    if ( not @{ $results } ) {
+    if ( not @{$results} ) {
         einfo("$file -> No results passed");
         return;
     }
     my $index = My::IndexFile->new();
-    for my $record ( @{ $results } ) {
-      my $grade = $record->{has_stable} ? 'stable' : 'testing';
-      for my $version ( @{ $record->{versions} } ) {
-          $index->add_row( $grade, $version->{atom}, $version->{is_commented},
-            $version->{status}, undef );
-      }
+    for my $record ( @{$results} ) {
+        my $grade = $record->{has_stable} ? 'stable' : 'testing';
+        for my $version ( @{ $record->{versions} } ) {
+            $index->add_row( $grade, $version->{atom}, $version->{is_commented},
+                $version->{status}, undef );
+        }
     }
     einfo(
         sprintf "Writing todo $file -> stable: %s, testing: %s",

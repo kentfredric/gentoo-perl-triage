@@ -11,7 +11,8 @@ our $VERSION = '0.001000';
 # AUTHORITY
 
 use My::Utils qw( einfo ewarn );
-use My::EixUtils qw( check_isolated write_todo get_package_names );
+use My::EixUtils
+  qw( check_isolated write_todo get_package_names partition_packages );
 use My::RepoScanner qw();
 use My::IndexFile qw();
 use File::Spec::Functions qw( catfile );
@@ -124,16 +125,16 @@ sub cmd_merge_in {
     }
 }
 
+use Data::Dumper (qw( Dumper ));
+
 sub cmd_sync_eix_perl_in {
     if ( not check_isolated ) {
         einfo("eix perl sync skipped");
         return;
     }
-    for ( q[a] .. q[z], 0 .. 9 ) {
-        write_todo(
-            catfile( $_[0]->input_dir, 'dev-perl-' . $_ ),
-            [ get_package_names( 'dev-perl/' . $_ . '*' ) ]
-        );
+    my $partitions = partition_packages( [ get_package_names('dev-perl/*') ] );
+    for my $key ( sort keys %{$partitions} ) {
+        write_todo( catfile( $_[0]->input_dir, $key ), $partitions->{$key} );
     }
 }
 
