@@ -183,11 +183,12 @@ sub cmd_sync_eix_system_in {
             $scanner->package,   $scanner->file
         );
         open my $fh, '<', $fn or die "Can't open $fn";
-        $seen_cats->{ $scanner->category }++ < 1
-          and warn $scanner->category . "\n";
+
+  #$seen_cats->{ $scanner->category }++ < 1  and warn $scanner->category . "\n";
 
         my $cat_pn = $scanner->category . '/' . $scanner->package;
-        $seen_atoms->{$cat_pn}++ < 1 and warn " >$cat_pn\n";
+
+        #$seen_atoms->{$cat_pn}++ < 1 and warn " >$cat_pn\n";
         while ( my $line = <$fh> ) {
             my $token = lc( $scanner->category ) . '-'
               . lc( substr $scanner->package, 0, 1 );
@@ -206,7 +207,8 @@ sub cmd_sync_eix_system_in {
                 last ITEM unless $scanner->next_package;
                 next ITEM;
             }
-            if ( $line =~ m/(dev-perl\/|perl-core\/|virtual\/perl-)/ ) {
+            if ( $line =~ m/(dev-perl\/\S*|perl-core\/\S*|virtual\/perl-\S*)/ )
+            {
                 warn "$1 in $cat_pn ( via " . $scanner->file . " )\n";
                 $match_cache->{$cat_pn} = 1;
 
