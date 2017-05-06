@@ -28,6 +28,53 @@ sub data {
     return ( $_[0]->{data} ||= {} );
 }
 
+sub stats {
+    my ( $self, $rec ) = @_;
+
+    $rec = {
+        all => {
+            count => 0,
+            todo  => 0,
+            done  => 0,
+        },
+        stable => {
+            count => 0,
+            todo  => 0,
+            done  => 0,
+        },
+        testing => {
+            count => 0,
+            todo  => 0,
+            done  => 0,
+        },
+        %{ $rec || {} },
+    };
+
+    for my $field (qw( stable testing )) {
+        my $count = scalar @{ $_[0]->{sections}->{$field} || [] };
+        next if $count < 1;
+        my $done = scalar grep {
+            defined $_[0]->{data}->{$_}->{whiteboard}
+              and length $_[0]->{data}->{$_}->{whiteboard}
+        } @{ $_[0]->{sections}->{$field} };
+        my $todo = $count - $done;
+
+        $rec->{$field}->{count} += $count;
+        $rec->{$field}->{todo}  += $todo;
+        $rec->{$field}->{done}  += $done;
+        $rec->{$field}->{pct} = sprintf "%3.2f%%",
+          ( $rec->{$field}->{done} / $rec->{$field}->{count} ) * 100.0;
+        $rec->{all}->{count} += $count;
+        $rec->{all}->{todo}  += $todo;
+        $rec->{all}->{done}  += $done;
+        $rec->{all}->{pct} = sprintf "%3.2f%%",
+          ( $rec->{all}->{done} / $rec->{all}->{count} ) * 100.0;
+
+    }
+
+    return $rec;
+}
+
 sub add_row {
     my ( $self, $family, $atom, $is_commented, $status, $whiteboard ) = @_;
     return if exists $self->{data}->{$atom};

@@ -96,6 +96,48 @@ sub cmd_normalize_index {
     }
 }
 
+use Data::Dumper (qw( Dumper ));
+
+sub cmd_stats {
+    opendir my $fh, $_[0]->index_dir;
+    my $stats = {};
+    while ( my $file = readdir $fh ) {
+        next if $file =~ /\A..?\z/;
+        my $index =
+          My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
+        $stats = $index->stats($stats);
+    }
+    local $Data::Dumper::Sortkeys = 1;
+    local $Data::Dumper::Terse    = 1;
+    local $Data::Dumper::Indent   = 1;
+    print( Dumper($stats) );
+}
+
+sub cmd_stats_verbose {
+    my (@row);
+    opendir my $fh, $_[0]->index_dir;
+    while ( my $file = readdir $fh ) {
+        next if $file =~ /\A..?\z/;
+        my $index =
+          My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
+        my $stats = $index->stats( {} );
+        push @row,
+          {
+            file  => $file,
+            count => $stats->{all}->{count},
+            pct   => $stats->{all}->{pct}
+          };
+    }
+    for
+      my $line ( sort { $b->{pct} cmp $a->{pct} or $a->{count} <=> $b->{count} }
+        @row )
+    {
+        printf "%-30s : %4s : %8s\n", $line->{file}, $line->{count},
+          $line->{pct};
+    }
+
+}
+
 sub cmd_check_index {
     {
         opendir my $fh, $_[0]->index_dir;
@@ -152,8 +194,6 @@ sub cmd_merge_in {
         $merge_data->to_file($target);
     }
 }
-
-use Data::Dumper (qw( Dumper ));
 
 sub cmd_sync_eix_perl_in {
     if ( not check_isolated ) {
