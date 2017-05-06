@@ -125,15 +125,21 @@ sub cmd_stats_verbose {
           {
             file  => $file,
             count => $stats->{all}->{count},
+            todo  => $stats->{all}->{todo},
             pct   => $stats->{all}->{pct}
           };
     }
-    for
-      my $line ( sort { $b->{pct} cmp $a->{pct} or $a->{count} <=> $b->{count} }
-        @row )
+    for my $line (
+        sort {
+            $b->{pct} <=> $a->{pct}
+              or $a->{todo} <=> $b->{todo}
+              or $a->{count} <=> $b->{count}
+        } @row
+      )
     {
-        printf "%-30s : %4s : %8s\n", $line->{file}, $line->{count},
-          $line->{pct};
+        printf "%-30s : %4s : %8.2f%% ( %s todo )\n", $line->{file},
+          $line->{count},
+          $line->{pct}, $line->{todo};
     }
 
 }

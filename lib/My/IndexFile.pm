@@ -62,12 +62,12 @@ sub stats {
         $rec->{$field}->{count} += $count;
         $rec->{$field}->{todo}  += $todo;
         $rec->{$field}->{done}  += $done;
-        $rec->{$field}->{pct} = sprintf "%3.2f%%",
+        $rec->{$field}->{pct} =
           ( $rec->{$field}->{done} / $rec->{$field}->{count} ) * 100.0;
         $rec->{all}->{count} += $count;
         $rec->{all}->{todo}  += $todo;
         $rec->{all}->{done}  += $done;
-        $rec->{all}->{pct} = sprintf "%3.2f%%",
+        $rec->{all}->{pct} =
           ( $rec->{all}->{done} / $rec->{all}->{count} ) * 100.0;
 
     }
