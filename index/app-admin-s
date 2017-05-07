@@ -1,7 +1,7 @@
 ## stable:
 =app-admin/sudo-1.8.18_p1                                                        #
 #=app-admin/sudo-1.8.19_p2                                                       #testing
-#=app-admin/sudo-1.8.20_rc2                                                      #testing
+#=app-admin/sudo-1.8.20_rc3                                                      #testing
 #=app-admin/sudo-9999                                                            #testing
 =app-admin/swatchdog-3.2.4                                                       #
 =app-admin/sysklogd-1.5.1                                                        #

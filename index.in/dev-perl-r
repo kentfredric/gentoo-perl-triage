@@ -3,6 +3,7 @@
 =dev-perl/RadiusPerl-0.220.0-r1                                                  #
 =dev-perl/Readonly-2.0.0                                                         #
 #=dev-perl/Readonly-2.10.0                                                       #testing
+=dev-perl/Readonly-XS-1.50.0-r1                                                  #
 =dev-perl/Regexp-Common-2013031301.0.0                                           #
 #=dev-perl/Regexp-Common-2016020301.0.0                                          #testing
 #=dev-perl/Regexp-Common-2016060801.0.0                                          #testing
@@ -22,7 +23,6 @@
 #=dev-perl/RRD-Simple-1.440.0-r1                                                 #testing
 #=dev-perl/RTF-Writer-1.110.0-r2                                                 #testing
 #=dev-perl/Rcs-1.50.0-r1                                                         #testing
-#=dev-perl/Readonly-XS-1.50.0-r1                                                 #testing
 #=dev-perl/Redis-1.976.0                                                         #testing
 #=dev-perl/RedisDB-2.360.0                                                       #testing
 #=dev-perl/RedisDB-Parser-2.200.0                                                #testing

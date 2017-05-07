@@ -36,6 +36,8 @@
 #=dev-perl/File-ShareDir-Install-0.90.0                                          #testing
 =dev-perl/File-ShareDir-Install-0.110.0                                          #
 =dev-perl/File-Slurp-9999.190.0-r1                                               #
+=dev-perl/File-Slurp-Tiny-0.4.0                                                  #
+=dev-perl/File-Slurp-Unicode-0.7.1-r1                                            #
 =dev-perl/File-Slurper-0.0.800                                                   #
 #=dev-perl/File-Slurper-0.9.0                                                    #testing
 =dev-perl/File-Sort-1.10.0-r1                                                    #
@@ -81,8 +83,6 @@
 #=dev-perl/File-SearchPath-0.60.0-r1                                             #testing
 #=dev-perl/File-Share-0.250.0                                                    #testing
 #=dev-perl/File-ShareDir-ProjectDistDir-1.0.9                                    #testing
-#=dev-perl/File-Slurp-Tiny-0.4.0                                                 #testing
-#=dev-perl/File-Slurp-Unicode-0.7.1-r1                                           #testing
 #=dev-perl/File-Stat-Moose-0.60.0-r1                                             #testing
 #=dev-perl/Filesys-SmbClient-3.200.0-r1                                          #testing
 #=dev-perl/Filesys-SmbClient-3.200.0-r2                                          #testing

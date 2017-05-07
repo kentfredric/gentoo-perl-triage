@@ -15,6 +15,11 @@
 =dev-perl/Boulder-1.300.0-r1                                                     #
 =dev-perl/Business-FedEx-DirectConnect-1.10.0-r1                                 #
 =dev-perl/Business-Hours-0.120.0-r1                                              #
+=dev-perl/Business-ISBN-2.90.200_rc                                              #
+#=dev-perl/Business-ISBN-Data-20140910.2.0                                       #testing
+=dev-perl/Business-ISBN-Data-20140910.3.0                                        #
+=dev-perl/Business-ISMN-1.130.0                                                  #
+=dev-perl/Business-ISSN-0.910.0-r1                                               #
 =dev-perl/Business-UPS-2.10.0-r1                                                 #
 =dev-perl/boolean-0.450.0                                                        #
 ## testing:
@@ -32,11 +37,6 @@
 #=dev-perl/Bio-Graphics-2.390.0                                                  #testing
 #=dev-perl/Bio-SamTools-1.420.0                                                  #testing
 #=dev-perl/Browser-Open-0.40.0                                                   #testing
-#=dev-perl/Business-ISBN-2.90.200_rc                                             #testing
-#=dev-perl/Business-ISBN-Data-20140910.2.0                                       #testing
-#=dev-perl/Business-ISBN-Data-20140910.3.0                                       #testing
-#=dev-perl/Business-ISMN-1.130.0                                                 #testing
-#=dev-perl/Business-ISSN-0.910.0-r1                                              #testing
 #=dev-perl/Business-Tax-VAT-Validation-1.20.0                                    #testing
 #=dev-perl/Business-Tax-VAT-Validation-1.100.0                                   #testing
 #=dev-perl/bareword-filehandles-0.4.0                                            #testing
