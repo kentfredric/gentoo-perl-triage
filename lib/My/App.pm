@@ -114,32 +114,63 @@ sub cmd_stats {
 }
 
 sub cmd_stats_verbose {
-    my (@row);
+    my (%buckets);
     opendir my $fh, $_[0]->index_dir;
     while ( my $file = readdir $fh ) {
         next if $file =~ /\A..?\z/;
         my $index =
           My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
         my $stats = $index->stats( {} );
-        push @row,
-          {
-            file  => $file,
-            count => $stats->{all}->{count},
-            todo  => $stats->{all}->{todo},
-            pct   => $stats->{all}->{pct}
-          };
+        my ( $bucket, $letter ) = $file =~ /\A(.*)-(.)\z/;
+        my $rec = {
+            letter => $letter,
+            count  => $stats->{all}->{count},
+            todo   => $stats->{all}->{todo},
+            pct    => $stats->{all}->{pct}
+        };
+        $buckets{$bucket}->{count} =
+          exists $buckets{$bucket}->{count}
+          ? $buckets{$bucket}->{count} + $stats->{all}->{count}
+          : $stats->{all}->{count};
+        $buckets{$bucket}->{todo} =
+          exists $buckets{$bucket}->{todo}
+          ? $buckets{$bucket}->{todo} + $stats->{all}->{todo}
+          : $stats->{all}->{todo};
+        $buckets{$bucket}->{done} =
+          exists $buckets{$bucket}->{done}
+          ? $buckets{$bucket}->{done} + $stats->{all}->{done}
+          : $stats->{all}->{done};
+        $buckets{$bucket}->{pct} =
+          ( ( $buckets{$bucket}->{done} / $buckets{$bucket}->{count} ) *
+              100.0 );
+        push @{ $buckets{$bucket}->{children} }, $rec;
     }
     for my $line (
         sort {
-            $b->{pct} <=> $a->{pct}
+                 $b->{pct} <=> $a->{pct}
               or $a->{todo} <=> $b->{todo}
               or $a->{count} <=> $b->{count}
-        } @row
+        } map { +{ category => $_, %{ $buckets{$_} } } } keys %buckets
       )
     {
-        printf "%-30s : %4s : %8.2f%% ( %s todo )\n", $line->{file},
+        printf "%-30s : %4s : %8.2f%% ( %s todo )\n", $line->{category},
           $line->{count},
           $line->{pct}, $line->{todo};
+
+        for my $child (
+            sort {
+                     $b->{pct} <=> $a->{pct}
+                  or $a->{todo} <=> $b->{todo}
+                  or $a->{count} <=> $b->{count}
+            } @{ $line->{children} }
+          )
+        {
+            printf " /%-28s : %4s : %8.2f%% ( %s todo )\n", $child->{letter},
+              $child->{count},
+              $child->{pct}, $child->{todo};
+
+        }
+
     }
 
 }
