@@ -1,6 +1,6 @@
 ## stable:
 =app-emulation/qemu-2.8.1-r2                                                     #
 #=app-emulation/qemu-2.9.0-r1                                                    #testing
-#=app-emulation/qemu-2.9.0-r52                                                   #testing
+#=app-emulation/qemu-2.9.0-r53                                                   #testing
 #=app-emulation/qemu-9999                                                        #testing
 ## testing:
