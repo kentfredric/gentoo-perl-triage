@@ -53,20 +53,33 @@ sub stats {
     for my $field (qw( stable testing )) {
         my $count = scalar @{ $_[0]->{sections}->{$field} || [] };
         next if $count < 1;
-        my $done = scalar grep {
-            defined $_[0]->{data}->{$_}->{whiteboard}
-              and length $_[0]->{data}->{$_}->{whiteboard}
-        } @{ $_[0]->{sections}->{$field} };
-        my $todo = $count - $done;
+        my (@whiteboards) =
+          grep { defined and length }
+          map { $_[0]->{data}->{$_}->{whiteboard} }
+          @{ $_[0]->{sections}->{$field} };
 
-        $rec->{$field}->{count} += $count;
-        $rec->{$field}->{todo}  += $todo;
-        $rec->{$field}->{done}  += $done;
+        my $done      = scalar @whiteboards;
+        my $broken    = scalar grep { /broken/i or /REPORT/ } @whiteboards;
+        my $to_report = scalar grep /REPORT/, @whiteboards;
+        my $todo      = $count - $done;
+
+        $rec->{$field}->{count}     += $count;
+        $rec->{$field}->{todo}      += $todo;
+        $rec->{$field}->{done}      += $done;
+        $rec->{$field}->{broken}    += $broken;
+        $rec->{$field}->{to_report} += $to_report;
+
+        $rec->{$field}->{broken_pct} =
+          ( $rec->{$field}->{broken} / $rec->{$field}->{count} ) * 100.0;
         $rec->{$field}->{pct} =
           ( $rec->{$field}->{done} / $rec->{$field}->{count} ) * 100.0;
-        $rec->{all}->{count} += $count;
-        $rec->{all}->{todo}  += $todo;
-        $rec->{all}->{done}  += $done;
+        $rec->{all}->{count}     += $count;
+        $rec->{all}->{todo}      += $todo;
+        $rec->{all}->{done}      += $done;
+        $rec->{all}->{broken}    += $broken;
+        $rec->{all}->{to_report} += $to_report;
+        $rec->{all}->{broken_pct} =
+          ( $rec->{all}->{broken} / $rec->{all}->{count} ) * 100.0;
         $rec->{all}->{pct} =
           ( $rec->{all}->{done} / $rec->{all}->{count} ) * 100.0;
 
@@ -106,7 +119,7 @@ sub parse_file {
         if ( $package =~ s{\A#}{} ) {
             $is_commented = 1;
         }
-        defined $status and length $status and $status =~ s/\s*$//;
+        defined $status     and length $status     and $status =~ s/\s*$//;
         defined $whiteboard and length $whiteboard and $whiteboard =~ s/\s*$//;
         $container->add_row( $section, $package, $is_commented, $status,
             $whiteboard );

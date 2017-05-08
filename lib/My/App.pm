@@ -107,8 +107,34 @@ sub cmd_stats {
           My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
         $stats = $index->stats($stats);
     }
+
+    my $tag_fmt = sub {
+        my ($pairs) = @_;
+        my @out;
+        for my $pair ( @{$pairs} ) {
+            next unless $pair->[1] > 0.01;
+            my $fmt = shift @{$pair};
+            push @out, sprintf $fmt, @{$pair};
+        }
+        if (@out) {
+            return '(' . ( join ', ', map { sprintf "%15s", $_ } @out ) . ')';
+        }
+        return '';
+    };
     for my $cat ( sort keys %{$stats} ) {
-      printf "%8s: %6d/%-6d -> %8.2f%% ( todo: %6d )\n", $cat, $stats->{$cat}->{done}, $stats->{$cat}->{count}, $stats->{$cat}->{pct}, $stats->{$cat}->{todo};
+        printf "%8s: %6d/%-6d -> %8.2f%% %s\n", $cat,
+          $stats->{$cat}->{done}, $stats->{$cat}->{count},
+          $stats->{$cat}->{pct},
+          $tag_fmt->(
+            [
+                [ '%3d todo', $stats->{$cat}->{todo} ],
+                [
+                    '%3d broken (%2.2f%%)', $stats->{$cat}->{broken},
+                    $stats->{$cat}->{broken_pct}
+                ],
+                [ '%3d to report', $stats->{$cat}->{to_report} ]
+            ]
+          );
     }
 }
 
@@ -122,10 +148,13 @@ sub cmd_stats_verbose {
         my $stats = $index->stats( {} );
         my ( $bucket, $letter ) = $file =~ /\A(.*)-(.)\z/;
         my $rec = {
-            letter => $letter,
-            count  => $stats->{all}->{count},
-            todo   => $stats->{all}->{todo},
-            pct    => $stats->{all}->{pct}
+            letter     => $letter,
+            count      => $stats->{all}->{count},
+            todo       => $stats->{all}->{todo},
+            pct        => $stats->{all}->{pct},
+            broken     => $stats->{all}->{broken},
+            to_report  => $stats->{all}->{to_report},
+            broken_pct => $stats->{all}->{broken_pct},
         };
         $buckets{$bucket}->{count} =
           exists $buckets{$bucket}->{count}
@@ -139,11 +168,40 @@ sub cmd_stats_verbose {
           exists $buckets{$bucket}->{done}
           ? $buckets{$bucket}->{done} + $stats->{all}->{done}
           : $stats->{all}->{done};
+
+        $buckets{$bucket}->{broken} =
+          exists $buckets{$bucket}->{broken}
+          ? $buckets{$bucket}->{broken} + $stats->{all}->{broken}
+          : $stats->{all}->{broken};
+
+        $buckets{$bucket}->{to_report} =
+          exists $buckets{$bucket}->{to_report}
+          ? $buckets{$bucket}->{to_report} + $stats->{all}->{to_report}
+          : $stats->{all}->{to_report};
+
+        $buckets{$bucket}->{broken_pct} =
+          ( ( $buckets{$bucket}->{broken} / $buckets{$bucket}->{count} ) *
+              100.0 );
+
         $buckets{$bucket}->{pct} =
           ( ( $buckets{$bucket}->{done} / $buckets{$bucket}->{count} ) *
               100.0 );
         push @{ $buckets{$bucket}->{children} }, $rec;
     }
+
+    my $tag_fmt = sub {
+        my ($pairs) = @_;
+        my @out;
+        for my $pair ( @{$pairs} ) {
+            next unless $pair->[1] > 0.01;
+            my $fmt = shift @{$pair};
+            push @out, sprintf $fmt, @{$pair};
+        }
+        if (@out) {
+            return '(' . ( join ', ', map { sprintf "%15s", $_ } @out ) . ')';
+        }
+        return '';
+    };
     for my $line (
         sort {
                  $b->{pct} <=> $a->{pct}
@@ -152,9 +210,18 @@ sub cmd_stats_verbose {
         } map { +{ category => $_, %{ $buckets{$_} } } } keys %buckets
       )
     {
-        printf "%-30s : %4s : %8.2f%% ( %s todo )\n", $line->{category},
-          $line->{count},
-          $line->{pct}, $line->{todo};
+        printf
+          "%-30s : %4s : %8.2f%% %s\n",
+          $line->{category}, $line->{count}, $line->{pct},
+          $tag_fmt->(
+            [
+                [ '%3d todo', $line->{todo} ],
+                [
+                    '%3d broken (%2.2f%%)', $line->{broken}, $line->{broken_pct}
+                ],
+                [ '%3d to report', $line->{to_report} ]
+            ]
+          );
 
         for my $child (
             sort {
@@ -164,9 +231,19 @@ sub cmd_stats_verbose {
             } @{ $line->{children} }
           )
         {
-            printf " /%-28s : %4s : %8.2f%% ( %s todo )\n", $child->{letter},
-              $child->{count},
-              $child->{pct}, $child->{todo};
+            printf
+              " /%-28s : %4s : %8.2f%% %s\n",
+              $child->{letter}, $child->{count}, $child->{pct},
+              $tag_fmt->(
+                [
+                    [ '%3d todo', $child->{todo} ],
+                    [
+                        '%3d broken (%2.2f%%)', $child->{broken},
+                        $child->{broken_pct}
+                    ],
+                    [ '%3d to report', $child->{to_report} ]
+                ]
+              );
 
         }
 
