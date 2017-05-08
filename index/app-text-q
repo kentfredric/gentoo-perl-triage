@@ -1,6 +1,6 @@
 ## stable:
-=app-text/qpdf-5.1.1-r1                                                          #
-#=app-text/qpdf-5.1.3-r1                                                         #testing
-#=app-text/qpdf-6.0.0-r1                                                         #testing
-#=app-text/qpdf-6.0.0-r2                                                         #testing
+=app-text/qpdf-5.1.1-r1                                                          #        #+
+#=app-text/qpdf-5.1.3-r1                                                         #testing #+
+#=app-text/qpdf-6.0.0-r1                                                         #testing #+
+#=app-text/qpdf-6.0.0-r2                                                         #testing #+
 ## testing:

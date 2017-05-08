@@ -1,7 +1,7 @@
 ## stable:
-=app-text/sablotron-1.0.3                                                        #
-#=app-text/sablotron-1.0.3-r1                                                    #testing
-=app-text/sloccount-2.26-r3                                                      #
-=app-text/stardict-3.0.6-r3                                                      #
-#=app-text/stardict-4.0.0_pre20160518-r1                                         #testing
+=app-text/sablotron-1.0.3                                                        #        #+
+#=app-text/sablotron-1.0.3-r1                                                    #testing #+
+=app-text/sloccount-2.26-r3                                                      #        #+
+=app-text/stardict-3.0.6-r3                                                      #        #+
+#=app-text/stardict-4.0.0_pre20160518-r1                                         #testing #+
 ## testing:
