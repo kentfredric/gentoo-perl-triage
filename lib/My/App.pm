@@ -107,10 +107,9 @@ sub cmd_stats {
           My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
         $stats = $index->stats($stats);
     }
-    local $Data::Dumper::Sortkeys = 1;
-    local $Data::Dumper::Terse    = 1;
-    local $Data::Dumper::Indent   = 1;
-    print( Dumper($stats) );
+    for my $cat ( sort keys %{$stats} ) {
+      printf "%8s: %6d/%-6d -> %8.2f%% ( todo: %6d )\n", $cat, $stats->{$cat}->{done}, $stats->{$cat}->{count}, $stats->{$cat}->{pct}, $stats->{$cat}->{todo};
+    }
 }
 
 sub cmd_stats_verbose {
