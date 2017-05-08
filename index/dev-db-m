@@ -1,16 +1,16 @@
 ## stable:
-=dev-db/maatkit-7540-r1                                                          #
+=dev-db/maatkit-7540-r1                                                          #        #+
 #=dev-db/mariadb-5.5.56                                                          #testing
-=dev-db/mariadb-10.0.29                                                          #
-#=dev-db/mariadb-10.0.30                                                         #
-#=dev-db/mariadb-10.1.23                                                         #testing
+=dev-db/mariadb-10.0.29                                                          #        # Build OK
+#=dev-db/mariadb-10.0.30                                                         #        # Build OK
+#=dev-db/mariadb-10.1.23                                                         #testing # Build OK
 #=dev-db/mariadb-10.2.1_alpha                                                    #testing
-=dev-db/mysqltuner-1.2.0                                                         #
-#=dev-db/mysqltuner-1.6.0                                                        #testing
-#=dev-db/mysqltuner-1.6.18                                                       #testing
+=dev-db/mysqltuner-1.2.0                                                         #        #+
+#=dev-db/mysqltuner-1.6.0                                                        #testing #+
+#=dev-db/mysqltuner-1.6.18                                                       #testing #+
 =dev-db/mytop-1.6-r4                                                             #
 #=dev-db/mytop-1.9.1                                                             #testing
 ## testing:
 #=dev-db/mariadb-galera-10.0.28                                                  #testing
 #=dev-db/mariadb-galera-10.0.30                                                  #testing
-#=dev-db/mtop-0.6.6-r3                                                           #testing
+#=dev-db/mtop-0.6.6-r3                                                           #testing #+

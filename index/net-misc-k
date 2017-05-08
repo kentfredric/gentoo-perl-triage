@@ -1,5 +1,5 @@
 ## stable:
-=net-misc/keychain-2.8.1                                                         #
-#=net-misc/keychain-2.8.2                                                        #testing
-#=net-misc/keychain-2.8.3                                                        #testing
+=net-misc/keychain-2.8.1                                                         #        #+
+#=net-misc/keychain-2.8.2                                                        #testing #+
+#=net-misc/keychain-2.8.3                                                        #testing #+
 ## testing:
