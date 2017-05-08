@@ -106,6 +106,8 @@ sub parse_file {
         if ( $package =~ s{\A#}{} ) {
             $is_commented = 1;
         }
+        defined $status and length $status and $status =~ s/\s*$//;
+        defined $whiteboard and length $whiteboard and $whiteboard =~ s/\s*$//;
         $container->add_row( $section, $package, $is_commented, $status,
             $whiteboard );
     }
