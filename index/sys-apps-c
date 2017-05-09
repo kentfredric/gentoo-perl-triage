@@ -1,9 +1,9 @@
 ## stable:
-=sys-apps/collectl-3.7.4                                                         #
-#=sys-apps/collectl-4.0.5                                                        #testing
-#=sys-apps/collectl-4.1.0                                                        #testing
-=sys-apps/coreutils-8.25                                                         #
-#=sys-apps/coreutils-8.26                                                        #testing
-#=sys-apps/coreutils-8.27                                                        #testing
+=sys-apps/collectl-3.7.4                                                         #        #+
+#=sys-apps/collectl-4.0.5                                                        #testing #+
+#=sys-apps/collectl-4.1.0                                                        #testing #+
+=sys-apps/coreutils-8.25                                                         #        #+
+#=sys-apps/coreutils-8.26                                                        #testing # REPORT
+#=sys-apps/coreutils-8.27                                                        #testing # REPORT
 ## testing:
 #=sys-apps/checkservice-1.2.0                                                    #testing
