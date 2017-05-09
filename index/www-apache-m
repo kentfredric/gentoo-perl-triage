@@ -1,4 +1,6 @@
 ## stable:
 =www-apache/mod_perl-2.0.10                                                      #
+=www-apache/mod_security-2.7.7                                                   #
+#=www-apache/mod_security-2.9.1                                                  #testing
 ## testing:
 #=www-apache/mod_auth_tkt-2.1.0-r1                                               #testing
