@@ -1,6 +1,6 @@
 ## stable:
 ## testing:
-#=dev-lang/tcc-0.9.26-r1                                                         #testing
-#=dev-lang/tcc-0.9.26-r2                                                         #testing
-#=dev-lang/tcc-0.9.26-r3                                                         #testing
+#=dev-lang/tcc-0.9.26-r1                                                         #testing # REPORT
+#=dev-lang/tcc-0.9.26-r2                                                         #testing # REPORT
+#=dev-lang/tcc-0.9.26-r3                                                         #testing # REPORT
 #=dev-lang/tcc-9999                                                              #testing
