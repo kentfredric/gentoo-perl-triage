@@ -1,7 +1,7 @@
 ## stable:
 ## testing:
-#=app-admin/needrestart-2.8-r1                                                   #testing
-#=app-admin/needrestart-2.9-r1                                                   #testing
-#=app-admin/needrestart-2.10                                                     #testing
-#=app-admin/needrestart-2.11                                                     #testing
+#=app-admin/needrestart-2.8-r1                                                   #testing #+
+#=app-admin/needrestart-2.9-r1                                                   #testing #+
+#=app-admin/needrestart-2.10                                                     #testing #+
+#=app-admin/needrestart-2.11                                                     #testing #+
 #=app-admin/needrestart-9999                                                     #testing
