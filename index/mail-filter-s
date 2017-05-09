@@ -1,8 +1,8 @@
 ## stable:
-=mail-filter/sieve-connect-0.87                                                  #
-=mail-filter/spamassassin-3.4.1-r8                                               #
-#=mail-filter/spamassassin-3.4.1-r11                                             #testing
-=mail-filter/sqlgrey-1.7.6-r2                                                    #
+=mail-filter/sieve-connect-0.87                                                  #        #+
+=mail-filter/spamassassin-3.4.1-r8                                               #        # REPORT (perl, .)
+#=mail-filter/spamassassin-3.4.1-r11                                             #testing # REPORT (perl, .)
+=mail-filter/sqlgrey-1.7.6-r2                                                    #        #+
 ## testing:
 #=mail-filter/spamassassin-botnet-0.8-r1                                         #testing
 #=mail-filter/spampd-2.30                                                        #testing

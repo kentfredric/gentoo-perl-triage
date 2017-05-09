@@ -1,15 +1,15 @@
 ## stable:
-=mail-filter/amavisd-new-2.7.2                                                   #
-#=mail-filter/amavisd-new-2.8.1-r1                                               #
-#=mail-filter/amavisd-new-2.9.1-r2                                               #testing
-#=mail-filter/amavisd-new-2.10.1                                                 #testing
-#=mail-filter/amavisd-new-2.10.1-r4                                              #testing
-#=mail-filter/amavisd-new-2.11.0-r2                                              #testing
-#=mail-filter/amavisd-new-2.11.0-r3                                              #
-=mail-filter/anomy-sanitizer-1.76-r1                                             #
-=mail-filter/assp-1.8.5.9                                                        #
-#=mail-filter/assp-1.9.4.7                                                       #testing
-#=mail-filter/assp-1.9.4.8                                                       #testing
-#=mail-filter/assp-1.9.4.9                                                       #testing
-#=mail-filter/assp-1.9.8.13030                                                   #testing
+=mail-filter/amavisd-new-2.7.2                                                   #        #+
+#=mail-filter/amavisd-new-2.8.1-r1                                               #        #+
+#=mail-filter/amavisd-new-2.9.1-r2                                               #testing #+
+#=mail-filter/amavisd-new-2.10.1                                                 #testing #+
+#=mail-filter/amavisd-new-2.10.1-r4                                              #testing #+
+#=mail-filter/amavisd-new-2.11.0-r2                                              #testing #+
+#=mail-filter/amavisd-new-2.11.0-r3                                              #        #+
+=mail-filter/anomy-sanitizer-1.76-r1                                             #        #+
+=mail-filter/assp-1.8.5.9                                                        #        #+
+#=mail-filter/assp-1.9.4.7                                                       #testing #+
+#=mail-filter/assp-1.9.4.8                                                       #testing #+
+#=mail-filter/assp-1.9.4.9                                                       #testing #+
+#=mail-filter/assp-1.9.8.13030                                                   #testing #+
 ## testing:
