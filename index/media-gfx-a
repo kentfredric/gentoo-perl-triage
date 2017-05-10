@@ -1,7 +1,7 @@
 ## stable:
-=media-gfx/album-4.07                                                            #
-#=media-gfx/album-4.13-r1                                                        #testing
-=media-gfx/asymptote-2.32                                                        #
-#=media-gfx/asymptote-2.36                                                       #testing
-#=media-gfx/asymptote-2.38                                                       #testing
+=media-gfx/album-4.07                                                            #        #+
+#=media-gfx/album-4.13-r1                                                        #testing #+
+=media-gfx/asymptote-2.32                                                        #        #+
+#=media-gfx/asymptote-2.36                                                       #testing # REPORT
+#=media-gfx/asymptote-2.38                                                       #testing # REPORT
 ## testing:

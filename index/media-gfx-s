@@ -1,8 +1,8 @@
 ## stable:
-=media-gfx/sam2p-0.49.1                                                          #
-#=media-gfx/sam2p-0.49.2                                                         #testing
-#=media-gfx/sam2p-0.49.3                                                         #testing
-=media-gfx/springgraph-88                                                        #
+=media-gfx/sam2p-0.49.1                                                          #        #+
+#=media-gfx/sam2p-0.49.2                                                         #testing #+
+#=media-gfx/sam2p-0.49.3                                                         #testing #+
+=media-gfx/springgraph-88                                                        #        #+
 ## testing:
 #=media-gfx/slic3r-1.1.7                                                         #testing
 #=media-gfx/slic3r-1.2.9-r2                                                      #testing
