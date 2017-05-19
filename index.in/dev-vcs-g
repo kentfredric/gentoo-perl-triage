@@ -1,8 +1,8 @@
 ## stable:
 =dev-vcs/git-2.10.2                                                              #
-#=dev-vcs/git-2.11.1                                                             #testing
 #=dev-vcs/git-2.12.2                                                             #testing
-#=dev-vcs/git-2.13.0_rc2                                                         #testing
+#=dev-vcs/git-2.12.3                                                             #testing
+#=dev-vcs/git-2.13.0                                                             #
 #=dev-vcs/git-9999                                                               #testing
 #=dev-vcs/git-9999-r1                                                            #testing
 #=dev-vcs/git-9999-r2                                                            #testing

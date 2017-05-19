@@ -31,6 +31,7 @@
 #=app-emulation/wine-staging-2.5                                                 #testing
 #=app-emulation/wine-staging-2.6                                                 #testing
 #=app-emulation/wine-staging-2.7                                                 #testing
+#=app-emulation/wine-staging-2.8                                                 #testing
 #=app-emulation/wine-staging-9999                                                #testing
 #=app-emulation/wine-vanilla-2.0                                                 #testing
 #=app-emulation/wine-vanilla-2.0.1                                               #testing
@@ -41,4 +42,5 @@
 #=app-emulation/wine-vanilla-2.5                                                 #testing
 #=app-emulation/wine-vanilla-2.6                                                 #testing
 #=app-emulation/wine-vanilla-2.7                                                 #testing
+#=app-emulation/wine-vanilla-2.8                                                 #testing
 #=app-emulation/wine-vanilla-9999                                                #testing

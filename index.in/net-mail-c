@@ -8,10 +8,8 @@
 #=net-mail/cyrus-imapd-2.4.17                                                    #
 #=net-mail/cyrus-imapd-2.4.17-r1                                                 #testing
 #=net-mail/cyrus-imapd-2.4.18                                                    #testing
-#=net-mail/cyrus-imapd-2.5.7                                                     #testing
-#=net-mail/cyrus-imapd-2.5.8                                                     #testing
-#=net-mail/cyrus-imapd-2.5.9                                                     #testing
 #=net-mail/cyrus-imapd-2.5.10                                                    #
 #=net-mail/cyrus-imapd-2.5.11                                                    #testing
 #=net-mail/cyrus-imapd-2.5.11-r1                                                 #testing
+#=net-mail/cyrus-imapd-3.0.1                                                     #testing
 ## testing:

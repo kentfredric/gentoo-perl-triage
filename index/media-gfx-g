@@ -4,7 +4,9 @@
 =media-gfx/graphite2-1.3.8                                                       #        #+
 #=media-gfx/graphite2-1.3.8-r1                                                   #        #+
 #=media-gfx/graphite2-1.3.9-r1                                                   #testing #+
+#=media-gfx/graphite2-1.3.10                                                     #testing
 =media-gfx/graphviz-2.38.0-r1                                                    #        #+
+#=media-gfx/graphviz-2.40.1                                                      #testing
 ## testing:
 #=media-gfx/gscan2pdf-1.7.1                                                      #testing
 #=media-gfx/gscan2pdf-1.7.2                                                      #testing

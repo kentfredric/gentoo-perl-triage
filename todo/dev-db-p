@@ -1,1 +1,6 @@
+=dev-db/postgresql-9.2.21
+=dev-db/postgresql-9.3.17
+=dev-db/postgresql-9.4.12
+=dev-db/postgresql-9.5.7
+=dev-db/postgresql-9.6.3
 =dev-db/postgresql-9999
