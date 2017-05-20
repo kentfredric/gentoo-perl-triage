@@ -44,7 +44,7 @@
 =dev-perl/Path-Class-0.360.0                                                     #        #+
 =dev-perl/Path-Tiny-0.61.0                                                       #        # broken: 614804
 #=dev-perl/Path-Tiny-0.84.0                                                      #testing # broken: 614804
-#=dev-perl/Path-Tiny-0.104.0                                                     #testing #+
+#=dev-perl/Path-Tiny-0.104.0                                                     #        #+
 =dev-perl/Pegex-0.600.0                                                          #        #+
 #=dev-perl/Pegex-0.630.0                                                         #testing #+
 =dev-perl/Perl-Critic-1.123                                                      #        # broken: 615706

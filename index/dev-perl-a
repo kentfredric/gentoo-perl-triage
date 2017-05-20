@@ -18,7 +18,7 @@
 =dev-perl/AnyEvent-HTTP-2.220.0                                                  #        #+
 #=dev-perl/AnyEvent-HTTP-2.230.0                                                 #testing #+
 =dev-perl/AnyEvent-I3-0.160.0                                                    #        # broken: 614694
-#=dev-perl/AnyEvent-I3-0.170.0                                                   #testing #+
+#=dev-perl/AnyEvent-I3-0.170.0                                                   #        #+
 =dev-perl/Apache-AuthCookie-3.230.0                                              #        #+
 #=dev-perl/Apache-AuthCookie-3.240.0                                             #testing #+
 #=dev-perl/Apache-AuthCookie-3.250.0                                             #testing #+
@@ -48,7 +48,7 @@
 =dev-perl/Archive-Zip-1.530.0                                                    #        # broken: 614430
 #=dev-perl/Archive-Zip-1.560.0                                                   #testing # broken: 614430
 #=dev-perl/Archive-Zip-1.570.0                                                   #testing # broken: 614430
-#=dev-perl/Archive-Zip-1.590.0                                                   #testing # needs stable
+#=dev-perl/Archive-Zip-1.590.0                                                   #        # needs stable
 =dev-perl/Array-Compare-2.20.0-r1                                                #        #+
 #=dev-perl/Array-Compare-2.110.0                                                 #testing #+
 =dev-perl/Array-RefElem-1.0.0-r1                                                 #        #+

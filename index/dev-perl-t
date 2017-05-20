@@ -30,8 +30,7 @@
 =dev-perl/Test-CleanNamespaces-0.180.0                                           #        #+
 =dev-perl/Test-Command-0.80.0-r1                                                 #        #+
 #=dev-perl/Test-Command-0.110.0                                                  #        #+
-=dev-perl/Test-Deep-1.120.0                                                      #        # broken: 614340
-#=dev-perl/Test-Deep-1.126.0                                                     #        #+
+=dev-perl/Test-Deep-1.126.0                                                      #        #+
 #=dev-perl/Test-Differences-0.630.0                                              #testing #+
 =dev-perl/Test-Differences-0.640.0                                               #        #+
 =dev-perl/Test-DistManifest-1.14.0                                               #
@@ -47,9 +46,10 @@
 =dev-perl/Test-Manifest-2.20.0                                                   #        # REPORT
 =dev-perl/Test-Memory-Cycle-1.60.0                                               #        #+
 =dev-perl/Test-MockModule-0.50.0-r2                                              #        #+
-#=dev-perl/Test-MockModule-0.110.0                                               #testing #+
+#=dev-perl/Test-MockModule-0.110.0                                               #        #+
 =dev-perl/Test-MockObject-1.201.505.270-r1                                       #        #+
 #=dev-perl/Test-MockObject-1.201.612.20                                          #testing #+
+=dev-perl/Test-MockRandom-1.10.0                                                 #        #+
 =dev-perl/Test-MockTime-0.150.0                                                  #        #+
 =dev-perl/Test-Most-0.310.0-r1                                                   #        #+
 #=dev-perl/Test-Most-0.340.0                                                     #testing #+
@@ -187,7 +187,6 @@
 #=dev-perl/Test-Files-0.140.0                                                    #testing #+
 #=dev-perl/Test-MinimumVersion-0.101.82                                          #testing #+
 #=dev-perl/Test-Mock-LWP-Dispatch-0.80.0                                         #testing #+
-#=dev-perl/Test-MockRandom-1.10.0                                                #testing #+
 #=dev-perl/Test-MockTime-HiRes-0.60.0                                            #testing #+
 #=dev-perl/Test-Needs-0.2.2                                                      #testing #+
 #=dev-perl/Test-Perl-Critic-1.20.0-r1                                            #testing #+

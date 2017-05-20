@@ -14,7 +14,7 @@
 =dev-perl/Unicode-MapUTF8-1.110.0-r1                                             #        #+
 =dev-perl/Unicode-String-2.90.0-r1                                               #        #+
 =dev-perl/Unicode-UTF8-0.600.0                                                   #        # broken: 614802
-#=dev-perl/Unicode-UTF8-0.620.0                                                  #testing #+
+#=dev-perl/Unicode-UTF8-0.620.0                                                  #        #+
 =dev-perl/Unicode-UTF8simple-1.60.0                                              #        #+
 =dev-perl/Unix-Getrusage-0.030.0                                                 #        #+
 =dev-perl/Unix-Syslog-1.100.0-r1                                                 #        #+

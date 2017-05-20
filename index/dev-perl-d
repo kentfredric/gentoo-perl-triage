@@ -33,7 +33,7 @@
 =dev-perl/Data-ICal-0.220.0                                                      #        # broken: 615604
 =dev-perl/Data-ObjectDriver-0.90.0-r1                                            #        # broken: 615598
 #=dev-perl/Data-ObjectDriver-0.140.0                                             #        # broken: 615598
-#=dev-perl/Data-ObjectDriver-0.150.0                                             #testing #+
+#=dev-perl/Data-ObjectDriver-0.150.0                                             #        #+
 =dev-perl/Data-OptList-0.109.0                                                   #        #+
 #=dev-perl/Data-OptList-0.110.0                                                  #        #+
 =dev-perl/Data-Page-2.20.0-r1                                                    #        #+
@@ -81,7 +81,7 @@
 =dev-perl/DateTime-Format-Strptime-1.700.0                                       #        #+
 #=dev-perl/DateTime-Format-Strptime-1.730.0                                      #testing #+
 =dev-perl/DateTime-Format-W3CDTF-0.60.0-r1                                       #        # broken: 614962
-#=dev-perl/DateTime-Format-W3CDTF-0.70.0                                         #testing # needs stable
+#=dev-perl/DateTime-Format-W3CDTF-0.70.0                                         #        # needs stable
 =dev-perl/DateTime-Locale-0.460.0                                                #        #+
 #=dev-perl/DateTime-Locale-1.20.0                                                #testing #+
 #=dev-perl/DateTime-Locale-1.30.0                                                #testing #+
@@ -153,6 +153,7 @@
 #=dev-perl/Data-Dump-Streamer-2.400.0                                            #testing # broken: 615698
 #=dev-perl/Data-Dumper-Concise-2.20.0-r1                                         #testing # broken: 615864
 #=dev-perl/Data-Dumper-Concise-2.22.0                                            #testing # broken: 615864
+#=dev-perl/Data-Dumper-Concise-2.23.0                                            #testing
 #=dev-perl/Data-Float-0.12.0                                                     #testing #+
 #=dev-perl/Data-Section-0.200.6                                                  #testing #+
 #=dev-perl/Data-Serializer-0.600.0                                               #testing #+
@@ -177,6 +178,7 @@
 #=dev-perl/Devel-ArgNames-0.30.0-r1                                              #testing #+
 #=dev-perl/Devel-Cover-1.230.0                                                   #testing # broken: 615730
 #=dev-perl/Devel-Cover-1.230.0-r1                                                #testing # broken: 615730
+#=dev-perl/Devel-Cover-1.250.0                                                   #testing
 #=dev-perl/Devel-Declare-0.6.19                                                  #testing #+
 #=dev-perl/Devel-Dumpvar-1.60.0-r1                                               #testing # broken: 615732
 #=dev-perl/Devel-FindPerl-0.14.0                                                 #testing #+

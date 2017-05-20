@@ -24,6 +24,7 @@
 =dev-perl/boolean-0.450.0                                                        #        #+
 ## testing:
 #=dev-perl/B-Hooks-OP-Check-0.190.0-r1                                           #testing # broken: 613756
+#=dev-perl/B-Hooks-OP-Check-0.210.0                                              #testing
 #=dev-perl/B-Hooks-Parser-0.190.0                                                #testing #+
 #=dev-perl/B-OPCheck-0.320.0                                                     #testing #+
 #=dev-perl/B-Utils-0.270.0                                                       #testing #+
