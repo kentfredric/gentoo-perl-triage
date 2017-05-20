@@ -1,11 +1,11 @@
 ## stable:
-=app-backup/amanda-3.3.3                                                         #
-#=app-backup/amanda-3.3.3-r1                                                     #testing
-#=app-backup/amanda-3.3.5                                                        #testing
-#=app-backup/amanda-3.3.7                                                        #
-#=app-backup/amanda-3.3.9                                                        #
-#=app-backup/amanda-3.4.1                                                        #testing
-#=app-backup/amanda-3.4.2                                                        #testing
-#=app-backup/amanda-3.4.3                                                        #testing
-#=app-backup/amanda-3.4.4                                                        #testing
+=app-backup/amanda-3.3.3                                                         #        # REPORT
+#=app-backup/amanda-3.3.3-r1                                                     #testing #+
+#=app-backup/amanda-3.3.5                                                        #testing #+
+#=app-backup/amanda-3.3.7                                                        #        #+
+#=app-backup/amanda-3.3.9                                                        #        #+
+#=app-backup/amanda-3.4.1                                                        #testing # REPORT
+#=app-backup/amanda-3.4.2                                                        #testing # REPORT
+#=app-backup/amanda-3.4.3                                                        #testing # REPORT
+#=app-backup/amanda-3.4.4                                                        #testing # REPORT
 ## testing:
