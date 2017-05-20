@@ -1,13 +1,13 @@
 ## stable:
-=media-sound/lilypond-2.18.2-r3                                                  #
-#=media-sound/lilypond-2.19.54                                                   #testing
-#=media-sound/lilypond-2.19.55                                                   #testing
-#=media-sound/lilypond-2.19.56                                                   #testing
-#=media-sound/lilypond-2.19.57                                                   #testing
-#=media-sound/lilypond-2.19.58                                                   #testing
-#=media-sound/lilypond-2.19.59                                                   #testing
-#=media-sound/lilypond-2.19.60                                                   #testing
+=media-sound/lilypond-2.18.2-r3                                                  #        #+
+#=media-sound/lilypond-2.19.54                                                   #testing #+
+#=media-sound/lilypond-2.19.55                                                   #testing #+
+#=media-sound/lilypond-2.19.56                                                   #testing #+
+#=media-sound/lilypond-2.19.57                                                   #testing #+
+#=media-sound/lilypond-2.19.58                                                   #testing #+
+#=media-sound/lilypond-2.19.59                                                   #testing #+
+#=media-sound/lilypond-2.19.60                                                   #testing #+
 #=media-sound/lilypond-9999                                                      #testing
 ## testing:
-#=media-sound/lltag-0.14.4-r1                                                    #testing
-#=media-sound/lltag-0.14.5                                                       #testing
+#=media-sound/lltag-0.14.4-r1                                                    #testing #+
+#=media-sound/lltag-0.14.5                                                       #testing #+
