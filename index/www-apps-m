@@ -2,8 +2,8 @@
 ## testing:
 #=www-apps/metadot-6.1.6-r1                                                      #testing
 #=www-apps/metadot-6.4.5.4-r1                                                    #testing
-#=www-apps/mirmon-1.38-r4                                                        #testing
-#=www-apps/mirmon-2.10                                                           #testing
-#=www-apps/mod_survey-3.2.5                                                      #testing
-#=www-apps/mythweb-0.27.5                                                        #testing
+#=www-apps/mirmon-1.38-r4                                                        #testing #+
+#=www-apps/mirmon-2.10                                                           #testing #+
+#=www-apps/mod_survey-3.2.5                                                      #testing #+
+#=www-apps/mythweb-0.27.5                                                        #testing #+
 #=www-apps/mythweb-0.28                                                          #testing
