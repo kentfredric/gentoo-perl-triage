@@ -73,7 +73,7 @@
 =dev-perl/namespace-autoclean-0.130.0-r1                                         #        #+
 #=dev-perl/namespace-autoclean-0.280.0                                           #        #+
 =dev-perl/namespace-clean-0.210.0-r1                                             #        #+
-#=dev-perl/namespace-clean-0.260.0                                               #        # REPORT
+#=dev-perl/namespace-clean-0.260.0                                               #        # broken: 614648
 #=dev-perl/namespace-clean-0.270.0                                               #        #+
 ## testing:
 #=dev-perl/Net-ARP-1.0.9                                                         #testing #+
