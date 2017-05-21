@@ -5,11 +5,11 @@
 =dev-perl/SNMP_Session-1.13-r2                                                   #        #+
 =dev-perl/SOAP-Lite-1.190.0                                                      #        #+
 =dev-perl/SQL-Abstract-1.810.0                                                   #        # broken: 615224
-#=dev-perl/SQL-Abstract-1.840.0                                                  #testing #+
+#=dev-perl/SQL-Abstract-1.840.0                                                  #        #+
 =dev-perl/SQL-Statement-1.405.0-r1                                               #        # broken: 614926
 #=dev-perl/SQL-Statement-1.409.0                                                 #testing # broken: 614926
 #=dev-perl/SQL-Statement-1.410.0                                                 #testing # broken: 614926
-#=dev-perl/SQL-Statement-1.412.0                                                 #testing #+
+#=dev-perl/SQL-Statement-1.412.0                                                 #        #+
 =dev-perl/SUPER-1.201.411.170                                                    #        #+
 =dev-perl/SVG-2.640.0                                                            #        #+
 =dev-perl/SVG-Graph-0.20.0-r1                                                    #        #+
@@ -48,7 +48,7 @@
 =dev-perl/Statistics-Descriptive-Discrete-0.70.0-r1                              #        #+
 =dev-perl/Stream-Buffered-0.30.0                                                 #        #+
 =dev-perl/String-Approx-3.270.0                                                  #        # broken: 615810
-#=dev-perl/String-Approx-3.280.0                                                 #testing #+
+#=dev-perl/String-Approx-3.280.0                                                 #        #+
 =dev-perl/String-CRC32-1.500.0                                                   #        #+
 =dev-perl/String-Ediff-0.90.0-r1                                                 #        #+
 =dev-perl/String-Format-1.170.0-r1                                               #        #+

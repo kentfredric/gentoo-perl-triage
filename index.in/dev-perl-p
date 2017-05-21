@@ -37,7 +37,7 @@
 #=dev-perl/Params-Validate-1.230.0                                               #testing
 =dev-perl/Parse-RecDescent-1.967.13                                              #
 #=dev-perl/Parse-RecDescent-1.967.14                                             #testing
-#=dev-perl/Parse-RecDescent-1.967.15                                             #testing
+#=dev-perl/Parse-RecDescent-1.967.15                                             #
 =dev-perl/Parse-Syslog-1.100.0-r1                                                #
 =dev-perl/Parse-Yapp-1.50.0-r1                                                   #
 =dev-perl/PatchReader-0.9.6-r1                                                   #

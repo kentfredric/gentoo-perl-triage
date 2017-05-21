@@ -43,7 +43,7 @@
 =dev-perl/XML-RegExp-0.40.0-r1                                                   #        #+
 =dev-perl/XML-SAX-0.990.0-r1                                                     #        #+
 =dev-perl/XML-SAX-Base-1.80.0-r1                                                 #        # broken: 614536
-#=dev-perl/XML-SAX-Base-1.90.0                                                   #testing #+
+#=dev-perl/XML-SAX-Base-1.90.0                                                   #        #+
 =dev-perl/XML-SAX-Writer-0.560.0                                                 #        #+
 =dev-perl/XML-Simple-2.200.0-r1                                                  #        # REPORT
 #=dev-perl/XML-Simple-2.220.0                                                    #testing #+
