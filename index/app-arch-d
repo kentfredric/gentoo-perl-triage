@@ -1,5 +1,5 @@
 ## stable:
-=app-arch/deb2targz-1-r2                                                         #
+=app-arch/deb2targz-1-r2                                                         #        #+
 =app-arch/dpkg-1.17.26                                                           #
 #=app-arch/dpkg-1.18.18                                                          #testing
 #=app-arch/dpkg-1.18.22                                                          #testing

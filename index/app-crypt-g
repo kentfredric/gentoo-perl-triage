@@ -1,8 +1,8 @@
 ## stable:
-=app-crypt/gnupg-1.4.21                                                          #
+=app-crypt/gnupg-1.4.21                                                          #        #+
 #=app-crypt/gnupg-2.1.15                                                         #
-#=app-crypt/gnupg-2.1.18                                                         #
-#=app-crypt/gnupg-2.1.20-r1                                                      #
-#=app-crypt/gnupg-2.1.21                                                         #testing
+#=app-crypt/gnupg-2.1.18                                                         #        #+
+#=app-crypt/gnupg-2.1.20-r1                                                      #        #+
+#=app-crypt/gnupg-2.1.21                                                         #testing #+
 =app-crypt/gpg-ringmgr-1.12                                                      #
 ## testing:

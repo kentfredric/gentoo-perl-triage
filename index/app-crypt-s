@@ -1,5 +1,5 @@
 ## stable:
-=app-crypt/signing-party-2.4                                                     #
-#=app-crypt/signing-party-2.5                                                    #
+=app-crypt/signing-party-2.4                                                     #        #+
+#=app-crypt/signing-party-2.5                                                    #        #+
 ## testing:
-#=app-crypt/sgeps-0_pre15                                                        #testing
+#=app-crypt/sgeps-0_pre15                                                        #testing #+
