@@ -11,6 +11,7 @@
 #=dev-perl/CGI-Compile-0.220.0                                                   #testing # broken: 614352
 #=dev-perl/CGI-Emulate-PSGI-0.210.0                                              #testing #+
 =dev-perl/CGI-Emulate-PSGI-0.220.0                                               #        #+
+#=dev-perl/CGI-Emulate-PSGI-0.230.0                                              #testing
 =dev-perl/CGI-Fast-2.100.0                                                       #        #+
 #=dev-perl/CGI-Fast-2.110.0                                                      #testing #+
 =dev-perl/CGI-FastTemplate-1.90.0-r1                                             #        #+
@@ -35,6 +36,7 @@
 #=dev-perl/CPAN-Perl-Releases-3.60.0                                             #testing #+
 #=dev-perl/CPAN-Perl-Releases-3.80.0                                             #testing #+
 #=dev-perl/CPAN-Perl-Releases-3.120.0                                            #testing #+
+#=dev-perl/CPAN-Perl-Releases-3.160.0                                            #testing
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #        #+
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #        #+
 =dev-perl/Cache-2.40.0-r1                                                        #        # random breakage
@@ -67,6 +69,7 @@
 =dev-perl/Class-Accessor-Lite-0.80.0                                             #        # broken: 613708
 =dev-perl/Class-Autouse-2.10.0-r1                                                #        # broken: 615124
 =dev-perl/Class-C3-0.310.0                                                       #        # needs stable
+#=dev-perl/Class-C3-0.330.0                                                      #testing
 =dev-perl/Class-C3-XS-0.130.0-r1                                                 #        # broken: 615128
 #=dev-perl/Class-C3-XS-0.140.0                                                   #        # needs stable
 =dev-perl/Class-Container-0.120.0-r1                                             #        #+
@@ -108,6 +111,7 @@
 #=dev-perl/Compress-Bzip2-2.260.0                                                #        # needs stable
 =dev-perl/Config-Any-0.290.0                                                     #        # needs stable
 #=dev-perl/Config-Any-0.300.0                                                    #testing #+
+#=dev-perl/Config-Any-0.320.0                                                    #testing
 =dev-perl/Config-ApacheFormat-1.200.0-r1                                         #        #+
 #=dev-perl/Config-AutoConf-0.311.0                                               #testing #+
 =dev-perl/Config-AutoConf-0.313.0                                                #        #+
@@ -235,6 +239,7 @@
 #=dev-perl/Coro-6.511.0                                                          #testing # broken: 615520
 #=dev-perl/Cpanel-JSON-XS-3.23.0                                                 #testing #+
 #=dev-perl/Cpanel-JSON-XS-3.23.100                                               #testing #+
+#=dev-perl/Cpanel-JSON-XS-3.23.300                                               #testing
 #=dev-perl/Crypt-CipherSaber-1.10.0                                              #testing #+
 #=dev-perl/Crypt-Curve25519-0.50.0                                               #testing #+
 #=dev-perl/Crypt-Curve25519-0.60.0                                               #testing #+

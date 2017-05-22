@@ -12,6 +12,7 @@
 #=dev-perl/SQL-Statement-1.412.0                                                 #        #+
 =dev-perl/SUPER-1.201.411.170                                                    #        #+
 =dev-perl/SVG-2.640.0                                                            #        #+
+#=dev-perl/SVG-2.770.0                                                           #testing
 =dev-perl/SVG-Graph-0.20.0-r1                                                    #        #+
 =dev-perl/SVN-Simple-0.280.0-r1                                                  #        #+
 =dev-perl/Safe-Hole-0.130.0-r1                                                   #        #+
