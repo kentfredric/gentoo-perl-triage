@@ -1,6 +1,6 @@
 ## stable:
-=xfce-base/exo-0.10.6                                                            #
-#=xfce-base/exo-0.10.7                                                           #
+=xfce-base/exo-0.10.6                                                            #        #+
+#=xfce-base/exo-0.10.7                                                           #        #+
 #=xfce-base/exo-0.11.1                                                           #testing
-#=xfce-base/exo-0.11.2                                                           #testing
+#=xfce-base/exo-0.11.2                                                           #testing #+
 ## testing:

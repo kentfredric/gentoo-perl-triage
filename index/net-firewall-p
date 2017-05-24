@@ -1,5 +1,5 @@
 ## stable:
-=net-firewall/psad-2.2.5                                                         #
-#=net-firewall/psad-2.4.3                                                        #testing
-#=net-firewall/psad-2.4.4                                                        #testing
+=net-firewall/psad-2.2.5                                                         #        #+
+#=net-firewall/psad-2.4.3                                                        #testing #+
+#=net-firewall/psad-2.4.4                                                        #testing #+
 ## testing:

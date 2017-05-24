@@ -1,7 +1,7 @@
 ## stable:
-=sys-cluster/glusterfs-3.6.5                                                     #
-#=sys-cluster/glusterfs-3.7.4                                                    #testing
-#=sys-cluster/glusterfs-3.8.6                                                    #testing
-#=sys-cluster/glusterfs-3.8.11                                                   #testing
-#=sys-cluster/glusterfs-3.10.1                                                   #testing
+=sys-cluster/glusterfs-3.6.5                                                     #        #+
+#=sys-cluster/glusterfs-3.7.4                                                    #testing #+
+#=sys-cluster/glusterfs-3.8.6                                                    #testing #+
+#=sys-cluster/glusterfs-3.8.11                                                   #testing #+
+#=sys-cluster/glusterfs-3.10.1                                                   #testing #+
 ## testing:
