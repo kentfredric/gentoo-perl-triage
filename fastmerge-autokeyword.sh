@@ -52,4 +52,3 @@ fi
 echo "[32m success installing > [35m$@[0m"
 echo "$@" >> /tmp/merge.success
 echo "pass $@" >> /tmp/merge.all
-cleanup;
