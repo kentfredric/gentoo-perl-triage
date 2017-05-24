@@ -1,5 +1,8 @@
 EARGS=( 
-	"-tq1"
+	"-t1"
+	"--quiet-build=y"
+	"--quiet-repo-display"
+	"--nospinner"
 	"--autounmask=y" 
 	"--autounmask-keep-masks=y"
 	"--autounmask-unrestricted-atoms=n"
