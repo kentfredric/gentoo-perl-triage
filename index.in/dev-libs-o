@@ -1,7 +1,8 @@
 ## stable:
 =dev-libs/openssl-0.9.8z_p8                                                      #
 #=dev-libs/openssl-1.0.2k                                                        #
-#=dev-libs/openssl-1.1.0e                                                        #testing
+#=dev-libs/openssl-1.0.2l                                                        #testing
+#=dev-libs/openssl-1.1.0f                                                        #testing
 =dev-libs/ossp-uuid-1.6.2-r2                                                     #
 #=dev-libs/ossp-uuid-1.6.2-r4                                                    #
 #=dev-libs/ossp-uuid-1.6.2-r5                                                    #testing

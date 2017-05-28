@@ -51,8 +51,7 @@
 =dev-perl/HTTP-Message-6.110.0                                                   #        #+
 =dev-perl/HTTP-Negotiate-6.10.0                                                  #        #+
 =dev-perl/HTTP-Request-AsCGI-1.200.0                                             #        #+
-=dev-perl/HTTP-Server-Simple-0.510.0                                             #        # broken: 614414
-#=dev-perl/HTTP-Server-Simple-0.520.0                                            #        #+
+=dev-perl/HTTP-Server-Simple-0.520.0                                             #        #+
 =dev-perl/HTTP-Server-Simple-Mason-0.140.0-r1                                    #        # broken: 616984
 =dev-perl/HTTP-Server-Simple-PSGI-0.160.0                                        #        #+
 =dev-perl/HTTPD-User-Manage-1.660.0-r1                                           #        # broken: 616986

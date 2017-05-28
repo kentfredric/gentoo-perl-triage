@@ -37,6 +37,7 @@
 #=dev-perl/CPAN-Perl-Releases-3.80.0                                             #testing #+
 #=dev-perl/CPAN-Perl-Releases-3.120.0                                            #testing #+
 #=dev-perl/CPAN-Perl-Releases-3.160.0                                            #testing
+#=dev-perl/CPAN-Perl-Releases-3.180.0                                            #testing
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #        #+
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #        #+
 =dev-perl/Cache-2.40.0-r1                                                        #        # random breakage
@@ -118,7 +119,7 @@
 #=dev-perl/Config-AutoConf-0.314.0                                               #testing #+
 =dev-perl/Config-Crontab-1.400.0                                                 #        # broken: 615114
 #=dev-perl/Config-Crontab-1.410.0                                                #testing # broken: 615114
-#=dev-perl/Config-Crontab-1.450.0                                                #testing #+
+#=dev-perl/Config-Crontab-1.450.0                                                #        #+
 =dev-perl/Config-General-2.600.0                                                 #        #+
 #=dev-perl/Config-General-2.620.0                                                #testing #+
 #=dev-perl/Config-General-2.630.0                                                #        #+
@@ -231,7 +232,6 @@
 #=dev-perl/Config-MVP-2.200.10                                                   #testing #+
 #=dev-perl/Config-MVP-Reader-INI-2.101.463                                       #testing #+
 #=dev-perl/Config-Properties-1.800.0                                             #testing #+
-#=dev-perl/Context-Preserve-0.10.0-r1                                            #testing # broken: 615516
 #=dev-perl/Context-Preserve-0.20.0                                               #testing
 #=dev-perl/Contextual-Return-0.4.10                                              #testing #+
 #=dev-perl/Contextual-Return-0.4.14                                              #testing #+

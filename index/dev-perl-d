@@ -105,6 +105,7 @@
 #=dev-perl/Devel-CheckLib-1.70.0                                                 #testing #+
 #=dev-perl/Devel-CheckLib-1.90.0                                                 #testing #+
 #=dev-perl/Devel-CheckLib-1.100.0                                                #testing #+
+#=dev-perl/Devel-CheckLib-1.110.0                                                #testing
 =dev-perl/Devel-Cycle-1.120.0                                                    #        #+
 =dev-perl/Devel-GlobalDestruction-0.120.0                                        #        #+
 #=dev-perl/Devel-GlobalDestruction-0.130.0                                       #        #+
@@ -152,8 +153,6 @@
 #=dev-perl/DB_File-Lock-0.50.0-r1                                                #testing #+
 #=dev-perl/Data-Dump-Streamer-2.390.0                                            #testing # broken: 615698
 #=dev-perl/Data-Dump-Streamer-2.400.0                                            #testing # broken: 615698
-#=dev-perl/Data-Dumper-Concise-2.20.0-r1                                         #testing # broken: 615864
-#=dev-perl/Data-Dumper-Concise-2.22.0                                            #testing # broken: 615864
 #=dev-perl/Data-Dumper-Concise-2.23.0                                            #testing
 #=dev-perl/Data-Float-0.12.0                                                     #testing #+
 #=dev-perl/Data-Section-0.200.6                                                  #testing #+
@@ -177,8 +176,6 @@
 #=dev-perl/DateTimeX-Easy-0.89.0                                                 #testing #+
 #=dev-perl/Debug-Client-0.290.0                                                  #testing # broken: 615722
 #=dev-perl/Devel-ArgNames-0.30.0-r1                                              #testing #+
-#=dev-perl/Devel-Cover-1.230.0                                                   #testing # broken: 615730
-#=dev-perl/Devel-Cover-1.230.0-r1                                                #testing # broken: 615730
 #=dev-perl/Devel-Cover-1.250.0                                                   #testing
 #=dev-perl/Devel-Declare-0.6.19                                                  #testing #+
 #=dev-perl/Devel-Dumpvar-1.60.0-r1                                               #testing # broken: 615732

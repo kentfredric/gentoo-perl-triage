@@ -1,5 +1,4 @@
 ## stable:
 ## testing:
-#=app-emulation/rkt-1.23.0                                                       #testing
-#=app-emulation/rkt-1.24.0                                                       #testing
 #=app-emulation/rkt-1.25.0                                                       #testing
+#=app-emulation/rkt-1.26.0                                                       #testing
