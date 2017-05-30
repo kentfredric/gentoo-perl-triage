@@ -1,6 +1,6 @@
 ## stable:
-=dev-tex/glossaries-3.04                                                         #
-#=dev-tex/glossaries-4.07                                                        #testing
-#=dev-tex/glossaries-4.11                                                        #testing
-#=dev-tex/glossaries-4.12-r1                                                     #testing
+=dev-tex/glossaries-3.04                                                         #        #+
+#=dev-tex/glossaries-4.07                                                        #testing #+
+#=dev-tex/glossaries-4.11                                                        #testing #+
+#=dev-tex/glossaries-4.12-r1                                                     #testing #+
 ## testing:
