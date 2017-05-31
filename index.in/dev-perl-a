@@ -69,8 +69,7 @@
 =dev-perl/Authen-Simple-Passwd-0.600.0                                           #
 =dev-perl/AutoXS-Header-1.20.0-r1                                                #
 =dev-perl/asa-1.30.0                                                             #
-=dev-perl/autobox-2.830.0                                                        #
-#=dev-perl/autobox-2.850.0                                                       #
+=dev-perl/autobox-2.850.0                                                        #
 =dev-perl/autovivification-0.160.0                                               #
 ## testing:
 #=dev-perl/Algorithm-ClusterPoints-0.80.0                                        #testing

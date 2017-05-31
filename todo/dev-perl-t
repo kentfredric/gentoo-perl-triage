@@ -8,6 +8,7 @@
 =dev-perl/Test-TCP-2.190.0
 =dev-perl/Text-CSV-1.950.0
 =dev-perl/Text-CSV_XS-1.290.0
+=dev-perl/Tie-Cycle-1.224.0
 =dev-perl/Test-Dependencies-0.120.0
 =dev-perl/Test-Dependencies-0.210.0
 =dev-perl/Test-File-1.442.0

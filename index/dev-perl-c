@@ -38,6 +38,7 @@
 #=dev-perl/CPAN-Perl-Releases-3.120.0                                            #testing #+
 #=dev-perl/CPAN-Perl-Releases-3.160.0                                            #testing
 #=dev-perl/CPAN-Perl-Releases-3.180.0                                            #testing
+#=dev-perl/CPAN-Perl-Releases-3.200.0                                            #testing
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #        #+
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #        #+
 =dev-perl/Cache-2.40.0-r1                                                        #        # random breakage

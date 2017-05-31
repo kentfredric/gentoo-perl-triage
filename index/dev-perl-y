@@ -5,6 +5,7 @@
 #=dev-perl/YAML-LibYAML-0.620.0                                                  #testing # broken: 614634
 =dev-perl/YAML-LibYAML-0.630.0                                                   #        # broken: 614634
 #=dev-perl/YAML-LibYAML-0.640.0                                                  #        #+
+#=dev-perl/YAML-LibYAML-0.650.0                                                  #testing
 =dev-perl/YAML-Syck-1.290.0                                                      #        # broken: 614448
 #=dev-perl/YAML-Syck-1.300.0                                                     #        # broken: 614448
 =dev-perl/YAML-Tiny-1.690.0                                                      #        #+

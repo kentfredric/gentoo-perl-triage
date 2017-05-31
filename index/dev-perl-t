@@ -55,8 +55,7 @@
 =dev-perl/Test-MockTime-0.150.0                                                  #        #+
 =dev-perl/Test-Most-0.310.0-r1                                                   #        #+
 #=dev-perl/Test-Most-0.340.0                                                     #testing #+
-=dev-perl/Test-NoTabs-1.400.0                                                    #        # broken: 615496
-#=dev-perl/Test-NoTabs-2.0.0-r1                                                  #        #+
+=dev-perl/Test-NoTabs-2.0.0-r1                                                   #        #+
 =dev-perl/Test-NoWarnings-1.40.0-r3                                              #        #+
 =dev-perl/Test-Number-Delta-1.40.0                                               #        #+
 #=dev-perl/Test-Number-Delta-1.60.0                                              #        #+
@@ -141,6 +140,7 @@
 #=dev-perl/Throwable-0.200.13                                                    #        #+
 =dev-perl/Tie-Array-Sorted-1.410.0-r1                                            #        #+
 =dev-perl/Tie-Cycle-1.221.0                                                      #        #+
+#=dev-perl/Tie-Cycle-1.224.0                                                     #testing
 =dev-perl/Tie-EncryptedHash-1.240.0-r1                                           #        #+
 =dev-perl/Tie-IxHash-1.230.0                                                     #        #+
 =dev-perl/Tie-ShadowHash-1.0.0-r1                                                #        #+

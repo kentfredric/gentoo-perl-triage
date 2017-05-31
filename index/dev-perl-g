@@ -63,6 +63,7 @@
 #=dev-perl/Gearman-2.4.2                                                         #testing #+
 #=dev-perl/Gearman-2.4.3                                                         #testing #+
 #=dev-perl/Gearman-2.4.6                                                         #testing
+#=dev-perl/Gearman-2.4.7                                                         #testing
 #=dev-perl/Gearman-Client-Async-0.940.0-r1                                       #testing #+
 #=dev-perl/Gearman-Server-1.120.0                                                #testing #+
 #=dev-perl/Getopt-GUI-Long-0.930.0-r1                                            #testing #+

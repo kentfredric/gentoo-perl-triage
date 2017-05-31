@@ -43,9 +43,7 @@
 =dev-perl/Parse-Yapp-1.50.0-r1                                                   #
 =dev-perl/PatchReader-0.9.6-r1                                                   #
 =dev-perl/Path-Class-0.360.0                                                     #
-=dev-perl/Path-Tiny-0.61.0                                                       #
-#=dev-perl/Path-Tiny-0.84.0                                                      #testing
-#=dev-perl/Path-Tiny-0.104.0                                                     #
+=dev-perl/Path-Tiny-0.104.0                                                      #
 =dev-perl/Pegex-0.600.0                                                          #
 #=dev-perl/Pegex-0.630.0                                                         #testing
 =dev-perl/Perl-Critic-1.123                                                      #
