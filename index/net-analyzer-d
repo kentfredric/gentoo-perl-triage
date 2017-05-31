@@ -1,4 +1,4 @@
 ## stable:
-=net-analyzer/dhcpdump-1.8                                                       #
+=net-analyzer/dhcpdump-1.8                                                       #        #+
 ## testing:
-#=net-analyzer/dnsenum-1.2.2                                                     #testing
+#=net-analyzer/dnsenum-1.2.2                                                     #testing #+
