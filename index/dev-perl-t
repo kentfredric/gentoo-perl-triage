@@ -31,11 +31,13 @@
 =dev-perl/Test-Command-0.80.0-r1                                                 #        #+
 #=dev-perl/Test-Command-0.110.0                                                  #        #+
 =dev-perl/Test-Deep-1.126.0                                                      #        #+
+#=dev-perl/Test-Deep-1.127.0                                                     #testing
 #=dev-perl/Test-Differences-0.630.0                                              #testing #+
 =dev-perl/Test-Differences-0.640.0                                               #        #+
 =dev-perl/Test-DistManifest-1.14.0                                               #
 =dev-perl/Test-Distribution-2.0.0-r1                                             #        #+
 =dev-perl/Test-EOL-1.600.0                                                       #        #+
+#=dev-perl/Test-EOL-2.0.0                                                        #testing
 =dev-perl/Test-Exception-0.430.0                                                 #        #+
 =dev-perl/Test-FailWarnings-0.8.0                                                #        #+
 =dev-perl/Test-Fatal-0.14.0                                                      #        #+
@@ -75,6 +77,7 @@
 =dev-perl/Test-TCP-2.60.0                                                        #        # broken: 614342
 #=dev-perl/Test-TCP-2.160.0                                                      #testing # broken: 614342
 #=dev-perl/Test-TCP-2.170.0                                                      #        # broken: 614342
+#=dev-perl/Test-TCP-2.190.0                                                      #testing
 =dev-perl/Test-Taint-1.60.0-r1                                                   #        #+
 =dev-perl/Test-Time-0.40.0                                                       #        # broken: 614418
 =dev-perl/Test-Trap-0.2.2-r1                                                     #        #+
@@ -94,10 +97,12 @@
 #=dev-perl/Text-CSV-1.920.0                                                      #testing # broken: 614612
 #=dev-perl/Text-CSV-1.930.0                                                      #testing #+
 #=dev-perl/Text-CSV-1.940.0                                                      #        #+
+#=dev-perl/Text-CSV-1.950.0                                                      #testing
 =dev-perl/Text-CSV-Simple-1.0.0-r1                                               #        #+
 =dev-perl/Text-CSV_XS-1.230.0                                                    #        # broken: 613582
 #=dev-perl/Text-CSV_XS-1.260.0                                                   #testing # broken: 613582
 #=dev-perl/Text-CSV_XS-1.280.0                                                   #        # needs stable
+#=dev-perl/Text-CSV_XS-1.290.0                                                   #testing
 =dev-perl/Text-CharWidth-0.40.0-r1                                               #        #+
 =dev-perl/Text-Diff-1.410.0-r1                                                   #        #+
 #=dev-perl/Text-Diff-1.430.0                                                     #testing #+
@@ -187,6 +192,7 @@
 #=dev-perl/Test-MinimumVersion-0.101.82                                          #testing #+
 #=dev-perl/Test-Mock-LWP-Dispatch-0.80.0                                         #testing #+
 #=dev-perl/Test-MockTime-HiRes-0.60.0                                            #testing #+
+#=dev-perl/Test-MockTime-HiRes-0.70.0                                            #testing
 #=dev-perl/Test-Needs-0.2.2                                                      #testing #+
 #=dev-perl/Test-Perl-Critic-1.20.0-r1                                            #testing #+
 #=dev-perl/Test-Perl-Critic-1.30.0                                               #testing #+

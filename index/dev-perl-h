@@ -27,6 +27,7 @@
 #=dev-perl/HTML-TableParser-0.420.0                                              #testing #+
 =dev-perl/HTML-Tagset-3.200.0-r1                                                 #        #+
 =dev-perl/HTML-Template-2.950.0                                                  #        #+
+#=dev-perl/HTML-Template-2.970.0                                                 #testing
 =dev-perl/HTML-Template-Expr-0.70.0-r1                                           #        #+
 =dev-perl/HTML-Template-JIT-0.50.0-r1                                            #        #+
 =dev-perl/HTML-TokeParser-Simple-3.160.0-r1                                      #        #+

@@ -35,6 +35,7 @@
 =dev-perl/Params-Validate-1.70.0-r1                                              #        #+
 #=dev-perl/Params-Validate-1.220.0                                               #        #+
 #=dev-perl/Params-Validate-1.230.0                                               #testing #+
+#=dev-perl/Params-Validate-1.280.0                                               #testing
 =dev-perl/Parse-RecDescent-1.967.13                                              #        # broken: 614614
 #=dev-perl/Parse-RecDescent-1.967.14                                             #testing #+
 #=dev-perl/Parse-RecDescent-1.967.15                                             #        #+
@@ -52,6 +53,7 @@
 =dev-perl/Perl-Critic-Dynamic-0.50.0-r1                                          #        #+
 =dev-perl/Perl-Tags-0.320.0                                                      #        # REPORT
 =dev-perl/Perl-Tidy-20160302.0.0                                                 #        #+
+#=dev-perl/Perl-Tidy-20170521.0.0                                                #testing
 =dev-perl/Perl6-Junction-1.600.0                                                 #        #+
 =dev-perl/PerlIO-Layers-0.11.0                                                   #        #+
 =dev-perl/PerlIO-eol-0.140.0-r1                                                  #        # REPORT
@@ -61,6 +63,7 @@
 =dev-perl/PlRPC-0.202.0-r2                                                       #        #+
 =dev-perl/Plack-1.3.900                                                          #        # broken: 613368
 #=dev-perl/Plack-1.4.300                                                         #testing # needs stable
+#=dev-perl/Plack-1.4.400                                                         #testing
 =dev-perl/Plucene-1.250.0-r2                                                     #        #+
 =dev-perl/Pod-Coverage-0.230.0-r1                                                #        #+
 =dev-perl/Pod-LaTeX-0.610.0                                                      #        #+

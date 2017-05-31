@@ -29,6 +29,8 @@
 #=dev-perl/Ref-Util-0.101.0                                                      #testing
 #=dev-perl/Ref-Util-0.111.0                                                      #testing
 #=dev-perl/Ref-Util-0.113.0                                                      #testing
+#=dev-perl/Ref-Util-0.203.0                                                      #testing
+#=dev-perl/Ref-Util-XS-0.116.0                                                   #testing
 #=dev-perl/Regexp-RegGrp-2.10.0                                                  #testing
 #=dev-perl/Role-HasMessage-0.6.0                                                 #testing
 #=dev-perl/Role-Identifiable-0.7.0                                               #testing

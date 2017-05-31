@@ -1,8 +1,8 @@
 ## stable:
 =dev-util/shtool-2.0.8-r1                                                        #        #+
 =dev-util/strace-4.13                                                            #        #+
-#=dev-util/strace-4.15                                                           #testing # REPORT
-#=dev-util/strace-4.16                                                           #testing # REPORT
+#=dev-util/strace-4.16                                                           #        # REPORT
+#=dev-util/strace-4.17                                                           #testing
 #=dev-util/strace-9999                                                           #testing
 =dev-util/suse-build-2014.09.18                                                  #        #+
 #=dev-util/suse-build-2015.11.05                                                 #        #+

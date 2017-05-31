@@ -4,6 +4,7 @@
 #=dev-lang/perl-5.24.1_rc4                                                       #testing
 #=dev-lang/perl-5.24.1                                                           #testing
 #=dev-lang/perl-5.24.1-r1                                                        #
+#=dev-lang/perl-5.26.0                                                           #testing
 #=dev-lang/perl-5.26.9999                                                        #testing
 ## testing:
 #=dev-lang/parrot-7.1.0                                                          #testing
