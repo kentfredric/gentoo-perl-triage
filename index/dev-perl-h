@@ -27,14 +27,14 @@
 #=dev-perl/HTML-TableParser-0.420.0                                              #testing #+
 =dev-perl/HTML-Tagset-3.200.0-r1                                                 #        #+
 =dev-perl/HTML-Template-2.950.0                                                  #        #+
-#=dev-perl/HTML-Template-2.970.0                                                 #testing
+#=dev-perl/HTML-Template-2.970.0                                                 #testing #+
 =dev-perl/HTML-Template-Expr-0.70.0-r1                                           #        #+
 =dev-perl/HTML-Template-JIT-0.50.0-r1                                            #        #+
 =dev-perl/HTML-TokeParser-Simple-3.160.0-r1                                      #        #+
 =dev-perl/HTML-Tree-4.200.0-r1                                                   #        # broken: 614800
 #=dev-perl/HTML-Tree-5.30.0-r1                                                   #        # broken: 614800
 #=dev-perl/HTML-Tree-5.40.0                                                      #testing # broken: 614800
-#=dev-perl/HTML-Tree-5.60.0                                                      #testing
+#=dev-perl/HTML-Tree-5.60.0                                                      #testing #+
 =dev-perl/HTTP-Body-1.220.0                                                      #        #+
 =dev-perl/HTTP-BrowserDetect-1.500.0                                             #        #+
 #=dev-perl/HTTP-BrowserDetect-1.770.0                                            #testing #+

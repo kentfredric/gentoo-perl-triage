@@ -8,7 +8,7 @@
 =dev-perl/SQL-Statement-1.412.0                                                  #        #+
 =dev-perl/SUPER-1.201.411.170                                                    #        #+
 =dev-perl/SVG-2.640.0                                                            #        #+
-#=dev-perl/SVG-2.770.0                                                           #testing
+#=dev-perl/SVG-2.770.0                                                           #testing #+
 =dev-perl/SVG-Graph-0.20.0-r1                                                    #        #+
 =dev-perl/SVN-Simple-0.280.0-r1                                                  #        #+
 =dev-perl/Safe-Hole-0.130.0-r1                                                   #        #+
@@ -38,8 +38,8 @@
 =dev-perl/Spiffy-0.460.0                                                         #        #+
 =dev-perl/Spreadsheet-ParseExcel-0.650.0                                         #        #+
 =dev-perl/Spreadsheet-WriteExcel-2.400.0                                         #        #+
-#=dev-perl/Starlet-0.290.0                                                       #testing
-=dev-perl/Starlet-0.310.0                                                        #
+#=dev-perl/Starlet-0.290.0                                                       #testing #+
+=dev-perl/Starlet-0.310.0                                                        #        #+
 =dev-perl/Stat-lsMode-0.500.0-r1                                                 #        #+
 =dev-perl/Statistics-Descriptive-3.61.200                                        #        #+
 =dev-perl/Statistics-Descriptive-Discrete-0.70.0-r1                              #        #+
@@ -78,7 +78,7 @@
 #=dev-perl/Sys-Virt-2.5.0                                                        #testing # broken: 613584
 #=dev-perl/Sys-Virt-3.1.0                                                        #testing # broken: 613584
 =dev-perl/strictures-2.0.1                                                       #        #+
-#=dev-perl/strictures-2.0.2                                                      #testing
+#=dev-perl/strictures-2.0.2                                                      #testing # REPORT
 ## testing:
 #=dev-perl/SOAP-WSDL-3.3.0                                                       #testing # REPORT
 #=dev-perl/SQL-Abstract-Limit-0.141.0-r1                                         #testing #+
@@ -98,7 +98,7 @@
 #=dev-perl/Specio-0.320.0                                                        #testing #+
 #=dev-perl/Specio-0.350.0                                                        #testing #+
 #=dev-perl/Specio-0.360.0                                                        #testing #+
-#=dev-perl/Specio-0.370.0                                                        #testing
+#=dev-perl/Specio-0.370.0                                                        #testing #+
 #=dev-perl/Speech-Recognizer-SPX-0.80.100-r1                                     #testing #+
 #=dev-perl/Sphinx-Config-0.100.0                                                 #testing #+
 #=dev-perl/Sphinx-Search-0.290.0                                                 #testing # REPORT

@@ -78,7 +78,7 @@
 #=dev-perl/DateTime-Format-Mail-0.403.0                                          #testing #+
 #=dev-perl/DateTime-Format-Natural-1.10.0-r1                                     #testing #+
 =dev-perl/DateTime-Format-Natural-1.40.0                                         #        #+
-#=dev-perl/DateTime-Format-Natural-1.50.0                                        #testing
+#=dev-perl/DateTime-Format-Natural-1.50.0                                        #testing #+
 =dev-perl/DateTime-Format-Strptime-1.700.0                                       #        #+
 #=dev-perl/DateTime-Format-Strptime-1.730.0                                      #testing #+
 =dev-perl/DateTime-Format-W3CDTF-0.60.0-r1                                       #        # broken: 614962
@@ -105,7 +105,7 @@
 #=dev-perl/Devel-CheckLib-1.70.0                                                 #testing #+
 #=dev-perl/Devel-CheckLib-1.90.0                                                 #testing #+
 #=dev-perl/Devel-CheckLib-1.100.0                                                #testing #+
-#=dev-perl/Devel-CheckLib-1.110.0                                                #testing
+#=dev-perl/Devel-CheckLib-1.110.0                                                #testing #+
 =dev-perl/Devel-Cycle-1.120.0                                                    #        #+
 =dev-perl/Devel-GlobalDestruction-0.120.0                                        #        #+
 #=dev-perl/Devel-GlobalDestruction-0.130.0                                       #        #+
@@ -153,7 +153,7 @@
 #=dev-perl/DB_File-Lock-0.50.0-r1                                                #testing #+
 #=dev-perl/Data-Dump-Streamer-2.390.0                                            #testing # broken: 615698
 #=dev-perl/Data-Dump-Streamer-2.400.0                                            #testing # broken: 615698
-#=dev-perl/Data-Dumper-Concise-2.23.0                                            #testing
+#=dev-perl/Data-Dumper-Concise-2.23.0                                            #testing #+
 #=dev-perl/Data-Float-0.12.0                                                     #testing #+
 #=dev-perl/Data-Section-0.200.6                                                  #testing #+
 #=dev-perl/Data-Serializer-0.600.0                                               #testing #+
@@ -176,7 +176,7 @@
 #=dev-perl/DateTimeX-Easy-0.89.0                                                 #testing #+
 #=dev-perl/Debug-Client-0.290.0                                                  #testing # broken: 615722
 #=dev-perl/Devel-ArgNames-0.30.0-r1                                              #testing #+
-#=dev-perl/Devel-Cover-1.250.0                                                   #testing
+#=dev-perl/Devel-Cover-1.250.0                                                   #testing #+
 #=dev-perl/Devel-Declare-0.6.19                                                  #testing #+
 #=dev-perl/Devel-Dumpvar-1.60.0-r1                                               #testing # broken: 615732
 #=dev-perl/Devel-FindPerl-0.14.0                                                 #testing #+
@@ -198,5 +198,5 @@
 #=dev-perl/Dist-Zilla-Plugin-OurPkgVersion-0.100.0                               #testing #+
 #=dev-perl/Dist-Zilla-Plugin-Test-MinimumVersion-2.0.7                           #testing #+
 #=dev-perl/Dist-Zilla-Plugin-Test-Perl-Critic-3.0.0                              #testing #+
-#=dev-perl/Dist-Zilla-Plugin-Test-Perl-Critic-3.1.0                              #testing
+#=dev-perl/Dist-Zilla-Plugin-Test-Perl-Critic-3.1.0                              #testing #+
 #=dev-perl/Dist-Zilla-Role-ModuleMetadata-0.4.0                                  #testing #+

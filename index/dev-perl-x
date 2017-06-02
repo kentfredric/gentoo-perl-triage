@@ -36,9 +36,9 @@
 =dev-perl/XML-Parser-2.440.0                                                     #        #+
 =dev-perl/XML-Parser-Lite-0.721.0                                                #        #+
 =dev-perl/XML-RAI-1.303.100-r1                                                   #        #+
-=dev-perl/XML-RSS-1.590.0                                                        #
-=dev-perl/XML-RSS-Feed-2.400.0-r1                                                #
-=dev-perl/XML-RSS-LibXML-0.310.500                                               #
+=dev-perl/XML-RSS-1.590.0                                                        #        #+
+=dev-perl/XML-RSS-Feed-2.400.0-r1                                                #        #+
+=dev-perl/XML-RSS-LibXML-0.310.500                                               #        #+
 =dev-perl/XML-RSS-Parser-4.0.0-r1                                                #        #+
 =dev-perl/XML-RegExp-0.40.0-r1                                                   #        #+
 =dev-perl/XML-SAX-0.990.0-r1                                                     #        #+

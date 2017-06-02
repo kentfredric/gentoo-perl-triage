@@ -1,6 +1,6 @@
 ## stable:
 =dev-perl/JSON-2.900.0                                                           #        #+
-#=dev-perl/JSON-2.940.0                                                          #testing
+#=dev-perl/JSON-2.940.0                                                          #testing #+
 =dev-perl/JSON-RPC-0.960.0-r1                                                    #        #+
 #=dev-perl/JSON-RPC-1.60.0                                                       #testing #+
 =dev-perl/JSON-XS-3.10.0                                                         #        #+

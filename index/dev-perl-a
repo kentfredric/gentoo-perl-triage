@@ -85,7 +85,7 @@
 #=dev-perl/Archive-Tar-Wrapper-0.230.0                                           #testing #+
 #=dev-perl/Audio-Musepack-1.0.1                                                  #testing # broken: 614808
 #=dev-perl/Audio-Scan-0.930.0-r1                                                 #testing #+
-#=dev-perl/Audio-Scan-0.980.0                                                    #testing
+#=dev-perl/Audio-Scan-0.980.0                                                    #testing #+
 #=dev-perl/Audio-WMA-1.300.0                                                     #testing # broken: 614812
 #=dev-perl/Authen-Libwrap-0.220.0-r1                                             #testing #+
 #=dev-perl/Authen-SASL-SASLprep-1.10.0                                           #testing #+

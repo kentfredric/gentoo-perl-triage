@@ -1,16 +1,7 @@
 =dev-perl/Template-Plugin-Latex-3.60.0
 =dev-perl/Template-Plugin-Latex-3.110.0
-=dev-perl/Template-XML-2.170.0-r1
-=dev-perl/Test-Deep-1.127.0
-=dev-perl/Test-DistManifest-1.14.0
-=dev-perl/Test-EOL-2.0.0
 =dev-perl/Test-Inline-2.213.0-r1
-=dev-perl/Test-TCP-2.190.0
-=dev-perl/Text-CSV-1.950.0
-=dev-perl/Text-CSV_XS-1.290.0
-=dev-perl/Tie-Cycle-1.224.0
 =dev-perl/Test-Dependencies-0.120.0
 =dev-perl/Test-Dependencies-0.210.0
 =dev-perl/Test-File-1.442.0
 =dev-perl/Test-File-1.443.0
-=dev-perl/Test-MockTime-HiRes-0.70.0
