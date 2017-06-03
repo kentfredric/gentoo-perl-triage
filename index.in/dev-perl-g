@@ -22,6 +22,7 @@
 =dev-perl/Getopt-Mixed-1.120.0                                                   #
 #=dev-perl/Glib-Object-Introspection-0.40.0                                      #testing
 =dev-perl/Glib-Object-Introspection-0.42.0                                       #
+#=dev-perl/Glib-Object-Introspection-0.43.0                                      #testing
 =dev-perl/GnuPG-Interface-0.520.0-r1                                             #
 #=dev-perl/GnuPG-Interface-0.520.0-r2                                            #testing
 =dev-perl/Goo-Canvas-0.60.0-r1                                                   #
@@ -70,6 +71,7 @@
 #=dev-perl/Getopt-Tabular-0.3                                                    #testing
 #=dev-perl/Google-Ads-AdWords-Client-4.11.0                                      #testing
 #=dev-perl/Google-Ads-AdWords-Client-4.13.0                                      #testing
+#=dev-perl/Google-Ads-AdWords-Client-4.14.0                                      #testing
 #=dev-perl/Growl-GNTP-0.200.0                                                    #testing
 #=dev-perl/Growl-GNTP-0.210.0-r1                                                 #testing
 #=dev-perl/Gtk2-AppIndicator-0.150.0                                             #testing

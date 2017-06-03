@@ -25,15 +25,14 @@
 =dev-perl/Data-FormValidator-4.810.0-r1                                          #
 #=dev-perl/Data-FormValidator-4.850.0                                            #testing
 #=dev-perl/Data-FormValidator-4.860.0                                            #testing
+#=dev-perl/Data-FormValidator-4.860.0-r1                                         #testing
 =dev-perl/Data-GUID-0.48.0                                                       #
 #=dev-perl/Data-GUID-0.49.0                                                      #testing
 =dev-perl/Data-HexDump-0.02-r1                                                   #
 =dev-perl/Data-Hexify-1.0.0-r1                                                   #
 =dev-perl/Data-Hierarchy-0.340.0-r1                                              #
 =dev-perl/Data-ICal-0.220.0                                                      #
-=dev-perl/Data-ObjectDriver-0.90.0-r1                                            #
-#=dev-perl/Data-ObjectDriver-0.140.0                                             #
-#=dev-perl/Data-ObjectDriver-0.150.0                                             #
+=dev-perl/Data-ObjectDriver-0.150.0                                              #
 =dev-perl/Data-OptList-0.109.0                                                   #
 #=dev-perl/Data-OptList-0.110.0                                                  #
 =dev-perl/Data-Page-2.20.0-r1                                                    #
@@ -81,8 +80,7 @@
 #=dev-perl/DateTime-Format-Natural-1.50.0                                        #testing
 =dev-perl/DateTime-Format-Strptime-1.700.0                                       #
 #=dev-perl/DateTime-Format-Strptime-1.730.0                                      #testing
-=dev-perl/DateTime-Format-W3CDTF-0.60.0-r1                                       #
-#=dev-perl/DateTime-Format-W3CDTF-0.70.0                                         #
+=dev-perl/DateTime-Format-W3CDTF-0.70.0                                          #
 =dev-perl/DateTime-Locale-0.460.0                                                #
 #=dev-perl/DateTime-Locale-1.20.0                                                #testing
 #=dev-perl/DateTime-Locale-1.30.0                                                #testing

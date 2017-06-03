@@ -39,6 +39,7 @@
 #=dev-perl/CPAN-Perl-Releases-3.160.0                                            #testing
 #=dev-perl/CPAN-Perl-Releases-3.180.0                                            #testing
 #=dev-perl/CPAN-Perl-Releases-3.200.0                                            #testing
+#=dev-perl/CPAN-Perl-Releases-3.220.0                                            #testing
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #
 =dev-perl/Cache-2.40.0-r1                                                        #
@@ -118,9 +119,7 @@
 #=dev-perl/Config-AutoConf-0.311.0                                               #testing
 =dev-perl/Config-AutoConf-0.313.0                                                #
 #=dev-perl/Config-AutoConf-0.314.0                                               #testing
-=dev-perl/Config-Crontab-1.400.0                                                 #
-#=dev-perl/Config-Crontab-1.410.0                                                #testing
-#=dev-perl/Config-Crontab-1.450.0                                                #
+=dev-perl/Config-Crontab-1.450.0                                                 #
 =dev-perl/Config-General-2.600.0                                                 #
 #=dev-perl/Config-General-2.620.0                                                #testing
 #=dev-perl/Config-General-2.630.0                                                #
@@ -254,5 +253,6 @@
 #=dev-perl/Crypt-URandom-0.340.0                                                 #testing
 #=dev-perl/Crypt-URandom-0.360.0                                                 #testing
 #=dev-perl/CryptX-0.47.0                                                         #testing
+#=dev-perl/CryptX-0.48.0                                                         #testing
 #=dev-perl/constant-boolean-0.20.0-r1                                            #testing
 #=dev-perl/constant-defer-6.0.0                                                  #testing

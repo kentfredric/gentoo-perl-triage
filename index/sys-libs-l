@@ -10,7 +10,6 @@
 #=sys-libs/libosinfo-1.0.0                                                       #testing # broken intltool: 614698
 #=sys-libs/libosinfo-1.0.0-r1                                                    #        # broken intltool: 614698
 ## testing:
-#=sys-libs/libapparmor-2.10.1-r1                                                 #testing #+
 #=sys-libs/libapparmor-2.11.0                                                    #testing #+
 #=sys-libs/libhugetlbfs-2.18                                                     #testing # REPORT
 #=sys-libs/libhugetlbfs-2.19                                                     #testing # REPORT
