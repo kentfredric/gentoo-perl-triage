@@ -61,6 +61,7 @@
 =dev-perl/Module-Build-0.421.600                                                 #
 #=dev-perl/Module-Build-0.421.800                                                #testing
 #=dev-perl/Module-Build-0.422.200                                                #testing
+#=dev-perl/Module-Build-0.422.400                                                #testing
 =dev-perl/Module-Build-Tiny-0.39.0                                               #
 =dev-perl/Module-Build-XSUtil-0.160.0                                            #
 =dev-perl/Module-Compile-0.350.0                                                 #
@@ -94,6 +95,7 @@
 #=dev-perl/Mojolicious-7.290.0                                                   #testing
 =dev-perl/Mojolicious-7.300.0                                                    #
 #=dev-perl/Mojolicious-7.310.0                                                   #testing
+#=dev-perl/Mojolicious-7.320.0                                                   #testing
 =dev-perl/Mon-0.110.0-r1                                                         #
 =dev-perl/Monitoring-Plugin-0.390.0                                              #
 =dev-perl/Moo-2.3.0                                                              #
