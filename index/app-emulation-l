@@ -2,7 +2,7 @@
 =app-emulation/libspectrum-1.0.0                                                 #        #+
 #=app-emulation/libspectrum-1.1.1                                                #        #+
 =app-emulation/libvirt-3.2.0                                                     #        #+
-#=app-emulation/libvirt-3.3.0                                                    #testing #+
+#=app-emulation/libvirt-3.3.0                                                    #        #+
 #=app-emulation/libvirt-9999                                                     #testing
 ## testing:
 #=app-emulation/libguestfs-1.28.5-r2                                             #testing
