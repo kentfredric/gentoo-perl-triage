@@ -169,6 +169,7 @@
 =dev-perl/Try-Tiny-0.220.0                                                       #
 #=dev-perl/Try-Tiny-0.240.0                                                      #
 =dev-perl/Type-Tiny-1.0.5                                                        #
+#=dev-perl/Type-Tiny-1.2.0                                                       #testing
 =dev-perl/Type-Tiny-XS-0.12.0                                                    #
 =dev-perl/Types-Serialiser-1.0.0                                                 #
 ## testing:
@@ -227,5 +228,6 @@
 #=dev-perl/Time-Piece-MySQL-0.60.0-r1                                            #testing
 #=dev-perl/Time-Stopwatch-1.0.0                                                  #testing
 #=dev-perl/Time-TAI64-2.110.0-r1                                                 #testing
+#=dev-perl/Type-Tie-0.9.0                                                        #testing
 #=dev-perl/tkispell-0.180.0                                                      #testing
 #=dev-perl/txt2html-2.520.100                                                    #testing

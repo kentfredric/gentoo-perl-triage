@@ -75,4 +75,5 @@
 #=dev-perl/HTTP-Entity-Parser-0.190.0                                            #testing #+
 #=dev-perl/HTTP-MultiPartParser-0.20.0                                           #testing #+
 #=dev-perl/HTTP-Response-Encoding-0.60.0-r1                                      #testing #+
+#=dev-perl/Hash-FieldHash-0.150.0                                                #testing #+
 #=dev-perl/Hash-Merge-Simple-0.51.0                                              #testing #+

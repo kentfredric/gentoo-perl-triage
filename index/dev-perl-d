@@ -58,10 +58,11 @@
 =dev-perl/Date-ICal-2.678.0-r1                                                   #        #+
 =dev-perl/Date-Leapyear-1.720.0-r1                                               #        #+
 =dev-perl/Date-Manip-6.510.0                                                     #        # broken: timezone weirdness
-#=dev-perl/Date-Manip-6.520.0                                                    #testing # broken: timezone
-#=dev-perl/Date-Manip-6.560.0                                                    #testing # broken: timezone
-#=dev-perl/Date-Manip-6.570.0                                                    #testing # broken: timezone
-#=dev-perl/Date-Manip-6.580.0                                                    #testing # broken: timezone
+#=dev-perl/Date-Manip-6.520.0                                                    #testing #+
+#=dev-perl/Date-Manip-6.560.0                                                    #testing #+
+#=dev-perl/Date-Manip-6.570.0                                                    #testing #+
+#=dev-perl/Date-Manip-6.580.0                                                    #testing #+
+#=dev-perl/Date-Manip-6.590.0                                                    #testing #+
 =dev-perl/Date-Pcalc-6.100.0-r1                                                  #        # broken: 615580
 =dev-perl/Date-Simple-3.30.0-r1                                                  #        #+
 =dev-perl/DateTime-1.200.0                                                       #        #+
