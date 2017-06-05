@@ -26,6 +26,7 @@
 =dev-perl/Lingua-Translit-0.250.0                                                #        #+
 #=dev-perl/Lingua-Translit-0.270.0                                               #testing #+
 =dev-perl/Linux-DesktopFiles-0.90.0                                              #        #+
+#=dev-perl/Linux-DesktopFiles-0.130.0                                            #testing #+
 =dev-perl/Linux-Pid-0.40.0-r1                                                    #        #+
 =dev-perl/Lirc-Client-2.20.0                                                     #        #+
 =dev-perl/List-AllUtils-0.90.0                                                   #        #+

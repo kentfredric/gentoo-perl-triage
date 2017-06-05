@@ -11,6 +11,7 @@
 =dev-perl/WebService-Linode-0.28.0                                               #
 =dev-perl/WebService-MusicBrainz-0.930.0-r1                                      #
 #=dev-perl/WebService-MusicBrainz-0.940.0                                        #testing
+#=dev-perl/WebService-MusicBrainz-1.0.2                                          #testing
 =dev-perl/Wx-0.992.700-r1                                                        #
 #=dev-perl/Wx-0.992.800                                                          #
 ## testing:

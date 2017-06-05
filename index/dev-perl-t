@@ -199,6 +199,7 @@
 #=dev-perl/Test-Perl-Critic-1.30.0                                               #testing #+
 #=dev-perl/Test-Regexp-2017040101.0.0                                            #testing #+
 #=dev-perl/Test-Timer-0.130.0                                                    #testing #+
+#=dev-perl/Test-Timer-1.0.0                                                      #testing #+
 #=dev-perl/Test-Unit-Lite-0.120.200-r1                                           #testing #+
 #=dev-perl/Test-UseAllModules-0.170.0                                            #testing #+
 #=dev-perl/Test-Version-2.50.0                                                   #testing #+
