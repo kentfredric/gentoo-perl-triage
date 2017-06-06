@@ -19,6 +19,7 @@
 =dev-perl/PPIx-Regexp-0.48.0                                                     #
 #=dev-perl/PPIx-Regexp-0.51.0                                                    #testing
 =dev-perl/PPIx-Utilities-1.1.0-r1                                                #
+=dev-perl/Package-Constants-0.60.0                                               #
 =dev-perl/Package-DeprecationManager-0.150.0                                     #
 #=dev-perl/Package-DeprecationManager-0.170.0                                    #testing
 =dev-perl/Package-Stash-0.370.0                                                  #

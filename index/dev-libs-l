@@ -7,7 +7,7 @@
 #=dev-libs/libcdio-paranoia-0.93_p1-r1                                           #testing # REPORT
 #=dev-libs/libcdio-paranoia-0.94_p1-r1                                           #testing
 =dev-libs/libical-1.0.1                                                          #        # REPORT
-#=dev-libs/libical-2.0.0-r2                                                      #testing # REPORT
+#=dev-libs/libical-2.0.0-r2                                                      #        # REPORT
 =dev-libs/libmemcached-0.50                                                      #        #+
 #=dev-libs/libmemcached-1.0.14                                                   #        # REPORT
 #=dev-libs/libmemcached-1.0.17-r3                                                #testing #+

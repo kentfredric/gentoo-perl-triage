@@ -1,9 +1,5 @@
 ## stable:
-=dev-lang/perl-5.22.3_rc4                                                        #        # Nontarget
-#=dev-lang/perl-5.22.3                                                           #testing # Nontarget
-#=dev-lang/perl-5.24.1_rc4                                                       #testing # Nontarget
-#=dev-lang/perl-5.24.1                                                           #testing # Nontarget
-#=dev-lang/perl-5.24.1-r1                                                        #        # Nontarget
+=dev-lang/perl-5.24.1-r1                                                         #        # Nontarget
 #=dev-lang/perl-5.24.1-r2                                                        #
 #=dev-lang/perl-5.26.0                                                           #testing
 #=dev-lang/perl-5.26.9999                                                        #testing # Nontarget

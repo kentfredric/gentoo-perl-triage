@@ -20,10 +20,7 @@
 =dev-perl/XML-Generator-1.40.0-r1                                                #        #+
 =dev-perl/XML-Grove-0.46_alpha-r2                                                #        #+
 =dev-perl/XML-Handler-YAWriter-0.230.0-r1                                        #        #+
-=dev-perl/XML-LibXML-2.12.100                                                    #        # REPORT
-#=dev-perl/XML-LibXML-2.12.600                                                   #testing #+
-#=dev-perl/XML-LibXML-2.12.800                                                   #testing #+
-#=dev-perl/XML-LibXML-2.12.800-r1                                                #        #+
+=dev-perl/XML-LibXML-2.12.800-r1                                                 #        #+
 #=dev-perl/XML-LibXML-2.12.900                                                   #testing #+
 =dev-perl/XML-LibXML-Iterator-1.40.0-r1                                          #        #+
 =dev-perl/XML-LibXML-Simple-0.970.0                                              #        #+
