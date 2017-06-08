@@ -2,6 +2,7 @@
 =net-irc/inspircd-2.0.23                                                         #        # REPORT: perl inc
 =net-irc/irssi-0.8.21                                                            #        #+
 #=net-irc/irssi-1.0.2                                                            #testing #+
+#=net-irc/irssi-1.0.3                                                            #testing #+
 #=net-irc/irssi-9999                                                             #testing
 ## testing:
 #=net-irc/ircmap-0.99                                                            #testing

@@ -1,5 +1,3 @@
 ## stable:
-=dev-libs/klibc-1.5.25                                                           #        # REPORT linux/compiler-gcc5.h
-#=dev-libs/klibc-2.0.4                                                           #testing # REPORT linux/compiler-gcc5.h
-#=dev-libs/klibc-2.0.4-r2                                                        #        # REPORT bc: command not found
+=dev-libs/klibc-2.0.4-r2                                                         #        # REPORT bc: command not found
 ## testing:

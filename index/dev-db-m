@@ -5,6 +5,7 @@
 #=dev-db/mariadb-10.0.30                                                         #        # Build OK
 #=dev-db/mariadb-10.0.31                                                         #testing
 #=dev-db/mariadb-10.1.23                                                         #testing # Build OK
+#=dev-db/mariadb-10.1.24                                                         #testing # Build OK
 #=dev-db/mariadb-10.2.1_alpha                                                    #testing
 =dev-db/mysqltuner-1.2.0                                                         #        #+
 #=dev-db/mysqltuner-1.6.0                                                        #testing #+
