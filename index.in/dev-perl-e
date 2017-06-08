@@ -97,9 +97,7 @@
 #=dev-perl/Exception-Warning-0.40.100-r1                                         #testing
 #=dev-perl/ExtUtils-CChecker-0.90.0                                              #testing
 #=dev-perl/ExtUtils-CChecker-0.100.0                                             #testing
-#=dev-perl/ExtUtils-Constant-0.230.0                                             #testing
 #=dev-perl/ExtUtils-CppGuess-0.110.0                                             #testing
 #=dev-perl/ExtUtils-Typemaps-Default-1.50.0                                      #testing
-#=dev-perl/encoding-warnings-0.110.0-r1                                          #testing
 #=dev-perl/enum-1.16.0-r1                                                        #testing
 #=dev-perl/enum-1.110.0                                                          #testing
