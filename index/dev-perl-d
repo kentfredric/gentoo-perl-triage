@@ -4,8 +4,8 @@
 #=dev-perl/DBD-SQLite-1.540.0                                                    #testing # broken: 615088
 =dev-perl/DBD-mysql-4.32.0-r2                                                    #        # broken: 613608
 #=dev-perl/DBD-mysql-4.37.0                                                      #        # broken: 613608
-#=dev-perl/DBD-mysql-4.41.0                                                      #        # broken: 613608
-#=dev-perl/DBD-mysql-4.42.0                                                      #testing # broken: 613608
+#=dev-perl/DBD-mysql-4.41.0                                                      #        #+
+#=dev-perl/DBD-mysql-4.42.0                                                      #testing #+
 =dev-perl/DBI-1.634.0                                                            #        # broken: 614644
 #=dev-perl/DBI-1.636.0                                                           #        # broken: 614644
 =dev-perl/DBI-Shell-11.950.0-r1                                                  #        # broken: 615592
