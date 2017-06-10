@@ -1,4 +1,3 @@
 ## stable:
-=net-dialup/freeradius-3.0.13                                                    #        # broken 509498
-#=net-dialup/freeradius-3.0.14                                                   #testing # broken 509498
+=net-dialup/freeradius-3.0.14                                                    #        # broken 509498
 ## testing:

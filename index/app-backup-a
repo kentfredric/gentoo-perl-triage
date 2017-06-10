@@ -4,8 +4,9 @@
 #=app-backup/amanda-3.3.5                                                        #testing #+
 #=app-backup/amanda-3.3.7                                                        #        #+
 #=app-backup/amanda-3.3.9                                                        #        #+
-#=app-backup/amanda-3.4.1                                                        #testing # REPORT
-#=app-backup/amanda-3.4.2                                                        #testing # REPORT
-#=app-backup/amanda-3.4.3                                                        #testing # REPORT
-#=app-backup/amanda-3.4.4                                                        #testing # REPORT
+#=app-backup/amanda-3.4.1                                                        #testing # broken: 621416
+#=app-backup/amanda-3.4.2                                                        #testing # broken: 621416
+#=app-backup/amanda-3.4.3                                                        #testing # broken: 621416
+#=app-backup/amanda-3.4.4                                                        #testing # broken: 621416
+#=app-backup/amanda-3.4.5                                                        #testing # broken: 621416
 ## testing:
