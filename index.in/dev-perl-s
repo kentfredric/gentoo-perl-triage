@@ -77,6 +77,7 @@
 #=dev-perl/Sys-Virt-2.4.0                                                        #testing
 #=dev-perl/Sys-Virt-2.5.0                                                        #testing
 #=dev-perl/Sys-Virt-3.1.0                                                        #testing
+#=dev-perl/Sys-Virt-3.3.0                                                        #testing
 =dev-perl/strictures-2.0.1                                                       #
 #=dev-perl/strictures-2.0.2                                                      #testing
 ## testing:

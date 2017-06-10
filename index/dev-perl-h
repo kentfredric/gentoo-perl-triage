@@ -23,8 +23,7 @@
 =dev-perl/HTML-Strip-2.90.0                                                      #        #+
 =dev-perl/HTML-Table-2.08a-r1                                                    #        #+
 =dev-perl/HTML-TableExtract-2.130.0                                              #        #+
-=dev-perl/HTML-TableParser-0.400.0                                               #        # broken: 616980
-#=dev-perl/HTML-TableParser-0.420.0                                              #        #+
+=dev-perl/HTML-TableParser-0.420.0                                               #        #+
 =dev-perl/HTML-Tagset-3.200.0-r1                                                 #        #+
 =dev-perl/HTML-Template-2.950.0                                                  #        #+
 #=dev-perl/HTML-Template-2.970.0                                                 #testing #+
