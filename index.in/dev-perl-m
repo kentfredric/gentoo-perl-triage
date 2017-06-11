@@ -47,6 +47,7 @@
 #=dev-perl/Math-GMP-2.110.0                                                      #testing
 =dev-perl/Math-Pari-2.10.806.50-r1                                               #
 #=dev-perl/Math-Pari-2.10.808                                                    #testing
+#=dev-perl/Math-Pari-2.10.809.0                                                  #testing
 =dev-perl/Math-Random-0.720.0                                                    #
 =dev-perl/Math-Random-ISAAC-1.4.0-r1                                             #
 =dev-perl/Math-Random-ISAAC-XS-1.4.0-r1                                          #

@@ -69,8 +69,6 @@
 #=dev-perl/Gearman-Server-1.120.0                                                #testing #+
 #=dev-perl/Getopt-GUI-Long-0.930.0-r1                                            #testing #+
 #=dev-perl/Getopt-Tabular-0.3                                                    #testing #+
-#=dev-perl/Google-Ads-AdWords-Client-4.11.0                                      #testing # broken: 613404
-#=dev-perl/Google-Ads-AdWords-Client-4.13.0                                      #testing # broken: 613404
 #=dev-perl/Google-Ads-AdWords-Client-4.14.0                                      #testing #+
 #=dev-perl/Growl-GNTP-0.200.0                                                    #testing #+
 #=dev-perl/Growl-GNTP-0.210.0-r1                                                 #testing #+

@@ -6,7 +6,7 @@
 =dev-perl/UNIVERSAL-require-0.180.0                                              #        #+
 =dev-perl/URI-1.710.0                                                            #        #+
 =dev-perl/URI-Fetch-0.130.0                                                      #        #+
-=dev-perl/Unicode-EastAsianWidth-1.330.0-r1                                      #        # broken: 613802
+=dev-perl/Unicode-EastAsianWidth-1.330.0-r1                                      #        #+
 =dev-perl/Unicode-LineBreak-2016.3.0                                             #        # broken: 614538
 #=dev-perl/Unicode-LineBreak-2017.4.0                                            #testing # broken: 614538
 =dev-perl/Unicode-Map-0.112.0-r1                                                 #        #+
