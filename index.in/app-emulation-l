@@ -1,6 +1,5 @@
 ## stable:
-=app-emulation/libspectrum-1.0.0                                                 #
-#=app-emulation/libspectrum-1.1.1                                                #
+=app-emulation/libspectrum-1.1.1                                                 #
 =app-emulation/libvirt-3.2.0                                                     #
 #=app-emulation/libvirt-3.3.0                                                    #
 #=app-emulation/libvirt-9999                                                     #testing
