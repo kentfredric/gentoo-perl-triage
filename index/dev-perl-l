@@ -55,7 +55,7 @@
 =dev-perl/Log-TraceMessages-1.400.0-r1                                           #        # broken: 617052
 =dev-perl/libintl-perl-1.200.0-r1                                                #        # broken: 613804
 #=dev-perl/libintl-perl-1.240.0                                                  #        # broken: 613804
-#=dev-perl/libintl-perl-1.240.0-r2                                               #testing # broken: 613804
+#=dev-perl/libintl-perl-1.240.0-r2                                               #        #+
 =dev-perl/libvorbis-perl-0.50.0-r1                                               #        #+
 =dev-perl/libwww-perl-6.150.0                                                    #        #+
 #=dev-perl/libwww-perl-6.160.0                                                   #testing #+

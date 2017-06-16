@@ -6,7 +6,7 @@
 #=sys-apps/openrc-0.25                                                           #testing #+
 #=sys-apps/openrc-0.26.2                                                         #        #+
 #=sys-apps/openrc-0.26.3                                                         #        #+
-#=sys-apps/openrc-0.27.1                                                         #testing #+
+#=sys-apps/openrc-0.27.2                                                         #testing #+
 #=sys-apps/openrc-9999                                                           #testing
 =sys-apps/osinfo-db-tools-1.1.0                                                  #        # intltool
 ## testing:

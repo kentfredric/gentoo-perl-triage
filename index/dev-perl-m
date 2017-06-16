@@ -76,7 +76,7 @@
 =dev-perl/Module-Locate-1.800.0                                                  #        #+
 =dev-perl/Module-Manifest-1.80.0-r1                                              #        # broken: 617112
 =dev-perl/Module-Pluggable-5.200.0                                               #        #+
-=dev-perl/Module-Refresh-0.170.0-r1                                              #        # broken: 614346
+=dev-perl/Module-Refresh-0.170.0-r1                                              #        #+
 =dev-perl/Module-Runtime-0.14.0                                                  #        # broken: 614338
 =dev-perl/Module-Runtime-Conflicts-0.2.0                                         #        # broken: 614450
 =dev-perl/Module-ScanDeps-1.200.0                                                #        # broken: 614450

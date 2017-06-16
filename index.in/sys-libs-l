@@ -11,6 +11,7 @@
 #=sys-libs/libosinfo-1.0.0-r1                                                    #
 ## testing:
 #=sys-libs/libapparmor-2.11.0                                                    #testing
+#=sys-libs/libapparmor-2.11.0-r1                                                 #testing
 #=sys-libs/libhugetlbfs-2.18                                                     #testing
 #=sys-libs/libhugetlbfs-2.19                                                     #testing
 #=sys-libs/libhugetlbfs-2.19-r1                                                  #testing
