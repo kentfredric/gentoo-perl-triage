@@ -59,7 +59,7 @@
 =dev-perl/Test-NoWarnings-1.40.0-r3                                              #        #+
 =dev-perl/Test-Number-Delta-1.40.0                                               #        #+
 #=dev-perl/Test-Number-Delta-1.60.0                                              #        #+
-=dev-perl/Test-Object-0.70.0-r1                                                  #        # broken: 615688
+=dev-perl/Test-Object-0.70.0-r1                                                  #        #+
 =dev-perl/Test-Output-1.30.0                                                     #        #+
 #=dev-perl/Test-Output-1.31.0                                                    #testing #+
 =dev-perl/Test-Pod-1.510.0                                                       #        #+
@@ -72,7 +72,7 @@
 #=dev-perl/Test-Script-1.180.0                                                   #testing #+
 =dev-perl/Test-SharedFork-0.350.0                                                #        #+
 =dev-perl/Test-Spec-0.510.0                                                      #        #+
-=dev-perl/Test-SubCalls-1.90.0-r1                                                #        # broken: 615696
+=dev-perl/Test-SubCalls-1.90.0-r1                                                #        #+
 =dev-perl/Test-TCP-2.60.0                                                        #        # broken: 614342
 #=dev-perl/Test-TCP-2.160.0                                                      #testing # broken: 614342
 #=dev-perl/Test-TCP-2.170.0                                                      #        # broken: 614342
@@ -171,7 +171,7 @@
 #=dev-perl/TeX-Encode-1.300.0                                                    #testing #+
 #=dev-perl/Template-Plugin-Cycle-1.60.0                                          #testing # REPORT
 #=dev-perl/Template-Tiny-1.120.0-r1                                              #testing #+
-#=dev-perl/Term-Encoding-0.20.0                                                  #testing # broken: 615686
+#=dev-perl/Term-Encoding-0.20.0                                                  #testing #+
 #=dev-perl/Term-ReadLine-TTYtter-1.4                                             #testing # INTERACTIVE TEST!!!
 #=dev-perl/Term-Shell-0.90                                                       #testing #+
 #=dev-perl/Term-UI-0.460.0                                                       #testing #+

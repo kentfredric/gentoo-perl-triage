@@ -211,7 +211,7 @@
 #=dev-perl/Class-DBI-AbstractSearch-0.70.0                                       #testing #+
 #=dev-perl/Class-DBI-Plugin-0.30.0                                               #testing #+
 #=dev-perl/Class-DBI-Plugin-DeepAbstractSearch-0.80.0                            #testing #+
-#=dev-perl/Class-Data-Accessor-0.40.40-r1                                        #testing # broken: 615512
+#=dev-perl/Class-Data-Accessor-0.40.40-r1                                        #testing #+
 #=dev-perl/Class-InsideOut-1.140.0                                               #testing #+
 #=dev-perl/Class-Member-1.600.0-r1                                               #testing #+
 #=dev-perl/Class-Spiffy-0.150.0-r1                                               #testing # broken: 615514
