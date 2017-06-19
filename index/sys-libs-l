@@ -6,9 +6,9 @@
 =sys-libs/libomp-3.9.1                                                           #        #+
 #=sys-libs/libomp-4.0.0                                                          #testing #+
 #=sys-libs/libomp-9999                                                           #testing
-=sys-libs/libosinfo-0.3.1                                                        #        # broken intltool: 614698
-#=sys-libs/libosinfo-1.0.0                                                       #testing # broken intltool: 614698
-#=sys-libs/libosinfo-1.0.0-r1                                                    #        # broken intltool: 614698
+=sys-libs/libosinfo-0.3.1                                                        #        #+
+#=sys-libs/libosinfo-1.0.0                                                       #testing # BROKEN
+#=sys-libs/libosinfo-1.0.0-r1                                                    #        #+
 ## testing:
 #=sys-libs/libapparmor-2.11.0                                                    #testing #+
 #=sys-libs/libapparmor-2.11.0-r1                                                 #testing # REPORT
