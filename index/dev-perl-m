@@ -79,8 +79,7 @@
 =dev-perl/Module-Refresh-0.170.0-r1                                              #        #+
 =dev-perl/Module-Runtime-0.14.0                                                  #        # broken: 614338
 =dev-perl/Module-Runtime-Conflicts-0.2.0                                         #        # broken: 614450
-=dev-perl/Module-ScanDeps-1.200.0                                                #        # broken: 614450
-#=dev-perl/Module-ScanDeps-1.230.0                                               #        #+
+=dev-perl/Module-ScanDeps-1.230.0                                                #        #+
 =dev-perl/Module-Signature-0.790.0                                               #        #+
 =dev-perl/Module-Starter-1.710.0                                                 #        #+
 #=dev-perl/Module-Starter-1.720.0                                                #testing #+
@@ -179,6 +178,7 @@
 #=dev-perl/MooseX-ConfigFromFile-0.140.0                                         #testing #+
 #=dev-perl/MooseX-Getopt-0.680.0                                                 #testing #+
 #=dev-perl/MooseX-GlobRef-0.70.100                                               #testing #+
+#=dev-perl/MooseX-Has-Sugar-1.0.6                                                #testing #+
 #=dev-perl/MooseX-LazyRequire-0.110.0                                            #testing #+
 #=dev-perl/MooseX-MultiInitArg-0.20.0                                            #testing #+
 #=dev-perl/MooseX-Object-Pluggable-0.1.400                                       #testing #+

@@ -3,9 +3,7 @@
 #=dev-perl/B-Hooks-EndOfScope-0.200.0                                            #
 =dev-perl/B-Keywords-1.140.0                                                     #
 #=dev-perl/B-Keywords-1.150.0                                                    #testing
-=dev-perl/BSD-Resource-1.290.800                                                 #
-#=dev-perl/BSD-Resource-1.290.900                                                #testing
-#=dev-perl/BSD-Resource-1.291.100                                                #
+=dev-perl/BSD-Resource-1.291.100                                                 #
 =dev-perl/BerkeleyDB-0.550.0                                                     #
 =dev-perl/Bio-ASN1-EntrezGene-1.720.0                                            #
 =dev-perl/Bit-Vector-7.400.0                                                     #

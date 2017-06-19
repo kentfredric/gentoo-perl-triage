@@ -31,8 +31,7 @@
 =dev-perl/Lirc-Client-2.20.0                                                     #        #+
 =dev-perl/List-AllUtils-0.90.0                                                   #        #+
 #=dev-perl/List-AllUtils-0.140.0                                                 #testing #+
-=dev-perl/List-MoreUtils-0.413.0                                                 #        # broken: 613866
-#=dev-perl/List-MoreUtils-0.418.0                                                #        #+
+=dev-perl/List-MoreUtils-0.418.0                                                 #        #+
 #=dev-perl/List-MoreUtils-0.419.0                                                #testing #+
 =dev-perl/List-MoreUtils-XS-0.418.0                                              #        #+
 =dev-perl/List-UtilsBy-0.100.0                                                   #        # broken: 615096

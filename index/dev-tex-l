@@ -3,11 +3,10 @@
 #=dev-tex/latex2html-2008-r1                                                     #testing # broken: 617760
 #=dev-tex/latex2html-2015                                                        #        # broken: 617760
 #=dev-tex/latex2html-2017.2                                                      #testing # broken: 617760
-=dev-tex/latexdiff-0.5                                                           #        # broken: 617754
-#=dev-tex/latexdiff-1.0.4                                                        #testing # broken: 617754
-#=dev-tex/latexdiff-1.1.0                                                        #        # broken: 617754
+=dev-tex/latexdiff-1.1.0                                                         #        # broken: 617754
 #=dev-tex/latexdiff-1.1.1                                                        #testing # broken: 617754
 #=dev-tex/latexdiff-1.2.0-r1                                                     #testing # broken: 617754
+#=dev-tex/latexdiff-9999                                                         #testing
 =dev-tex/latexmk-435                                                             #        #+
 #=dev-tex/latexmk-441                                                            #testing #+
 #=dev-tex/latexmk-443a                                                           #testing #+

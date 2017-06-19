@@ -2,11 +2,8 @@
 =dev-util/anjuta-3.22.0                                                          #        #+
 ## testing:
 #=dev-util/App-SVN-Bisect-1.1-r1                                                 #testing #+
-#=dev-util/abi-compliance-checker-1.99.21                                        #testing #+
-#=dev-util/abi-compliance-checker-1.99.22                                        #testing #+
-#=dev-util/abi-compliance-checker-1.99.23                                        #testing #+
-#=dev-util/abi-compliance-checker-1.99.25                                        #testing #+
 #=dev-util/abi-compliance-checker-2.0                                            #testing #+
+#=dev-util/abi-compliance-checker-2.1                                            #testing #+
 #=dev-util/abi-compliance-checker-9999                                           #testing
 #=dev-util/abi-dumper-0.99.15                                                    #testing #+
 #=dev-util/abi-dumper-0.99.19                                                    #testing #+

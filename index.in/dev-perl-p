@@ -16,6 +16,7 @@
 =dev-perl/POE-Test-Loops-1.360.0                                                 #
 =dev-perl/POSIX-strftime-Compiler-0.410.0                                        #
 =dev-perl/PPI-1.220                                                              #
+#=dev-perl/PPI-1.224.0                                                           #testing
 =dev-perl/PPIx-Regexp-0.48.0                                                     #
 #=dev-perl/PPIx-Regexp-0.51.0                                                    #testing
 =dev-perl/PPIx-Utilities-1.1.0-r1                                                #

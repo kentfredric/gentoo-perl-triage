@@ -57,8 +57,7 @@
 =dev-perl/Carp-Always-0.130.0                                                    #        #+
 =dev-perl/Carp-Assert-0.210.0                                                    #        #+
 =dev-perl/Carp-Assert-More-1.140.0                                               #        #+
-=dev-perl/Carp-Clan-6.40.0-r1                                                    #        # broken: 614206
-#=dev-perl/Carp-Clan-6.60.0                                                      #        # needs stable
+=dev-perl/Carp-Clan-6.60.0                                                       #        #+
 =dev-perl/Chart-2.4.6-r1                                                         #        # broken: 615146
 #=dev-perl/Chart-2.4.10                                                          #testing # needs stable
 =dev-perl/Chart-Math-Axis-1.60.0-r1                                              #        # broken: 615112
@@ -73,8 +72,7 @@
 =dev-perl/Class-Autouse-2.10.0-r1                                                #        # broken: 615124
 =dev-perl/Class-C3-0.310.0                                                       #        #+
 #=dev-perl/Class-C3-0.330.0                                                      #testing #+
-=dev-perl/Class-C3-XS-0.130.0-r1                                                 #        # broken: 615128
-#=dev-perl/Class-C3-XS-0.140.0                                                   #        # needs stable
+=dev-perl/Class-C3-XS-0.140.0                                                    #        #+
 =dev-perl/Class-Container-0.120.0-r1                                             #        #+
 =dev-perl/Class-DBI-3.0.17-r1                                                    #        #+
 =dev-perl/Class-DBI-mysql-1.0.0-r1                                               #        #+
@@ -109,9 +107,7 @@
 #=dev-perl/Clone-0.390.0                                                         #        # needs stable
 =dev-perl/Color-Calc-1.74.0                                                      #        #+
 =dev-perl/Color-Library-0.21.0-r1                                                #        #+
-=dev-perl/Compress-Bzip2-2.220.0                                                 #        # broken: 615026
-#=dev-perl/Compress-Bzip2-2.240.0                                                #testing # broken: 615026
-#=dev-perl/Compress-Bzip2-2.260.0                                                #        # needs stable
+=dev-perl/Compress-Bzip2-2.260.0                                                 #        #+
 =dev-perl/Config-Any-0.290.0                                                     #        # needs stable
 #=dev-perl/Config-Any-0.300.0                                                    #testing #+
 #=dev-perl/Config-Any-0.320.0                                                    #testing #+
