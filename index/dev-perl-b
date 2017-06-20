@@ -1,6 +1,6 @@
 ## stable:
 =dev-perl/B-Hooks-EndOfScope-0.150.0                                             #        # broken: 614466
-#=dev-perl/B-Hooks-EndOfScope-0.200.0                                            #        # needs stable
+#=dev-perl/B-Hooks-EndOfScope-0.200.0                                            #        #+
 =dev-perl/B-Keywords-1.140.0                                                     #        #+
 #=dev-perl/B-Keywords-1.150.0                                                    #testing #+
 =dev-perl/BSD-Resource-1.291.100                                                 #        #+
@@ -30,7 +30,7 @@
 #=dev-perl/BZ-Client-4.400.0                                                     #testing #+
 #=dev-perl/BZ-Client-4.400.100                                                   #testing #+
 #=dev-perl/BZ-Client-4.400.200                                                   #testing #+
-#=dev-perl/Benchmark-Timer-0.710.700                                             #testing # broken: 614958
+#=dev-perl/Benchmark-Timer-0.710.700                                             #testing #+
 #=dev-perl/Bio-Das-1.170.0-r1                                                    #testing #+
 #=dev-perl/Bio-Graphics-2.390.0                                                  #testing #+
 #=dev-perl/Bio-SamTools-1.420.0                                                  #testing #+
