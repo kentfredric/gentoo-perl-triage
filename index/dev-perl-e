@@ -36,7 +36,7 @@
 #=dev-perl/Email-Valid-1.202.0                                                   #testing #+
 =dev-perl/Encode-Detect-1.10.0-r1                                                #        #+
 =dev-perl/Encode-EUCJPASCII-0.30.0                                               #        #+
-=dev-perl/Encode-HanConvert-0.350.0-r1                                           #        # broken: 615828
+=dev-perl/Encode-HanConvert-0.350.0-r1                                           #        #+
 =dev-perl/Encode-HanExtra-0.230.0-r1                                             #        # broken: 615840
 #=dev-perl/Encode-JIS2K-0.02                                                     #testing #+
 =dev-perl/Encode-JIS2K-0.30.0                                                    #        #+

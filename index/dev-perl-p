@@ -86,7 +86,7 @@
 =dev-perl/Proc-Wait3-0.50.0                                                      #        #+
 =dev-perl/Proc-WaitStat-1.0.0-r1                                                 #        #+
 =dev-perl/perl-ldap-0.650.0                                                      #        # REPORT
-=dev-perl/prefork-1.40.0-r1                                                      #        #+
+=dev-perl/prefork-1.40.0-r2                                                      #        #+
 ## testing:
 #=dev-perl/PBKDF2-Tiny-0.5.0                                                     #testing #+
 #=dev-perl/PBS-Client-0.110.0                                                    #testing #+
@@ -129,9 +129,12 @@
 #=dev-perl/Perlbal-1.800.0-r1                                                    #testing #+
 #=dev-perl/Perlbal-XS-HTTPHeaders-0.200.0-r1                                     #testing #+
 #=dev-perl/Pod-Abstract-0.200.0-r1                                               #testing #+
+#=dev-perl/Pod-Elemental-0.103.4                                                 #testing #+
+#=dev-perl/Pod-Elemental-PerlMunger-0.200.6                                      #testing #+
 #=dev-perl/Pod-Eventual-0.94.1                                                   #testing #+
 #=dev-perl/Pod-POM-2.10.0                                                        #testing #+
 #=dev-perl/Pod-Strip-1.20.0                                                      #testing #+
+#=dev-perl/Pod-Weaver-4.15.0                                                     #testing #+
 #=dev-perl/Proc-Background-1.100.0-r1                                            #testing #+
 #=dev-perl/Proc-Guard-0.70.0                                                     #testing #+
 #=dev-perl/pcsc-perl-1.4.14                                                      #testing # REPORT

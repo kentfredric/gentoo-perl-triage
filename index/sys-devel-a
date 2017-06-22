@@ -30,5 +30,6 @@
 #=sys-devel/automake-1.15                                                        #        # REPORT
 #=sys-devel/automake-1.15-r1                                                     #testing # REPORT
 #=sys-devel/automake-1.15-r2                                                     #        # REPORT
+#=sys-devel/automake-1.15.1                                                      #testing # REPORT
 #=sys-devel/automake-9999                                                        #testing
 ## testing:

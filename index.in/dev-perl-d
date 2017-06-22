@@ -196,6 +196,7 @@
 #=dev-perl/Dist-Zilla-Plugin-MetaProvides-Package-2.4.3                          #testing
 #=dev-perl/Dist-Zilla-Plugin-OSPrereqs-0.8.0                                     #testing
 #=dev-perl/Dist-Zilla-Plugin-OurPkgVersion-0.100.0                               #testing
+#=dev-perl/Dist-Zilla-Plugin-PodWeaver-4.8.0                                     #testing
 #=dev-perl/Dist-Zilla-Plugin-Test-MinimumVersion-2.0.7                           #testing
 #=dev-perl/Dist-Zilla-Plugin-Test-Perl-Critic-3.0.0                              #testing
 #=dev-perl/Dist-Zilla-Plugin-Test-Perl-Critic-3.1.0                              #testing
