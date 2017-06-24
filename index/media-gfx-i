@@ -2,8 +2,8 @@
 =media-gfx/icoutils-0.31.0                                                       #        #+
 #=media-gfx/icoutils-0.31.1                                                      #testing #+
 =media-gfx/igal-2.0-r1                                                           #        #+
-=media-gfx/imagemagick-6.9.7.4                                                   #
-#=media-gfx/imagemagick-6.9.8.3                                                  #testing
-#=media-gfx/imagemagick-6.9.8.6                                                  #
-#=media-gfx/imagemagick-7.0.5.7                                                  #testing
+=media-gfx/imagemagick-6.9.7.4                                                   #        #+
+#=media-gfx/imagemagick-6.9.8.3                                                  #testing #+
+#=media-gfx/imagemagick-6.9.8.6                                                  #        #+
+#=media-gfx/imagemagick-7.0.5.7-r1                                               #testing #+
 ## testing:

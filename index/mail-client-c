@@ -4,8 +4,9 @@
 #=mail-client/claws-mail-3.15.0                                                  #testing #+
 =mail-client/clawsker-0.7.8                                                      #        #+
 #=mail-client/clawsker-0.7.10                                                    #testing #+
-=mail-client/cone-0.89                                                           #
+=mail-client/cone-0.89                                                           #        # broken: 622590
 #=mail-client/cone-0.90                                                          #        #+
 #=mail-client/cone-0.90-r1                                                       #        #+
 #=mail-client/cone-0.92                                                          #        #+
+#=mail-client/cone-0.95                                                          #testing #+
 ## testing:

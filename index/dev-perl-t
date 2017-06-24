@@ -11,7 +11,7 @@
 =dev-perl/Template-Toolkit-2.260.0                                               #        # broken: 615704
 #=dev-perl/Template-Toolkit-2.270.0                                              #testing # broken: 615704
 =dev-perl/Template-XML-2.170.0-r1                                                #        #+
-=dev-perl/Term-ANSIScreen-1.500.0-r1                                             #        # REPORT
+=dev-perl/Term-ANSIScreen-1.500.0-r1                                             #        #+
 =dev-perl/Term-ProgressBar-2.170.0                                               #        #+
 =dev-perl/Term-ProgressBar-Quiet-0.310.0                                         #        #+
 =dev-perl/Term-ProgressBar-Simple-0.30.0                                         #        #+

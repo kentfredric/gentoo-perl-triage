@@ -30,7 +30,7 @@
 =dev-perl/IO-Util-1.500.0-r1                                                     #        #+
 =dev-perl/IO-stringy-2.111.0                                                     #        #+
 =dev-perl/IPC-Run-0.940.0                                                        #        # broken: 614806
-#=dev-perl/IPC-Run-0.960.0                                                       #testing #+
+#=dev-perl/IPC-Run-0.960.0                                                       #        #+
 =dev-perl/IPC-Run3-0.48.0                                                        #        #+
 =dev-perl/IPC-ShareLite-0.170.0-r1                                               #        #+
 =dev-perl/IPC-Signal-1.0.0-r1                                                    #        #+

@@ -1,9 +1,4 @@
 ## stable:
-=media-radio/fldigi-3.23.19                                                      #        #+
-#=media-radio/fldigi-3.23.20                                                     #testing #+
-#=media-radio/fldigi-3.23.21                                                     #testing #+
-#=media-radio/fldigi-4.0.1                                                       #testing #+
-#=media-radio/fldigi-4.0.2                                                       #testing #+
-#=media-radio/fldigi-4.0.3                                                       #testing #+
-#=media-radio/fldigi-4.0.4                                                       #testing #+
+=media-radio/fldigi-4.0.4                                                        #        #+
+#=media-radio/fldigi-4.0.5                                                       #testing # broken: 622582
 ## testing:

@@ -70,6 +70,7 @@
 =dev-perl/autovivification-0.160.0                                               #        #+
 ## testing:
 #=dev-perl/Algorithm-ClusterPoints-0.80.0                                        #testing #+
+#=dev-perl/Alien-Gnuplot-1.33.0                                                  #testing #+
 #=dev-perl/AnyEvent-CacheDNS-0.80.0                                              #testing #+
 #=dev-perl/AnyEvent-HTTPD-0.930.0                                                #testing #+
 #=dev-perl/Apache-CGI-Builder-1.300.0-r1                                         #testing #+
