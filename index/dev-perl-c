@@ -231,7 +231,7 @@
 #=dev-perl/Contextual-Return-0.4.10                                              #testing #+
 #=dev-perl/Contextual-Return-0.4.14                                              #testing #+
 #=dev-perl/Cookie-Baker-XS-0.70.0                                                #testing #+
-#=dev-perl/Coro-6.511.0                                                          #testing # broken: 615520
+#=dev-perl/Coro-6.511.0                                                          #testing #+
 #=dev-perl/Cpanel-JSON-XS-3.23.0                                                 #testing #+
 #=dev-perl/Cpanel-JSON-XS-3.23.100                                               #testing #+
 #=dev-perl/Cpanel-JSON-XS-3.23.300                                               #testing #+

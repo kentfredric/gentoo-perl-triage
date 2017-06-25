@@ -3,7 +3,7 @@
 =dev-perl/FCGI-ProcManager-0.250.0                                               #        #+
 #=dev-perl/FCGI-ProcManager-0.280.0                                              #testing #+
 =dev-perl/FLV-AudioExtractor-0.010.0                                             #        #+
-=dev-perl/Feed-Find-0.70.0-r1                                                    #        # broken: 616836
+=dev-perl/Feed-Find-0.70.0-r1                                                    #        #+
 =dev-perl/Festival-Client-Async-0.30.300-r1                                      #        #+
 =dev-perl/File-BaseDir-0.30.0-r1                                                 #        #+
 #=dev-perl/File-BaseDir-0.70.0                                                   #testing #+
