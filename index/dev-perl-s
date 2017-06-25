@@ -83,7 +83,7 @@
 ## testing:
 #=dev-perl/SOAP-WSDL-3.3.0                                                       #testing # REPORT
 #=dev-perl/SQL-Abstract-Limit-0.141.0-r1                                         #testing #+
-#=dev-perl/SQL-Translator-0.110.210                                              #testing # broken: 615708
+#=dev-perl/SQL-Translator-0.110.210                                              #testing #+
 #=dev-perl/SRU-1.10.0                                                            #testing # REPORT
 #=dev-perl/Safe-Isa-1.0.5                                                        #testing #+
 #=dev-perl/Schedule-Cron-Events-1.950.0                                          #testing #+

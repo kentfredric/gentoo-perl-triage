@@ -145,7 +145,7 @@
 #=dev-perl/Mail-DMARC-1.201.509.80                                               #testing #+
 #=dev-perl/Mail-Message-3.0.0                                                    #testing #+
 #=dev-perl/Mail-Transport-3.0.0                                                  #testing #+
-#=dev-perl/Math-Base36-0.140.0                                                   #testing # BROKEN: 615702
+#=dev-perl/Math-Base36-0.140.0                                                   #testing #+
 #=dev-perl/Math-Bezier-0.10.0-r1                                                 #testing #+
 #=dev-perl/Math-BigInt-Lite-0.140.0                                              #testing # broken: 617134
 #=dev-perl/Math-CDF-0.100.0                                                      #testing #+
