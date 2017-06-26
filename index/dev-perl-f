@@ -13,7 +13,7 @@
 =dev-perl/File-Find-Rule-0.330.0-r1                                              #        #+
 #=dev-perl/File-Find-Rule-0.340.0                                                #testing #+
 =dev-perl/File-Find-Rule-Perl-1.130.0                                            #        # broken: 614650
-#=dev-perl/File-Find-Rule-Perl-1.150.0                                           #        # needs stable
+#=dev-perl/File-Find-Rule-Perl-1.150.0                                           #        #+
 =dev-perl/File-Flat-1.40.0-r1                                                    #        #+
 =dev-perl/File-Flock-2014.10.0                                                   #        #+
 =dev-perl/File-HomeDir-1.2.0                                                     #        #+
@@ -24,7 +24,7 @@
 #=dev-perl/File-MimeInfo-0.280.0                                                 #testing #+
 =dev-perl/File-NCopy-0.360.0-r1                                                  #        #+
 =dev-perl/File-NFSLock-1.270.0                                                   #        # broken: 615094
-=dev-perl/File-Next-1.160.0                                                      #        # needs stable
+=dev-perl/File-Next-1.160.0                                                      #        #+
 =dev-perl/File-Path-Expand-1.20.0-r1                                             #        #+
 =dev-perl/File-ReadBackwards-1.50.0-r1                                           #        #+
 =dev-perl/File-Remove-1.570.0                                                    #        #+
@@ -79,7 +79,6 @@
 #=dev-perl/File-Share-0.250.0                                                    #testing #+
 #=dev-perl/File-ShareDir-ProjectDistDir-1.0.9                                    #testing #+
 #=dev-perl/File-Stat-Moose-0.60.0-r1                                             #testing #+
-#=dev-perl/Filesys-SmbClient-3.200.0-r1                                          #testing
 #=dev-perl/Filesys-SmbClient-3.200.0-r2                                          #testing #+
 #=dev-perl/Format-Human-Bytes-0.60.0-r1                                          #testing # broken: 616868
 #=dev-perl/forks-0.360.0                                                         #testing #+
