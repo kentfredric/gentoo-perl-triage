@@ -5,7 +5,7 @@
 #=dev-perl/Email-Abstract-3.8.0                                                  #testing #+
 =dev-perl/Email-Address-1.907.0                                                  #        #+
 #=dev-perl/Email-Address-1.908.0                                                 #testing #+
-=dev-perl/Email-Address-List-0.50.0                                              #        # broken: 615820
+=dev-perl/Email-Address-List-0.50.0                                              #        #+
 =dev-perl/Email-Date-1.104.0-r1                                                  #        #+
 =dev-perl/Email-Date-Format-1.2.0-r1                                             #        #+
 #=dev-perl/Email-Date-Format-1.5.0                                               #testing #+
@@ -37,22 +37,21 @@
 =dev-perl/Encode-Detect-1.10.0-r1                                                #        #+
 =dev-perl/Encode-EUCJPASCII-0.30.0                                               #        #+
 =dev-perl/Encode-HanConvert-0.350.0-r1                                           #        #+
-=dev-perl/Encode-HanExtra-0.230.0-r1                                             #        # broken: 615840
+=dev-perl/Encode-HanExtra-0.230.0-r1                                             #        #+
 #=dev-perl/Encode-JIS2K-0.02                                                     #testing #+
 =dev-perl/Encode-JIS2K-0.30.0                                                    #        #+
 =dev-perl/Encode-Locale-1.30.0-r1                                                #        #+
 #=dev-perl/Encode-Locale-1.50.0                                                  #testing #+
 =dev-perl/Encode-compat-0.70.0-r1                                                #        #+
 =dev-perl/Error-0.170.240                                                        #        #+
-=dev-perl/Eval-Closure-0.80.0-r1                                                 #        # broken: 554926
-#=dev-perl/Eval-Closure-0.130.0                                                  #        #+
+=dev-perl/Eval-Closure-0.130.0                                                   #        #+
 #=dev-perl/Eval-Closure-0.140.0                                                  #        #+
 =dev-perl/Eval-LineNumbers-0.340.0                                               #        #+
 =dev-perl/Event-1.240.0                                                          #        #+
 #=dev-perl/Event-1.260.0                                                         #testing #+
 =dev-perl/Event-ExecFlow-0.640.0-r1                                              #        #+
 =dev-perl/Event-RPC-1.50.0                                                       #        #+
-#=dev-perl/Event-RPC-1.80.0                                                      #testing # broken: 615834
+#=dev-perl/Event-RPC-1.80.0                                                      #testing # tests broken: 615834
 =dev-perl/Exception-Class-1.390.0                                                #        #+
 #=dev-perl/Exception-Class-1.410.0                                               #testing #+
 #=dev-perl/Exception-Class-1.420.0                                               #testing #+
@@ -65,7 +64,7 @@
 =dev-perl/Exporter-Tiny-0.42.0                                                   #        #+
 #=dev-perl/Exporter-Tiny-0.44.0                                                  #testing #+
 #=dev-perl/Exporter-Tiny-1.0.0                                                   #testing #+
-=dev-perl/ExtUtils-AutoInstall-0.630.0-r1                                        #        # broken: 615830
+=dev-perl/ExtUtils-AutoInstall-0.630.0-r1                                        #        #+
 =dev-perl/ExtUtils-Config-0.7.0                                                  #        #+
 #=dev-perl/ExtUtils-Config-0.8.0                                                 #        #+
 =dev-perl/ExtUtils-Depends-0.404.0                                               #        #+
@@ -78,11 +77,11 @@
 =dev-perl/ExtUtils-InstallPaths-0.10.0                                           #        #+
 #=dev-perl/ExtUtils-InstallPaths-0.11.0                                          #        #+
 =dev-perl/ExtUtils-LibBuilder-0.80.0                                             #        #+
-=dev-perl/ExtUtils-PkgConfig-1.150.0                                             #        # broken: 615098
+=dev-perl/ExtUtils-PkgConfig-1.150.0                                             #        # tests broken: 615098
 #=dev-perl/ExtUtils-PkgConfig-1.160.0                                            #        #+
 =dev-perl/ExtUtils-XSBuilder-0.280.0-r1                                          #        #+
-=dev-perl/ExtUtils-XSpp-0.170.0                                                  #        # broken: 615240
-#=dev-perl/ExtUtils-XSpp-0.180.0                                                 #        # broken: 615240
+=dev-perl/ExtUtils-XSpp-0.170.0                                                  #        # tests broken: 615240
+#=dev-perl/ExtUtils-XSpp-0.180.0                                                 #        # tests broken: 615240
 ## testing:
 #=dev-perl/Emacs-PDE-0.2.16-r1                                                   #testing #+
 #=dev-perl/Email-Filter-1.32.0-r1                                                #testing #+
@@ -97,7 +96,7 @@
 #=dev-perl/Exception-Warning-0.40.100-r1                                         #testing #+
 #=dev-perl/ExtUtils-CChecker-0.90.0                                              #testing #+
 #=dev-perl/ExtUtils-CChecker-0.100.0                                             #testing #+
-#=dev-perl/ExtUtils-CppGuess-0.110.0                                             #testing # broken: 615842
+#=dev-perl/ExtUtils-CppGuess-0.110.0                                             #testing # tests broken: 615842
 #=dev-perl/ExtUtils-Typemaps-Default-1.50.0                                      #testing #+
 #=dev-perl/enum-1.16.0-r1                                                        #testing #+
 #=dev-perl/enum-1.110.0                                                          #testing #+

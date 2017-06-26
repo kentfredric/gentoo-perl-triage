@@ -44,8 +44,7 @@
 #=dev-perl/Encode-Locale-1.50.0                                                  #testing
 =dev-perl/Encode-compat-0.70.0-r1                                                #
 =dev-perl/Error-0.170.240                                                        #
-=dev-perl/Eval-Closure-0.80.0-r1                                                 #
-#=dev-perl/Eval-Closure-0.130.0                                                  #
+=dev-perl/Eval-Closure-0.130.0                                                   #
 #=dev-perl/Eval-Closure-0.140.0                                                  #
 =dev-perl/Eval-LineNumbers-0.340.0                                               #
 =dev-perl/Event-1.240.0                                                          #
