@@ -64,7 +64,7 @@
 =dev-perl/libxml-perl-0.80.0-r1                                                  #        #+
 =dev-perl/local-lib-2.0.19                                                       #        #+
 ## testing:
-#=dev-perl/LWP-Online-1.80.0-r2                                                  #testing # broken: 617054
+#=dev-perl/LWP-Online-1.80.0-r2                                                  #testing #+
 #=dev-perl/LWP-UserAgent-Cached-0.60.0                                           #testing #+
 #=dev-perl/LWP-UserAgent-Determined-1.70.0                                       #testing #+
 #=dev-perl/Lab-Measurement-3.531.0                                               #testing

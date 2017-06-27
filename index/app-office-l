@@ -1,6 +1,7 @@
 ## stable:
 =app-office/libreoffice-5.2.7.2                                                  #        # REPORT
 #=app-office/libreoffice-5.3.3.2                                                 #testing
+#=app-office/libreoffice-5.3.4.2                                                 #testing # broken: 622838 equality assertion
 #=app-office/libreoffice-5.3.9999                                                #testing
 #=app-office/libreoffice-5.4.9999                                                #testing
 #=app-office/libreoffice-9999                                                    #testing
