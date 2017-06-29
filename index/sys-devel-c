@@ -6,6 +6,7 @@
 #=sys-devel/clang-3.8.1-r100                                                     #testing
 #=sys-devel/clang-3.9.1-r100                                                     #        #+
 #=sys-devel/clang-4.0.0-r2                                                       #testing
+#=sys-devel/clang-4.0.1                                                          #testing #+
 #=sys-devel/clang-9999                                                           #testing
 ## testing:
 #=sys-devel/cons-2.2.0                                                           #testing

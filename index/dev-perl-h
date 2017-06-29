@@ -11,7 +11,7 @@
 #=dev-perl/HTML-FromText-2.70.0                                                  #testing #+
 =dev-perl/HTML-HTMLDoc-0.100.0-r1                                                #        #+
 =dev-perl/HTML-LinkExtractor-0.130.0-r1                                          #        #+
-=dev-perl/HTML-Mason-1.560.0                                                     #        # broken: 616966
+=dev-perl/HTML-Mason-1.560.0                                                     #        # tests broken: 616966
 =dev-perl/HTML-Mason-PSGIHandler-0.530.0                                         #        #+
 =dev-perl/HTML-Object-2.29-r2                                                    #        #+
 =dev-perl/HTML-Parser-3.710.0-r1                                                 #        #+
@@ -30,9 +30,9 @@
 =dev-perl/HTML-Template-Expr-0.70.0-r1                                           #        #+
 =dev-perl/HTML-Template-JIT-0.50.0-r1                                            #        #+
 =dev-perl/HTML-TokeParser-Simple-3.160.0-r1                                      #        #+
-=dev-perl/HTML-Tree-4.200.0-r1                                                   #        # broken: 614800
-#=dev-perl/HTML-Tree-5.30.0-r1                                                   #        # broken: 614800
-#=dev-perl/HTML-Tree-5.40.0                                                      #testing # broken: 614800
+=dev-perl/HTML-Tree-4.200.0-r1                                                   #        # broken: 614800 , waiting for stable 622450
+#=dev-perl/HTML-Tree-5.30.0-r1                                                   #        # broken: 614800 , waiting for stable 622450
+#=dev-perl/HTML-Tree-5.40.0                                                      #testing # broken: 614800 , waiting for stable 622450
 #=dev-perl/HTML-Tree-5.60.0                                                      #        #+
 =dev-perl/HTTP-Body-1.220.0                                                      #        #+
 =dev-perl/HTTP-BrowserDetect-1.500.0                                             #        #+
@@ -54,7 +54,7 @@
 =dev-perl/HTTP-Server-Simple-0.520.0                                             #        #+
 =dev-perl/HTTP-Server-Simple-Mason-0.140.0-r1                                    #        # broken: 616984
 =dev-perl/HTTP-Server-Simple-PSGI-0.160.0                                        #        #+
-=dev-perl/HTTPD-User-Manage-1.660.0-r1                                           #        # broken: 616986
+=dev-perl/HTTPD-User-Manage-1.660.0-r1                                           #        # tests broken: 616986
 =dev-perl/Hash-Merge-0.200.0                                                     #        #+
 =dev-perl/Hash-MoreUtils-0.20.0-r1                                               #        #+
 #=dev-perl/Hash-MoreUtils-0.50.0                                                 #testing #+
@@ -68,7 +68,7 @@
 #=dev-perl/HTML-StripScripts-1.60.0                                              #testing #+
 #=dev-perl/HTML-StripScripts-Parser-1.30.0                                       #testing #+
 #=dev-perl/HTML-TableContentParser-0.130.0                                       #testing #+
-#=dev-perl/HTML-TagFilter-1.30.0                                                 #testing # broken: 616992
+#=dev-perl/HTML-TagFilter-1.30.0                                                 #testing # tests broken: 616992
 #=dev-perl/HTML-Template-Pro-0.951.0                                             #testing #+
 #=dev-perl/HTTP-CookieJar-0.8.0                                                  #testing #+
 #=dev-perl/HTTP-Entity-Parser-0.190.0                                            #testing #+
