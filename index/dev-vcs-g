@@ -32,6 +32,8 @@
 #=dev-vcs/gitolite-gentoo-3.6.4.1                                                #testing #+
 #=dev-vcs/gitolite-gentoo-3.6.4.1-r1                                             #testing #+
 #=dev-vcs/gitolite-gentoo-3.6.5                                                  #testing #+
+#=dev-vcs/gitolite-gentoo-3.6.6                                                  #testing #+
+#=dev-vcs/gitolite-gentoo-3.6.6.1                                                #testing #+
 #=dev-vcs/gitolite-gentoo-9999                                                   #testing
 =dev-vcs/guilt-0.32                                                              #
 #=dev-vcs/guilt-0.36                                                             #testing

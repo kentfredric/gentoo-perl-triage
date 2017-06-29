@@ -7,6 +7,6 @@
 #=net-misc/iputils-20161105                                                      #testing
 #=net-misc/iputils-99999999                                                      #testing
 =net-misc/ipv6calc-0.97.4                                                        #        #+
-#=net-misc/ipv6calc-0.99.2                                                       #testing #+
+#=net-misc/ipv6calc-0.99.2                                                       #        #+
 #=net-misc/ipv6calc-1.0.0                                                        #testing # tests broken: 622836
 ## testing:
