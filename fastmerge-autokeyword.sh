@@ -23,10 +23,9 @@ installpkg() {
 }
 
 cleanup() {
-	emerge --depclean -q --with-bdeps=y
-	truncate -s 0 /etc/portage/package.accept_keywords/zzz-autounmask
-	truncate -s 0 /etc/portage/package.keywords/zzz-autounmask
-	truncate -s 0 /etc/portage/package.use/zzz-autounmask
+  if [[ -n $AUTODEPCLEAN ]]; then
+    source /root/set-gen/cleanup.sh
+  fi
 }
 
 installdeps "$@"
@@ -46,9 +45,12 @@ if [[ $exitstate != 0 ]]; then
 	echo "[31;1m failure installing > $@[0m"
 	echo "$@" >> /tmp/merge.failure
 	echo "failure $@" >> /tmp/merge.all
+  cleanup
 	exit $exitstate
 fi
 
 echo "[32m success installing > [35m$@[0m"
 echo "$@" >> /tmp/merge.success
 echo "pass $@" >> /tmp/merge.all
+
+cleanup
