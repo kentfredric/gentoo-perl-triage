@@ -53,4 +53,8 @@ echo "[32m success installing > [35m$@[0m"
 echo "$@" >> /tmp/merge.success
 echo "pass $@" >> /tmp/merge.all
 
+echo "[34m --{+}-- Files --{+}--[0m"
+qlist -e "$@"
+echo "[34m --{-}-- Files --{-}--[0m"
+
 cleanup
