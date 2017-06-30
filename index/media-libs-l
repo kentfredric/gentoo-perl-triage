@@ -2,5 +2,5 @@
 #=media-libs/libvisio-0.0.30                                                     #testing # broken 622924: boost undef
 =media-libs/libvisio-0.1.5                                                       #        # broken 611452: fixed in -r1
 #=media-libs/libvisio-0.1.5-r1                                                   #        #+
-#=media-libs/libvisio-9999                                                       #testing
+#=media-libs/libvisio-9999                                                       #testing # NEEDS KEYWORDS
 ## testing:

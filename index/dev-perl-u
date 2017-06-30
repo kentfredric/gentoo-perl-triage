@@ -7,8 +7,8 @@
 =dev-perl/URI-1.710.0                                                            #        #+
 =dev-perl/URI-Fetch-0.130.0                                                      #        #+
 =dev-perl/Unicode-EastAsianWidth-1.330.0-r1                                      #        #+
-=dev-perl/Unicode-LineBreak-2016.3.0                                             #        # broken: 614538
-#=dev-perl/Unicode-LineBreak-2017.4.0                                            #testing # broken: 614538
+=dev-perl/Unicode-LineBreak-2016.3.0                                             #        # tests broken: 614538
+#=dev-perl/Unicode-LineBreak-2017.4.0                                            #testing # tests broken: 614538
 =dev-perl/Unicode-Map-0.112.0-r1                                                 #        #+
 =dev-perl/Unicode-Map8-0.130.0                                                   #        #+
 =dev-perl/Unicode-MapUTF8-1.110.0-r1                                             #        #+
@@ -26,5 +26,5 @@
 #=dev-perl/UUID-0.250.0                                                          #testing #+
 #=dev-perl/UUID-0.260.0                                                          #testing #+
 #=dev-perl/UUID-Tiny-1.40.0                                                      #testing #+
-#=dev-perl/UltraDNS-0.60.0-r1                                                    #testing # REPORT
+#=dev-perl/UltraDNS-0.60.0-r1                                                    #testing # tests broken: 623144
 #=dev-perl/Unicode-Stringprep-1.105.0-r1                                         #testing #+

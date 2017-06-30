@@ -2,5 +2,5 @@
 =net-ftp/lftp-4.7.5                                                              #        #+
 #=net-ftp/lftp-4.7.6                                                             #testing #+
 #=net-ftp/lftp-4.7.7                                                             #testing #+
-#=net-ftp/lftp-9999                                                              #testing
+#=net-ftp/lftp-9999                                                              #testing # NEEDS KEYWORDS
 ## testing:

@@ -6,5 +6,5 @@
 #=media-libs/gegl-0.3.10                                                         #testing
 #=media-libs/gegl-0.3.12                                                         #testing
 #=media-libs/gegl-0.3.14                                                         #testing
-#=media-libs/gegl-9999                                                           #testing
+#=media-libs/gegl-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:

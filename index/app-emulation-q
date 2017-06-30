@@ -1,5 +1,5 @@
 ## stable:
 =app-emulation/qemu-2.9.0-r2                                                     #        #+
 #=app-emulation/qemu-2.9.0-r54                                                   #testing #+
-#=app-emulation/qemu-9999                                                        #testing
+#=app-emulation/qemu-9999                                                        #testing # NEEDS KEYWORDS
 ## testing:

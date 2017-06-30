@@ -1,8 +1,6 @@
 ## stable:
 =dev-perl/MD5-2.30.0-r1                                                          #        #+
-=dev-perl/MIME-Charset-1.9.3                                                     #        # broken: 614536, waiting stable 622970
-#=dev-perl/MIME-Charset-1.12.0                                                   #testing # broken: 614536, waiting stable 622970
-#=dev-perl/MIME-Charset-1.12.2                                                   #        #+
+=dev-perl/MIME-Charset-1.12.2                                                    #        #+
 =dev-perl/MIME-EncWords-1.12.6-r1                                                #        #+
 #=dev-perl/MIME-EncWords-1.14.3                                                  #testing #+
 =dev-perl/MIME-Lite-3.30.0                                                       #        #+

@@ -1,5 +1,5 @@
 ## stable:
 =net-irc/hexchat-2.12.4-r1                                                       #        #+
 #=net-irc/hexchat-2.12.4-r2                                                      #testing #+
-#=net-irc/hexchat-9999                                                           #testing
+#=net-irc/hexchat-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:

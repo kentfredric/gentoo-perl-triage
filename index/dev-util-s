@@ -3,9 +3,9 @@
 =dev-util/strace-4.13                                                            #        #+
 #=dev-util/strace-4.16                                                           #        # REPORT
 #=dev-util/strace-4.17                                                           #testing
-#=dev-util/strace-9999                                                           #testing
+#=dev-util/strace-9999                                                           #testing # NEEDS KEYWORDS
 =dev-util/suse-build-2014.09.18                                                  #        #+
 #=dev-util/suse-build-2015.11.05                                                 #        #+
-#=dev-util/suse-build-9999                                                       #testing
+#=dev-util/suse-build-9999                                                       #testing # NEEDS KEYWORDS
 ## testing:
 #=dev-util/smem-20071119_p1                                                      #testing #+

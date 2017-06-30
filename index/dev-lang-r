@@ -12,6 +12,6 @@
 #=dev-lang/rakudo-2017.04.2                                                      #testing #+
 #=dev-lang/rakudo-2017.05                                                        #testing #+
 #=dev-lang/rakudo-2017.06                                                        #testing #+
-#=dev-lang/rakudo-9999                                                           #testing
+#=dev-lang/rakudo-9999                                                           #testing # NEEDS KEYWORDS
 #=dev-lang/rust-1.15.1                                                           #testing # REPORT
 #=dev-lang/rust-1.16.0                                                           #testing # REPORT

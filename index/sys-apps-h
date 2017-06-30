@@ -9,5 +9,5 @@
 #=sys-apps/hwids-20160801                                                        #testing #+
 #=sys-apps/hwids-20161103                                                        #testing #+
 #=sys-apps/hwids-20170328                                                        #        #+
-#=sys-apps/hwids-99999999                                                        #testing
+#=sys-apps/hwids-99999999                                                        #testing # NEEDS KEYWORDS
 ## testing:

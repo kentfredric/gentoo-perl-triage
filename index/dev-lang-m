@@ -9,5 +9,5 @@
 #=dev-lang/moarvm-2017.04-r1                                                     #testing #+
 #=dev-lang/moarvm-2017.05-r1                                                     #testing #+
 #=dev-lang/moarvm-2017.06-r1                                                     #testing #+
-#=dev-lang/moarvm-9999                                                           #testing
+#=dev-lang/moarvm-9999                                                           #testing # NEEDS KEYWORDS
 #=dev-lang/mozart-1.4.0-r3                                                       #testing

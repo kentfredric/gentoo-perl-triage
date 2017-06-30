@@ -8,7 +8,7 @@
 #=media-sound/lilypond-2.19.59                                                   #testing #+
 #=media-sound/lilypond-2.19.60                                                   #testing #+
 #=media-sound/lilypond-2.19.61                                                   #testing
-#=media-sound/lilypond-9999                                                      #testing
+#=media-sound/lilypond-9999                                                      #testing # NEEDS KEYWORDS
 ## testing:
 #=media-sound/lltag-0.14.4-r1                                                    #testing #+
 #=media-sound/lltag-0.14.5                                                       #testing #+

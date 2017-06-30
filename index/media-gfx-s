@@ -6,4 +6,4 @@
 ## testing:
 #=media-gfx/slic3r-1.1.7                                                         #testing
 #=media-gfx/slic3r-1.2.9-r2                                                      #testing
-#=media-gfx/slic3r-9999                                                          #testing
+#=media-gfx/slic3r-9999                                                          #testing # NEEDS KEYWORDS

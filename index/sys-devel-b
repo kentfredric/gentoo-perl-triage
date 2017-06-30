@@ -20,4 +20,4 @@
 #=sys-devel/binutils-apple-8.2.1                                                 #testing
 #=sys-devel/byfl-1.4-r1                                                          #testing
 #=sys-devel/byfl-1.5                                                             #testing # REPORT
-#=sys-devel/byfl-9999                                                            #testing
+#=sys-devel/byfl-9999                                                            #testing # NEEDS KEYWORDS

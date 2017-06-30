@@ -1,5 +1,5 @@
 ## stable:
-=dev-perl/LWP-Authen-Wsse-0.50.0-r1                                              #        # broken: 617008
+=dev-perl/LWP-Authen-Wsse-0.50.0-r1                                              #        #+
 =dev-perl/LWP-MediaTypes-6.20.0-r1                                               #        #+
 =dev-perl/LWP-Protocol-http10-6.30.0                                             #        #+
 =dev-perl/LWP-Protocol-https-6.60.0                                              #        #+
@@ -34,7 +34,7 @@
 #=dev-perl/List-MoreUtils-0.419.0                                                #testing #+
 =dev-perl/List-MoreUtils-XS-0.418.0                                              #        #+
 =dev-perl/List-UtilsBy-0.100.0                                                   #        # tests broken: 615096
-=dev-perl/Locale-Maketext-Fuzzy-0.110.0-r1                                       #        # broken: 617046
+=dev-perl/Locale-Maketext-Fuzzy-0.110.0-r1                                       #        #+
 =dev-perl/Locale-Maketext-Lexicon-1.0.0                                          #        #+
 =dev-perl/Locale-PO-0.270.0                                                      #        #+
 =dev-perl/Locale-gettext-1.50.0-r1                                               #        #+
@@ -66,9 +66,9 @@
 #=dev-perl/LWP-Online-1.80.0-r2                                                  #testing #+
 #=dev-perl/LWP-UserAgent-Cached-0.60.0                                           #testing #+
 #=dev-perl/LWP-UserAgent-Determined-1.70.0                                       #testing #+
-#=dev-perl/Lab-Measurement-3.531.0                                               #testing
+#=dev-perl/Lab-Measurement-3.531.0                                               #testing #+
 #=dev-perl/Lab-Measurement-3.550.0                                               #testing #+
-#=dev-perl/Lab-Measurement-9999                                                  #testing
+#=dev-perl/Lab-Measurement-9999                                                  #testing # NEED KEYWORDS
 #=dev-perl/Lab-Zhinst-0.30.0                                                     #testing #+
 #=dev-perl/Lab-Zhinst-0.50.0                                                     #testing #+
 #=dev-perl/Lab-Zhinst-9999                                                       #testing #+

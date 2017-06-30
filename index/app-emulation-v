@@ -1,7 +1,7 @@
 ## stable:
 =app-emulation/virt-manager-1.4.0-r3                                             #        #+
 #=app-emulation/virt-manager-1.4.1                                               #testing #+
-#=app-emulation/virt-manager-9999                                                #testing
+#=app-emulation/virt-manager-9999                                                #testing # NEEDS KEYWORDS
 =app-emulation/virt-viewer-4.0                                                   #        #+
 #=app-emulation/virt-viewer-5.0                                                  #        #+
 =app-emulation/virt-what-1.12                                                    #        #+

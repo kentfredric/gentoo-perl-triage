@@ -1,4 +1,4 @@
 ## stable:
 ## testing:
 #=app-misc/vit-1.2-r1                                                            #testing # REPORT bad test phsae
-#=app-misc/vit-9999                                                              #testing
+#=app-misc/vit-9999                                                              #testing # NEEDS KEYWORDS

@@ -10,7 +10,7 @@
 #=sys-devel/autoconf-2.68                                                        #        # REPORT
 #=sys-devel/autoconf-2.69                                                        #        # REPORT
 #=sys-devel/autoconf-2.69-r3                                                     #testing # REPORT
-#=sys-devel/autoconf-9999                                                        #testing
+#=sys-devel/autoconf-9999                                                        #testing # NEEDS KEYWORDS
 =sys-devel/automake-1.4_p6-r2                                                    #        #+
 #=sys-devel/automake-1.5-r2                                                      #        #+
 #=sys-devel/automake-1.6.3-r2                                                    #        # REPORT
@@ -31,5 +31,5 @@
 #=sys-devel/automake-1.15-r1                                                     #testing # REPORT
 #=sys-devel/automake-1.15-r2                                                     #        # REPORT
 #=sys-devel/automake-1.15.1                                                      #testing # REPORT
-#=sys-devel/automake-9999                                                        #testing
+#=sys-devel/automake-9999                                                        #testing # NEEDS KEYWORDS
 ## testing:
