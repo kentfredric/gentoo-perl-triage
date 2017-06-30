@@ -18,7 +18,7 @@ installdeps() {
 
 installpkg() {
 	echo "[32m installing [34mtarget > [31m$@[0m"
-	emerge "${EARGS[@]}" "$@"
+	emerge "${EARGS[@]}" --quiet-build=n --jobs=1 "$@"
 	return $?
 }
 
