@@ -10,7 +10,7 @@
 #=dev-perl/MIME-tools-5.509.0                                                    #        #+
 =dev-perl/MLDBM-2.50.0                                                           #        #+
 =dev-perl/MLDBM-Sync-0.300.0-r1                                                  #        #+
-=dev-perl/MP3-Info-1.240.0-r1                                                    #        # broken: 617104
+=dev-perl/MP3-Info-1.240.0-r1                                                    #        #+
 =dev-perl/MP3-Tag-1.140.0                                                        #        #+
 =dev-perl/MRO-Compat-0.130.0                                                     #        #+
 =dev-perl/Mail-Audit-2.228.0-r1                                                  #        #+
@@ -24,7 +24,7 @@
 #=dev-perl/Mail-IMAPClient-3.380.0                                               #testing #+
 #=dev-perl/Mail-IMAPClient-3.390.0                                               #testing #+
 =dev-perl/Mail-ListDetector-1.40.0-r1                                            #        #+
-=dev-perl/Mail-Mbox-MessageParser-1.510.500                                      #        # broken: 617108
+=dev-perl/Mail-Mbox-MessageParser-1.510.500                                      #        #+
 =dev-perl/Mail-POP3Client-2.190.0                                                #        #+
 =dev-perl/Mail-Procmail-1.80.0-r1                                                #        #+
 =dev-perl/Mail-SPF-2.9.0-r1                                                      #        #+
@@ -72,7 +72,7 @@
 #=dev-perl/Module-Install-1.180.0                                                #        #+
 =dev-perl/Module-Install-AuthorTests-0.2.0                                       #        #+
 =dev-perl/Module-Locate-1.800.0                                                  #        #+
-=dev-perl/Module-Manifest-1.80.0-r1                                              #        # broken: 617112
+=dev-perl/Module-Manifest-1.80.0-r1                                              #        #+
 =dev-perl/Module-Pluggable-5.200.0                                               #        #+
 =dev-perl/Module-Refresh-0.170.0-r1                                              #        #+
 =dev-perl/Module-Runtime-0.14.0                                                  #        # tests broken: 614338
@@ -138,14 +138,14 @@
 #=dev-perl/Mac-Pasteboard-0.3.0                                                  #testing # SKIP Needs OSX
 #=dev-perl/Mail-Box-IMAP4-3.1.0                                                  #testing #+
 #=dev-perl/Mail-Box-POP3-3.1.0                                                   #testing #+
-#=dev-perl/Mail-Builder-2.90.0                                                   #testing # broken: 617132
+#=dev-perl/Mail-Builder-2.90.0                                                   #testing # tests broken: 623226
 #=dev-perl/Mail-Builder-Simple-0.160.0-r1                                        #testing #+
 #=dev-perl/Mail-DMARC-1.201.509.80                                               #testing #+
 #=dev-perl/Mail-Message-3.0.0                                                    #testing #+
 #=dev-perl/Mail-Transport-3.0.0                                                  #testing #+
 #=dev-perl/Math-Base36-0.140.0                                                   #testing #+
 #=dev-perl/Math-Bezier-0.10.0-r1                                                 #testing #+
-#=dev-perl/Math-BigInt-Lite-0.140.0                                              #testing # broken: 617134
+#=dev-perl/Math-BigInt-Lite-0.140.0                                              #testing #+
 #=dev-perl/Math-CDF-0.100.0                                                      #testing #+
 #=dev-perl/Math-FFT-1.340.0                                                      #testing #+
 #=dev-perl/Math-Factor-XS-0.400.0                                                #testing #+
@@ -164,7 +164,7 @@
 #=dev-perl/Module-Build-WithXSpp-0.140.0                                         #testing #+
 #=dev-perl/Module-Path-0.190.0                                                   #testing #+
 #=dev-perl/MogileFS-Client-1.170.0-r1                                            #testing #+
-#=dev-perl/MogileFS-Client-Async-0.030.0-r1                                      #testing # broken: 617138
+#=dev-perl/MogileFS-Client-Async-0.030.0-r1                                      #testing #+
 #=dev-perl/MogileFS-Network-0.060.0-r1                                           #testing #+
 #=dev-perl/MogileFS-Server-2.700.0-r2                                            #testing #+
 #=dev-perl/MogileFS-Server-2.700.0-r3                                            #testing #+
@@ -190,7 +190,7 @@
 #=dev-perl/MooseX-SimpleConfig-0.110.0                                           #testing #+
 #=dev-perl/MooseX-StrictConstructor-0.190.0                                      #testing #+
 #=dev-perl/MooseX-Types-DateTime-0.130.0                                         #testing #+
-#=dev-perl/MooseX-Types-DateTime-ButMaintained-0.160.0                           #testing # broken: 617142
+#=dev-perl/MooseX-Types-DateTime-ButMaintained-0.160.0                           #testing #+
 #=dev-perl/MooseX-Types-DateTime-MoreCoercions-0.150.0                           #testing #+
 #=dev-perl/MooseX-Types-DateTimeX-0.100.0                                        #testing # broken: 617144
 #=dev-perl/MooseX-Types-JSON-1.0.0                                               #testing #+

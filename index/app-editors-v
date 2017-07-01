@@ -4,7 +4,7 @@
 #=app-editors/vile-9.8o                                                          #testing #+
 #=app-editors/vile-9.8p                                                          #testing #+
 #=app-editors/vile-9.8r                                                          #        #+
-#=app-editors/vile-9.8s                                                          #testing # REPORT
+#=app-editors/vile-9.8s                                                          #testing # broken 615376
 =app-editors/vim-8.0.0386                                                        #        #+
 #=app-editors/vim-8.0.0386-r1                                                    #testing #+
 #=app-editors/vim-9999                                                           #testing # NEEDS KEYWORDS

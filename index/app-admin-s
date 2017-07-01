@@ -7,4 +7,4 @@
 #=app-admin/sysklogd-1.5.1-r1                                                    #testing #+
 =app-admin/system-tools-backends-2.10.2                                          #        #+
 ## testing:
-#=app-admin/stow-2.2.2-r1                                                        #testing # REPORT perl!
+#=app-admin/stow-2.2.2-r1                                                        #testing # tests broken: 623212

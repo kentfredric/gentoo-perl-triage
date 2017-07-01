@@ -1,4 +1,4 @@
 ## stable:
-=app-text/namazu-2.0.21                                                          #        # REPORT {
-#=app-text/namazu-2.0.22_p1                                                      #testing
+=app-text/namazu-2.0.21                                                          #        # tests broken 623224
+#=app-text/namazu-2.0.22_p1                                                      #testing # NEEDS KEYWORDS
 ## testing:
