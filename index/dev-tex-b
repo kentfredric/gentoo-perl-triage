@@ -1,4 +1,4 @@
 ## stable:
-=dev-tex/biber-2.5                                                               #        # REPORT perl {
+=dev-tex/biber-2.5                                                               #        # broken: 623410
 #=dev-tex/biber-2.7                                                              #testing #+
 ## testing:

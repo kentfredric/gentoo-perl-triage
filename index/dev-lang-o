@@ -1,6 +1,6 @@
 ## stable:
 ## testing:
-#=dev-lang/opendylan-2013.1-r1                                                   #testing # REPORT
-#=dev-lang/opendylan-2013.2                                                      #testing # REPORT
+#=dev-lang/opendylan-2013.1-r1                                                   #testing # broken: 623232
+#=dev-lang/opendylan-2013.2                                                      #testing # broken: 623232
 #=dev-lang/opendylan-2014.1                                                      #testing #+
 #=dev-lang/opendylan-9999                                                        #testing # NEEDS KEYWORDS

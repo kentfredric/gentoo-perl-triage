@@ -1,6 +1,7 @@
 ## stable:
 =dev-lang/nasm-2.11.08                                                           #        #+
 #=dev-lang/nasm-2.12.01                                                          #        #+
+#=dev-lang/nasm-2.13.01                                                          #testing #+
 ## testing:
 #=dev-lang/nqp-2016.10                                                           #testing #+
 #=dev-lang/nqp-2016.11                                                           #testing #+

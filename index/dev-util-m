@@ -1,8 +1,8 @@
 ## stable:
 ## testing:
-#=dev-util/makepp-1.18                                                           #testing
-#=dev-util/makepp-1.40.1a                                                        #testing
-#=dev-util/makepp-1.50_pre110621                                                 #testing
-#=dev-util/makepp-2.0-r1                                                         #testing # REPORT @INC
-#=dev-util/makepp-2.0.98.4                                                       #testing # REPORT @INC
-#=dev-util/makepp-2.0.98.5                                                       #testing # REPORT @INC
+#=dev-util/makepp-1.18                                                           #testing # NEED KEYWORDS
+#=dev-util/makepp-1.40.1a                                                        #testing # NEED KEYWORDS
+#=dev-util/makepp-1.50_pre110621                                                 #testing # NEED KEYWORDS
+#=dev-util/makepp-2.0-r1                                                         #testing # broken 623454
+#=dev-util/makepp-2.0.98.4                                                       #testing # broken 623454
+#=dev-util/makepp-2.0.98.5                                                       #testing # broken 623454
