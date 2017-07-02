@@ -68,8 +68,7 @@
 =dev-perl/Pod-Coverage-0.230.0-r1                                                #
 =dev-perl/Pod-LaTeX-0.610.0                                                      #
 =dev-perl/Pod-Markdown-3.5.0                                                     #
-=dev-perl/Pod-Readme-0.110.0-r1                                                  #
-#=dev-perl/Pod-Readme-1.1.2                                                      #
+=dev-perl/Pod-Readme-1.1.2                                                       #
 =dev-perl/Pod-Simple-LaTeX-0.60.0                                                #
 =dev-perl/Pod-Spell-1.10.0-r1                                                    #
 #=dev-perl/Pod-Spell-1.190.0                                                     #testing
