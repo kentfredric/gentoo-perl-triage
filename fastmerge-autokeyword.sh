@@ -17,12 +17,14 @@ fi
 
 installdeps() {
 	echo "[32m installing [34mdeps > [31m$@[0m"
+	echo "[32m  ->[0m FEATURES=-test emerge ${EARGS[@]} --onlydeps --with-test-deps=y $@"
 	FEATURES="-test" emerge "${EARGS[@]}" --onlydeps --with-test-deps=y "$@"
 	return $?
 }
 
 installpkg() {
 	echo "[32m installing [34mtarget > [31m$@[0m"
+	echo "[32m  ->[0m emerge ${EARGS[@]} --quiet-build=n --jobs=1 $@"
 	emerge "${EARGS[@]}" --quiet-build=n --jobs=1 "$@"
 	return $?
 }
