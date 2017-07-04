@@ -30,9 +30,9 @@ installpkg() {
 }
 
 cleanup() {
-  if [[ -n $AUTODEPCLEAN ]]; then
-    source /root/set-gen/cleanup.sh
-  fi
+	if [[ -n $AUTODEPCLEAN ]]; then
+		source /root/set-gen/cleanup.sh
+	fi
 }
 
 if [[ -z $NO_INSTALLDEPS ]]; then
