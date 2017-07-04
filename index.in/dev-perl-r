@@ -19,7 +19,6 @@
 =dev-perl/Roman-1.240.0                                                          #
 =dev-perl/rename-1.900.0                                                         #
 ## testing:
-#=dev-perl/REST-Client-249                                                       #testing
 #=dev-perl/REST-Client-273                                                       #testing
 #=dev-perl/RRD-Simple-1.440.0-r1                                                 #testing
 #=dev-perl/RTF-Writer-1.110.0-r2                                                 #testing

@@ -105,14 +105,14 @@
 #=dev-perl/POE-XS-Queue-Array-0.6.0-r1                                           #testing #+
 #=dev-perl/PPI-HTML-1.80.0                                                       #testing #+
 #=dev-perl/PPI-PowerToys-0.140.0                                                 #testing #+
-#=dev-perl/PPIx-EditorTools-0.190.0                                              #testing # broken: 623082
+#=dev-perl/PPIx-EditorTools-0.190.0                                              #testing #+
 #=dev-perl/Package-Variant-1.3.2                                                 #testing #+
 #=dev-perl/Palm-PDB-1.400.0                                                      #testing #+
 #=dev-perl/Panotools-Script-0.280.0-r2                                           #testing # tests broken: 623084
 #=dev-perl/ParaDNS-2.0.0-r1                                                      #testing #+
 #=dev-perl/Parallel-Iterator-1.0.0                                               #testing # tests broken: 615726
 #=dev-perl/Params-ValidationCompiler-0.240.0                                     #testing #+
-#=dev-perl/Parse-ErrorString-Perl-0.220.0                                        #testing # broken: 623086
+#=dev-perl/Parse-ErrorString-Perl-0.220.0                                        #testing #+
 #=dev-perl/Parse-ExuberantCTags-1.20.0-r1                                        #testing #+
 #=dev-perl/Passwd-Linux-1.200.0-r1                                               #testing #+
 #=dev-perl/Passwd-Linux-1.300.0                                                  #testing #+
