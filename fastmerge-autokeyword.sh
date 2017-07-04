@@ -45,7 +45,7 @@ if [[ $exitstate != 0 ]]; then
 	echo "[31;1m failure installing > $@[0m"
 	echo "$@" >> /tmp/merge.failure
 	echo "failure $@" >> /tmp/merge.all
-  cleanup
+	cleanup
 	exit $exitstate
 fi
 
