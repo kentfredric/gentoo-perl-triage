@@ -11,6 +11,9 @@ EARGS=(
 	"--verbose"
 	"--backtrack=${BACKTRACK:-10}"
 )
+if [[ -n $EXTRA_EARGS ]]; then
+	EARGS+=( "${EXTRA_EARGS[@]}" )
+fi
 
 installdeps() {
 	echo "[32m installing [34mdeps > [31m$@[0m"
