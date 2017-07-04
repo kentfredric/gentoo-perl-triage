@@ -8,6 +8,8 @@ EARGS=(
 	"--autounmask-unrestricted-atoms=n"
 	"--autounmask-continue"
 	"--unordered-display"
+	"--verbose"
+	"--backtrack=${BACKTRACK:-10}"
 )
 
 installdeps() {
