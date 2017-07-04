@@ -35,14 +35,16 @@ cleanup() {
   fi
 }
 
-installdeps "$@"
-depexitstate=$?
+if [[ -z $NO_INSTALLDEPS ]]; then
+	installdeps "$@"
+	depexitstate=$?
 
-if [[ $depexitstate != 0 ]]; then
-	echo "[31;1m failure installing [34mdeps[31m> $@[0m"
-	echo "$@" >> /tmp/merge.depfailure
-	echo "depfailure $@" >> /tmp/merge.all
-	exit $depexitstate
+	if [[ $depexitstate != 0 ]]; then
+		echo "[31;1m failure installing [34mdeps[31m> $@[0m"
+		echo "$@" >> /tmp/merge.depfailure
+		echo "depfailure $@" >> /tmp/merge.all
+		exit $depexitstate
+	fi
 fi
 
 installpkg "$@"
