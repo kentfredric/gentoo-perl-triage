@@ -1,9 +1,5 @@
 ## stable:
-=dev-texlive/texlive-latexextra-2012                                             #        #+
-#=dev-texlive/texlive-latexextra-2013                                            #testing #+
-#=dev-texlive/texlive-latexextra-2014                                            #        #+
-#=dev-texlive/texlive-latexextra-2015                                            #testing #+
-#=dev-texlive/texlive-latexextra-2015-r1                                         #        #+
-#=dev-texlive/texlive-latexextra-2016                                            #
+=dev-texlive/texlive-latexextra-2015-r1                                          #        #+
+#=dev-texlive/texlive-latexextra-2016                                            #        #+
 #=dev-texlive/texlive-latexextra-2017                                            #testing #+
 ## testing:

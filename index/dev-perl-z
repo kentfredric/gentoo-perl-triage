@@ -1,5 +1,5 @@
 ## stable:
-=dev-perl/ZMQ-Constants-1.40.0                                                   #        # broken: 623196
-=dev-perl/ZMQ-LibZMQ2-1.90.0                                                     #        # broken: 623200
-=dev-perl/ZMQ-LibZMQ3-1.19.0                                                     #        # broken: 623202
+=dev-perl/ZMQ-Constants-1.40.0                                                   #        #+
+=dev-perl/ZMQ-LibZMQ2-1.90.0                                                     #        #+
+=dev-perl/ZMQ-LibZMQ3-1.19.0                                                     #        #+
 ## testing:

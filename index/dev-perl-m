@@ -192,7 +192,7 @@
 #=dev-perl/MooseX-Types-DateTime-0.130.0                                         #testing #+
 #=dev-perl/MooseX-Types-DateTime-ButMaintained-0.160.0                           #testing #+
 #=dev-perl/MooseX-Types-DateTime-MoreCoercions-0.150.0                           #testing #+
-#=dev-perl/MooseX-Types-DateTimeX-0.100.0                                        #testing # broken: 617144
+#=dev-perl/MooseX-Types-DateTimeX-0.100.0                                        #testing #+
 #=dev-perl/MooseX-Types-JSON-1.0.0                                               #testing #+
 #=dev-perl/MooseX-Types-Path-Class-0.80.0                                        #testing #+
 #=dev-perl/MooseX-Types-Path-Tiny-0.11.0                                         #testing #+

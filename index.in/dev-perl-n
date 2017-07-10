@@ -94,7 +94,6 @@
 #=dev-perl/Net-SMTPS-0.40.0                                                      #testing
 #=dev-perl/Net-SMTPS-0.50.0                                                      #testing
 #=dev-perl/Net-SMTPS-0.60.0                                                      #testing
-#=dev-perl/Net-SSH2-0.580.0                                                      #testing
 #=dev-perl/Net-SSH2-0.580.0-r1                                                   #testing
 #=dev-perl/Net-Server-Coro-1.300.0-r1                                            #testing
 #=dev-perl/Net-Subnet-1.30.0                                                     #testing

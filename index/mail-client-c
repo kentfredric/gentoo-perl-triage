@@ -6,5 +6,5 @@
 #=mail-client/clawsker-0.7.10                                                    #testing #+
 =mail-client/cone-0.92                                                           #        #+
 #=mail-client/cone-0.95                                                          #testing #+
-#=mail-client/cone-0.96                                                          #testing # broken: 619644
+#=mail-client/cone-0.96                                                          #testing #+
 ## testing:

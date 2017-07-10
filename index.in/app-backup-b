@@ -3,7 +3,7 @@
 #=app-backup/backup-manager-0.7.13                                               #testing
 #=app-backup/backup-manager-0.7.13-r1                                            #testing
 =app-backup/backuppc-3.3.1-r4                                                    #
-=app-backup/boxbackup-0.11.1-r2                                                  #
+#=app-backup/backuppc-3.3.1-r5                                                   #testing
 =app-backup/btrbk-0.23.3                                                         #
 #=app-backup/btrbk-0.24.0                                                        #
 #=app-backup/btrbk-0.25.0                                                        #testing
