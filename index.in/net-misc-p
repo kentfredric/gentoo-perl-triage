@@ -1,6 +1,7 @@
 ## stable:
 =net-misc/putty-0.68                                                             #
 #=net-misc/putty-0.69                                                            #testing
+#=net-misc/putty-0.70                                                            #testing
 #=net-misc/putty-9999                                                            #testing
 ## testing:
 #=net-misc/plowshare-2.1.5-r1                                                    #testing

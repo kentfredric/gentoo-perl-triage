@@ -7,4 +7,5 @@
 #=dev-db/slony1-2.2.3                                                            #testing # broken: 593544
 #=dev-db/slony1-2.2.4                                                            #testing #+
 #=dev-db/slony1-2.2.5                                                            #testing #+
+#=dev-db/slony1-2.2.5-r1                                                         #testing # broken: 624416
 ## testing:

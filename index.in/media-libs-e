@@ -1,7 +1,4 @@
 ## stable:
-=media-libs/exiftool-10.50                                                       #
-#=media-libs/exiftool-10.51                                                      #testing
-#=media-libs/exiftool-10.53                                                      #testing
-#=media-libs/exiftool-10.54                                                      #testing
-#=media-libs/exiftool-10.55                                                      #testing
+=media-libs/exiftool-10.55                                                       #
+#=media-libs/exiftool-10.59                                                      #testing
 ## testing:
