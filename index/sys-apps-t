@@ -1,6 +1,6 @@
 ## stable:
 =sys-apps/texinfo-4.13-r2                                                        #        #+
 #=sys-apps/texinfo-6.1                                                           #        #+
-#=sys-apps/texinfo-6.3                                                           #        # REPORT tests
-#=sys-apps/texinfo-6.4                                                           #testing # REPORT tests
+#=sys-apps/texinfo-6.3                                                           #        # broken 574740
+#=sys-apps/texinfo-6.4                                                           #testing # broken 574740
 ## testing:

@@ -6,6 +6,7 @@
 =dev-db/percona-xtrabackup-2.4.6-r1                                              #
 #=dev-db/percona-xtrabackup-2.4.7                                                #
 =dev-db/pgtap-0.93.0                                                             #
+#=dev-db/pgtap-0.97.0                                                            #testing
 =dev-db/postgresql-9.1.24                                                        #
 #=dev-db/postgresql-9.2.19                                                       #
 #=dev-db/postgresql-9.2.20                                                       #testing

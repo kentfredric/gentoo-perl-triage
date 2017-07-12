@@ -1,19 +1,20 @@
 ## stable:
 ## testing:
-#=sys-kernel/spl-0.6.0_rc13-r2                                                   #testing
-#=sys-kernel/spl-0.6.0_rc14-r3                                                   #testing
-#=sys-kernel/spl-0.6.1-r3                                                        #testing
-#=sys-kernel/spl-0.6.2-r5                                                        #testing
-#=sys-kernel/spl-0.6.3-r1                                                        #testing
-#=sys-kernel/spl-0.6.4.2                                                         #testing
-#=sys-kernel/spl-0.6.5.2                                                         #testing
-#=sys-kernel/spl-0.6.5.3                                                         #testing
-#=sys-kernel/spl-0.6.5.3-r1                                                      #testing
-#=sys-kernel/spl-0.6.5.4                                                         #testing
-#=sys-kernel/spl-0.6.5.4-r1                                                      #testing
-#=sys-kernel/spl-0.6.5.6                                                         #testing
-#=sys-kernel/spl-0.6.5.7                                                         #testing
-#=sys-kernel/spl-0.6.5.8                                                         #testing
-#=sys-kernel/spl-0.6.5.9                                                         #testing
-#=sys-kernel/spl-0.6.5.10                                                        #testing
+#=sys-kernel/spl-0.6.0_rc13-r2                                                   #testing # SKIP Linux 3.8
+#=sys-kernel/spl-0.6.0_rc14-r3                                                   #testing # SKIP Linux 3.9
+#=sys-kernel/spl-0.6.1-r3                                                        #testing # SKIP Linux 3.10
+#=sys-kernel/spl-0.6.2-r5                                                        #testing # SKIP Linux 3.14
+#=sys-kernel/spl-0.6.3-r1                                                        #testing # SKIP Linux 3.17
+#=sys-kernel/spl-0.6.4.2                                                         #testing # SKIP Linux 4.1
+#=sys-kernel/spl-0.6.5.2                                                         #testing # SKIP Linux 4.3
+#=sys-kernel/spl-0.6.5.3                                                         #testing # SKIP Linux 4.3
+#=sys-kernel/spl-0.6.5.3-r1                                                      #testing # SKIP Linux 4.4
+#=sys-kernel/spl-0.6.5.4                                                         #testing # SKIP Linux 4.4
+#=sys-kernel/spl-0.6.5.4-r1                                                      #testing # SKIP Linux 4.4
+#=sys-kernel/spl-0.6.5.6                                                         #testing # SKIP Linux 4.5
+#=sys-kernel/spl-0.6.5.7                                                         #testing # SKIP Linux 4.6
+#=sys-kernel/spl-0.6.5.8                                                         #testing # SKIP Linux 4.8
+#=sys-kernel/spl-0.6.5.9                                                         #testing #+
+#=sys-kernel/spl-0.6.5.10                                                        #testing #+
+#=sys-kernel/spl-0.6.5.11                                                        #testing #+
 #=sys-kernel/spl-9999                                                            #testing # NEEDS KEYWORDS
