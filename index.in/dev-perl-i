@@ -56,6 +56,7 @@
 #=dev-perl/IO-TieCombine-1.5.0                                                   #testing
 #=dev-perl/IP-Anonymous-0.40.0-r1                                                #testing
 #=dev-perl/IPC-Shareable-0.610.0-r1                                              #testing
+#=dev-perl/Image-Sane-0.120.0                                                    #testing
 #=dev-perl/Image-Scale-0.110.0                                                   #testing
 #=dev-perl/Importer-0.24.0                                                       #testing
 #=dev-perl/Inline-Python-0.520.0                                                 #testing
