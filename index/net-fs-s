@@ -1,8 +1,6 @@
 ## stable:
-=net-fs/samba-4.2.11                                                             #        # broken 616774
-#=net-fs/samba-4.2.14                                                            #        # broken 616744
-#=net-fs/samba-4.5.10                                                            #        # broken failtest
-#=net-fs/samba-4.5.11                                                            #testing # broken 608538
-#=net-fs/samba-4.6.4                                                             #testing #+
-#=net-fs/samba-4.6.5                                                             #testing #+
+=net-fs/samba-4.2.14                                                             #        # broken 616744
+#=net-fs/samba-4.5.10                                                            #        # broken 608538
+#=net-fs/samba-4.5.12                                                            #testing # broken 608538
+#=net-fs/samba-4.6.6                                                             #testing # PMASKED
 ## testing:

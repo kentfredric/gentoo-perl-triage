@@ -1,5 +1,5 @@
 ## stable:
-=app-text/linuxdoc-tools-0.9.72                                                  #        # tests broken: 623222
+=app-text/linuxdoc-tools-0.9.72                                                  #        #+
 =app-text/lv-4.51-r3                                                             #        #+
 #=app-text/lv-4.51-r4                                                            #testing #+
 ## testing:
