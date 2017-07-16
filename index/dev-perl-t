@@ -65,6 +65,7 @@
 =dev-perl/Test-Pod-1.510.0                                                       #        #+
 =dev-perl/Test-Pod-Coverage-1.100.0                                              #        #+
 =dev-perl/Test-Portability-Files-0.60.0-r1                                       #        #+
+=dev-perl/Test-Regexp-2017040101.0.0                                             #        #+
 =dev-perl/Test-Requires-0.100.0                                                  #        #+
 =dev-perl/Test-RequiresInternet-0.50.0                                           #        #+
 =dev-perl/Test-Script-1.100.0                                                    #        #+
@@ -190,7 +191,6 @@
 #=dev-perl/Test-Needs-0.2.2                                                      #testing #+
 #=dev-perl/Test-Perl-Critic-1.20.0-r1                                            #testing #+
 #=dev-perl/Test-Perl-Critic-1.30.0                                               #testing #+
-#=dev-perl/Test-Regexp-2017040101.0.0                                            #testing #+
 #=dev-perl/Test-Timer-0.130.0                                                    #testing #+
 #=dev-perl/Test-Timer-1.0.0                                                      #testing #+
 #=dev-perl/Test-Unit-Lite-0.120.200-r1                                           #testing #+
