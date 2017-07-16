@@ -284,6 +284,99 @@ sub cmd_stats_verbose {
         }
 
     }
+}
+
+sub cmd_stats_verbose_summary {
+    my (%buckets);
+    opendir my $fh, $_[0]->index_dir;
+    while ( my $file = readdir $fh ) {
+        next if $file =~ /\A..?\z/;
+        my $index =
+          My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
+        my $stats = $index->stats( {} );
+        my ( $bucket, $suffix, $letter ) = $file =~ /\A(.*)-(.*?)-(.)\z/;
+        # next if $stats->{all}->{todo} eq '0';
+        # next if $stats->{all}->{broken} > '0';
+        # next if $stats->{all}->{pct} > 0;
+        $bucket = "$bucket-$suffix";
+        # $letter = "$suffix-$letter";
+        my $rec = {
+            letter     => $letter,
+            count      => $stats->{all}->{count},
+            todo       => $stats->{all}->{todo},
+            pct        => $stats->{all}->{pct},
+            broken     => $stats->{all}->{broken},
+            to_report  => $stats->{all}->{to_report},
+            broken_pct => $stats->{all}->{broken_pct},
+        };
+        $buckets{$bucket}->{count} =
+          exists $buckets{$bucket}->{count}
+          ? $buckets{$bucket}->{count} + $stats->{all}->{count}
+          : $stats->{all}->{count};
+        $buckets{$bucket}->{todo} =
+          exists $buckets{$bucket}->{todo}
+          ? $buckets{$bucket}->{todo} + $stats->{all}->{todo}
+          : $stats->{all}->{todo};
+        $buckets{$bucket}->{done} =
+          exists $buckets{$bucket}->{done}
+          ? $buckets{$bucket}->{done} + $stats->{all}->{done}
+          : $stats->{all}->{done};
+
+        $buckets{$bucket}->{broken} =
+          exists $buckets{$bucket}->{broken}
+          ? $buckets{$bucket}->{broken} + $stats->{all}->{broken}
+          : $stats->{all}->{broken};
+
+        $buckets{$bucket}->{to_report} =
+          exists $buckets{$bucket}->{to_report}
+          ? $buckets{$bucket}->{to_report} + $stats->{all}->{to_report}
+          : $stats->{all}->{to_report};
+
+        $buckets{$bucket}->{broken_pct} =
+          ( ( $buckets{$bucket}->{broken} / $buckets{$bucket}->{count} ) *
+              100.0 );
+
+        $buckets{$bucket}->{pct} =
+          ( ( $buckets{$bucket}->{done} / $buckets{$bucket}->{count} ) *
+              100.0 );
+        push @{ $buckets{$bucket}->{children} }, $rec;
+    }
+
+    my $tag_fmt = sub {
+        my ($pairs) = @_;
+        my @out;
+        for my $pair ( @{$pairs} ) {
+            next unless $pair->[1] > 0.01;
+            my $fmt = shift @{$pair};
+            push @out, sprintf $fmt, @{$pair};
+        }
+        if (@out) {
+            return '(' . ( join ', ', map { sprintf "%15s", $_ } @out ) . ')';
+        }
+        return '';
+    };
+    for my $line (
+        sort { $a->{category} cmp $b->{category} } map { +{ category => $_, %{ $buckets{$_} } } } keys %buckets
+      )
+    {
+        next unless ( $line->{todo} and $line->{todo} > 0 )
+                    or
+                    ( $line->{broken} and $line->{broken} > 0 )
+                    or
+                    ( $line->{to_report} and $line->{to_report} > 0 );
+        printf
+          "%-30s : %4s : %8.2f%% %s\n",
+          $line->{category}, $line->{count}, $line->{pct},
+          $tag_fmt->(
+            [
+                [ '%3d todo', $line->{todo} ],
+                [
+                    '%3d broken (%2.2f%%)', $line->{broken}, $line->{broken_pct}
+                ],
+                [ '%3d to report', $line->{to_report} ]
+            ]
+          );
+    }
 
 }
 

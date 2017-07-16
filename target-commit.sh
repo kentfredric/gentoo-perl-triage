@@ -6,7 +6,7 @@ echo "$1: $stats" >> /tmp/.message
 echo  >> /tmp/.message
 perl sync.pl stats >> /tmp/.message
 perl sync.pl stats > ./.stats
-perl sync.pl stats-verbose | grep "^[^ ]" | grep -E "broken|todo" | sort > ./.stats-verbose
+perl sync.pl stats-verbose-summary > ./.stats-verbose
 
 git add ./.stats ./.stats-verbose
 git commit -F /tmp/.message index.in/ index/ todo/ ./.stats ./.stats-verbose
