@@ -98,6 +98,42 @@ sub cmd_normalize_index {
 
 use Data::Dumper (qw( Dumper ));
 
+sub cmd_stats_all {
+    opendir my $fh, $_[0]->index_dir;
+    my $stats = {};
+    while ( my $file = readdir $fh ) {
+        next if $file =~ /\A..?\z/;
+        my $index =
+          My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
+        $stats = $index->stats($stats);
+    }
+
+    my $tag_fmt = sub {
+        my ($pairs) = @_;
+        my @out;
+        for my $pair ( @{$pairs} ) {
+            next unless $pair->[1] > 0.01;
+            my $fmt = shift @{$pair};
+            push @out, sprintf $fmt, @{$pair};
+        }
+        if (@out) {
+            return '(' . ( join ', ', map { sprintf "%15s", $_ } @out ) . ')';
+        }
+        return '';
+    };
+    printf "%d/%-6d -> %8.2f%% %s\n", $stats->{'all'}->{done}, $stats->{'all'}->{count},
+        $stats->{'all'}->{pct},  $tag_fmt->(
+            [
+                [ '%3d todo', $stats->{'all'}->{todo} ],
+                [
+                    '%3d broken (%2.2f%%)', $stats->{'all'}->{broken},
+                    $stats->{'all'}->{broken_pct}
+                ],
+                [ '%3d to report', $stats->{'all'}->{to_report} ]
+            ]
+    );
+}
+
 sub cmd_stats {
     opendir my $fh, $_[0]->index_dir;
     my $stats = {};

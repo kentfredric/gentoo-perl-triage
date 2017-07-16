@@ -1,6 +1,6 @@
 truncate -s 0 /tmp/.message
 
-stats="$( perl sync.pl stats | grep all | sed 's/^.*all:\s*//' )"
+stats="$( perl sync.pl stats-all )"
 
 echo "$1: $stats" >> /tmp/.message
 echo  >> /tmp/.message
