@@ -1,5 +1,5 @@
 ## stable:
-=sci-biology/hmmer-2.3.2-r3                                                      #        # REPORT perl
+=sci-biology/hmmer-2.3.2-r3                                                      #        # broken: 421799
 #=sci-biology/hmmer-2.3.2-r4                                                     #testing #+
 #=sci-biology/hmmer-3.1_beta2                                                    #testing #+
 ## testing:

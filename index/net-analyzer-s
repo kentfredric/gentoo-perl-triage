@@ -12,4 +12,4 @@
 #=net-analyzer/snortalog-2.4.3-r1                                                #testing #+
 #=net-analyzer/sqlninja-0.2.6_p1-r1                                              #testing #+
 #=net-analyzer/symon-2.87                                                        #testing #+
-#=net-analyzer/symon-2.88                                                        #testing # REPORT perl
+#=net-analyzer/symon-2.88                                                        #testing # broken 623448
