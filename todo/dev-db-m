@@ -1,7 +1,4 @@
 =dev-db/mariadb-5.5.56
-=dev-db/mariadb-10.0.31
-=dev-db/mariadb-10.2.1_alpha
 =dev-db/mytop-1.6-r4
 =dev-db/mytop-1.9.1
-=dev-db/mariadb-galera-10.0.28
 =dev-db/mariadb-galera-10.0.30

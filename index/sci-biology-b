@@ -2,6 +2,7 @@
 =sci-biology/bioperl-1.6.9                                                       #        #+
 #=sci-biology/bioperl-9999-r1                                                    #testing # NEEDS KEYWORDS
 =sci-biology/bioperl-db-1.6.9                                                    #        #+
+#=sci-biology/bioperl-db-1.6.9-r1                                                #testing #+
 #=sci-biology/bioperl-db-9999-r1                                                 #testing # NEEDS KEYWORDS
 =sci-biology/bioperl-network-1.6.9                                               #        #+
 #=sci-biology/bioperl-network-9999-r1                                            #testing # NEEDS KEYWORDS

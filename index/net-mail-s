@@ -1,8 +1,7 @@
 ## stable:
 =net-mail/sendEmail-1.56-r1                                                      #        #+
 #=net-mail/sendEmail-1.56-r2                                                     #        #+
-=net-mail/swaks-20130209.0                                                       #        # broken 533018
-#=net-mail/swaks-20130209.0-r1                                                   #        #+
+=net-mail/swaks-20130209.0-r1                                                    #        #+
 ## testing:
 #=net-mail/signify-1.14                                                          #testing #+
 #=net-mail/spamcup-1.09                                                          #testing #+

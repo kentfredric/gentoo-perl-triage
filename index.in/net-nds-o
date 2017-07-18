@@ -1,7 +1,5 @@
 ## stable:
-=net-nds/openldap-2.3.43-r3                                                      #
-#=net-nds/openldap-2.3.43-r4                                                     #
-#=net-nds/openldap-2.4.44                                                        #
+=net-nds/openldap-2.4.44                                                         #
 #=net-nds/openldap-2.4.44-r1                                                     #testing
 #=net-nds/openldap-2.4.45                                                        #testing
 ## testing:
