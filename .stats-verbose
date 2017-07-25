@@ -66,7 +66,7 @@ sci-mathematics                :    8 :    75.00% (         2 todo,   2 broken (
 sys-apps                       :   62 :    91.94% (         5 todo,   8 broken (12.90%))
 sys-auth                       :    8 :    62.50% (         3 todo)
 sys-cluster                    :   17 :    88.24% (         2 todo,   2 broken (11.76%))
-sys-devel                      :   73 :    61.64% (        28 todo,  30 broken (41.10%))
+sys-devel                      :   73 :    80.82% (        14 todo,  30 broken (41.10%))
 sys-fs                         :   35 :    94.29% (         2 todo)
 sys-kernel                     :   29 :    93.10% (         2 todo)
 sys-libs                       :   24 :    87.50% (         3 todo,   5 broken (20.83%),     4 to report)
