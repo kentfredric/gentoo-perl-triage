@@ -79,6 +79,7 @@
 #=dev-perl/Sys-Virt-3.3.0                                                        #testing #+
 =dev-perl/strictures-2.0.1                                                       #        #+
 #=dev-perl/strictures-2.0.2                                                      #testing # broken: 623108
+#=dev-perl/strictures-2.0.3                                                      #testing #+
 ## testing:
 #=dev-perl/SOAP-WSDL-3.3.0                                                       #testing #+
 #=dev-perl/SQL-Abstract-Limit-0.141.0-r1                                         #testing #+

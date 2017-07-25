@@ -10,9 +10,7 @@
 =dev-perl/Alien-SDL-1.446.0                                                      #        #+
 =dev-perl/Alien-wxWidgets-0.670.0-r1                                             #        #+
 #=dev-perl/Alien-wxWidgets-0.680.0                                               #testing #+
-=dev-perl/Any-Moose-0.210.0                                                      #        #+
-#=dev-perl/Any-Moose-0.260.0                                                     #        #+
-#=dev-perl/Any-Moose-0.260.0-r1                                                  #        #+
+=dev-perl/Any-Moose-0.260.0-r1                                                   #        #+
 =dev-perl/AnyEvent-7.120.0                                                       #        #+
 #=dev-perl/AnyEvent-7.130.0                                                      #testing #+
 =dev-perl/AnyEvent-HTTP-2.220.0                                                  #        #+

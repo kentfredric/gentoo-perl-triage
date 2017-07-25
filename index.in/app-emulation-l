@@ -5,4 +5,4 @@
 #=app-emulation/libvirt-3.4.0                                                    #testing
 #=app-emulation/libvirt-9999                                                     #testing
 ## testing:
-#=app-emulation/libguestfs-1.28.5-r2                                             #testing
+#=app-emulation/libguestfs-1.28.5-r3                                             #testing

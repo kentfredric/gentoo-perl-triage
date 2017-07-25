@@ -1,6 +1,6 @@
 ## stable:
 =dev-db/maatkit-7540-r1                                                          #        #+
-#=dev-db/mariadb-5.5.56                                                          #testing
+#=dev-db/mariadb-5.5.57                                                          #testing
 =dev-db/mariadb-10.0.29                                                          #        # Build OK
 #=dev-db/mariadb-10.0.30                                                         #        # Build OK
 #=dev-db/mariadb-10.0.31                                                         #testing # Build OK
@@ -8,6 +8,7 @@
 #=dev-db/mariadb-10.1.24                                                         #        # Build OK
 #=dev-db/mariadb-10.1.25                                                         #testing # Build OK
 #=dev-db/mariadb-10.2.1_alpha                                                    #testing # PMASKED
+#=dev-db/mariadb-10.2.7                                                          #testing
 =dev-db/mysqltuner-1.2.0                                                         #        #+
 #=dev-db/mysqltuner-1.6.0                                                        #testing #+
 #=dev-db/mysqltuner-1.6.18                                                       #testing #+

@@ -1,5 +1,5 @@
 ## stable:
-=sys-devel/bison-1.875d                                                          #        # broken tests: #625700
+=sys-devel/bison-1.875d                                                          #        # broken tests: 625700
 #=sys-devel/bison-2.4.3                                                          #        #+
 #=sys-devel/bison-2.7.1                                                          #        #+
 #=sys-devel/bison-3.0.4-r1                                                       #        #+
