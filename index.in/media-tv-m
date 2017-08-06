@@ -1,5 +1,6 @@
 ## stable:
 =media-tv/mythtv-0.27.6_p20160318-r1                                             #
-#=media-tv/mythtv-0.28-r1                                                        #testing
+#=media-tv/mythtv-0.28.1                                                         #testing
+#=media-tv/mythtv-0.28.1-r1                                                      #testing
 ## testing:
 #=media-tv/mythtv-status-0.10.4                                                  #testing

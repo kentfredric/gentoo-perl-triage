@@ -15,3 +15,4 @@
 #=dev-lang/rakudo-9999                                                           #testing
 #=dev-lang/rust-1.15.1                                                           #testing
 #=dev-lang/rust-1.16.0                                                           #testing
+#=dev-lang/rust-1.19.0                                                           #testing

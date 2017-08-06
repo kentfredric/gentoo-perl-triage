@@ -6,6 +6,7 @@
 =dev-perl/DBD-mysql-4.32.0-r2                                                    #
 #=dev-perl/DBD-mysql-4.37.0                                                      #
 #=dev-perl/DBD-mysql-4.41.0                                                      #
+#=dev-perl/DBD-mysql-4.41.0-r1                                                   #testing
 #=dev-perl/DBD-mysql-4.42.0                                                      #testing
 =dev-perl/DBI-1.634.0                                                            #
 #=dev-perl/DBI-1.636.0                                                           #

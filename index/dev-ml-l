@@ -1,5 +1,5 @@
 ## stable:
 ## testing:
-#=dev-ml/llvm-ocaml-4.0.0                                                        #testing #+
 #=dev-ml/llvm-ocaml-4.0.1                                                        #testing #+
+#=dev-ml/llvm-ocaml-5.0.9999                                                     #testing # NEEDS KEYWORDS
 #=dev-ml/llvm-ocaml-9999                                                         #testing # NEEDS KEYWORDS

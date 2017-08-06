@@ -1,8 +1,7 @@
 ## stable:
 =net-misc/spice-gtk-0.33-r2                                                      #
 #=net-misc/spice-gtk-9999                                                        #testing # NEEDS KEYWORDS
-=net-misc/sslh-1.18-r1                                                           #        #+
-#=net-misc/sslh-1.18-r2                                                          #testing #+
+=net-misc/sslh-1.18-r2                                                           #        #+
 =net-misc/stunnel-5.36                                                           #        #+
 #=net-misc/stunnel-5.37                                                          #testing #+
 #=net-misc/stunnel-5.38                                                          #testing #+

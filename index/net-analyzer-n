@@ -9,7 +9,7 @@
 #=net-analyzer/nagios-core-4.3.1-r1                                              #        #+
 #=net-analyzer/nagios-core-4.3.2                                                 #testing #+
 =net-analyzer/nagios-plugins-2.0.3-r2                                            #        #+
-#=net-analyzer/nagios-plugins-2.2.0                                              #testing #+
+#=net-analyzer/nagios-plugins-2.2.1                                              #testing #+
 =net-analyzer/net-snmp-5.7.3-r5                                                  #        #+
 #=net-analyzer/net-snmp-5.7.3-r6                                                 #testing #+
 =net-analyzer/nfdump-1.6.14-r1                                                   #        # broken: 624336
