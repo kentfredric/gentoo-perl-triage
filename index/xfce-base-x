@@ -4,5 +4,5 @@
 #=xfce-base/xfce4-panel-4.13.0                                                   #testing # PMASKED
 =xfce-base/xfconf-4.12.0-r1                                                      #        # REPORT tests
 #=xfce-base/xfconf-4.12.1                                                        #testing # REPORT tests
-#=xfce-base/xfconf-4.13.3                                                        #testing
+#=xfce-base/xfconf-4.13.3                                                        #testing # PMASKED
 ## testing:

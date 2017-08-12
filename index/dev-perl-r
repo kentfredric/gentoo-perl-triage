@@ -38,3 +38,4 @@
 #=dev-perl/Router-Simple-0.140.0-r1                                              #testing #+
 #=dev-perl/Router-Simple-0.170.0                                                 #testing #+
 #=dev-perl/rpm-build-perl-0.820.0                                                #testing # broken: 623096
+#=dev-perl/rpm-build-perl-0.820.0-r1                                             #testing # broken: 623096

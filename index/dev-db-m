@@ -4,11 +4,11 @@
 =dev-db/mariadb-10.0.29                                                          #        # Build OK
 #=dev-db/mariadb-10.0.30                                                         #        # Build OK
 #=dev-db/mariadb-10.0.31                                                         #testing # Build OK
+#=dev-db/mariadb-10.0.32                                                         #testing # Build OK
 #=dev-db/mariadb-10.1.23                                                         #testing # Build OK
 #=dev-db/mariadb-10.1.24                                                         #        # Build OK
 #=dev-db/mariadb-10.1.25                                                         #testing # Build OK
-#=dev-db/mariadb-10.2.1_alpha                                                    #testing # PMASKED
-#=dev-db/mariadb-10.2.7                                                          #testing
+#=dev-db/mariadb-10.2.7-r2                                                       #testing # Build OK
 =dev-db/mysqltuner-1.2.0                                                         #        #+
 #=dev-db/mysqltuner-1.6.0                                                        #testing #+
 #=dev-db/mysqltuner-1.6.18                                                       #testing #+

@@ -1,4 +1,5 @@
 ## stable:
-=media-gfx/feh-2.18.3                                                            #        # broken 474556
-#=media-gfx/feh-2.19                                                             #testing # broken 474556
+=media-gfx/feh-2.18.3                                                            #        # tests broken 474556
+#=media-gfx/feh-2.19                                                             #testing # tests broken 474556
+#=media-gfx/feh-2.19.1                                                           #testing # tests broken 474556
 ## testing:

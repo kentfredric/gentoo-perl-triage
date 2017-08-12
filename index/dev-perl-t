@@ -206,7 +206,7 @@
 #=dev-perl/Text-Netstring-0.70.0-r1                                              #testing #+
 #=dev-perl/Text-Table-1.130.0                                                    #testing #+
 #=dev-perl/Text-Table-1.132.0                                                    #testing #+
-#=dev-perl/Text-VimColor-0.260-r1                                                #testing # broken: 623140
+#=dev-perl/Text-VimColor-0.260-r1                                                #testing # tests broken: 627292
 #=dev-perl/Tie-CPHash-2.0.0                                                      #testing #+
 #=dev-perl/Tie-Cache-0.190.0-r1                                                  #testing #+
 #=dev-perl/Tie-Cache-0.210.0                                                     #testing #+

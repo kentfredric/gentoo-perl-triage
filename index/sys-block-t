@@ -1,7 +1,5 @@
 ## stable:
-=sys-block/tgt-1.0.67                                                            #        #+
-#=sys-block/tgt-1.0.68                                                           #        #+
-#=sys-block/tgt-1.0.69                                                           #        #+
-#=sys-block/tgt-1.0.70                                                           #        #+
-#=sys-block/tgt-1.0.71                                                           #testing #+
+=sys-block/tgt-1.0.70                                                            #        #+
+#=sys-block/tgt-1.0.71                                                           #        #+
+#=sys-block/tgt-1.0.72                                                           #testing #+
 ## testing:

@@ -6,7 +6,6 @@
 =app-text/xindy-2.4                                                              #
 #=app-text/xindy-2.4-r1                                                          #testing
 ## testing:
-#=app-text/xlsx2csv-0.6                                                          #testing
-#=app-text/xlsx2csv-0.7                                                          #testing
 #=app-text/xlsx2csv-0.7.2                                                        #testing
+#=app-text/xlsx2csv-0.7.3                                                        #testing
 #=app-text/xmlformat-1.04                                                        #testing

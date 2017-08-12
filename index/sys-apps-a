@@ -3,5 +3,5 @@
 #=sys-apps/ack-2.18-r1                                                           #testing #+
 ## testing:
 #=sys-apps/adjtime-0.4-r2                                                        #testing
-#=sys-apps/apparmor-2.11.0                                                       #testing # broken tests: 625448
+#=sys-apps/apparmor-2.11.0                                                       #testing #+
 #=sys-apps/apparmor-utils-2.11.0-r1                                              #testing #+

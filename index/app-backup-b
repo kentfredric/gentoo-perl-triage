@@ -4,9 +4,8 @@
 #=app-backup/backup-manager-0.7.13-r1                                            #testing #+
 =app-backup/backuppc-3.3.1-r4                                                    #        # broken: 594128 , Perl {
 #=app-backup/backuppc-3.3.1-r5                                                   #testing #+
-=app-backup/btrbk-0.23.3                                                         #        #+
-#=app-backup/btrbk-0.24.0                                                        #        #+
-#=app-backup/btrbk-0.25.0                                                        #testing #+
+=app-backup/btrbk-0.24.0-r1                                                      #        #+
+#=app-backup/btrbk-0.25.1                                                        #testing #+
 #=app-backup/btrbk-9999                                                          #testing # NEEDS KEYWORDS
 ## testing:
 #=app-backup/bup-0.28.1                                                          #testing #+
