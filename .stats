@@ -1,3 +1,3 @@
-     all:   4024/4271   ->    94.22% (       247 todo, 334 broken (7.82%),     9 to report)
-  stable:   2890/3029   ->    95.41% (       139 todo, 280 broken (9.24%),     5 to report)
- testing:   1134/1242   ->    91.30% (       108 todo,  54 broken (4.35%),     4 to report)
+     all:   4015/4256   ->    94.34% (       241 todo, 322 broken (7.57%),     9 to report)
+  stable:   2884/3018   ->    95.56% (       134 todo, 267 broken (8.85%),     5 to report)
+ testing:   1131/1238   ->    91.36% (       107 todo,  55 broken (4.44%),     4 to report)

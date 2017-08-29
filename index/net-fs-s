@@ -2,5 +2,7 @@
 =net-fs/samba-4.2.14                                                             #        # broken 616744
 #=net-fs/samba-4.5.10                                                            #        # broken 608538
 #=net-fs/samba-4.5.12                                                            #testing # broken 608538
-#=net-fs/samba-4.6.6                                                             #testing # PMASKED
+#=net-fs/samba-4.6.6                                                             #testing #+
+#=net-fs/samba-4.6.7                                                             #testing #+
+#=net-fs/samba-4.7.0_rc3                                                         #testing # PMASKED
 ## testing:

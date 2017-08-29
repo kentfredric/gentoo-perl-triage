@@ -3,11 +3,9 @@
 #=dev-db/mariadb-5.5.57                                                          #testing
 =dev-db/mariadb-10.0.29                                                          #
 #=dev-db/mariadb-10.0.30                                                         #
-#=dev-db/mariadb-10.0.31                                                         #testing
 #=dev-db/mariadb-10.0.32                                                         #testing
-#=dev-db/mariadb-10.1.23                                                         #testing
 #=dev-db/mariadb-10.1.24                                                         #
-#=dev-db/mariadb-10.1.25                                                         #testing
+#=dev-db/mariadb-10.1.26                                                         #testing
 #=dev-db/mariadb-10.2.7-r2                                                       #testing
 =dev-db/mysqltuner-1.2.0                                                         #
 #=dev-db/mysqltuner-1.6.0                                                        #testing
