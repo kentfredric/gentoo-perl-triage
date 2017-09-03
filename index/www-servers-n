@@ -1,4 +1,5 @@
 ## stable:
 =www-servers/nginx-1.12.1                                                        #        #+
 #=www-servers/nginx-1.13.3                                                       #testing #+
+#=www-servers/nginx-1.13.4                                                       #testing #+
 ## testing:

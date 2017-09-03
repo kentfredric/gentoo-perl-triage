@@ -30,10 +30,7 @@
 =dev-perl/HTML-Template-Expr-0.70.0-r1                                           #        #+
 =dev-perl/HTML-Template-JIT-0.50.0-r1                                            #        #+
 =dev-perl/HTML-TokeParser-Simple-3.160.0-r1                                      #        #+
-=dev-perl/HTML-Tree-4.200.0-r1                                                   #        # broken: 614800 , waiting for stable 622450
-#=dev-perl/HTML-Tree-5.30.0-r1                                                   #        # broken: 614800 , waiting for stable 622450
-#=dev-perl/HTML-Tree-5.40.0                                                      #testing # broken: 614800 , waiting for stable 622450
-#=dev-perl/HTML-Tree-5.60.0                                                      #        #+
+=dev-perl/HTML-Tree-5.60.0                                                       #        #+
 =dev-perl/HTTP-Body-1.220.0                                                      #        #+
 =dev-perl/HTTP-BrowserDetect-1.500.0                                             #        #+
 #=dev-perl/HTTP-BrowserDetect-1.770.0                                            #testing #+

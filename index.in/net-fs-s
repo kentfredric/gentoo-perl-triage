@@ -1,8 +1,8 @@
 ## stable:
 =net-fs/samba-4.2.14                                                             #
-#=net-fs/samba-4.5.10                                                            #
-#=net-fs/samba-4.5.12                                                            #testing
+#=net-fs/samba-4.5.10-r1                                                         #
+#=net-fs/samba-4.5.12-r1                                                         #testing
 #=net-fs/samba-4.6.6                                                             #testing
 #=net-fs/samba-4.6.7                                                             #testing
-#=net-fs/samba-4.7.0_rc3                                                         #testing
+#=net-fs/samba-4.7.0_rc4                                                         #testing
 ## testing:

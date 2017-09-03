@@ -3,8 +3,8 @@
 #=dev-db/percona-toolkit-2.2.17                                                  #testing #+
 #=dev-db/percona-toolkit-2.2.19                                                  #testing #+
 #=dev-db/percona-toolkit-2.2.20                                                  #testing #+
-=dev-db/percona-xtrabackup-2.4.6-r1                                              #        #+
-#=dev-db/percona-xtrabackup-2.4.7                                                #        #+
+=dev-db/percona-xtrabackup-2.4.7                                                 #        #+
+#=dev-db/percona-xtrabackup-2.4.8                                                #testing #+
 =dev-db/pgtap-0.93.0                                                             #        # broken 496488
 #=dev-db/pgtap-0.97.0                                                            #testing # broken 624960
 =dev-db/postgresql-9.2.19                                                        #        # tests broken : 615586

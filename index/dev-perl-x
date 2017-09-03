@@ -24,8 +24,8 @@
 #=dev-perl/XML-LibXML-2.12.900                                                   #testing #+
 =dev-perl/XML-LibXML-Iterator-1.40.0-r1                                          #        #+
 =dev-perl/XML-LibXML-Simple-0.970.0                                              #        #+
-=dev-perl/XML-LibXSLT-1.940.0                                                    #        # tests broken: 623192
-#=dev-perl/XML-LibXSLT-1.950.0                                                   #testing # tests broken: 623192
+=dev-perl/XML-LibXSLT-1.940.0                                                    #        # tests broken: 623192 FIXED?
+#=dev-perl/XML-LibXSLT-1.950.0                                                   #testing # tests broken: 623192 FIXED?
 =dev-perl/XML-Mini-1.380.0-r1                                                    #        #+
 =dev-perl/XML-NamespaceSupport-1.120.0                                           #        #+
 =dev-perl/XML-NodeFilter-0.10.0-r1                                               #        #+

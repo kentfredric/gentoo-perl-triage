@@ -2,7 +2,7 @@
 =dev-vcs/git-2.13.0                                                              #
 #=dev-vcs/git-2.13.3                                                             #testing
 #=dev-vcs/git-2.13.4                                                             #testing
-#=dev-vcs/git-2.13.5                                                             #testing
+#=dev-vcs/git-2.13.5                                                             #
 #=dev-vcs/git-2.14.0                                                             #testing
 #=dev-vcs/git-2.14.0-r1                                                          #testing
 #=dev-vcs/git-2.14.1                                                             #testing
@@ -43,13 +43,7 @@
 =dev-vcs/guilt-0.32                                                              #
 #=dev-vcs/guilt-0.36                                                             #
 ## testing:
-#=dev-vcs/git-annex-6.20160126                                                   #testing
-#=dev-vcs/git-annex-6.20160318                                                   #testing
-#=dev-vcs/git-annex-6.20160419                                                   #testing
-#=dev-vcs/git-annex-6.20160923                                                   #testing
-#=dev-vcs/git-annex-6.20160923-r1                                                #testing
-#=dev-vcs/git-annex-6.20161031                                                   #testing
-#=dev-vcs/git-annex-6.20170101                                                   #testing
+#=dev-vcs/git-annex-6.20170818                                                   #testing
 #=dev-vcs/git-deploy-6.0.1_p20131024                                             #testing
 #=dev-vcs/gitstats-0_pre131024                                                   #testing
 #=dev-vcs/gitstats-0_pre20151223                                                 #testing

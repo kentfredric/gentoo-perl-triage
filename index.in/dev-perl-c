@@ -102,8 +102,7 @@
 =dev-perl/Class-XPath-1.400.0-r1                                                 #
 =dev-perl/Class-XSAccessor-1.190.0                                               #
 =dev-perl/Clipboard-0.130.0-r2                                                   #
-=dev-perl/Clone-0.380.0                                                          #
-#=dev-perl/Clone-0.390.0                                                         #
+=dev-perl/Clone-0.390.0                                                          #
 =dev-perl/Color-Calc-1.74.0                                                      #
 =dev-perl/Color-Library-0.21.0-r1                                                #
 =dev-perl/Compress-Bzip2-2.260.0                                                 #

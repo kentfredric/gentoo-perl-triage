@@ -1,5 +1,7 @@
 ## stable:
 =app-editors/gvim-8.0.0386                                                       #
 #=app-editors/gvim-8.0.0386-r1                                                   #testing
+#=app-editors/gvim-8.0.0938                                                      #testing
+#=app-editors/gvim-8.0.0983                                                      #testing
 #=app-editors/gvim-9999                                                          #testing
 ## testing:

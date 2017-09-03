@@ -19,4 +19,5 @@
 #=sys-fs/zfs-kmod-0.6.5.10                                                       #testing #+
 #=sys-fs/zfs-kmod-0.6.5.11                                                       #testing #+
 #=sys-fs/zfs-kmod-0.7.0                                                          #testing #+
+#=sys-fs/zfs-kmod-0.7.1                                                          #testing #+
 #=sys-fs/zfs-kmod-9999                                                           #testing # NEEDS KEYWORDS
