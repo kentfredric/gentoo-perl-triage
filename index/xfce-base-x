@@ -1,9 +1,10 @@
 ## stable:
 =xfce-base/xfce4-panel-4.12.0-r1                                                 #        #+
 #=xfce-base/xfce4-panel-4.12.1-r1                                                #testing #+
-#=xfce-base/xfce4-panel-4.13.0                                                   #testing # PMASKED
-#=xfce-base/xfce4-panel-4.13.1                                                   #testing
-=xfce-base/xfconf-4.12.0-r1                                                      #        # REPORT tests
-#=xfce-base/xfconf-4.12.1                                                        #testing # REPORT tests
+#=xfce-base/xfce4-panel-4.13.0                                                   #testing # deps bad 629964
+#=xfce-base/xfce4-panel-4.13.1                                                   #testing #+
+=xfce-base/xfconf-4.12.0-r1                                                      #        # tests broken 629608
+#=xfce-base/xfconf-4.12.1                                                        #testing # tests broken 629608
 #=xfce-base/xfconf-4.13.3                                                        #testing #+
+#=xfce-base/xfconf-4.13.4                                                        #testing # tests broken 629960
 ## testing:

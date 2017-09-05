@@ -7,6 +7,7 @@
 =sys-apps/coreutils-8.25                                                         #
 #=sys-apps/coreutils-8.26                                                        #testing
 #=sys-apps/coreutils-8.27                                                        #testing
+#=sys-apps/coreutils-8.28                                                        #testing
 ## testing:
 #=sys-apps/checkservice-1.2.0                                                    #testing
 #=sys-apps/ckbcomp-1.164                                                         #testing

@@ -5,6 +5,7 @@
 #=app-emulation/virt-manager-9999                                                #testing # NEEDS KEYWORDS
 =app-emulation/virt-viewer-4.0                                                   #        #+
 #=app-emulation/virt-viewer-5.0                                                  #        #+
+#=app-emulation/virt-viewer-6.0                                                  #testing #+
 =app-emulation/virt-what-1.12                                                    #        #+
 #=app-emulation/virt-what-1.15                                                   #testing #+
 #=app-emulation/virt-what-1.18                                                   #testing #+
