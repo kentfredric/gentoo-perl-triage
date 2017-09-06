@@ -2,7 +2,7 @@
 =net-mail/pflogsumm-1.1.5                                                        #        #+
 =net-mail/pop-before-smtp-1.42                                                   #        #+
 =net-mail/postfix-logwatch-1.40.03                                               #        #+
-#=net-mail/postfix-logwatch-1.40.03-r1                                           #testing #+
+#=net-mail/postfix-logwatch-1.40.03-r2                                           #testing #+
 ## testing:
 #=net-mail/pop2imap-1.18                                                         #testing #+
 #=net-mail/pop2imap-1.21                                                         #testing #+
