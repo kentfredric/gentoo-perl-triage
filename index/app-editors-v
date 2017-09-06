@@ -1,9 +1,5 @@
 ## stable:
-=app-editors/vile-9.8k                                                           #        #+
-#=app-editors/vile-9.8n                                                          #testing #+
-#=app-editors/vile-9.8o                                                          #testing #+
-#=app-editors/vile-9.8p                                                          #testing #+
-#=app-editors/vile-9.8r                                                          #        #+
+=app-editors/vile-9.8r                                                           #        #+
 #=app-editors/vile-9.8s                                                          #testing # broken 615376
 =app-editors/vim-8.0.0386                                                        #        #+
 #=app-editors/vim-8.0.0386-r1                                                    #testing #+
