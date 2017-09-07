@@ -1,4 +1,4 @@
 ## stable:
-=www-client/w3mmee-0.3.2_p24-r7                                                  #        # REPORT
-#=www-client/w3mmee-0.3.2_p24-r9                                                 #testing # REPORT INFLOOPO
+=www-client/w3mmee-0.3.2_p24-r7                                                  #        # broken 586258
+#=www-client/w3mmee-0.3.2_p24-r9                                                 #testing # broken 601130
 ## testing:
