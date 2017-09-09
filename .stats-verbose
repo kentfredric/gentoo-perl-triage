@@ -37,7 +37,7 @@ media-gfx                      :   50 :    78.00% (        11 todo,   4 broken (
 media-libs                     :   25 :    88.00% (         3 todo,   3 broken (12.00%))
 media-radio                    :    8 :   100.00% (  1 broken (12.50%))
 media-sound                    :   30 :    93.33% (         2 todo)
-media-tv                       :   10 :    50.00% (         5 todo)
+media-tv                       :   10 :    80.00% (         2 todo,   3 broken (30.00%))
 media-video                    :   20 :    70.00% (         6 todo,   1 broken (5.00%))
 net-analyzer                   :   91 :    97.80% (         2 todo,   8 broken (8.79%))
 net-dialup                     :   12 :    75.00% (         3 todo,   2 broken (16.67%))
