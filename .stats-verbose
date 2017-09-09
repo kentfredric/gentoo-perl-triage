@@ -31,7 +31,7 @@ games-util                     :    9 :    88.89% (         1 todo,   1 broken (
 gnome-base                     :    5 :    60.00% (         2 todo)
 kde-misc                       :    1 :     0.00% (         1 todo)
 mail-client                    :   10 :    90.00% (         1 todo)
-mail-filter                    :   55 :    90.91% (         5 todo,   4 broken (7.27%))
+mail-filter                    :   55 :    96.36% (         2 todo,   5 broken (9.09%))
 mail-mta                       :   14 :    85.71% (         2 todo)
 media-gfx                      :   50 :    84.00% (         8 todo,   7 broken (14.00%))
 media-libs                     :   25 :   100.00% (  3 broken (12.00%))
