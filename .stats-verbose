@@ -22,7 +22,7 @@ dev-libs                       :   69 :    91.30% (         6 todo,   8 broken (
 dev-perl                       : 2078 :   100.00% (133 broken (6.40%))
 dev-qt                         :    5 :    80.00% (         1 todo)
 dev-tex                        :   34 :   100.00% (  9 broken (26.47%))
-dev-util                       :   84 :    94.05% (         5 todo,  12 broken (14.29%))
+dev-util                       :   84 :    97.62% (         2 todo,  12 broken (14.29%))
 dev-vcs                        :   62 :    98.39% (         1 todo,   1 broken (1.61%))
 games-fps                      :    1 :     0.00% (         1 todo)
 games-misc                     :    5 :    60.00% (         2 todo)
