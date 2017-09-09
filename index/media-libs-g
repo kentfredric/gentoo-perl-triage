@@ -1,11 +1,11 @@
 ## stable:
-=media-libs/gegl-0.2.0-r2                                                        #
-#=media-libs/gegl-0.3.0                                                          #
-#=media-libs/gegl-0.3.4                                                          #testing
-#=media-libs/gegl-0.3.8                                                          #
-#=media-libs/gegl-0.3.10                                                         #testing
-#=media-libs/gegl-0.3.12                                                         #testing
-#=media-libs/gegl-0.3.14                                                         #testing
-#=media-libs/gegl-0.3.20                                                         #testing
+=media-libs/gegl-0.2.0-r2                                                        #        # tests broken segv 312417
+#=media-libs/gegl-0.3.0                                                          #        # tests broken segv 312417
+#=media-libs/gegl-0.3.4                                                          #testing # tests broken 595332
+#=media-libs/gegl-0.3.8                                                          #        #+
+#=media-libs/gegl-0.3.10                                                         #testing #+
+#=media-libs/gegl-0.3.12                                                         #testing #+
+#=media-libs/gegl-0.3.14                                                         #testing #+
+#=media-libs/gegl-0.3.20                                                         #testing #+
 #=media-libs/gegl-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:
