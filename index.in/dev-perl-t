@@ -180,6 +180,7 @@
 #=dev-perl/Test-Deep-JSON-0.30.0                                                 #testing
 #=dev-perl/Test-Dependencies-0.120.0                                             #testing
 #=dev-perl/Test-Dependencies-0.210.0                                             #testing
+#=dev-perl/Test-Dependencies-0.230.0                                             #testing
 #=dev-perl/Test-File-1.442.0                                                     #testing
 #=dev-perl/Test-File-1.443.0                                                     #testing
 #=dev-perl/Test-File-ShareDir-1.1.2                                              #testing

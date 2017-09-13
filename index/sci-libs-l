@@ -1,4 +1,5 @@
 ## stable:
-=sci-libs/linux-gpib-4.0.3-r1                                                    #
-#=sci-libs/linux-gpib-4.0.4_rc2                                                  #testing
+=sci-libs/linux-gpib-4.0.3-r1                                                    #        # NEED CONFIG_VMAP_STACK
+#=sci-libs/linux-gpib-4.0.4_rc2                                                  #testing #+
+#=sci-libs/linux-gpib-4.0.4_rc3                                                  #testing #+
 ## testing:

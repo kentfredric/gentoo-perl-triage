@@ -1,6 +1,5 @@
 ## stable:
 =net-dns/libidn2-0.16-r1                                                         #
 #=net-dns/libidn2-2.0.2                                                          #
-#=net-dns/libidn2-2.0.3                                                          #testing
 #=net-dns/libidn2-2.0.4                                                          #testing
 ## testing:
