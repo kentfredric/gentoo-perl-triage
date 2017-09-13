@@ -5,11 +5,11 @@
 #=sys-libs/libomp-3.9.0                                                          #testing #+
 =sys-libs/libomp-3.9.1                                                           #        #+
 #=sys-libs/libomp-4.0.1                                                          #testing #+
+#=sys-libs/libomp-5.0.0                                                          #testing #+
 #=sys-libs/libomp-5.0.9999                                                       #testing # NEEDS KEYWORDS
 #=sys-libs/libomp-9999                                                           #testing # NEEDS KEYWORDS
-=sys-libs/libosinfo-0.3.1                                                        #        #+
 #=sys-libs/libosinfo-1.0.0                                                       #testing # tests broken 602204
-#=sys-libs/libosinfo-1.0.0-r1                                                    #        #+
+=sys-libs/libosinfo-1.0.0-r1                                                     #        #+
 ## testing:
 #=sys-libs/libapparmor-2.11.0-r1                                                 #testing #+
 #=sys-libs/libhugetlbfs-2.18                                                     #testing # broken 616074
