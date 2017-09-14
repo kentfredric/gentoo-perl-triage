@@ -57,6 +57,7 @@
 =dev-perl/XML-XUpdate-LibXML-0.6.0-r1                                            #        #+
 ## testing:
 #=dev-perl/X-Osd-0.700.0-r1                                                      #testing #+
+#=dev-perl/X11-XCB-0.160.0                                                       #testing #+
 #=dev-perl/XML-CompactTree-XS-0.20.0-r1                                          #testing #+
 #=dev-perl/XML-Compile-1.540.0                                                   #testing #+
 #=dev-perl/XML-Compile-1.560.0                                                   #testing #+
@@ -66,12 +67,15 @@
 #=dev-perl/XML-Compile-Tester-0.900.0                                            #testing #+
 #=dev-perl/XML-Compile-WSDL11-3.50.0                                             #testing #+
 #=dev-perl/XML-Compile-WSDL11-3.60.0                                             #testing #+
+#=dev-perl/XML-Descent-1.40.0                                                    #testing #+
 #=dev-perl/XML-Directory-1.0.0                                                   #testing #+
 #=dev-perl/XML-Entities-1.0.200                                                  #testing #+
 #=dev-perl/XML-FeedPP-0.430.0                                                    #testing #+
 #=dev-perl/XML-SAX-ExpatXS-1.330.0                                               #testing #+
 #=dev-perl/XML-Simple-DTDReader-0.40.0-r1                                        #testing #+
 #=dev-perl/XML-Smart-1.790.0                                                     #testing #+
+#=dev-perl/XML-TokeParser-0.50.0                                                 #testing #+
 #=dev-perl/XML-TreePP-0.430.0                                                    #testing #+
 #=dev-perl/XML-Validator-Schema-1.100.0                                          #testing #+
 #=dev-perl/XMLRPC-Lite-0.717.0                                                   #testing #+
+#=dev-perl/XS-Object-Magic-0.40.0-r3                                             #testing #+

@@ -196,6 +196,7 @@
 #=dev-perl/MooseX-Types-Path-Tiny-0.11.0                                         #testing
 #=dev-perl/MooseX-Types-Perl-0.101.343                                           #testing
 #=dev-perl/MooseX-Types-Stringlike-0.3.0                                         #testing
+#=dev-perl/MouseX-NativeTraits-1.90.0-r2                                         #testing
 #=dev-perl/Mozilla-PublicSuffix-1.0.0                                            #testing
 #=dev-perl/maybe-0.20.200-r1                                                     #testing
 #=dev-perl/multidimensional-0.13.0                                               #testing
