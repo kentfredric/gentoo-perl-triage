@@ -18,6 +18,10 @@
 #=app-emulation/wine-any-2.10                                                    #testing
 #=app-emulation/wine-any-2.11                                                    #testing
 #=app-emulation/wine-any-2.12                                                    #testing
+#=app-emulation/wine-any-2.13                                                    #testing
+#=app-emulation/wine-any-2.14                                                    #testing
+#=app-emulation/wine-any-2.15                                                    #testing
+#=app-emulation/wine-any-2.16                                                    #testing
 #=app-emulation/wine-any-9999                                                    #testing
 #=app-emulation/wine-d3d9-2.0                                                    #testing
 #=app-emulation/wine-d3d9-2.1                                                    #testing
@@ -32,6 +36,10 @@
 #=app-emulation/wine-d3d9-2.10                                                   #testing
 #=app-emulation/wine-d3d9-2.11                                                   #testing
 #=app-emulation/wine-d3d9-2.12                                                   #testing
+#=app-emulation/wine-d3d9-2.13                                                   #testing
+#=app-emulation/wine-d3d9-2.14                                                   #testing
+#=app-emulation/wine-d3d9-2.15                                                   #testing
+#=app-emulation/wine-d3d9-2.16                                                   #testing
 #=app-emulation/wine-d3d9-9999                                                   #testing
 #=app-emulation/wine-staging-2.0                                                 #testing
 #=app-emulation/wine-staging-2.1                                                 #testing
@@ -46,6 +54,10 @@
 #=app-emulation/wine-staging-2.10                                                #testing
 #=app-emulation/wine-staging-2.11                                                #testing
 #=app-emulation/wine-staging-2.12                                                #testing
+#=app-emulation/wine-staging-2.13                                                #testing
+#=app-emulation/wine-staging-2.14                                                #testing
+#=app-emulation/wine-staging-2.15                                                #testing
+#=app-emulation/wine-staging-2.16                                                #testing
 #=app-emulation/wine-staging-9999                                                #testing
 #=app-emulation/wine-vanilla-2.0                                                 #testing
 #=app-emulation/wine-vanilla-2.0.1                                               #testing
@@ -63,4 +75,7 @@
 #=app-emulation/wine-vanilla-2.11                                                #testing
 #=app-emulation/wine-vanilla-2.12                                                #testing
 #=app-emulation/wine-vanilla-2.13                                                #testing
+#=app-emulation/wine-vanilla-2.14                                                #testing
+#=app-emulation/wine-vanilla-2.15                                                #testing
+#=app-emulation/wine-vanilla-2.16                                                #testing
 #=app-emulation/wine-vanilla-9999                                                #testing
