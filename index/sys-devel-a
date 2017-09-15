@@ -31,6 +31,6 @@
 #=sys-devel/automake-1.15-r1                                                     #testing # test broken: dont care
 #=sys-devel/automake-1.15-r2                                                     #        # test broken: dont care
 #=sys-devel/automake-1.15.1                                                      #testing # test broken: 569064
-#=sys-devel/automake-1.15.1-r1                                                   #testing
+#=sys-devel/automake-1.15.1-r1                                                   #testing # test broken: 569064
 #=sys-devel/automake-9999                                                        #testing # NEEDS KEYWORDS
 ## testing:
