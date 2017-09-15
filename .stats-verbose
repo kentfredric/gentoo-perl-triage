@@ -66,7 +66,7 @@ sys-cluster                    :   17 :    88.24% (         2 todo,   2 broken (
 sys-devel                      :   77 :    90.91% (         7 todo,  29 broken (37.66%))
 sys-fs                         :   36 :   100.00% (  3 broken (8.33%))
 sys-libs                       :   24 :   100.00% (  6 broken (25.00%))
-www-apps                       :   37 :    75.68% (         9 todo)
+www-apps                       :   37 :    89.19% (         4 todo,   1 broken (2.70%))
 www-client                     :   18 :    66.67% (         6 todo,   2 broken (11.11%))
 www-misc                       :   14 :    92.86% (         1 todo,   2 broken (14.29%))
 x11-misc                       :   22 :    95.45% (         1 todo)
