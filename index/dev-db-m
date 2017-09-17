@@ -1,18 +1,18 @@
 ## stable:
 =dev-db/maatkit-7540-r1                                                          #        #+
-#=dev-db/mariadb-5.5.57                                                          #testing
+#=dev-db/mariadb-5.5.57                                                          #testing # Impossible deps
 =dev-db/mariadb-10.0.29                                                          #        # Build OK
 #=dev-db/mariadb-10.0.30                                                         #        # Build OK
 #=dev-db/mariadb-10.0.32                                                         #        # Build OK
 #=dev-db/mariadb-10.1.24                                                         #        # Build OK
 #=dev-db/mariadb-10.1.26                                                         #        # Build OK
 #=dev-db/mariadb-10.2.7-r2                                                       #testing # Build OK
-#=dev-db/mariadb-10.2.8                                                          #testing
+#=dev-db/mariadb-10.2.8                                                          #testing # Build OK
 =dev-db/mysqltuner-1.2.0                                                         #        #+
 #=dev-db/mysqltuner-1.6.0                                                        #testing #+
 #=dev-db/mysqltuner-1.6.18                                                       #testing #+
-=dev-db/mytop-1.6-r4                                                             #
-#=dev-db/mytop-1.9.1                                                             #testing
+=dev-db/mytop-1.6-r4                                                             #        #+
+#=dev-db/mytop-1.9.1                                                             #testing #+
 ## testing:
-#=dev-db/mariadb-galera-10.0.30                                                  #testing
+#=dev-db/mariadb-galera-10.0.30                                                  #testing # tests fail 631182
 #=dev-db/mtop-0.6.6-r3                                                           #testing #+

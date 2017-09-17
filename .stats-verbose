@@ -15,7 +15,7 @@ app-office                     :   24 :    87.50% (         3 todo,   4 broken (
 app-portage                    :   19 :   100.00% (  5 broken (26.32%))
 app-text                       :   73 :    94.52% (         4 todo,   5 broken (6.85%))
 app-vim                        :    2 :    50.00% (         1 todo)
-dev-db                         :   65 :    90.77% (         6 todo,  10 broken (15.38%))
+dev-db                         :   65 :   100.00% ( 10 broken (15.38%))
 dev-java                       :    5 :   100.00% (  1 broken (20.00%))
 dev-lang                       :   62 :    98.39% (         1 todo,  10 broken (16.13%))
 dev-libs                       :   70 :   100.00% (  8 broken (11.43%))

@@ -35,4 +35,4 @@
 #=dev-db/postgresql-10_beta4                                                     #testing #+
 #=dev-db/postgresql-9999                                                         #testing # NEEDS KEYWORDS
 ## testing:
-#=dev-db/pgbadger-9.1-r1                                                         #testing
+#=dev-db/pgbadger-9.1-r1                                                         #testing #+
