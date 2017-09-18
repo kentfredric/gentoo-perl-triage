@@ -5,5 +5,5 @@
 ## testing:
 #=app-emulation/libguestfs-1.28.5-r3                                             #testing
 #=app-emulation/libguestfs-1.36.5                                                #testing
-#=app-emulation/libspectrum-1.3.5                                                #testing
 #=app-emulation/libspectrum-1.3.6                                                #testing
+#=app-emulation/libspectrum-1.4.0                                                #testing
