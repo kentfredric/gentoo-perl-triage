@@ -1,4 +1,4 @@
 ## stable:
 =app-text/rfcutil-3.2.3-r2                                                       #        #+
 ## testing:
-#=app-text/referencer-1.2.2                                                      #testing
+#=app-text/referencer-1.2.2                                                      #testing # broken 601174
