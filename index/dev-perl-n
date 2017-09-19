@@ -86,7 +86,7 @@
 #=dev-perl/Net-IMAP-Simple-1.220.600                                             #testing # tests broken: 623004
 #=dev-perl/Net-IMAP-Simple-SSL-1.300.0-r1                                        #testing #+
 #=dev-perl/Net-IRR-0.80.0-r1                                                     #testing #+
-#=dev-perl/Net-LDAP-Server-0.430.0                                               #testing # BLOCKED by perl-ldap
+#=dev-perl/Net-LDAP-Server-0.430.0                                               #testing #+
 #=dev-perl/Net-LDAPapi-3.0.4                                                     #testing #+
 #=dev-perl/Net-OAuth-0.280.0-r1                                                  #testing #+
 #=dev-perl/Net-SMTP-TLS-0.120.0-r2                                               #testing #+

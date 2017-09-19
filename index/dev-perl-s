@@ -115,6 +115,7 @@
 #=dev-perl/String-Truncate-1.100.602                                             #testing #+
 #=dev-perl/Struct-Compare-1.0.1                                                  #testing #+
 #=dev-perl/Sub-Exporter-GlobExporter-0.5.0                                       #testing #+
+#=dev-perl/Sub-Info-0.2.0                                                        #testing # PMASKED
 #=dev-perl/Symbol-Util-0.20.300-r1                                               #testing #+
 #=dev-perl/Syntax-Highlight-Engine-Simple-0.90.0                                 #testing # tests broken: 623116
 #=dev-perl/Syntax-Highlight-Engine-Simple-Perl-0.20.0                            #testing #+
