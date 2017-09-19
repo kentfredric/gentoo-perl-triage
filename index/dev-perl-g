@@ -12,6 +12,7 @@
 =dev-perl/GDTextUtil-0.860.0-r1                                                  #        #+
 =dev-perl/GSSAPI-0.280.0-r1                                                      #        #+
 =dev-perl/Gentoo-App-Pram-0.4.0                                                  #        #+
+#=dev-perl/Gentoo-App-Pram-0.4.0-r1                                              #testing #+
 =dev-perl/Gentoo-PerlMod-Version-0.8.1                                           #        #+
 =dev-perl/Geo-IP-1.450.0                                                         #        #+
 #=dev-perl/Geo-IP-1.500.0                                                        #testing #+

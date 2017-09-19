@@ -133,7 +133,7 @@
 #=dev-perl/Convert-BinHex-1.124.0                                                #        #+
 #=dev-perl/Convert-BinHex-1.125.0                                                #testing #+
 =dev-perl/Convert-Binary-C-0.770.0                                               #        # tests broken: 615106
-#=dev-perl/Convert-Binary-C-0.780.0                                              #testing # tests broken: 615106
+#=dev-perl/Convert-Binary-C-0.780.0-r1                                           #testing #+
 #=dev-perl/Convert-Color-0.80.0-r1                                               #testing #+
 =dev-perl/Convert-Color-0.110.0                                                  #        #+
 =dev-perl/Convert-PEM-0.80.0-r1                                                  #        #+
