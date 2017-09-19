@@ -3,5 +3,6 @@
 #=app-crypt/gnupg-2.1.15                                                         #
 #=app-crypt/gnupg-2.1.20-r1                                                      #
 #=app-crypt/gnupg-2.2.0                                                          #testing
+#=app-crypt/gnupg-2.2.1                                                          #testing
 =app-crypt/gpg-ringmgr-1.12                                                      #
 ## testing:
