@@ -12,6 +12,7 @@
 #=sys-apps/openrc-0.30                                                           #testing #+
 #=sys-apps/openrc-0.31                                                           #testing #+
 #=sys-apps/openrc-0.31.1                                                         #testing #+
+#=sys-apps/openrc-0.31.2                                                         #testing #+
 #=sys-apps/openrc-9999                                                           #testing # NEEDS KEYWORDS
 =sys-apps/osinfo-db-tools-1.1.0                                                  #        #+
 ## testing:

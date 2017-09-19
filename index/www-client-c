@@ -2,4 +2,5 @@
 =www-client/chromium-61.0.3163.79                                                #        # NEED MEMORY
 #=www-client/chromium-62.0.3202.9                                                #testing # NEED MEMORY
 #=www-client/chromium-62.0.3202.18                                               #testing # NEED MEMORY
+#=www-client/chromium-63.0.3213.3                                                #testing # NEED MEMORY
 ## testing:
