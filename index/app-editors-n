@@ -5,7 +5,7 @@
 #=app-editors/nvi-1.81.6-r7                                                      #        #+
 ## testing:
 #=app-editors/ne-3.0.1                                                           #testing #+
-#=app-editors/ne-3.0.1-r1                                                        #testing
+#=app-editors/ne-3.0.1-r1                                                        #testing #+
 #=app-editors/neovim-0.1.0                                                       #testing #+
 #=app-editors/neovim-0.1.1-r1                                                    #testing #+
 #=app-editors/neovim-0.1.2                                                       #testing #+
