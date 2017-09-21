@@ -48,7 +48,7 @@ net-irc                        :   24 :    91.67% (         2 todo,   1 broken (
 net-libs                       :   22 :    86.36% (         3 todo)
 net-mail                       :   47 :    95.74% (         2 todo)
 net-misc                       :   96 :   100.00% (  2 broken (2.08%))
-net-nds                        :   14 :    78.57% (         3 todo,   4 broken (28.57%))
+net-nds                        :   14 :   100.00% (  4 broken (28.57%))
 net-nntp                       :    7 :   100.00% (  4 broken (57.14%))
 net-print                      :    7 :   100.00% (  4 broken (57.14%))
 net-vpn                        :    1 :   100.00% (  1 broken (100.00%))
