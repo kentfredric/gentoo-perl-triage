@@ -118,6 +118,7 @@
 #=dev-perl/Sub-Info-0.2.0                                                        #testing
 #=dev-perl/Symbol-Util-0.20.300-r1                                               #testing
 #=dev-perl/Syntax-Highlight-Engine-Simple-0.90.0                                 #testing
+#=dev-perl/Syntax-Highlight-Engine-Simple-0.100.0                                #testing
 #=dev-perl/Syntax-Highlight-Engine-Simple-Perl-0.20.0                            #testing
 #=dev-perl/Syntax-Keyword-Junction-0.3.8                                         #testing
 #=dev-perl/Sys-Mmap-0.170.0                                                      #testing
