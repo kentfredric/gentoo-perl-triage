@@ -1,5 +1,5 @@
 app-accessibility              :    4 :    75.00% (         1 todo)
-app-admin                      :   59 :    94.92% (         3 todo,   1 broken (1.69%))
+app-admin                      :   59 :   100.00% (  1 broken (1.69%))
 app-arch                       :   23 :    95.65% (         1 todo)
 app-backup                     :   28 :   100.00% (  6 broken (21.43%))
 app-benchmarks                 :    3 :   100.00% (  1 broken (33.33%))
