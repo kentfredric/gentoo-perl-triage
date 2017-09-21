@@ -1,4 +1,4 @@
 ## stable:
 ## testing:
-#=net-dialup/hcfpcimodem-1.20                                                    #testing
-#=net-dialup/hcfpcimodem-1.21                                                    #testing
+#=net-dialup/hcfpcimodem-1.20                                                    #testing # NEEDS KEYWORDS
+#=net-dialup/hcfpcimodem-1.21                                                    #testing # NEEDS KEYWORDS
