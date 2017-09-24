@@ -31,8 +31,7 @@
 #=dev-db/postgresql-9.6.3-r2                                                     #testing #+
 #=dev-db/postgresql-9.6.4                                                        #testing #+
 #=dev-db/postgresql-9.6.5                                                        #testing #+
-#=dev-db/postgresql-10_beta3                                                     #testing #+
-#=dev-db/postgresql-10_beta4                                                     #testing #+
+#=dev-db/postgresql-10_rc1                                                       #testing #+
 #=dev-db/postgresql-9999                                                         #testing # NEEDS KEYWORDS
 ## testing:
 #=dev-db/pgbadger-9.1-r1                                                         #testing #+

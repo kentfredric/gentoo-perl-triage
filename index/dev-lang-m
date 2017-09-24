@@ -1,12 +1,7 @@
 ## stable:
 ## testing:
-#=dev-lang/moarvm-2017.01-r1                                                     #testing #+
-#=dev-lang/moarvm-2017.02-r1                                                     #testing #+
-#=dev-lang/moarvm-2017.03-r1                                                     #testing #+
-#=dev-lang/moarvm-2017.04-r1                                                     #testing #+
-#=dev-lang/moarvm-2017.05-r1                                                     #testing #+
-#=dev-lang/moarvm-2017.06-r1                                                     #testing #+
 #=dev-lang/moarvm-2017.07                                                        #testing #+
 #=dev-lang/moarvm-2017.08.1                                                      #testing #+
+#=dev-lang/moarvm-2017.09.1                                                      #testing #+
 #=dev-lang/moarvm-9999                                                           #testing # NEEDS KEYWORDS
 #=dev-lang/mozart-1.4.0-r3                                                       #testing
