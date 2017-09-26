@@ -22,6 +22,7 @@
 #=app-emulation/wine-any-2.14                                                    #testing # PMASKED
 #=app-emulation/wine-any-2.15                                                    #testing # PMASKED
 #=app-emulation/wine-any-2.16                                                    #testing # PMASKED
+#=app-emulation/wine-any-2.17                                                    #testing # PMASKED
 #=app-emulation/wine-any-9999                                                    #testing # NEEDS KEYWORDS
 #=app-emulation/wine-d3d9-2.0                                                    #testing # PMASKED
 #=app-emulation/wine-d3d9-2.1                                                    #testing # PMASKED
@@ -40,6 +41,7 @@
 #=app-emulation/wine-d3d9-2.14                                                   #testing # PMASKED
 #=app-emulation/wine-d3d9-2.15                                                   #testing # PMASKED
 #=app-emulation/wine-d3d9-2.16                                                   #testing # PMASKED
+#=app-emulation/wine-d3d9-2.17                                                   #testing # PMASKED
 #=app-emulation/wine-d3d9-9999                                                   #testing # NEEDS KEYWORDS
 #=app-emulation/wine-staging-2.0                                                 #testing # PMASKED
 #=app-emulation/wine-staging-2.1                                                 #testing # PMASKED
@@ -58,6 +60,7 @@
 #=app-emulation/wine-staging-2.14                                                #testing # PMASKED
 #=app-emulation/wine-staging-2.15                                                #testing # PMASKED
 #=app-emulation/wine-staging-2.16                                                #testing # PMASKED
+#=app-emulation/wine-staging-2.17                                                #testing # PMASKED
 #=app-emulation/wine-staging-9999                                                #testing # NEEDS KEYWORDS
 #=app-emulation/wine-vanilla-2.0                                                 #testing # PMASKED
 #=app-emulation/wine-vanilla-2.0.1                                               #testing # PMASKED
@@ -78,4 +81,5 @@
 #=app-emulation/wine-vanilla-2.14                                                #testing # PMASKED
 #=app-emulation/wine-vanilla-2.15                                                #testing # PMASKED
 #=app-emulation/wine-vanilla-2.16                                                #testing # PMASKED
+#=app-emulation/wine-vanilla-2.17                                                #testing # PMASKED
 #=app-emulation/wine-vanilla-9999                                                #testing # NEEDS KEYWORDS
