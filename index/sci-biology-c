@@ -1,4 +1,4 @@
 ## stable:
 ## testing:
 #=sci-biology/cd-hit-4.6.6                                                       #testing #+
-#=sci-biology/consed-29                                                          #testing
+#=sci-biology/consed-29                                                          #testing # FETCH RESTRICT
