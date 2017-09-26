@@ -7,4 +7,4 @@
 #=net-irc/irssi-1.0.4                                                            #        #+
 #=net-irc/irssi-9999                                                             #testing # NEEDS KEYWORDS
 ## testing:
-#=net-irc/ircmap-0.99                                                            #testing
+#=net-irc/ircmap-0.99                                                            #testing # NEEDS KEYWORDS
