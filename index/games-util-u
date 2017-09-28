@@ -1,4 +1,4 @@
 ## stable:
 =games-util/umodpack-0.5_beta16-r2                                               #        # tests broken 623586
 ## testing:
-#=games-util/uglygs-0_rc11                                                       #testing
+#=games-util/uglygs-0_rc11                                                       #testing # NEEDS KEYWORDS
