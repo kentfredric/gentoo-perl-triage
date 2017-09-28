@@ -9,7 +9,7 @@ app-editors                    :   44 :    95.45% (         2 todo,   6 broken (
 app-emulation                  :  125 :   100.00% (  3 broken (2.40%))
 app-eselect                    :    1 :     0.00% (         1 todo)
 app-i18n                       :   12 :    91.67% (         1 todo)
-app-misc                       :   40 :    95.00% (         2 todo,   4 broken (10.00%))
+app-misc                       :   40 :   100.00% (  4 broken (10.00%))
 app-office                     :   24 :    91.67% (         2 todo,   5 broken (20.83%))
 app-portage                    :   19 :   100.00% (  5 broken (26.32%))
 app-text                       :   74 :   100.00% (  6 broken (8.11%))
