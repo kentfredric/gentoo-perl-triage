@@ -1,5 +1,5 @@
 ## stable:
-=net-dns/ddclient-3.8.1-r5                                                       #
+=net-dns/ddclient-3.8.1-r5                                                       #        #+
 #=net-dns/ddclient-3.8.2                                                         #testing #+
 #=net-dns/ddclient-3.8.3                                                         #testing #+
 =net-dns/dnswalk-2.0.2                                                           #        #+
