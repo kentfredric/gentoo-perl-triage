@@ -6,6 +6,7 @@
 #=dev-db/mariadb-10.0.32                                                         #        # Build OK
 #=dev-db/mariadb-10.1.24                                                         #        # Build OK
 #=dev-db/mariadb-10.1.26                                                         #        # Build OK
+#=dev-db/mariadb-10.1.28                                                         #testing # Build OK
 #=dev-db/mariadb-10.2.9                                                          #testing # Build OK
 =dev-db/mysqltuner-1.2.0                                                         #        #+
 #=dev-db/mysqltuner-1.6.0                                                        #testing #+
@@ -13,5 +14,5 @@
 =dev-db/mytop-1.6-r4                                                             #        #+
 #=dev-db/mytop-1.9.1                                                             #testing #+
 ## testing:
-#=dev-db/mariadb-galera-10.0.30                                                  #testing # tests fail 631182
+#=dev-db/mariadb-galera-10.0.32                                                  #testing # tests broken 631182
 #=dev-db/mtop-0.6.6-r3                                                           #testing #+
