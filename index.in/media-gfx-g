@@ -8,6 +8,5 @@
 =media-gfx/graphviz-2.38.0-r1                                                    #
 #=media-gfx/graphviz-2.40.1                                                      #testing
 ## testing:
-#=media-gfx/gscan2pdf-1.7.2                                                      #testing
-#=media-gfx/gscan2pdf-1.8.2                                                      #testing
 #=media-gfx/gscan2pdf-1.8.6                                                      #testing
+#=media-gfx/gscan2pdf-1.8.7                                                      #testing
