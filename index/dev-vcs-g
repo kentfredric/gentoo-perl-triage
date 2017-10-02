@@ -1,11 +1,6 @@
 ## stable:
-=dev-vcs/git-2.13.0                                                              #        #+
-#=dev-vcs/git-2.13.3                                                             #testing #+
-#=dev-vcs/git-2.13.4                                                             #testing #+
-#=dev-vcs/git-2.13.5                                                             #        #+
+=dev-vcs/git-2.13.5                                                              #        #+
 #=dev-vcs/git-2.13.6                                                             #        #+
-#=dev-vcs/git-2.14.0                                                             #testing #+
-#=dev-vcs/git-2.14.0-r1                                                          #testing #+
 #=dev-vcs/git-2.14.1                                                             #testing #+
 #=dev-vcs/git-2.14.2                                                             #testing #+
 #=dev-vcs/git-9999                                                               #testing # NEEDS KEYWORDS

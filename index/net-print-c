@@ -2,7 +2,7 @@
 =net-print/cups-filters-1.5.0                                                    #        #+
 #=net-print/cups-filters-1.13.5                                                  #        # tests broken w/o dejavu: 623208
 #=net-print/cups-filters-1.16.4                                                  #        # tests broken w/o dejavu: 623208
-#=net-print/cups-filters-1.17.6                                                  #testing # tests broken w/o dejavu: 623208
 #=net-print/cups-filters-1.17.7                                                  #testing # tests broken w/o dejavu: 623208
+#=net-print/cups-filters-1.17.8                                                  #testing # tests broken w/o dejavu: 623208
 #=net-print/cups-filters-9999                                                    #testing # NEEDS KEYWORDS
 ## testing:
