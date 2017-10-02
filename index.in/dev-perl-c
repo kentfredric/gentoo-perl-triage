@@ -137,7 +137,7 @@
 #=dev-perl/Convert-Color-0.80.0-r1                                               #testing
 =dev-perl/Convert-Color-0.110.0                                                  #
 =dev-perl/Convert-PEM-0.80.0-r1                                                  #
-=dev-perl/Convert-TNEF-0.180.0-r1                                                #
+=dev-perl/Convert-TNEF-0.180.0-r2                                                #
 =dev-perl/Convert-UUlib-1.400.0-r1                                               #
 #=dev-perl/Convert-UUlib-1.500.0-r1                                              #testing
 =dev-perl/Cookie-Baker-0.60.0                                                    #
@@ -239,6 +239,7 @@
 #=dev-perl/Cookie-Baker-XS-0.70.0                                                #testing
 #=dev-perl/Coro-6.511.0                                                          #testing
 #=dev-perl/Crypt-CipherSaber-1.10.0                                              #testing
+#=dev-perl/Crypt-CipherSaber-1.10.0-r1                                           #testing
 #=dev-perl/Crypt-Curve25519-0.50.0                                               #testing
 #=dev-perl/Crypt-Curve25519-0.60.0                                               #testing
 #=dev-perl/Crypt-SMIME-0.150.0-r1                                                #testing
