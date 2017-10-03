@@ -55,12 +55,14 @@
 =dev-perl/Calendar-Simple-1.210.0-r1                                             #
 =dev-perl/Canary-Stability-2006                                                  #
 #=dev-perl/Canary-Stability-2011.0.0                                             #testing
+#=dev-perl/Canary-Stability-2012.0.0                                             #testing
 =dev-perl/Capture-Tiny-0.360.0                                                   #
 #=dev-perl/Capture-Tiny-0.420.0                                                  #testing
 #=dev-perl/Capture-Tiny-0.460.0                                                  #testing
 =dev-perl/Carp-Always-0.130.0                                                    #
 =dev-perl/Carp-Assert-0.210.0                                                    #
 =dev-perl/Carp-Assert-More-1.140.0                                               #
+#=dev-perl/Carp-Assert-More-1.160.0                                              #testing
 =dev-perl/Carp-Clan-6.60.0                                                       #
 =dev-perl/Chart-2.4.10                                                           #
 =dev-perl/Chart-Math-Axis-1.60.0-r2                                              #
