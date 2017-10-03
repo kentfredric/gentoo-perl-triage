@@ -43,6 +43,7 @@
 #=dev-perl/CPAN-Perl-Releases-3.200.0                                            #testing #+
 #=dev-perl/CPAN-Perl-Releases-3.220.0                                            #testing #+
 #=dev-perl/CPAN-Perl-Releases-3.340.0                                            #testing #+
+#=dev-perl/CPAN-Perl-Releases-3.380.0                                            #testing #+
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #        #+
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #        #+
 =dev-perl/Cache-2.40.0-r1                                                        #        # random breakage
@@ -213,6 +214,7 @@
 #=dev-perl/Cache-FastMmap-1.400.0                                                #testing #+
 #=dev-perl/Cache-FastMmap-1.440.0                                                #testing #+
 #=dev-perl/Cache-FastMmap-1.450.0                                                #testing #+
+#=dev-perl/Cache-FastMmap-1.460.0                                                #testing #+
 #=dev-perl/Cache-Memcached-Fast-0.230.0                                          #testing #+
 #=dev-perl/Cisco-IPPhone-0.50.0-r1                                               #testing #+
 #=dev-perl/Class-Adapter-1.80.0-r1                                               #testing #+
