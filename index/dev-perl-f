@@ -78,6 +78,7 @@
 #=dev-perl/File-SearchPath-0.60.0-r1                                             #testing #+
 #=dev-perl/File-Share-0.250.0                                                    #testing #+
 #=dev-perl/File-ShareDir-ProjectDistDir-1.0.9                                    #testing #+
+#=dev-perl/File-Spec-Native-1.4.0                                                #testing #+
 #=dev-perl/File-Stat-Moose-0.60.0-r1                                             #testing #+
 #=dev-perl/Filesys-SmbClient-3.200.0-r2                                          #testing #+
 #=dev-perl/Format-Human-Bytes-0.60.0-r1                                          #testing #+

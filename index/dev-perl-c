@@ -29,7 +29,6 @@
 #=dev-perl/CPAN-Meta-Check-0.14.0                                                #testing #+
 =dev-perl/CPAN-Mini-1.111.11                                                     #        #+
 #=dev-perl/CPAN-Mini-1.111.16                                                    #testing #+
-=dev-perl/CPAN-Mini-Inject-0.330.0-r1                                            #        #+
 =dev-perl/CPAN-Perl-Releases-2.340.0                                             #        #+
 #=dev-perl/CPAN-Perl-Releases-2.540.0                                            #testing #+
 #=dev-perl/CPAN-Perl-Releases-2.880.0                                            #testing #+
@@ -203,6 +202,8 @@
 #=dev-perl/CGI-Ajax-0.707.0                                                      #testing #+
 #=dev-perl/CGI-Builder-1.360.0-r1                                                #testing #+
 #=dev-perl/CHI-0.600.0                                                           #testing #+
+#=dev-perl/CPAN-DistnameInfo-0.120.0-r2                                          #testing #+
+#=dev-perl/CPAN-Mini-Inject-0.330.0-r1                                           #testing #+
 #=dev-perl/CPAN-Uploader-0.103.13                                                #testing #+
 #=dev-perl/CQL-Parser-1.130.0                                                    #testing #+
 #=dev-perl/CSS-Minifier-0.10.0-r1                                                #testing #+

@@ -189,6 +189,7 @@
 #=dev-perl/Digest-JHash-0.90.0                                                   #testing #+
 #=dev-perl/Digest-JHash-0.100.0                                                  #testing #+
 #=dev-perl/Digest-MD5-File-0.80.0-r1                                             #testing #+
+#=dev-perl/Dist-Metadata-0.927.0                                                 #testing #+
 #=dev-perl/Dist-Zilla-6.8.0                                                      #testing # tests broken: 613586
 #=dev-perl/Dist-Zilla-6.9.0                                                      #testing # tests broken: 613586
 #=dev-perl/Dist-Zilla-6.10.0                                                     #testing # tests broken: 613586
