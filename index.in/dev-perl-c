@@ -216,6 +216,7 @@
 #=dev-perl/Cache-FastMmap-1.450.0                                                #testing
 #=dev-perl/Cache-FastMmap-1.460.0                                                #testing
 #=dev-perl/Cache-Memcached-Fast-0.230.0                                          #testing
+#=dev-perl/Cache-Memcached-Fast-0.250.0                                          #testing
 #=dev-perl/Cisco-IPPhone-0.50.0-r1                                               #testing
 #=dev-perl/Class-Adapter-1.80.0-r1                                               #testing
 #=dev-perl/Class-Base-0.50.0-r1                                                  #testing
