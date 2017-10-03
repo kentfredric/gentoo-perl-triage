@@ -204,6 +204,7 @@
 #=dev-perl/CHI-0.600.0                                                           #testing #+
 #=dev-perl/CPAN-DistnameInfo-0.120.0-r2                                          #testing #+
 #=dev-perl/CPAN-Mini-Inject-0.330.0-r1                                           #testing #+
+#=dev-perl/CPAN-Mini-Inject-0.350.0                                              #testing #+
 #=dev-perl/CPAN-Uploader-0.103.13                                                #testing #+
 #=dev-perl/CQL-Parser-1.130.0                                                    #testing #+
 #=dev-perl/CSS-Minifier-0.10.0-r1                                                #testing #+
