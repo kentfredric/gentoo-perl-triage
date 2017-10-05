@@ -4,5 +4,6 @@
 #=sys-apps/help2man-1.47.5                                                       #testing
 =sys-apps/hwids-20170328                                                         #
 #=sys-apps/hwids-20170715                                                        #testing
+#=sys-apps/hwids-20171003                                                        #testing
 #=sys-apps/hwids-99999999                                                        #testing
 ## testing:

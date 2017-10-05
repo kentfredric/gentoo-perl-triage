@@ -68,7 +68,9 @@
 =dev-perl/Chart-Math-Axis-1.60.0-r2                                              #        #+
 =dev-perl/Chatbot-Eliza-1.60.0                                                   #        #+
 #=dev-perl/Chatbot-Eliza-1.70.0                                                  #testing #+
+#=dev-perl/Chatbot-Eliza-1.80.0                                                  #testing #+
 =dev-perl/Cisco-Reconfig-0.911.0                                                 #        #+
+#=dev-perl/Cisco-Reconfig-0.912.0                                                #testing #+
 =dev-perl/Class-Accessor-0.340.0-r1                                              #        #+
 =dev-perl/Class-Accessor-Chained-0.10.0-r1                                       #        #+
 =dev-perl/Class-Accessor-Grouped-0.100.120                                       #        #+
@@ -87,7 +89,9 @@
 #=dev-perl/Class-ErrorHandler-0.40.0                                             #testing #+
 =dev-perl/Class-Factory-Util-1.700.0-r1                                          #        #+
 =dev-perl/Class-ISA-0.36-r1                                                      #        #+
+#=dev-perl/Class-ISA-0.360.0                                                     #testing #+
 =dev-perl/Class-Inspector-1.310.0                                                #        #+
+#=dev-perl/Class-Inspector-1.320.0                                               #testing #+
 =dev-perl/Class-Load-0.200.0-r1                                                  #        #+
 #=dev-perl/Class-Load-0.230.0                                                    #        #+
 #=dev-perl/Class-Load-0.240.0                                                    #testing #+
@@ -223,6 +227,7 @@
 #=dev-perl/Class-Adapter-1.80.0-r1                                               #testing #+
 #=dev-perl/Class-Base-0.50.0-r1                                                  #testing #+
 #=dev-perl/Class-Base-0.60.0                                                     #testing #+
+#=dev-perl/Class-Base-0.80.0                                                     #testing #+
 #=dev-perl/Class-C3-Componentised-1.1.0-r1                                       #testing #+
 #=dev-perl/Class-DBI-AbstractSearch-0.70.0                                       #testing #+
 #=dev-perl/Class-DBI-Plugin-0.30.0                                               #testing #+

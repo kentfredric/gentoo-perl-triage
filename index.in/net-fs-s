@@ -3,7 +3,6 @@
 #=net-fs/samba-4.5.10-r1                                                         #
 #=net-fs/samba-4.5.13                                                            #testing
 #=net-fs/samba-4.5.14                                                            #testing
-#=net-fs/samba-4.6.7                                                             #testing
-#=net-fs/samba-4.6.8                                                             #testing
-#=net-fs/samba-4.7.0                                                             #testing
+#=net-fs/samba-4.6.8-r1                                                          #testing
+#=net-fs/samba-4.7.0-r1                                                          #testing
 ## testing:

@@ -1,8 +1,9 @@
 ## stable:
 =app-backup/amanda-3.3.9                                                         #        #+
-#=app-backup/amanda-3.4.1                                                        #testing # broken: 621416
-#=app-backup/amanda-3.4.2                                                        #testing # broken: 621416
-#=app-backup/amanda-3.4.3                                                        #testing # broken: 621416
-#=app-backup/amanda-3.4.4                                                        #testing # broken: 621416
-#=app-backup/amanda-3.4.5                                                        #testing # broken: 621416
+#=app-backup/amanda-3.4.1                                                        #testing # tests broken: 621416
+#=app-backup/amanda-3.4.2                                                        #testing # tests broken: 621416
+#=app-backup/amanda-3.4.3                                                        #testing # tests broken: 621416
+#=app-backup/amanda-3.4.4                                                        #testing # tests broken: 621416
+#=app-backup/amanda-3.4.5                                                        #testing # tests broken: 621416
+#=app-backup/amanda-3.5                                                          #testing # tests broken: 621416
 ## testing:
