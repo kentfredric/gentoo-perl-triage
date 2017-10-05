@@ -160,6 +160,7 @@
 #=dev-perl/Cpanel-JSON-XS-3.23.0                                                 #testing #+
 #=dev-perl/Cpanel-JSON-XS-3.23.100                                               #testing #+
 =dev-perl/Cpanel-JSON-XS-3.23.300                                                #        #+
+#=dev-perl/Cpanel-JSON-XS-3.23.900                                               #testing #+
 =dev-perl/Crypt-Blowfish-2.140.0-r1                                              #        #+
 =dev-perl/Crypt-CAST5_PP-1.40.0-r1                                               #        #+
 =dev-perl/Crypt-CBC-2.330.0-r1                                                   #        #+
@@ -276,5 +277,6 @@
 #=dev-perl/Crypt-URandom-0.360.0                                                 #testing #+
 #=dev-perl/CryptX-0.47.0                                                         #testing #+
 #=dev-perl/CryptX-0.48.0                                                         #testing #+
+#=dev-perl/CryptX-0.53.0                                                         #testing #+
 #=dev-perl/constant-boolean-0.20.0-r1                                            #testing #+
 #=dev-perl/constant-defer-6.0.0                                                  #testing #+
