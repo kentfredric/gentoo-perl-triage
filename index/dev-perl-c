@@ -263,6 +263,7 @@
 #=dev-perl/Cookie-Baker-XS-0.70.0                                                #testing #+
 #=dev-perl/Cookie-Baker-XS-0.80.0                                                #testing #+
 #=dev-perl/Coro-6.511.0                                                          #testing #+
+#=dev-perl/Coro-6.514.0                                                          #testing #+
 #=dev-perl/Crypt-CipherSaber-1.10.0                                              #testing #+
 #=dev-perl/Crypt-CipherSaber-1.10.0-r1                                           #testing #+
 #=dev-perl/Crypt-Curve25519-0.50.0                                               #testing #+
