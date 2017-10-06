@@ -65,7 +65,7 @@
 #=dev-perl/Date-Manip-6.570.0                                                    #testing #+
 #=dev-perl/Date-Manip-6.580.0                                                    #testing #+
 #=dev-perl/Date-Manip-6.590.0                                                    #testing #+
-=dev-perl/Date-Pcalc-6.100.0-r1                                                  #        # tests broken: 615580
+=dev-perl/Date-Pcalc-6.100.0-r1                                                  #        #+
 =dev-perl/Date-Simple-3.30.0-r1                                                  #        #+
 =dev-perl/DateTime-1.200.0                                                       #        #+
 #=dev-perl/DateTime-1.210.0                                                      #testing #+
@@ -183,7 +183,7 @@
 #=dev-perl/Devel-Leak-0.30.0                                                     #testing #+
 #=dev-perl/Devel-NYTProf-6.40.0                                                  #testing # tests broken: 615734
 #=dev-perl/Devel-REPL-1.3.27                                                     #testing #+
-#=dev-perl/Devel-Refactor-0.50.0-r1                                              #testing # tests broken: 615738
+#=dev-perl/Devel-Refactor-0.50.0-r1                                              #testing #+
 #=dev-perl/Devel-SimpleTrace-0.80.0                                              #testing #+
 #=dev-perl/Digest-JHash-0.70.0-r1                                                #testing #+
 #=dev-perl/Digest-JHash-0.90.0                                                   #testing #+
