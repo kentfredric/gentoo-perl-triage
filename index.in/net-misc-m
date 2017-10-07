@@ -1,13 +1,6 @@
 ## stable:
 =net-misc/memcached-1.4.33                                                       #
-#=net-misc/memcached-1.4.33-r1                                                   #testing
-#=net-misc/memcached-1.4.34                                                      #testing
-#=net-misc/memcached-1.4.35                                                      #testing
-#=net-misc/memcached-1.4.36                                                      #
-#=net-misc/memcached-1.4.37                                                      #testing
-#=net-misc/memcached-1.4.38                                                      #testing
 #=net-misc/memcached-1.4.39                                                      #
-#=net-misc/memcached-1.5.0                                                       #testing
 #=net-misc/memcached-1.5.1                                                       #testing
 #=net-misc/memcached-1.5.2                                                       #testing
 =net-misc/mosh-1.2.6                                                             #

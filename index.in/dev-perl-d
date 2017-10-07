@@ -10,6 +10,7 @@
 #=dev-perl/DBD-mysql-4.42.0                                                      #testing
 =dev-perl/DBI-1.634.0                                                            #
 #=dev-perl/DBI-1.636.0                                                           #
+#=dev-perl/DBI-1.637.0                                                           #testing
 =dev-perl/DBI-Shell-11.950.0-r1                                                  #
 =dev-perl/DBIx-ContextualFetch-1.30.0-r1                                         #
 =dev-perl/DBIx-DBSchema-0.400.0-r1                                               #
