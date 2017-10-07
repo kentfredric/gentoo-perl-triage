@@ -42,7 +42,7 @@
 =dev-perl/Data-Perl-0.2.9                                                        #        #+
 =dev-perl/Data-Random-0.80.0                                                     #        #+
 #=dev-perl/Data-Random-0.120.0                                                   #testing #+
-=dev-perl/Data-ShowTable-4.600.0                                                 #        # tests broken: 615582
+=dev-perl/Data-ShowTable-4.600.0                                                 #        #+
 =dev-perl/Data-Stag-0.140.0-r1                                                   #        #+
 =dev-perl/Data-Structure-Util-0.150.0                                            #        #+
 =dev-perl/Data-Types-0.90.0                                                      #        #+
