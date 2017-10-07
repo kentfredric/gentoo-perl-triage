@@ -152,7 +152,7 @@
 #=dev-perl/DBIx-Simple-1.350.0-r1                                                #testing #+
 #=dev-perl/DB_File-Lock-0.50.0-r1                                                #testing #+
 #=dev-perl/Data-Dump-Streamer-2.390.0                                            #testing # tests broken: 615698
-#=dev-perl/Data-Dump-Streamer-2.400.0                                            #testing # tests broken: 615698
+#=dev-perl/Data-Dump-Streamer-2.400.0                                            #testing #+
 #=dev-perl/Data-Dumper-Concise-2.23.0                                            #testing #+
 #=dev-perl/Data-Float-0.12.0                                                     #testing #+
 #=dev-perl/Data-Section-0.200.6                                                  #testing #+
