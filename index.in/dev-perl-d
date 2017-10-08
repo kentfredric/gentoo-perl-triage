@@ -19,6 +19,7 @@
 #=dev-perl/DBIx-DBSchema-0.440.0                                                 #testing
 #=dev-perl/DBIx-DBSchema-0.450.0                                                 #
 =dev-perl/DBIx-SearchBuilder-1.660.0-r1                                          #
+#=dev-perl/DBIx-SearchBuilder-1.670.0                                            #testing
 =dev-perl/Daemon-Generic-0.840.0                                                 #
 =dev-perl/Danga-Socket-1.610.0-r1                                                #
 =dev-perl/Data-AMF-0.90.0-r1                                                     #
