@@ -1,8 +1,9 @@
 #!perl
 use strict;
 use warnings;
+use Path::Tiny qw( path );
 
-for my $filename ( @ARGV ) {
+infile: for my $filename ( @ARGV ) {
   my $open_fn = $filename;
   $ENV{GIT_WORK_TREE} and $open_fn = $ENV{GIT_WORK_TREE} . $open_fn;
 
@@ -23,24 +24,25 @@ for my $filename ( @ARGV ) {
   if ( $pn =~ qr{(virtual/perl-.*|dev-lang/perl|perl-core/.*)} ) {
     next;
   }
-  open my $fh, '<', $open_fn  or next;
-  while ( my $line = <$fh> ) {
-    if ( $line =~ /perl-module/ ) {
-      print "$pn\n";  last
-    }
-    if ( $line =~ qr{dev-lang/perl} ) {
-      print "$pn\n"; last;
-    }
-    if ( $line =~ qr{dev-perl} ) {
-      print "$pn\n"; last;
-    }
-    if ( $line =~ qr{perl-core} ) {
-      print "$pn\n"; last;
-    }
-    if ( $line =~ qr{virtual/perl-} ) {
-      print "$pn\n"; last;
+  my ( @siblings ) = grep { $_->basename ne path($open_fn)->basename } path($open_fn)->parent->children(qr/\.ebuild$/);
+  for my $ebuild ( path($open_fn), @siblings ) {
+    open my $fh, '<', $ebuild->absolute->stringify or next;
+    while ( my $line = <$fh> ) {
+      if ( $line =~ /perl-module/ ) {
+        print "$pn\n"; next infile;
+      }
+      if ( $line =~ qr{dev-lang/perl} ) {
+        print "$pn\n"; next infile;
+      }
+      if ( $line =~ qr{dev-perl} ) {
+        print "$pn\n"; next infile;
+      }
+      if ( $line =~ qr{perl-core} ) {
+        print "$pn\n"; next infile;
+      }
+      if ( $line =~ qr{virtual/perl-} ) {
+        print "$pn\n"; next infile;
+      }
     }
   }
-
-
 }
