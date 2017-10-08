@@ -12,6 +12,7 @@
 #=dev-perl/DBI-1.636.0                                                           #
 #=dev-perl/DBI-1.637.0                                                           #testing
 =dev-perl/DBI-Shell-11.950.0-r1                                                  #
+#=dev-perl/DBI-Shell-11.950.0-r2                                                 #testing
 =dev-perl/DBIx-ContextualFetch-1.30.0-r1                                         #
 =dev-perl/DBIx-DBSchema-0.400.0-r1                                               #
 #=dev-perl/DBIx-DBSchema-0.440.0                                                 #testing
@@ -122,6 +123,7 @@
 #=dev-perl/Devel-PatchPerl-1.480.0                                               #testing
 =dev-perl/Devel-Size-0.800.0                                                     #
 =dev-perl/Devel-SmallProf-2.20.0-r2                                              #
+#=dev-perl/Devel-SmallProf-2.20.0-r3                                             #testing
 =dev-perl/Devel-StackTrace-2.0.0                                                 #
 #=dev-perl/Devel-StackTrace-2.10.0                                               #testing
 =dev-perl/Devel-StackTrace-AsHTML-0.150.0                                        #
