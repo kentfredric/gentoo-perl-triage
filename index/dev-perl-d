@@ -1,6 +1,7 @@
 ## stable:
 =dev-perl/DBD-Pg-3.5.3                                                           #        #+
 #=dev-perl/DBD-Pg-3.6.2                                                          #testing #+
+#=dev-perl/DBD-Pg-3.7.0                                                          #testing #+
 =dev-perl/DBD-SQLite-1.500.0                                                     #        # tests broken: 615088
 #=dev-perl/DBD-SQLite-1.540.0                                                    #testing #+
 =dev-perl/DBD-mysql-4.32.0-r2                                                    #        # broken: 613608
