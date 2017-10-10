@@ -68,6 +68,7 @@
 #=dev-perl/LWP-UserAgent-Determined-1.70.0                                       #testing
 #=dev-perl/Lab-Measurement-3.531.0                                               #testing
 #=dev-perl/Lab-Measurement-3.550.0                                               #testing
+#=dev-perl/Lab-Measurement-3.600.0                                               #testing
 #=dev-perl/Lab-Measurement-9999                                                  #testing
 #=dev-perl/Lab-Zhinst-0.30.0                                                     #testing
 #=dev-perl/Lab-Zhinst-0.50.0                                                     #testing
