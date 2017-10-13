@@ -3,7 +3,7 @@
 =app-text/docbook-sgml-utils-0.6.14-r1                                           #
 =app-text/docbook2X-0.8.8-r4                                                     #
 =app-text/dos2unix-7.3.4                                                         #
-#=app-text/dos2unix-7.3.5                                                        #testing
+#=app-text/dos2unix-7.3.5                                                        #
 #=app-text/dos2unix-7.4.0                                                        #testing
 ## testing:
 #=app-text/ddir-0_p20100323                                                      #testing
