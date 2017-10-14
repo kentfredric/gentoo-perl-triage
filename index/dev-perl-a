@@ -1,5 +1,6 @@
 ## stable:
 =dev-perl/Ace-1.920.0-r1                                                         #        #+
+#=dev-perl/Ace-1.920.0-r2                                                        #testing #+
 =dev-perl/Acme-Damn-0.60.0                                                       #        #+
 #=dev-perl/Acme-Damn-0.80.0                                                      #testing #+
 =dev-perl/Algorithm-Annotate-0.100.0-r1                                          #        #+
@@ -59,6 +60,7 @@
 =dev-perl/Audio-DSP-0.20.0-r1                                                    #        #+
 =dev-perl/Audio-FLAC-Header-2.400.0-r1                                           #        #+
 =dev-perl/Audio-Mixer-0.700.0-r1                                                 #        #+
+#=dev-perl/Audio-Mixer-0.700.0-r2                                                #testing #+
 =dev-perl/Audio-Wav-0.140.0                                                      #        #+
 =dev-perl/Authen-DigestMD5-0.40.0-r1                                             #        #+
 =dev-perl/Authen-Htpasswd-0.171.0-r1                                             #        #+
@@ -78,6 +80,7 @@
 #=dev-perl/AnyEvent-CacheDNS-0.80.0                                              #testing #+
 #=dev-perl/AnyEvent-HTTPD-0.930.0                                                #testing #+
 #=dev-perl/Apache-CGI-Builder-1.300.0-r1                                         #testing #+
+#=dev-perl/Apache-CGI-Builder-1.300.0-r2                                         #testing #+
 #=dev-perl/App-CLI-0.313.0-r1                                                    #testing #+
 #=dev-perl/App-Cmd-0.331.0                                                       #testing #+
 #=dev-perl/App-Nopaste-1.4.0-r1                                                  #testing #+
