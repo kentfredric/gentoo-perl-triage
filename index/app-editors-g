@@ -4,5 +4,6 @@
 #=app-editors/gvim-8.0.0938                                                      #testing # tests broken 630042
 #=app-editors/gvim-8.0.0983                                                      #testing # tests broken 630042
 #=app-editors/gvim-8.0.1056                                                      #testing # tests broken 630042
+#=app-editors/gvim-8.0.1188                                                      #testing # tests broken 630042
 #=app-editors/gvim-9999                                                          #testing # NEEDS KEYWORDS
 ## testing:

@@ -1,5 +1,6 @@
 ## stable:
 =x11-wm/i3-4.13-r1                                                               #        #+
 #=x11-wm/i3-4.14                                                                 #testing # tests broken 630938
+#=x11-wm/i3-4.14.1                                                               #testing # broken 634282
 #=x11-wm/i3-9999                                                                 #testing # NEEDS KEYWORDS
 ## testing:

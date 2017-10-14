@@ -8,7 +8,7 @@
 #=net-analyzer/nagios-check_rbl-1.4.1                                            #testing #+
 =net-analyzer/nagios-core-3.5.1                                                  #        #+
 #=net-analyzer/nagios-core-4.3.1-r1                                              #        #+
-#=net-analyzer/nagios-core-4.3.3                                                 #testing #+
+#=net-analyzer/nagios-core-4.3.3                                                 #        #+
 #=net-analyzer/nagios-core-4.3.4                                                 #testing # PMASKED
 =net-analyzer/nagios-plugins-2.0.3-r2                                            #        #+
 #=net-analyzer/nagios-plugins-2.2.1                                              #testing #+
