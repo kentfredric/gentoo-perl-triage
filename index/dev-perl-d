@@ -162,7 +162,6 @@
 #=dev-perl/DBIx-Safe-1.2.5                                                       #testing #+
 #=dev-perl/DBIx-Simple-1.350.0-r1                                                #testing #+
 #=dev-perl/DB_File-Lock-0.50.0-r1                                                #testing #+
-#=dev-perl/Data-Dump-Streamer-2.390.0                                            #testing # tests broken: 615698
 #=dev-perl/Data-Dump-Streamer-2.400.0                                            #testing #+
 #=dev-perl/Data-Dumper-Concise-2.23.0                                            #testing #+
 #=dev-perl/Data-Float-0.12.0                                                     #testing #+
@@ -203,9 +202,6 @@
 #=dev-perl/Digest-JHash-0.100.0                                                  #testing #+
 #=dev-perl/Digest-MD5-File-0.80.0-r1                                             #testing #+
 #=dev-perl/Dist-Metadata-0.927.0                                                 #testing #+
-#=dev-perl/Dist-Zilla-6.8.0                                                      #testing # tests broken: 613586
-#=dev-perl/Dist-Zilla-6.9.0                                                      #testing # tests broken: 613586
-#=dev-perl/Dist-Zilla-6.10.0                                                     #testing # tests broken: 613586
 #=dev-perl/Dist-Zilla-6.10.0-r2                                                  #testing #+
 #=dev-perl/Dist-Zilla-Plugin-AuthorsFromGit-0.5.0                                #testing #+
 #=dev-perl/Dist-Zilla-Plugin-AuthorsFromGit-0.6.0                                #testing #+
