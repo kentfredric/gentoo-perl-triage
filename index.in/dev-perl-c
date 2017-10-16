@@ -1,5 +1,6 @@
 ## stable:
 =dev-perl/CDDB-1.222.0-r1                                                        #
+#=dev-perl/CDDB-1.222.0-r2                                                       #testing
 =dev-perl/CDDB-File-1.50.0-r1                                                    #
 =dev-perl/CDDB_get-2.280.0-r1                                                    #
 =dev-perl/CGI-4.220.0                                                            #
