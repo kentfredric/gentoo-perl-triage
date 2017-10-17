@@ -17,6 +17,7 @@
 #=dev-perl/CGI-Fast-2.110.0                                                      #testing #+
 #=dev-perl/CGI-Fast-2.120.0                                                      #testing #+
 =dev-perl/CGI-FastTemplate-1.90.0-r1                                             #        #+
+#=dev-perl/CGI-FastTemplate-1.90.0-r2                                            #testing #+
 =dev-perl/CGI-FormBuilder-3.90.0                                                 #        #+
 #=dev-perl/CGI-FormBuilder-3.100.0                                               #testing #+
 =dev-perl/CGI-PSGI-0.150.0-r1                                                    #        #+
@@ -233,6 +234,7 @@
 #=dev-perl/Cache-Memcached-Fast-0.230.0                                          #testing #+
 #=dev-perl/Cache-Memcached-Fast-0.250.0                                          #testing #+
 #=dev-perl/Cisco-IPPhone-0.50.0-r1                                               #testing #+
+#=dev-perl/Cisco-IPPhone-0.50.0-r2                                               #testing #+
 #=dev-perl/Class-Adapter-1.80.0-r1                                               #testing #+
 #=dev-perl/Class-Base-0.50.0-r1                                                  #testing #+
 #=dev-perl/Class-Base-0.60.0                                                     #testing #+

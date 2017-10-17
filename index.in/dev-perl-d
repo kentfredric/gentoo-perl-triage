@@ -140,7 +140,7 @@
 =dev-perl/Digest-BubbleBabble-0.20.0-r1                                          #
 =dev-perl/Digest-CRC-0.210.0                                                     #
 #=dev-perl/Digest-CRC-0.220.0_p2                                                 #testing
-=dev-perl/Digest-GOST-0.60.0                                                     #
+=dev-perl/Digest-GOST-0.60.0-r1                                                  #
 =dev-perl/Digest-HMAC-1.30.0-r1                                                  #
 =dev-perl/Digest-MD2-2.30.0-r1                                                   #
 =dev-perl/Digest-MD4-1.900.0-r1                                                  #
