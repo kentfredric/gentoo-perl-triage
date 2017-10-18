@@ -87,6 +87,7 @@
 =dev-perl/Class-DBI-3.0.17-r1                                                    #        #+
 #=dev-perl/Class-DBI-3.0.17-r2                                                   #testing #+
 =dev-perl/Class-DBI-mysql-1.0.0-r1                                               #        #+
+#=dev-perl/Class-DBI-mysql-1.0.0-r2                                              #testing #+
 =dev-perl/Class-Data-Inheritable-0.80.0-r1                                       #        #+
 =dev-perl/Class-Default-1.510.0-r1                                               #        #+
 =dev-perl/Class-ErrorHandler-0.30.0                                              #        #+
@@ -243,6 +244,7 @@
 #=dev-perl/Class-Base-0.80.0                                                     #testing #+
 #=dev-perl/Class-C3-Componentised-1.1.0-r1                                       #testing #+
 #=dev-perl/Class-DBI-AbstractSearch-0.70.0                                       #testing #+
+#=dev-perl/Class-DBI-AbstractSearch-0.70.0-r1                                    #testing #+
 #=dev-perl/Class-DBI-Plugin-0.30.0                                               #testing #+
 #=dev-perl/Class-DBI-Plugin-DeepAbstractSearch-0.80.0                            #testing #+
 #=dev-perl/Class-Data-Accessor-0.40.40-r1                                        #testing #+
