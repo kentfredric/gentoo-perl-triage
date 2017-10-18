@@ -1,8 +1,7 @@
 ## stable:
 =dev-db/maatkit-7540-r1                                                          #        #+
-#=dev-db/mariadb-5.5.57                                                          #testing # Impossible deps
-=dev-db/mariadb-10.0.29                                                          #        # Build OK
-#=dev-db/mariadb-10.0.30                                                         #        # Build OK
+#=dev-db/mariadb-5.5.58                                                          #testing # Impossible deps
+=dev-db/mariadb-10.0.30                                                          #        # Build OK
 #=dev-db/mariadb-10.0.32                                                         #        # Build OK
 #=dev-db/mariadb-10.1.24                                                         #        # Build OK
 #=dev-db/mariadb-10.1.26                                                         #        # Build OK
