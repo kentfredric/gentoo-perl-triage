@@ -83,7 +83,9 @@
 #=dev-perl/Class-C3-0.330.0                                                      #testing
 =dev-perl/Class-C3-XS-0.140.0                                                    #
 =dev-perl/Class-Container-0.120.0-r1                                             #
+#=dev-perl/Class-Container-0.120.0-r2                                            #testing
 =dev-perl/Class-DBI-3.0.17-r1                                                    #
+#=dev-perl/Class-DBI-3.0.17-r2                                                   #testing
 =dev-perl/Class-DBI-mysql-1.0.0-r1                                               #
 =dev-perl/Class-Data-Inheritable-0.80.0-r1                                       #
 =dev-perl/Class-Default-1.510.0-r1                                               #
