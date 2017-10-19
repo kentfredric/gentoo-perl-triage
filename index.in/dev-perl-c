@@ -178,6 +178,7 @@
 #=dev-perl/Crypt-DES-2.70.0-r1                                                   #testing
 =dev-perl/Crypt-DES_EDE3-0.10.0-r1                                               #
 =dev-perl/Crypt-DH-0.70.0-r1                                                     #
+#=dev-perl/Crypt-DH-0.70.0-r2                                                    #testing
 =dev-perl/Crypt-DH-GMP-0.0.120                                                   #
 =dev-perl/Crypt-DSA-1.170.0                                                      #
 =dev-perl/Crypt-Eksblowfish-0.9.0-r2                                             #
@@ -186,6 +187,7 @@
 =dev-perl/Crypt-OpenSSL-Bignum-0.40.0-r2                                         #
 #=dev-perl/Crypt-OpenSSL-Bignum-0.70.0                                           #testing
 #=dev-perl/Crypt-OpenSSL-Bignum-0.80.0                                           #testing
+#=dev-perl/Crypt-OpenSSL-Bignum-0.80.0-r1                                        #testing
 #=dev-perl/Crypt-OpenSSL-DSA-0.150.0-r1                                          #testing
 #=dev-perl/Crypt-OpenSSL-DSA-0.180.0                                             #testing
 =dev-perl/Crypt-OpenSSL-DSA-0.190.0                                              #
@@ -207,17 +209,21 @@
 #=dev-perl/Crypt-SSLeay-0.720.0-r2                                               #testing
 =dev-perl/Crypt-Simple-0.60.0-r1                                                 #
 =dev-perl/Crypt-SmbHash-0.120.0-r1                                               #
+#=dev-perl/Crypt-SmbHash-0.120.0-r2                                              #testing
 =dev-perl/Crypt-Twofish-2.170.0-r1                                               #
 =dev-perl/Crypt-X509-0.510.0                                                     #
 =dev-perl/Curses-1.320.0                                                         #
 #=dev-perl/Curses-1.330.0                                                        #testing
 #=dev-perl/Curses-1.360.0                                                        #
 =dev-perl/Curses-UI-0.960.900-r1                                                 #
+#=dev-perl/Curses-UI-0.960.900-r2                                                #testing
 =dev-perl/CursesWidgets-1.997.0-r1                                               #
+#=dev-perl/CursesWidgets-1.997.0-r2                                              #testing
 =dev-perl/Cwd-Guard-0.40.0                                                       #
 #=dev-perl/Cwd-Guard-0.50.0                                                      #testing
 =dev-perl/capitalization-0.30.0-r1                                               #
 =dev-perl/common-sense-3.740.0                                                   #
+#=dev-perl/common-sense-3.740.0-r1                                               #testing
 ## testing:
 #=dev-perl/CBOR-XS-1.600.0                                                       #testing
 #=dev-perl/CBOR-XS-1.700.0                                                       #testing
