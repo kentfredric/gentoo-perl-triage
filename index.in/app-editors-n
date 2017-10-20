@@ -1,8 +1,6 @@
 ## stable:
 =app-editors/nedit-5.6-r1                                                        #
-=app-editors/nvi-1.81.6-r4                                                       #
-#=app-editors/nvi-1.81.6-r6                                                      #testing
-#=app-editors/nvi-1.81.6-r7                                                      #
+=app-editors/nvi-1.81.6-r7                                                       #
 ## testing:
 #=app-editors/ne-3.0.1                                                           #testing
 #=app-editors/ne-3.0.1-r1                                                        #testing
