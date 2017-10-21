@@ -51,7 +51,7 @@
 #=dev-perl/Event-1.260.0                                                         #testing #+
 =dev-perl/Event-ExecFlow-0.640.0-r1                                              #        #+
 =dev-perl/Event-RPC-1.50.0                                                       #        #+
-#=dev-perl/Event-RPC-1.80.0                                                      #testing # tests broken: 615834
+#=dev-perl/Event-RPC-1.80.0                                                      #testing #+
 =dev-perl/Exception-Class-1.390.0                                                #        #+
 #=dev-perl/Exception-Class-1.410.0                                               #testing #+
 #=dev-perl/Exception-Class-1.420.0                                               #testing #+
@@ -79,8 +79,8 @@
 =dev-perl/ExtUtils-LibBuilder-0.80.0                                             #        #+
 =dev-perl/ExtUtils-PkgConfig-1.160.0                                             #        #+
 =dev-perl/ExtUtils-XSBuilder-0.280.0-r1                                          #        #+
-=dev-perl/ExtUtils-XSpp-0.170.0                                                  #        # tests broken: 615240
-#=dev-perl/ExtUtils-XSpp-0.180.0                                                 #        # tests broken: 615240
+=dev-perl/ExtUtils-XSpp-0.170.0                                                  #        #+
+#=dev-perl/ExtUtils-XSpp-0.180.0                                                 #        #+
 ## testing:
 #=dev-perl/Emacs-PDE-0.2.16-r1                                                   #testing #+
 #=dev-perl/Email-Filter-1.32.0-r1                                                #testing #+
@@ -95,7 +95,7 @@
 #=dev-perl/Exception-Warning-0.40.100-r1                                         #testing #+
 #=dev-perl/ExtUtils-CChecker-0.90.0                                              #testing #+
 #=dev-perl/ExtUtils-CChecker-0.100.0                                             #testing #+
-#=dev-perl/ExtUtils-CppGuess-0.110.0                                             #testing # tests broken: 615842
+#=dev-perl/ExtUtils-CppGuess-0.110.0                                             #testing #+
 #=dev-perl/ExtUtils-Typemaps-Default-1.50.0                                      #testing #+
 #=dev-perl/enum-1.16.0-r1                                                        #testing #+
 #=dev-perl/enum-1.110.0                                                          #testing #+
