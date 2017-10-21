@@ -14,9 +14,11 @@
 #=dev-perl/Email-MIME-1.936.0                                                    #testing
 #=dev-perl/Email-MIME-1.937.0                                                    #testing
 #=dev-perl/Email-MIME-1.940.0                                                    #testing
+#=dev-perl/Email-MIME-1.946.0                                                    #testing
 =dev-perl/Email-MIME-Attachment-Stripper-1.317.0-r1                              #
 =dev-perl/Email-MIME-ContentType-1.16.0-r1                                       #
 #=dev-perl/Email-MIME-ContentType-1.18.0                                         #testing
+#=dev-perl/Email-MIME-ContentType-1.22.0                                         #testing
 =dev-perl/Email-MIME-Encodings-1.315.0-r1                                        #
 =dev-perl/Email-MessageID-1.405.0                                                #
 #=dev-perl/Email-MessageID-1.406.0                                               #testing
@@ -31,6 +33,7 @@
 #=dev-perl/Email-Simple-2.208.0                                                  #testing
 #=dev-perl/Email-Simple-2.211.0                                                  #testing
 #=dev-perl/Email-Simple-2.213.0                                                  #testing
+#=dev-perl/Email-Simple-2.214.0                                                  #testing
 =dev-perl/Email-Valid-1.196.0                                                    #
 #=dev-perl/Email-Valid-1.198.0                                                   #testing
 #=dev-perl/Email-Valid-1.202.0                                                   #testing
@@ -38,12 +41,15 @@
 =dev-perl/Encode-EUCJPASCII-0.30.0                                               #
 =dev-perl/Encode-HanConvert-0.350.0-r1                                           #
 =dev-perl/Encode-HanExtra-0.230.0-r1                                             #
+#=dev-perl/Encode-HanExtra-0.230.0-r2                                            #testing
 #=dev-perl/Encode-JIS2K-0.02                                                     #testing
 =dev-perl/Encode-JIS2K-0.30.0                                                    #
 =dev-perl/Encode-Locale-1.30.0-r1                                                #
 #=dev-perl/Encode-Locale-1.50.0                                                  #testing
 =dev-perl/Encode-compat-0.70.0-r1                                                #
+#=dev-perl/Encode-compat-0.70.0-r2                                               #testing
 =dev-perl/Error-0.170.240                                                        #
+#=dev-perl/Error-0.170.250                                                       #testing
 =dev-perl/Eval-Closure-0.130.0                                                   #
 #=dev-perl/Eval-Closure-0.140.0                                                  #
 =dev-perl/Eval-LineNumbers-0.340.0                                               #
@@ -55,6 +61,7 @@
 =dev-perl/Exception-Class-1.390.0                                                #
 #=dev-perl/Exception-Class-1.410.0                                               #testing
 #=dev-perl/Exception-Class-1.420.0                                               #testing
+#=dev-perl/Exception-Class-1.430.0                                               #testing
 =dev-perl/Expect-1.320.0-r1                                                      #
 #=dev-perl/Expect-1.330.0                                                        #testing
 #=dev-perl/Expect-1.350.0                                                        #testing
@@ -65,6 +72,7 @@
 #=dev-perl/Exporter-Tiny-0.44.0                                                  #testing
 #=dev-perl/Exporter-Tiny-1.0.0                                                   #testing
 =dev-perl/ExtUtils-AutoInstall-0.630.0-r1                                        #
+#=dev-perl/ExtUtils-AutoInstall-0.640.0                                          #testing
 =dev-perl/ExtUtils-Config-0.7.0                                                  #
 #=dev-perl/ExtUtils-Config-0.8.0                                                 #
 =dev-perl/ExtUtils-Depends-0.404.0                                               #
@@ -83,6 +91,8 @@
 #=dev-perl/ExtUtils-XSpp-0.180.0                                                 #
 ## testing:
 #=dev-perl/Emacs-PDE-0.2.16-r1                                                   #testing
+#=dev-perl/Emacs-PDE-0.2.16-r2                                                   #testing
+#=dev-perl/Email-Address-XS-1.10.0                                               #testing
 #=dev-perl/Email-Filter-1.32.0-r1                                                #testing
 #=dev-perl/Email-Filter-1.34.0                                                   #testing
 #=dev-perl/Email-FolderType-0.814.0                                              #testing
@@ -91,6 +101,7 @@
 #=dev-perl/Exception-Base-0.250.0-r2                                             #testing
 #=dev-perl/Exception-Base-0.250.100                                              #testing
 #=dev-perl/Exception-Died-0.60.0-r1                                              #testing
+#=dev-perl/Exception-Died-0.60.0-r2                                              #testing
 #=dev-perl/Exception-System-0.110.0-r1                                           #testing
 #=dev-perl/Exception-Warning-0.40.100-r1                                         #testing
 #=dev-perl/ExtUtils-CChecker-0.90.0                                              #testing
