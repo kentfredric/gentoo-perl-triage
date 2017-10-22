@@ -76,6 +76,7 @@
 =dev-perl/FreezeThaw-0.500.100-r1                                                #
 =dev-perl/Fuse-0.16.1                                                            #
 =dev-perl/frontier-rpc-0.07_beta4-r1                                             #
+#=dev-perl/frontier-rpc-0.07_beta4-r2                                            #testing
 ## testing:
 #=dev-perl/Fatal-Exception-0.50.0-r1                                             #testing
 #=dev-perl/Fatal-Exception-0.50.0-r2                                             #testing
@@ -101,3 +102,4 @@
 #=dev-perl/Filesys-SmbClient-3.200.0-r3                                          #testing
 #=dev-perl/Format-Human-Bytes-0.60.0-r1                                          #testing
 #=dev-perl/forks-0.360.0                                                         #testing
+#=dev-perl/forks-0.360.0-r1                                                      #testing
