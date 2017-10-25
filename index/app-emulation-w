@@ -86,4 +86,5 @@
 #=app-emulation/wine-staging-2.15-r1                                             #testing # broken 632466
 #=app-emulation/wine-staging-2.16-r1                                             #testing # broken 632466
 #=app-emulation/wine-staging-2.17-r1                                             #testing # broken 632466
+#=app-emulation/wine-staging-2.18                                                #testing # broken 632466
 #=app-emulation/wine-staging-9999                                                #testing # NEEDS KEYWORDS
