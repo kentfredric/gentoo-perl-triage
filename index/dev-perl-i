@@ -13,6 +13,7 @@
 =dev-perl/IO-LockedFile-0.230.0-r1                                               #        #+
 =dev-perl/IO-Multiplex-1.160.0                                                   #        #+
 =dev-perl/IO-Pager-0.350.0                                                       #        # tests broken: 616994
+#=dev-perl/IO-Pager-0.390.0                                                      #testing #+
 =dev-perl/IO-Pipely-0.005.0                                                      #        #+
 =dev-perl/IO-SessionData-1.30.0                                                  #        #+
 =dev-perl/IO-Socket-INET6-2.720.0                                                #        #+
