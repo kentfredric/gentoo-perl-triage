@@ -2,6 +2,7 @@
 =dev-perl/IMAP-Admin-1.6.7-r1                                                    #
 #=dev-perl/IMAP-Admin-1.6.8                                                      #testing
 =dev-perl/IO-AIO-4.330.0                                                         #
+#=dev-perl/IO-AIO-4.340.0                                                        #testing
 =dev-perl/IO-All-0.860.0                                                         #
 #=dev-perl/IO-All-0.870.0                                                        #testing
 =dev-perl/IO-BufferedSelect-1.0.0-r1                                             #
@@ -11,6 +12,7 @@
 =dev-perl/IO-HTML-1.1.0                                                          #
 =dev-perl/IO-Handle-Util-0.10.0                                                  #
 =dev-perl/IO-Interactive-1.21.0                                                  #
+#=dev-perl/IO-Interactive-1.22.0                                                 #testing
 =dev-perl/IO-Interface-1.90.0                                                    #
 =dev-perl/IO-LockedFile-0.230.0-r1                                               #
 =dev-perl/IO-Multiplex-1.160.0                                                   #
@@ -26,9 +28,11 @@
 #=dev-perl/IO-Socket-SSL-2.45.0                                                  #testing
 #=dev-perl/IO-Socket-SSL-2.47.0                                                  #testing
 #=dev-perl/IO-Socket-SSL-2.48.0                                                  #testing
+#=dev-perl/IO-Socket-SSL-2.52.0                                                  #testing
 =dev-perl/IO-String-1.80.0-r1                                                    #
 =dev-perl/IO-Stty-0.30.0                                                         #
 =dev-perl/IO-Tee-0.640.0-r1                                                      #
+#=dev-perl/IO-Tee-0.650.0                                                        #testing
 =dev-perl/IO-Tty-1.120.0                                                         #
 =dev-perl/IO-Util-1.500.0-r1                                                     #
 =dev-perl/IO-stringy-2.111.0                                                     #
