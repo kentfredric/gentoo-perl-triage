@@ -1,7 +1,7 @@
 ## stable:
 =net-analyzer/monitoring-plugins-2.1.2                                           #
 #=net-analyzer/monitoring-plugins-2.2                                            #
-#=net-analyzer/monitoring-plugins-2.2-r1                                         #testing
+#=net-analyzer/monitoring-plugins-2.2-r2                                         #testing
 =net-analyzer/mrtg-2.17.4-r1                                                     #
 =net-analyzer/munin-2.0.33                                                       #
 #=net-analyzer/munin-2.0.33-r1                                                   #testing
