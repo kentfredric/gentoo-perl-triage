@@ -11,7 +11,9 @@
 =dev-perl/LaTeX-Encode-0.91.6-r1                                                 #        #+
 #=dev-perl/LaTeX-Encode-0.92.0                                                   #testing #+
 =dev-perl/LaTeX-Table-1.0.6                                                      #        #+
+#=dev-perl/LaTeX-Table-1.0.6-r1                                                  #testing #+
 =dev-perl/Lchown-1.10.0-r1                                                       #        #+
+#=dev-perl/Lchown-1.10.0-r2                                                      #testing #+
 =dev-perl/Lingua-EN-Inflect-1.899.0                                              #        #+
 #=dev-perl/Lingua-EN-Inflect-1.901.0                                             #testing #+
 #=dev-perl/Lingua-EN-Inflect-1.902.0                                             #testing #+
@@ -47,6 +49,7 @@
 =dev-perl/Locale-gettext-1.50.0-r1                                               #        #+
 #=dev-perl/Locale-gettext-1.70.0                                                 #testing #+
 =dev-perl/LockFile-Simple-0.208.0-r1                                             #        #+
+#=dev-perl/LockFile-Simple-0.208.0-r2                                            #testing #+
 =dev-perl/Log-Agent-1.1.0                                                        #        #+
 =dev-perl/Log-Any-1.38.0                                                         #        #+
 #=dev-perl/Log-Any-1.49.0                                                        #testing #+
@@ -63,17 +66,23 @@
 =dev-perl/libintl-perl-1.200.0-r1                                                #        # broken: 613804, waiting on stabilization 621642
 #=dev-perl/libintl-perl-1.240.0                                                  #        # broken: 613804, waiting on stabilization 621642
 #=dev-perl/libintl-perl-1.240.0-r2                                               #        #+
+#=dev-perl/libintl-perl-1.280.0                                                  #testing #+
 =dev-perl/libvorbis-perl-0.50.0-r1                                               #        #+
+#=dev-perl/libvorbis-perl-0.50.0-r2                                              #testing # broken 635792
 =dev-perl/libwww-perl-6.150.0                                                    #        #+
 #=dev-perl/libwww-perl-6.160.0                                                   #testing #+
 #=dev-perl/libwww-perl-6.240.0                                                   #testing #+
 #=dev-perl/libwww-perl-6.250.0                                                   #testing #+
 #=dev-perl/libwww-perl-6.260.0                                                   #testing #+
+#=dev-perl/libwww-perl-6.270.0                                                   #testing #+
 =dev-perl/libxml-perl-0.80.0-r1                                                  #        #+
+#=dev-perl/libxml-perl-0.80.0-r2                                                 #testing #+
 =dev-perl/local-lib-2.0.19                                                       #        #+
+#=dev-perl/local-lib-2.0.24                                                      #testing #+
 ## testing:
 #=dev-perl/LWP-Online-1.80.0-r2                                                  #testing #+
 #=dev-perl/LWP-UserAgent-Cached-0.60.0                                           #testing #+
+#=dev-perl/LWP-UserAgent-Cached-0.60.0-r1                                        #testing #+
 #=dev-perl/LWP-UserAgent-Determined-1.70.0                                       #testing #+
 #=dev-perl/Lab-Measurement-3.531.0                                               #testing #+
 #=dev-perl/Lab-Measurement-3.550.0                                               #testing #+
@@ -88,6 +97,7 @@
 #=dev-perl/Lexical-SealRequireHints-0.10.0                                       #testing # tests broken: 614968
 #=dev-perl/Lexical-SealRequireHints-0.11.0                                       #testing #+
 #=dev-perl/Lingua-EN-NameCase-1.190.0                                            #testing #+
+#=dev-perl/Lingua-EN-NameCase-1.190.0-r1                                         #testing #+
 #=dev-perl/Linux-Distribution-0.230.0                                            #testing #+
 #=dev-perl/Linux-Inotify2-1.220.0-r1                                             #testing #+
 #=dev-perl/Linux-Smaps-0.130.0                                                   #testing #+
@@ -105,3 +115,4 @@
 #=dev-perl/Log-Report-Optional-1.20.0                                            #testing #+
 #=dev-perl/Log-Report-Optional-1.30.0                                            #testing #+
 #=dev-perl/librg-utils-perl-1.0.43                                               #testing #+
+#=dev-perl/librg-utils-perl-1.0.43-r1                                            #testing #+

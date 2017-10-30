@@ -28,6 +28,7 @@
 #=app-emulation/wine-vanilla-2.16-r1                                             #testing # broken 632466
 #=app-emulation/wine-vanilla-2.17-r1                                             #testing # broken 632466
 #=app-emulation/wine-vanilla-2.18-r1                                             #testing # broken 632466
+#=app-emulation/wine-vanilla-2.19                                                #testing # broken 632466
 #=app-emulation/wine-vanilla-9999                                                #testing # NEEDS KEYWORDS
 ## testing:
 #=app-emulation/wine-any-2.0-r1                                                  #testing # broken 632466

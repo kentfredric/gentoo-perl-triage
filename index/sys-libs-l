@@ -1,6 +1,7 @@
 ## stable:
 =sys-libs/libieee1284-0.2.11-r4                                                  #        #+
 #=sys-libs/libieee1284-0.2.11-r5                                                 #        #+
+#=sys-libs/libieee1284-0.2.11-r6                                                 #        #+
 #=sys-libs/libomp-3.7.1                                                          #testing # broken 630126
 #=sys-libs/libomp-3.8.1                                                          #testing #+
 #=sys-libs/libomp-3.9.0                                                          #testing #+

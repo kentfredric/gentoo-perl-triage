@@ -33,7 +33,7 @@
 #=dev-perl/IO-Socket-SSL-2.43.0                                                  #testing
 #=dev-perl/IO-Socket-SSL-2.45.0                                                  #testing
 #=dev-perl/IO-Socket-SSL-2.47.0                                                  #testing
-#=dev-perl/IO-Socket-SSL-2.48.0                                                  #testing
+#=dev-perl/IO-Socket-SSL-2.48.0                                                  #
 #=dev-perl/IO-Socket-SSL-2.52.0                                                  #testing
 =dev-perl/IO-String-1.80.0-r1                                                    #
 =dev-perl/IO-Stty-0.30.0                                                         #
