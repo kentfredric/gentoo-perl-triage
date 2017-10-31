@@ -3,6 +3,7 @@
 #=dev-db/mariadb-5.5.58                                                          #testing
 =dev-db/mariadb-10.0.30-r1                                                       #
 #=dev-db/mariadb-10.0.32-r1                                                      #
+#=dev-db/mariadb-10.0.33                                                         #testing
 #=dev-db/mariadb-10.1.24-r1                                                      #
 #=dev-db/mariadb-10.1.26-r1                                                      #
 #=dev-db/mariadb-10.1.28                                                         #testing
