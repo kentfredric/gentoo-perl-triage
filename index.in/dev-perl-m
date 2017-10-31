@@ -75,6 +75,7 @@
 =dev-perl/Module-Pluggable-5.200.0                                               #
 =dev-perl/Module-Refresh-0.170.0-r1                                              #
 =dev-perl/Module-Runtime-0.14.0                                                  #
+#=dev-perl/Module-Runtime-0.16.0                                                 #testing
 =dev-perl/Module-Runtime-Conflicts-0.2.0                                         #
 =dev-perl/Module-ScanDeps-1.230.0                                                #
 =dev-perl/Module-Signature-0.790.0                                               #
