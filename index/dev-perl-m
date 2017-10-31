@@ -116,6 +116,7 @@
 =dev-perl/MouseX-Types-0.60.0                                                    #        # broken: 614790
 =dev-perl/Mozilla-CA-20999999                                                    #        #+
 =dev-perl/MusicBrainz-DiscID-0.30.0-r1                                           #        # tests broken: 622984
+#=dev-perl/MusicBrainz-DiscID-0.40.0                                             #testing #+
 =dev-perl/mecab-perl-0.996                                                       #        #+
 =dev-perl/mime-construct-1.900.0-r1                                              #        #+
 #=dev-perl/mime-construct-1.1100.0-r1                                            #testing #+
@@ -138,6 +139,7 @@
 #=dev-perl/Mail-Box-IMAP4-3.1.0                                                  #testing #+
 #=dev-perl/Mail-Box-POP3-3.1.0                                                   #testing #+
 #=dev-perl/Mail-Builder-2.90.0                                                   #testing # tests broken: 623226
+#=dev-perl/Mail-Builder-2.130.0                                                  #testing #+
 #=dev-perl/Mail-Builder-Simple-0.160.0-r1                                        #testing #+
 #=dev-perl/Mail-DMARC-1.201.509.80                                               #testing #+
 #=dev-perl/Mail-Message-3.0.0                                                    #testing #+
@@ -172,7 +174,7 @@
 #=dev-perl/MooX-Types-MooseLike-Numeric-1.20.0                                   #testing #+
 #=dev-perl/Moose-Autobox-0.160.0                                                 #testing #+
 #=dev-perl/MooseX-Aliases-0.110.0-r1                                             #testing #+
-#=dev-perl/MooseX-ClassAttribute-0.270.0                                         #testing #+
+#=dev-perl/MooseX-ClassAttribute-0.270.0-r1                                      #testing #+
 #=dev-perl/MooseX-ConfigFromFile-0.140.0                                         #testing #+
 #=dev-perl/MooseX-Getopt-0.680.0                                                 #testing #+
 #=dev-perl/MooseX-GlobRef-0.70.100                                               #testing #+
@@ -192,7 +194,7 @@
 #=dev-perl/MooseX-Types-DateTime-ButMaintained-0.160.0                           #testing #+
 #=dev-perl/MooseX-Types-DateTime-MoreCoercions-0.150.0                           #testing #+
 #=dev-perl/MooseX-Types-DateTimeX-0.100.0                                        #testing #+
-#=dev-perl/MooseX-Types-JSON-1.0.0                                               #testing #+
+#=dev-perl/MooseX-Types-JSON-1.0.0-r1                                            #testing #+
 #=dev-perl/MooseX-Types-Path-Class-0.80.0                                        #testing #+
 #=dev-perl/MooseX-Types-Path-Tiny-0.11.0                                         #testing #+
 #=dev-perl/MooseX-Types-Perl-0.101.343                                           #testing #+
