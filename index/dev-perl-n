@@ -84,6 +84,7 @@
 #=dev-perl/Net-ARP-1.0.9                                                         #testing #+
 #=dev-perl/Net-Amazon-S3-0.800.0                                                 #testing #+
 #=dev-perl/Net-Bonjour-0.960.0                                                   #testing #+
+#=dev-perl/Net-DNS-Resolver-Mock-1.201.710.310                                   #testing #+
 #=dev-perl/Net-IMAP-Simple-1.220.600                                             #testing # tests broken: 623004
 #=dev-perl/Net-IMAP-Simple-SSL-1.300.0-r1                                        #testing #+
 #=dev-perl/Net-IRR-0.80.0-r1                                                     #testing #+
