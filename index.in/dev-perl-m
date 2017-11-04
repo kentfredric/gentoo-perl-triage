@@ -45,8 +45,10 @@
 #=dev-perl/Math-BigInt-GMP-1.600.200                                             #testing
 =dev-perl/Math-Calc-Units-1.70.0-r1                                              #
 =dev-perl/Math-Derivative-0.40.0                                                 #
+#=dev-perl/Math-Derivative-1.10.0                                                #testing
 =dev-perl/Math-GMP-2.60.0-r1                                                     #
 #=dev-perl/Math-GMP-2.110.0                                                      #testing
+#=dev-perl/Math-GMP-2.150.0                                                      #testing
 =dev-perl/Math-Pari-2.10.806.50-r1                                               #
 #=dev-perl/Math-Pari-2.10.808                                                    #testing
 #=dev-perl/Math-Pari-2.10.809.0                                                  #
@@ -54,6 +56,7 @@
 =dev-perl/Math-Random-ISAAC-1.4.0-r1                                             #
 =dev-perl/Math-Random-ISAAC-XS-1.4.0-r1                                          #
 =dev-perl/Math-Random-Secure-0.60.0-r1                                           #
+#=dev-perl/Math-Random-Secure-0.80.1                                             #testing
 =dev-perl/Math-Spline-0.20.0                                                     #
 =dev-perl/Math-Vec-1.10.0-r1                                                     #
 =dev-perl/Math-VecStat-0.80.0-r1                                                 #
@@ -67,6 +70,7 @@
 #=dev-perl/Module-Build-0.422.400                                                #testing
 =dev-perl/Module-Build-Tiny-0.39.0                                               #
 =dev-perl/Module-Build-XSUtil-0.160.0                                            #
+#=dev-perl/Module-Build-XSUtil-0.180.0                                           #testing
 =dev-perl/Module-Compile-0.350.0                                                 #
 =dev-perl/Module-Find-0.130.0                                                    #
 =dev-perl/Module-Implementation-0.90.0                                           #
@@ -82,10 +86,14 @@
 =dev-perl/Module-Runtime-0.14.0                                                  #
 #=dev-perl/Module-Runtime-0.16.0                                                 #testing
 =dev-perl/Module-Runtime-Conflicts-0.2.0                                         #
+#=dev-perl/Module-Runtime-Conflicts-0.3.0                                        #testing
 =dev-perl/Module-ScanDeps-1.230.0                                                #
+#=dev-perl/Module-ScanDeps-1.240.0                                               #testing
 =dev-perl/Module-Signature-0.790.0                                               #
+#=dev-perl/Module-Signature-0.810.0                                              #testing
 =dev-perl/Module-Starter-1.710.0                                                 #
 #=dev-perl/Module-Starter-1.720.0                                                #testing
+#=dev-perl/Module-Starter-1.730.0                                                #testing
 =dev-perl/Module-Util-1.90.0                                                     #
 =dev-perl/Module-Versions-Report-1.60.0-r1                                       #
 #=dev-perl/Mojolicious-6.610.0                                                   #testing
@@ -165,12 +173,15 @@
 #=dev-perl/Math-Libm-1.0.0                                                       #testing
 #=dev-perl/Math-ModInt-0.11.0                                                    #testing
 #=dev-perl/Math-NumSeq-71.0.0                                                    #testing
+#=dev-perl/Math-NumSeq-72.0.0                                                    #testing
 #=dev-perl/Math-NumberCruncher-5.0.0                                             #testing
 #=dev-perl/Math-PlanePath-123.0.0                                                #testing
 #=dev-perl/Math-PlanePath-124.0.0                                                #testing
 #=dev-perl/Math-Prime-XS-0.260.0                                                 #testing
+#=dev-perl/Math-Prime-XS-0.270.0                                                 #testing
 #=dev-perl/Math-Random-MT-1.170.0                                                #testing
 #=dev-perl/Math-Round-0.70.0                                                     #testing
+#=dev-perl/Math-Utils-1.110.0                                                    #testing
 #=dev-perl/Mixin-Linewise-0.108.0                                                #testing
 #=dev-perl/Mock-Config-0.30.0                                                    #testing
 #=dev-perl/Modern-Perl-1.201.701.170                                             #testing

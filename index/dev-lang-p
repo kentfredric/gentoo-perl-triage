@@ -4,6 +4,7 @@
 #=dev-lang/perl-5.24.3                                                           #        # Nontarget
 #=dev-lang/perl-5.26.0                                                           #testing # Nontarget
 #=dev-lang/perl-5.26.1                                                           #testing # Nontarget
+#=dev-lang/perl-5.26.1-r1                                                        #testing # Nontarget
 #=dev-lang/perl-5.26.9999                                                        #testing # Nontarget
 #=dev-lang/perl-5.28.9999                                                        #testing # Nontarget
 ## testing:
