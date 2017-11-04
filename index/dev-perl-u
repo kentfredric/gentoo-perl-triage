@@ -23,6 +23,8 @@
 #=dev-perl/URI-Encode-1.1.1                                                      #testing #+
 #=dev-perl/URI-Find-20140709.0.0                                                 #testing #+
 #=dev-perl/URI-Find-20160806.0.0                                                 #testing #+
+#=dev-perl/USB-LibUSB-0.50.0                                                     #testing #+
+#=dev-perl/USB-TMC-0.5.0                                                         #testing #+
 #=dev-perl/UUID-0.250.0                                                          #testing #+
 #=dev-perl/UUID-0.260.0                                                          #testing #+
 #=dev-perl/UUID-Tiny-1.40.0                                                      #testing #+

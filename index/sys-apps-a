@@ -2,7 +2,5 @@
 =sys-apps/ack-2.18-r1                                                            #        #+
 ## testing:
 #=sys-apps/adjtime-0.4-r2                                                        #testing # NEEDS KEYWORDS
-#=sys-apps/apparmor-2.11.0                                                       #testing #+
 #=sys-apps/apparmor-2.11.1-r1                                                    #testing #+
-#=sys-apps/apparmor-utils-2.11.0-r1                                              #testing #+
 #=sys-apps/apparmor-utils-2.11.1                                                 #testing # blocked by: 635908

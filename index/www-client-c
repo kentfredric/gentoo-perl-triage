@@ -1,6 +1,5 @@
 ## stable:
-=www-client/chromium-62.0.3202.62                                                #        # NEED MEMORY
-#=www-client/chromium-62.0.3202.75                                               #        # NEED MEMORY
+=www-client/chromium-62.0.3202.75                                                #        # NEED MEMORY
 #=www-client/chromium-63.0.3223.8                                                #testing # NEED MEMORY
 #=www-client/chromium-63.0.3230.0                                                #testing # NEED MEMORY
 ## testing:

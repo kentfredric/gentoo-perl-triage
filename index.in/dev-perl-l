@@ -88,6 +88,7 @@
 #=dev-perl/Lab-Measurement-3.550.0                                               #testing
 #=dev-perl/Lab-Measurement-3.600.0                                               #testing
 #=dev-perl/Lab-Measurement-9999                                                  #testing
+#=dev-perl/Lab-VXI11-0.20.0                                                      #testing
 #=dev-perl/Lab-Zhinst-0.30.0                                                     #testing
 #=dev-perl/Lab-Zhinst-0.50.0                                                     #testing
 #=dev-perl/Lab-Zhinst-1.20.0                                                     #testing
