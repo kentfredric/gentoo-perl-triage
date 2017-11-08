@@ -3,6 +3,8 @@
 #=sys-apps/lm_sensors-3.4.0_p20170901                                            #testing #+
 =sys-apps/lnxhc-1.2-r1                                                           #        #+
 =sys-apps/logwatch-7.4.3                                                         #        #+
+#=sys-apps/logwatch-7.4.3_p20171025                                              #testing #+
+#=sys-apps/logwatch-9999                                                         #testing # NEED KEYWORDS
 =sys-apps/lsb-release-1.4                                                        #        #+
 #=sys-apps/lsb-release-1.4-r1                                                    #testing #+
 #=sys-apps/lsb-release-1.4-r2                                                    #testing #+
