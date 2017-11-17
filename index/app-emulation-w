@@ -10,6 +10,7 @@
 #=app-emulation/wine-vanilla-2.0.1-r1                                            #testing # broken 632466
 #=app-emulation/wine-vanilla-2.0.2                                               #        # PMASKED
 #=app-emulation/wine-vanilla-2.0.2-r1                                            #testing # broken 632466
+#=app-emulation/wine-vanilla-2.0.3                                               #testing # broken 632466
 #=app-emulation/wine-vanilla-2.1-r1                                              #testing # broken 632466
 #=app-emulation/wine-vanilla-2.2-r1                                              #testing # broken 632466
 #=app-emulation/wine-vanilla-2.3-r1                                              #testing # broken 632466
@@ -27,8 +28,9 @@
 #=app-emulation/wine-vanilla-2.15-r1                                             #testing # broken 632466
 #=app-emulation/wine-vanilla-2.16-r1                                             #testing # broken 632466
 #=app-emulation/wine-vanilla-2.17-r1                                             #testing # broken 632466
-#=app-emulation/wine-vanilla-2.18-r1                                             #testing # broken 632466
-#=app-emulation/wine-vanilla-2.19                                                #testing # broken 632466
+#=app-emulation/wine-vanilla-2.18-r2                                             #testing # broken 632466
+#=app-emulation/wine-vanilla-2.19-r1                                             #testing # broken 632466
+#=app-emulation/wine-vanilla-2.20                                                #testing # broken 632466
 #=app-emulation/wine-vanilla-9999                                                #testing # NEEDS KEYWORDS
 ## testing:
 #=app-emulation/wine-any-2.0-r1                                                  #testing # broken 632466
@@ -49,6 +51,8 @@
 #=app-emulation/wine-any-2.15-r1                                                 #testing # broken 632466
 #=app-emulation/wine-any-2.16-r1                                                 #testing # broken 632466
 #=app-emulation/wine-any-2.17-r1                                                 #testing # broken 632466
+#=app-emulation/wine-any-2.18                                                    #testing # broken 632466
+#=app-emulation/wine-any-2.19                                                    #testing # broken 632466
 #=app-emulation/wine-any-9999                                                    #testing # NEEDS KEYWORDS
 #=app-emulation/wine-d3d9-2.0-r1                                                 #testing # broken 632466
 #=app-emulation/wine-d3d9-2.1-r1                                                 #testing # broken 632466
@@ -68,6 +72,8 @@
 #=app-emulation/wine-d3d9-2.15-r1                                                #testing # broken 632466
 #=app-emulation/wine-d3d9-2.16-r1                                                #testing # broken 632466
 #=app-emulation/wine-d3d9-2.17-r1                                                #testing # broken 632466
+#=app-emulation/wine-d3d9-2.18                                                   #testing # broken 632466
+#=app-emulation/wine-d3d9-2.19                                                   #testing # broken 632466
 #=app-emulation/wine-d3d9-9999                                                   #testing # NEEDS KEYWORDS
 #=app-emulation/wine-staging-2.0-r1                                              #testing # broken 632466
 #=app-emulation/wine-staging-2.1-r1                                              #testing # broken 632466
@@ -88,4 +94,5 @@
 #=app-emulation/wine-staging-2.16-r1                                             #testing # broken 632466
 #=app-emulation/wine-staging-2.17-r1                                             #testing # broken 632466
 #=app-emulation/wine-staging-2.18                                                #testing # broken 632466
+#=app-emulation/wine-staging-2.19                                                #testing # broken 632466
 #=app-emulation/wine-staging-9999                                                #testing # NEEDS KEYWORDS

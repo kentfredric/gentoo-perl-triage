@@ -115,9 +115,7 @@
 =dev-perl/MooX-HandlesVia-0.1.8                                                  #        #+
 =dev-perl/MooX-Types-MooseLike-0.290.0                                           #        #+
 =dev-perl/MooX-late-0.15.0                                                       #        #+
-=dev-perl/Moose-2.60.400-r1                                                      #        # tests broken: 617118, waiting on hppa 617120
-#=dev-perl/Moose-2.160.400                                                       #        #+
-#=dev-perl/Moose-2.160.500                                                       #        #+
+=dev-perl/Moose-2.160.500                                                        #        #+
 #=dev-perl/Moose-2.180.600                                                       #testing #+
 #=dev-perl/Moose-2.180.700                                                       #testing #+
 #=dev-perl/Moose-2.200.400                                                       #testing #+

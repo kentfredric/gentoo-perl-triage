@@ -52,8 +52,7 @@
 =dev-perl/Sub-Exporter-0.987.0                                                   #
 =dev-perl/Sub-Exporter-ForMethods-0.100.52                                       #
 =dev-perl/Sub-Exporter-Progressive-0.1.11                                        #
-=dev-perl/Sub-Identify-0.120.0                                                   #
-#=dev-perl/Sub-Identify-0.140.0                                                  #
+=dev-perl/Sub-Identify-0.140.0                                                   #
 =dev-perl/Sub-Install-0.928.0                                                    #
 =dev-perl/Sub-Name-0.50.0-r1                                                     #
 #=dev-perl/Sub-Name-0.150.0                                                      #

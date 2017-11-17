@@ -8,6 +8,7 @@
 #=sys-apps/coreutils-8.26                                                        #        # tests broken: 413621
 #=sys-apps/coreutils-8.27                                                        #testing # tests broken: 413621
 #=sys-apps/coreutils-8.28                                                        #testing # tests broken: 413621
+#=sys-apps/coreutils-8.28-r1                                                     #testing # tests broken: 413621
 =sys-apps/cpuid-20170122                                                         #        #+
 ## testing:
 #=sys-apps/checkservice-1.2.0                                                    #testing # NEEDS KEYWORDS

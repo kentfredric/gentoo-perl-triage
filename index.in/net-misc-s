@@ -4,10 +4,8 @@
 #=net-misc/spice-gtk-9999                                                        #testing
 =net-misc/sslh-1.18-r2                                                           #
 =net-misc/stunnel-5.36                                                           #
-#=net-misc/stunnel-5.37                                                          #testing
-#=net-misc/stunnel-5.38                                                          #testing
-#=net-misc/stunnel-5.39                                                          #testing
 #=net-misc/stunnel-5.40                                                          #testing
+#=net-misc/stunnel-5.43                                                          #testing
 ## testing:
 #=net-misc/slimrat-9999                                                          #testing
 #=net-misc/ssh-chain-20131217                                                    #testing
