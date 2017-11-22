@@ -2,16 +2,11 @@
 =app-editors/vile-9.8r                                                           #        #+
 #=app-editors/vile-9.8s                                                          #testing # broken 615376
 =app-editors/vim-8.0.0386                                                        #        #+
-#=app-editors/vim-8.0.0386-r1                                                    #testing #+
-#=app-editors/vim-8.0.0938                                                       #testing #+
-#=app-editors/vim-8.0.0983                                                       #testing # tests broken 630018
-#=app-editors/vim-8.0.1056                                                       #testing # tests broken 630018
 #=app-editors/vim-8.0.1188                                                       #testing #+
+#=app-editors/vim-8.0.1298                                                       #testing #+
 #=app-editors/vim-9999                                                           #testing # NEEDS KEYWORDS
 =app-editors/vim-core-8.0.0386                                                   #        #+
-#=app-editors/vim-core-8.0.0938                                                  #testing #+
-#=app-editors/vim-core-8.0.0983                                                  #testing #+
-#=app-editors/vim-core-8.0.1056                                                  #testing #+
 #=app-editors/vim-core-8.0.1188                                                  #testing #+
+#=app-editors/vim-core-8.0.1298                                                  #testing #+
 #=app-editors/vim-core-9999                                                      #testing # NEEDS KEYWORDS
 ## testing:

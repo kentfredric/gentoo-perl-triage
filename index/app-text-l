@@ -1,7 +1,7 @@
 ## stable:
+=app-text/lesspipe-1.83                                                          #        #+
 =app-text/linuxdoc-tools-0.9.72                                                  #        #+
 =app-text/lv-4.51-r3                                                             #        #+
 #=app-text/lv-4.51-r4                                                            #testing #+
 ## testing:
-#=app-text/lesspipe-1.83                                                         #testing #+
 #=app-text/logmerge-0.5.2b                                                       #testing #+

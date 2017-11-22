@@ -1,5 +1,4 @@
 ## stable:
-=media-gfx/krita-3.1.4                                                           #        # tests broken 630508
-#=media-gfx/krita-3.3.1                                                          #testing # tests broken 630508
-#=media-gfx/krita-3.3.2.1                                                        #testing # tests broken 630508
+=media-gfx/krita-3.1.4                                                           #        #+
+#=media-gfx/krita-3.3.2.1                                                        #testing #+
 ## testing:

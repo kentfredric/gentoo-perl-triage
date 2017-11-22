@@ -1,4 +1,4 @@
 ## stable:
 ## testing:
-#=sys-cluster/slurm-16.05.2                                                      #testing
-#=sys-cluster/slurm-17.02.6                                                      #testing
+#=sys-cluster/slurm-16.05.11                                                     #testing
+#=sys-cluster/slurm-17.02.9                                                      #testing

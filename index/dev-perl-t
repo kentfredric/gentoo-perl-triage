@@ -92,6 +92,7 @@
 =dev-perl/Text-Aspell-0.90.0-r1                                                  #        #+
 =dev-perl/Text-Autoformat-1.740.0                                                #        #+
 =dev-perl/Text-BibTeX-0.800.0                                                    #        #+
+#=dev-perl/Text-BibTeX-0.850.0                                                   #testing #+
 =dev-perl/Text-CSV-1.940.0                                                       #        #+
 #=dev-perl/Text-CSV-1.950.0                                                      #testing #+
 =dev-perl/Text-CSV-Simple-1.0.0-r1                                               #        #+
@@ -218,6 +219,7 @@
 #=dev-perl/Time-Duration-Parse-0.130.0                                           #testing #+
 #=dev-perl/Time-Format-1.120.0                                                   #testing #+
 #=dev-perl/Time-Moment-0.420.0                                                   #testing #+
+#=dev-perl/Time-Monotonic-0.9.8                                                  #testing #+
 #=dev-perl/Time-Out-0.110.0                                                      #testing #+
 #=dev-perl/Time-Piece-MySQL-0.60.0-r1                                            #testing #+
 #=dev-perl/Time-Stopwatch-1.0.0                                                  #testing #+
