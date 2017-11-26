@@ -2,7 +2,7 @@
 =dev-util/ddd-3.3.12-r3                                                          #        #+
 #=dev-util/ddd-3.3.12-r4                                                         #        #+
 =dev-util/debhelper-9.20160814                                                   #        #+
-#=dev-util/debhelper-10.10.3                                                     #testing #+
 #=dev-util/debhelper-10.10.5                                                     #testing #+
+#=dev-util/debhelper-10.10.8                                                     #testing #+
 =dev-util/distro-info-0.14                                                       #        #+
 ## testing:

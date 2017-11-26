@@ -8,7 +8,7 @@
 #=sys-apps/coreutils-8.26                                                        #
 #=sys-apps/coreutils-8.27                                                        #testing
 #=sys-apps/coreutils-8.28                                                        #testing
-#=sys-apps/coreutils-8.28-r1                                                     #testing
+#=sys-apps/coreutils-8.28-r1                                                     #
 =sys-apps/cpuid-20170122                                                         #
 ## testing:
 #=sys-apps/checkservice-1.2.0                                                    #testing

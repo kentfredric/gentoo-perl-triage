@@ -18,19 +18,19 @@
 #=sys-devel/automake-1.8.5-r5                                                    #        # test broken: dont care
 #=sys-devel/automake-1.9.6-r4                                                    #        # test broken: dont care
 #=sys-devel/automake-1.10.3-r1                                                   #        # test broken: dont care
-#=sys-devel/automake-1.10.3-r2                                                   #testing # test broken: dont care
+#=sys-devel/automake-1.10.3-r2                                                   #        # test broken: dont care
 #=sys-devel/automake-1.11.6-r1                                                   #        # test broken: dont care
-#=sys-devel/automake-1.11.6-r2                                                   #testing # test broken: dont care
+#=sys-devel/automake-1.11.6-r2                                                   #        # test broken: dont care
 #=sys-devel/automake-1.12.6                                                      #        # test broken: dont care
-#=sys-devel/automake-1.12.6-r1                                                   #testing # test broken: dont care
+#=sys-devel/automake-1.12.6-r1                                                   #        # test broken: dont care
 #=sys-devel/automake-1.13.4                                                      #        # test broken: dont care
-#=sys-devel/automake-1.13.4-r1                                                   #testing # test broken: dont care
+#=sys-devel/automake-1.13.4-r1                                                   #        # test broken: dont care
 #=sys-devel/automake-1.14.1                                                      #        # test broken: dont care
-#=sys-devel/automake-1.14.1-r1                                                   #testing # test broken: dont care
+#=sys-devel/automake-1.14.1-r1                                                   #        # test broken: dont care
 #=sys-devel/automake-1.15                                                        #        # test broken: dont care
 #=sys-devel/automake-1.15-r1                                                     #testing # test broken: dont care
 #=sys-devel/automake-1.15-r2                                                     #        # test broken: dont care
 #=sys-devel/automake-1.15.1                                                      #testing # test broken: 569064
-#=sys-devel/automake-1.15.1-r1                                                   #testing # test broken: 569064
+#=sys-devel/automake-1.15.1-r1                                                   #        # test broken: 569064
 #=sys-devel/automake-9999                                                        #testing # NEEDS KEYWORDS
 ## testing:

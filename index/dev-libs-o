@@ -7,6 +7,7 @@
 #=dev-libs/openssl-1.1.0f                                                        #testing # PACKAGE MASKED
 #=dev-libs/openssl-1.1.0f-r1                                                     #testing # PACKAGE MASKED
 #=dev-libs/openssl-1.1.0g                                                        #testing # PACKAGE MASKED
+#=dev-libs/openssl-1.1.0g-r1                                                     #testing # PACKAGE MASKED
 =dev-libs/ossp-uuid-1.6.2-r4                                                     #        #+
 #=dev-libs/ossp-uuid-1.6.2-r6                                                    #        #+
 ## testing:

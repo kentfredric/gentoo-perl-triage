@@ -1,4 +1,4 @@
 ## stable:
-=games-util/grfcodec-6.0.5                                                       #        #+
-#=games-util/grfcodec-6.0.6                                                      #        #+
 ## testing:
+#=games-util/grfcodec-6.0.5                                                      #testing #+
+#=games-util/grfcodec-6.0.6                                                      #testing #+
