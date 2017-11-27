@@ -87,7 +87,7 @@ sub categories_file {
 sub cmd_all {
     $_[0]->cmd_sync_eix_in;
     $_[0]->cmd_merge_in;
-    $_[0]->cmd_update_todo;
+    #$_[0]->cmd_update_todo;
     $_[0]->cmd_check_index;
 }
 
@@ -400,15 +400,15 @@ sub cmd_check_index {
             }
         }
     }
-    {
-        opendir my $fh, $_[0]->todo_dir;
-        while ( my $file = readdir $fh ) {
-            next if $file =~ /\A..?\z/;
-            if ( !-f catfile( $_[0]->input_dir, $file ) ) {
-                ewarn("No $file in input, but is in todo");
-            }
-        }
-    }
+    #    {
+    #        opendir my $fh, $_[0]->todo_dir;
+    #        while ( my $file = readdir $fh ) {
+    #            next if $file =~ /\A..?\z/;
+    #            if ( !-f catfile( $_[0]->input_dir, $file ) ) {
+    #                ewarn("No $file in input, but is in todo");
+    #            }
+    #        }
+    #    }
 }
 
 sub cmd_help {
@@ -421,6 +421,7 @@ sub cmd_help {
 }
 
 sub cmd_update_todo {
+    die "Deprecated";
     opendir my $fh, $_[0]->index_dir;
     while ( my $file = readdir $fh ) {
         next if $file =~ /\A..?\z/;
