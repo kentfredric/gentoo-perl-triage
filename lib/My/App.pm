@@ -54,6 +54,16 @@ sub index_dir {
     return $_;
 }
 
+sub index_dir_files {
+    opendir my $dfh, $_[0]->index_dir or die "Can't opendir to " . $_[0]->index_dir;
+    my (@nodes);
+    while( my $file = readdir $dfh ) {
+      next if $file =~ /\A..?\z/;
+      push @nodes, $file;
+    }
+    return sort @nodes;
+}
+
 sub portage_root {
     local $_ = $_[0]->{portage_root};
     defined or die "portage_root must be defined";
@@ -532,6 +542,28 @@ sub cmd_sync_eix_system_in {
     my $partitions = partition_packages( \@all_results );
     for my $key ( sort keys %{$partitions} ) {
         write_todo( catfile( $_[0]->input_dir, $key ), $partitions->{$key} );
+    }
+}
+
+
+sub cmd_gen_todolist {
+    my (%buckets);
+    for my $file ( $_[0]->index_dir_files ) {
+        my $index =
+          My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
+        my $stats = $index->stats( {} );
+        my ( $bucket, $suffix, $letter ) = $file =~ /\A(.*)-(.*?)-(.)\z/;
+        next if $stats->{all}->{todo} eq '0';
+        for my $section (qw( stable testing )) {
+            for my $item ( @{ $index->{sections}->{$section} } ) {
+                my $dval     = $item;
+                my $itemdata = $index->{data}->{$item};
+                next
+                  if defined $itemdata->{whiteboard}
+                  and length $itemdata->{whiteboard};
+                print( $dval . "\n" );
+            }
+        }
     }
 }
 1;
