@@ -1,11 +1,12 @@
 ## stable:
-=dev-libs/libcdio-0.92                                                           #
-#=dev-libs/libcdio-0.93                                                          #
+=dev-libs/libcdio-0.93                                                           #
 #=dev-libs/libcdio-0.94-r1                                                       #testing
+#=dev-libs/libcdio-1.0.0-r1                                                      #testing
 =dev-libs/libcdio-paranoia-0.90_p1-r1                                            #
 #=dev-libs/libcdio-paranoia-0.93_p1                                              #
 #=dev-libs/libcdio-paranoia-0.93_p1-r1                                           #testing
 #=dev-libs/libcdio-paranoia-0.94_p1-r1                                           #testing
+#=dev-libs/libcdio-paranoia-0.94_p2                                              #testing
 =dev-libs/libical-1.0.1                                                          #
 #=dev-libs/libical-2.0.0-r2                                                      #
 =dev-libs/libmemcached-0.50                                                      #

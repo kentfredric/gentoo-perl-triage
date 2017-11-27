@@ -30,6 +30,7 @@
 =dev-perl/Mail-POP3Client-2.190.0                                                #
 =dev-perl/Mail-Procmail-1.80.0-r1                                                #
 =dev-perl/Mail-SPF-2.9.0-r1                                                      #
+#=dev-perl/Mail-SPF-2.9.0-r2                                                     #testing
 =dev-perl/Mail-SPF-Query-1.999.1-r1                                              #
 =dev-perl/Mail-SRS-0.310.0-r2                                                    #
 =dev-perl/Mail-Sender-0.8.23                                                     #
@@ -64,6 +65,7 @@
 =dev-perl/Mo-0.390.0                                                             #
 #=dev-perl/Mo-0.400.0                                                            #testing
 =dev-perl/Modem-Vgetty-0.30.0-r1                                                 #
+#=dev-perl/Modem-Vgetty-0.30.0-r2                                                #testing
 =dev-perl/Module-Build-0.421.600                                                 #
 #=dev-perl/Module-Build-0.421.800                                                #testing
 #=dev-perl/Module-Build-0.422.200                                                #testing
@@ -79,6 +81,7 @@
 =dev-perl/Module-Install-1.160.0                                                 #
 #=dev-perl/Module-Install-1.180.0                                                #
 =dev-perl/Module-Install-AuthorTests-0.2.0                                       #
+#=dev-perl/Module-Install-AuthorTests-0.2.0-r1                                   #testing
 =dev-perl/Module-Locate-1.800.0                                                  #
 =dev-perl/Module-Manifest-1.80.0-r1                                              #
 =dev-perl/Module-Pluggable-5.200.0                                               #
@@ -109,6 +112,7 @@
 #=dev-perl/Mojolicious-7.320.0                                                   #testing
 #=dev-perl/Mojolicious-7.570.0                                                   #testing
 =dev-perl/Mon-0.110.0-r1                                                         #
+#=dev-perl/Mon-0.110.0-r2                                                        #testing
 =dev-perl/Monitoring-Plugin-0.390.0                                              #
 =dev-perl/Moo-2.3.0                                                              #
 #=dev-perl/Moo-2.3.1                                                             #testing
@@ -117,6 +121,7 @@
 =dev-perl/MooX-HandlesVia-0.1.8                                                  #
 =dev-perl/MooX-Types-MooseLike-0.290.0                                           #
 =dev-perl/MooX-late-0.15.0                                                       #
+#=dev-perl/MooX-late-0.15.0-r1                                                   #testing
 =dev-perl/Moose-2.160.500                                                        #
 #=dev-perl/Moose-2.180.600                                                       #testing
 #=dev-perl/Moose-2.180.700                                                       #testing
@@ -124,12 +129,14 @@
 #=dev-perl/Moose-2.200.500                                                       #testing
 #=dev-perl/Moose-2.200.700                                                       #testing
 =dev-perl/MooseX-FollowPBP-0.50.0                                                #
+#=dev-perl/MooseX-FollowPBP-0.50.0-r1                                            #testing
 #=dev-perl/MooseX-Types-0.360.0                                                  #testing
 =dev-perl/MooseX-Types-0.460.0                                                   #
 #=dev-perl/MooseX-Types-0.500.0                                                  #testing
 =dev-perl/Mouse-2.4.9                                                            #
 #=dev-perl/Mouse-2.4.10                                                          #testing
 =dev-perl/MouseX-Types-0.60.0                                                    #
+#=dev-perl/MouseX-Types-0.60.0-r1                                                #testing
 =dev-perl/Mozilla-CA-20999999                                                    #
 =dev-perl/MusicBrainz-DiscID-0.30.0-r1                                           #
 #=dev-perl/MusicBrainz-DiscID-0.40.0                                             #testing
@@ -178,6 +185,7 @@
 #=dev-perl/Math-NumSeq-71.0.0                                                    #testing
 #=dev-perl/Math-NumSeq-72.0.0                                                    #testing
 #=dev-perl/Math-NumberCruncher-5.0.0                                             #testing
+#=dev-perl/Math-NumberCruncher-5.0.0-r1                                          #testing
 #=dev-perl/Math-PlanePath-123.0.0                                                #testing
 #=dev-perl/Math-PlanePath-124.0.0                                                #testing
 #=dev-perl/Math-Prime-XS-0.260.0                                                 #testing
@@ -191,8 +199,10 @@
 #=dev-perl/Module-Build-WithXSpp-0.140.0                                         #testing
 #=dev-perl/Module-Path-0.190.0                                                   #testing
 #=dev-perl/MogileFS-Client-1.170.0-r1                                            #testing
+#=dev-perl/MogileFS-Client-1.170.0-r2                                            #testing
 #=dev-perl/MogileFS-Client-Async-0.030.0-r1                                      #testing
 #=dev-perl/MogileFS-Network-0.060.0-r1                                           #testing
+#=dev-perl/MogileFS-Network-0.60.0-r2                                            #testing
 #=dev-perl/MogileFS-Server-2.700.0-r2                                            #testing
 #=dev-perl/MogileFS-Server-2.700.0-r3                                            #testing
 #=dev-perl/MogileFS-Server-2.720.0                                               #testing

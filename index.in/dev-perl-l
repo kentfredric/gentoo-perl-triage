@@ -101,6 +101,7 @@
 #=dev-perl/Lingua-EN-NameCase-1.190.0-r1                                         #testing
 #=dev-perl/Linux-Distribution-0.230.0                                            #testing
 #=dev-perl/Linux-Inotify2-1.220.0-r1                                             #testing
+#=dev-perl/Linux-PipeMagic-0.30.0                                                #testing
 #=dev-perl/Linux-Smaps-0.130.0                                                   #testing
 #=dev-perl/List-SomeUtils-0.530.0                                                #testing
 #=dev-perl/List-SomeUtils-0.560.0                                                #testing

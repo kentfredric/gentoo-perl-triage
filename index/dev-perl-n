@@ -1,5 +1,5 @@
 ## stable:
-=dev-perl/Net-Amazon-0.620.0                                                     #        # tests broken: 617158
+=dev-perl/Net-Amazon-0.620.0                                                     #        #+
 =dev-perl/Net-CIDR-0.180.0                                                       #        #+
 =dev-perl/Net-CIDR-Lite-0.210.0                                                  #        #+
 =dev-perl/Net-CUPS-0.630.0                                                       #        #+
@@ -61,6 +61,7 @@
 #=dev-perl/Net-SSH-Perl-1.420.0                                                  #testing #+
 #=dev-perl/Net-SSH-Perl-2.90.0_p1-r2                                             #testing #+
 =dev-perl/Net-SSLeay-1.810.0                                                     #        # tests broken: 614462
+#=dev-perl/Net-SSLeay-1.820.0                                                    #testing #+
 =dev-perl/Net-Server-2.8.0                                                       #        # tests broken: 623000
 =dev-perl/Net-Server-Mail-0.230.0                                                #        #+
 =dev-perl/Net-Telnet-3.40.0                                                      #        #+
