@@ -55,11 +55,12 @@ sub index_dir {
 }
 
 sub index_dir_files {
-    opendir my $dfh, $_[0]->index_dir or die "Can't opendir to " . $_[0]->index_dir;
+    opendir my $dfh, $_[0]->index_dir
+      or die "Can't opendir to " . $_[0]->index_dir;
     my (@nodes);
-    while( my $file = readdir $dfh ) {
-      next if $file =~ /\A..?\z/;
-      push @nodes, $file;
+    while ( my $file = readdir $dfh ) {
+        next if $file =~ /\A..?\z/;
+        push @nodes, $file;
     }
     return sort @nodes;
 }
