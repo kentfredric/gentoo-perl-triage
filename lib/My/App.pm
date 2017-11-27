@@ -609,6 +609,9 @@ sub cmd_merge_status {
         if ( exists $index->{data}->{$atom} ) {
             printf "%s\n \e[33m%s-%s\e[0m -> %s #\e[36m%s\e[0m\n\n", $line,
               $cat, $letter, $atom, $index->{data}->{$atom}->{whiteboard} || '';
+        } else {
+            printf "%s: %s\n", $line, "\e[31m: NO DATA IN $cat-$letter\e[0m";
+            next;
         }
     }
 }
