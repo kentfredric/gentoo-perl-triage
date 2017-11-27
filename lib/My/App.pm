@@ -568,5 +568,50 @@ sub cmd_gen_todolist {
         }
     }
 }
+
+my $idx_cache = {};
+
+sub cmd_merge_status {
+    my ( $self, $status_file ) = @_;
+    local $?;
+    if ( not defined $status_file or not -e $status_file ) {
+        die
+          "merge-status <status-file> --- <status-file> missing/non-existent ("
+          . ( $? || "" ) . ")";
+    }
+    open my $fh, '<', $status_file or die "Can't open $status_file, $?";
+    local $/ = "\n";
+    while ( my $line = <$fh> ) {
+        chomp $line;
+        my ( $atom, ) = grep /\A=/, split /\s+/, $line;
+        if ( not $atom ) {
+            print "#$line\n";
+            next;
+        }
+        $line =~ s{\Q$atom\E}{\e[32m$atom\e[0m}g;
+
+        my ( $cat, $letter, $rest ) = $atom =~ qr{\A=([^/]+)/(.)(.+)\z};
+
+        $letter = lc($letter);
+
+        my $idx_file = catfile( $_[0]->index_dir, "$cat-$letter" );
+
+        if ( not -e $idx_file ) {
+            printf "%s: %s\n", $line, "\e[31m: NO IDX $cat-$letter\e[0m";
+            next;
+        }
+
+        my $index =
+            ( exists $idx_cache->{$idx_file} )
+          ? ( $idx_cache->{$idx_file} )
+          : ( $idx_cache->{$idx_file} = My::IndexFile->parse_file($idx_file) );
+
+        if ( exists $index->{data}->{$atom} ) {
+            printf "%s\n \e[33m%s-%s\e[0m -> %s #\e[36m%s\e[0m\n\n", $line,
+              $cat, $letter, $atom, $index->{data}->{$atom}->{whiteboard} || '';
+        }
+    }
+}
+
 1;
 
