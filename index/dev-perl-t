@@ -41,6 +41,8 @@
 =dev-perl/Test-Exception-0.430.0                                                 #        #+
 =dev-perl/Test-FailWarnings-0.8.0                                                #        #+
 =dev-perl/Test-Fatal-0.14.0                                                      #        #+
+#=dev-perl/Test-File-1.442.0                                                     #testing #+
+=dev-perl/Test-File-1.443.0                                                      #        #+
 =dev-perl/Test-Inline-2.213.0-r1                                                 #        #+
 =dev-perl/Test-Inter-1.60.0                                                      #        #+
 =dev-perl/Test-LeakTrace-0.150.0                                                 #        #+
@@ -89,6 +91,7 @@
 #=dev-perl/Test-Warnings-0.26.0                                                  #testing #+
 #=dev-perl/Test-YAML-1.50.0                                                      #testing #+
 =dev-perl/Test-YAML-1.60.0                                                       #        #+
+=dev-perl/Test-utf8-1.10.0                                                       #        #+
 =dev-perl/Text-Aspell-0.90.0-r1                                                  #        #+
 =dev-perl/Text-Autoformat-1.740.0                                                #        #+
 =dev-perl/Text-BibTeX-0.800.0                                                    #        #+
@@ -181,8 +184,6 @@
 #=dev-perl/Test-Command-Simple-0.50.0                                            #testing #+
 #=dev-perl/Test-Deep-JSON-0.30.0                                                 #testing #+
 #=dev-perl/Test-Dependencies-0.230.0                                             #testing #+
-#=dev-perl/Test-File-1.442.0                                                     #testing #+
-#=dev-perl/Test-File-1.443.0                                                     #testing #+
 #=dev-perl/Test-File-ShareDir-1.1.2                                              #testing #+
 #=dev-perl/Test-Files-0.140.0                                                    #testing #+
 #=dev-perl/Test-MinimumVersion-0.101.82                                          #testing #+
@@ -199,7 +200,6 @@
 #=dev-perl/Test-Version-2.50.0                                                   #testing #+
 #=dev-perl/Test-Without-Module-0.180.0                                           #testing #+
 #=dev-perl/Test-Without-Module-0.200.0                                           #testing #+
-#=dev-perl/Test-utf8-1.10.0                                                      #testing #+
 #=dev-perl/Test2-Plugin-NoWarnings-0.50.0                                        #testing #+
 #=dev-perl/Test2-Suite-0.0.77                                                    #testing #+
 #=dev-perl/Text-Aligner-0.130.0                                                  #testing #+

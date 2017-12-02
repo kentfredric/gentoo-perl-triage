@@ -35,6 +35,7 @@
 #=dev-perl/IO-Socket-SSL-2.47.0                                                  #testing #+
 #=dev-perl/IO-Socket-SSL-2.48.0                                                  #        #+
 #=dev-perl/IO-Socket-SSL-2.52.0                                                  #testing #+
+=dev-perl/IO-Socket-Timeout-0.320.0                                              #        #+
 =dev-perl/IO-String-1.80.0-r1                                                    #        #+
 =dev-perl/IO-Stty-0.30.0                                                         #        #+
 =dev-perl/IO-Tee-0.640.0-r1                                                      #        #+
@@ -68,7 +69,6 @@
 #=dev-perl/IO-Prompt-0.997.4                                                     #testing #+
 #=dev-perl/IO-Socket-Multicast-1.120.0                                           #testing #+
 #=dev-perl/IO-Socket-PortState-0.30.0                                            #testing #+
-#=dev-perl/IO-Socket-Timeout-0.320.0                                             #testing #+
 #=dev-perl/IO-TieCombine-1.5.0                                                   #testing #+
 #=dev-perl/IP-Anonymous-0.40.0-r1                                                #testing #+
 #=dev-perl/IPC-Shareable-0.610.0-r1                                              #testing #+

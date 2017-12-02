@@ -12,6 +12,7 @@
 =dev-perl/SVG-Graph-0.20.0-r1                                                    #
 =dev-perl/SVN-Simple-0.280.0-r1                                                  #
 =dev-perl/Safe-Hole-0.130.0-r1                                                   #
+=dev-perl/Safe-Isa-1.0.5                                                         #
 =dev-perl/Sane-0.50.0-r1                                                         #
 =dev-perl/Scalar-Properties-1.100.860-r1                                         #
 =dev-perl/Schedule-At-1.150.0-r1                                                 #
@@ -85,7 +86,6 @@
 #=dev-perl/SQL-Abstract-Limit-0.141.0-r1                                         #testing
 #=dev-perl/SQL-Translator-0.110.210                                              #testing
 #=dev-perl/SRU-1.10.0                                                            #testing
-#=dev-perl/Safe-Isa-1.0.5                                                        #testing
 #=dev-perl/Schedule-Cron-Events-1.950.0                                          #testing
 #=dev-perl/Sereal-3.15.0                                                         #testing
 #=dev-perl/Sereal-Decoder-3.15.0                                                 #testing
