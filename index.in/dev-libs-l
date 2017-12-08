@@ -9,14 +9,6 @@
 #=dev-libs/libcdio-paranoia-0.94_p2                                              #testing
 =dev-libs/libical-1.0.1                                                          #
 #=dev-libs/libical-2.0.0-r2                                                      #
-=dev-libs/libmemcached-0.50                                                      #
-#=dev-libs/libmemcached-1.0.14                                                   #
-#=dev-libs/libmemcached-1.0.17-r3                                                #testing
-#=dev-libs/libmemcached-1.0.17-r4                                                #testing
-#=dev-libs/libmemcached-1.0.18                                                   #
-#=dev-libs/libmemcached-1.0.18-r1                                                #testing
-#=dev-libs/libmemcached-1.0.18-r2                                                #testing
-#=dev-libs/libmemcached-1.0.18-r3                                                #
 =dev-libs/libmoe-1.5.8-r3                                                        #
 =dev-libs/libparserutils-0.2.3                                                   #
 =dev-libs/libtasn1-4.12-r1                                                       #

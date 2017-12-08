@@ -5,8 +5,10 @@
 #=dev-db/percona-toolkit-2.2.20                                                  #testing
 =dev-db/percona-xtrabackup-2.4.7                                                 #
 #=dev-db/percona-xtrabackup-2.4.8                                                #testing
+#=dev-db/percona-xtrabackup-2.4.9                                                #testing
 =dev-db/pgtap-0.93.0                                                             #
 #=dev-db/pgtap-0.97.0                                                            #testing
+#=dev-db/pgtap-0.98.0                                                            #testing
 =dev-db/postgresql-9.2.19                                                        #
 #=dev-db/postgresql-9.2.22                                                       #
 #=dev-db/postgresql-9.2.23                                                       #testing

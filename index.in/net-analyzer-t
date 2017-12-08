@@ -2,5 +2,4 @@
 =net-analyzer/tcpdump-4.9.2                                                      #
 #=net-analyzer/tcpdump-9999                                                      #testing
 ## testing:
-#=net-analyzer/tsung-1.6.0                                                       #testing
 #=net-analyzer/tsung-1.7.0                                                       #testing

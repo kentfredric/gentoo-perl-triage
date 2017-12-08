@@ -1,6 +1,5 @@
 ## stable:
-=app-misc/colordiff-1.0.16                                                       #        #+
-#=app-misc/colordiff-1.0.18                                                      #testing #+
+=app-misc/colordiff-1.0.18                                                       #        #+
 =app-misc/conmux-0.15.1-r3                                                       #        #+
 ## testing:
 #=app-misc/cadubi-1.3                                                            #testing #+
