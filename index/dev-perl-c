@@ -288,6 +288,8 @@
 #=dev-perl/Crypt-CipherSaber-1.10.0-r1                                           #testing #+
 #=dev-perl/Crypt-Curve25519-0.50.0                                               #testing #+
 #=dev-perl/Crypt-Curve25519-0.60.0                                               #testing #+
+#=dev-perl/Crypt-OpenSSL-EC-1.310.0                                              #testing #+
+#=dev-perl/Crypt-OpenSSL-ECDSA-0.80.0                                            #testing #+
 #=dev-perl/Crypt-SMIME-0.150.0-r1                                                #testing #+
 #=dev-perl/Crypt-SMIME-0.160.0-r1                                                #testing #+
 #=dev-perl/Crypt-SMIME-0.170.0                                                   #testing #+

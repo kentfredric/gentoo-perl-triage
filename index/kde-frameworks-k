@@ -2,7 +2,7 @@
 =kde-frameworks/kdelibs4support-5.37.0                                           #        #+
 #=kde-frameworks/kdelibs4support-5.40.0                                          #testing #+
 =kde-frameworks/kdoctools-5.37.0                                                 #        #+
-#=kde-frameworks/kdoctools-5.40.0                                                #testing #+
+#=kde-frameworks/kdoctools-5.40.0-r1                                             #testing #+
 =kde-frameworks/khtml-5.37.0                                                     #        #+
 #=kde-frameworks/khtml-5.40.0                                                    #testing #+
 =kde-frameworks/kjs-5.37.0                                                       #        #+

@@ -4,3 +4,4 @@
 #=sci-chemistry/votca-csg-9999                                                   #testing # NEEDS KEYWORDS
 ## testing:
 #=sci-chemistry/vmd-1.9.2                                                        #testing # FETCH RESTRICTED
+#=sci-chemistry/vmd-1.9.3                                                        #testing # FETCH RESTRICTED

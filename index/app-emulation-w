@@ -4,12 +4,10 @@
 #=app-emulation/wine-2.2                                                         #testing #+
 #=app-emulation/wine-2.3                                                         #testing #+
 #=app-emulation/wine-9999                                                        #testing # NEEDS KEYWORDS
-#=app-emulation/wine-vanilla-2.0-r1                                              #testing # broken 632466
-=app-emulation/wine-vanilla-2.0.1                                                #        # PMASKED
-#=app-emulation/wine-vanilla-2.0.1-r1                                            #testing # broken 632466
-#=app-emulation/wine-vanilla-2.0.2                                               #        # PMASKED
-#=app-emulation/wine-vanilla-2.0.2-r1                                            #testing # broken 632466
-#=app-emulation/wine-vanilla-2.0.3                                               #testing # broken 632466
+=app-emulation/wine-vanilla-2.0-r1                                               #        # broken 632466
+#=app-emulation/wine-vanilla-2.0.1-r1                                            #        # broken 632466
+#=app-emulation/wine-vanilla-2.0.2-r1                                            #        # broken 632466
+#=app-emulation/wine-vanilla-2.0.3                                               #        # broken 632466
 #=app-emulation/wine-vanilla-2.18-r2                                             #testing # broken 632466
 #=app-emulation/wine-vanilla-2.19-r1                                             #testing # broken 632466
 #=app-emulation/wine-vanilla-2.20                                                #testing # broken 632466
