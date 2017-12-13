@@ -1,6 +1,6 @@
 ## stable:
 =app-emulation/libvirt-3.8.0-r1                                                  #
-#=app-emulation/libvirt-3.10.0                                                   #testing
+#=app-emulation/libvirt-3.10.0-r1                                                #testing
 #=app-emulation/libvirt-9999                                                     #testing
 ## testing:
 #=app-emulation/libguestfs-1.28.5-r3                                             #testing
