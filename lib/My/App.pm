@@ -494,7 +494,7 @@ sub cmd_sync_eix_system_in {
             my $token = lc( $scanner->category ) . '-'
               . lc( substr $scanner->package, 0, 1 );
 
-            if ( $line =~ /inherit.*perl-(module|functions)/ ) {
+            if ( $line =~ /inherit.*perl-(app|module|functions)/ ) {
                 warn "inherit in $cat_pn ( via " . $scanner->file . " )\n";
                 $match_cache->{$cat_pn} = 1;
                 last ITEM unless $scanner->next_package;
