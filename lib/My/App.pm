@@ -607,9 +607,30 @@ sub cmd_merge_status {
           : ( $idx_cache->{$idx_file} = My::IndexFile->parse_file($idx_file) );
 
         if ( exists $index->{data}->{$atom} ) {
-            printf "%s\n \e[33m%s-%s\e[0m -> %s #\e[36m%s\e[0m\n\n", $line,
+            my $line_color;
+
+            if ( ( $index->{data}->{$atom}->{whiteboard} || '' ) eq '+' ) {
+                if ( $line !~ /^pass/ ) {
+                    $line_color = "\e[43;30;1m";
+                }
+                else {
+                    $line_color = "\e[34m";
+                }
+            }
+            else {
+                if ( $line =~ /^pass/ ) {
+                    $line_color = "\e[43;30;1m";
+                }
+                else {
+                    $line_color = "\e[35m";
+                }
+            }
+
+            printf "%s\n \e[33m%s-%s\e[0m -> %s #\e[36m%s\e[0m\n\n",
+              "$line_color$line\e[0m",
               $cat, $letter, $atom, $index->{data}->{$atom}->{whiteboard} || '';
-        } else {
+        }
+        else {
             printf "%s: %s\n", $line, "\e[31m: NO DATA IN $cat-$letter\e[0m";
             next;
         }
