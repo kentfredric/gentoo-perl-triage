@@ -70,6 +70,8 @@ installpkg() {
 
 cleanup() {
 	if [[ -n $AUTODEPCLEAN ]]; then
+		unset USE
+		unset FEATURES
 		source /root/set-gen/cleanup.sh
 	fi
 }
