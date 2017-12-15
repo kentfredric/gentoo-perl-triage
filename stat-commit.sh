@@ -11,4 +11,4 @@ perl sync.pl stats > ./.stats
 perl sync.pl stats-verbose-summary > ./.stats-verbose
 
 git add ./.stats ./.stats-verbose
-git commit -F /tmp/.message index.in/ index/ todo/ ./.stats ./.stats-verbose
+git commit -F /tmp/.message index.in/ index/ ./.stats ./.stats-verbose
