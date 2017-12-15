@@ -1,4 +1,6 @@
-EARGS=( 
+# vim: noet ts=2 sw=2
+
+EARGS=(
 	"-t1"
 	"--quiet-build=y"
 	"--quiet-repo-display"
