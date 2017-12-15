@@ -196,7 +196,14 @@ sub cmd_stats_verbose {
         my $index =
           My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
         my $stats = $index->stats( {} );
-        my ( $bucket, $letter ) = $file =~ /\A(.*)-(.)\z/;
+        my ( $bucket, $suffix, $letter ) = $file =~ /\A(.*)-(.*?)-(.)\z/;
+
+        # next if $stats->{all}->{todo} eq '0';
+        # next if $stats->{all}->{broken} > '0';
+        # next if $stats->{all}->{pct} > 0;
+        $bucket = "$bucket-$suffix";
+
+        # $letter = "$suffix-$letter";
         my $rec = {
             letter     => $letter,
             count      => $stats->{all}->{count},
@@ -275,7 +282,8 @@ sub cmd_stats_verbose {
 
         for my $child (
             sort {
-                     $b->{pct} <=> $a->{pct}
+                     $a->{letter} cmp $b->{letter}
+                  or $b->{pct} <=> $a->{pct}
                   or $a->{todo} <=> $b->{todo}
                   or $a->{count} <=> $b->{count}
             } @{ $line->{children} }
