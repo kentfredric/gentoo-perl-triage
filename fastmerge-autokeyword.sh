@@ -68,6 +68,52 @@ installpkg() {
 	return $?
 }
 
+threephase() {
+	printf "\e[33;1m --~~-- ~~ \e[34;1m%s\e[33;1m ~~ --~~-- \e[0m\n" "$@" | tee -a /tmp/merge.log
+	estatus "threephase 1/3" "no-test-install"
+
+	if [[ -z $FORCEMERGE ]] && portageq has_version / "$@" ; then
+		estatus "threephase 1/3" "already installed";
+	else
+		if FEATURES="${FEATURES} -test" eemerge "${EARGS[@]}" --with-test-deps=n "$@" ; then
+			estatus "threephase 1/3" "no-test-install-success"
+		else
+			eerror "failed" "no-test-install"
+			echo "installfailure $@ $(date -Is)" >> /tmp/merge.all
+			exit 1
+		fi
+	fi
+
+	portageq contents / "${1##=}" 2>/dev/null | grep -q '^.'            || eerror "QA" "No contents"
+	portageq contents / "${1##=}" 2>/dev/null | grep -q '\.pm$'         || eerror "QA" "No .pm files"
+	portageq contents / "${1##=}" 2>/dev/null | grep -q '\.packlist$'   || eerror "QA" "No .packlist files"
+	portageq contents / "${1##=}" 2>/dev/null | grep -q '/bin/.'        || eerror "QA" "No /bin/ files"
+
+	estatus "threephase 2/3" "install-test-deps"
+	if FEATURES="${FEATURES} -test" eemerge "${EARGS[@]}" --onlydeps --with-test-deps=y "$@" ; then
+		estatus "threephase 2/3" "install-test-deps-success"
+	else
+		echo "test-depfailure $@ $(date -Is)" >> /tmp/merge.all
+		eerror "failed" "install-test-deps"
+		exit 1
+	fi
+
+	estatus "threephase 3/3" "test"
+	if eemerge "${EARGS[@]}" --quiet-build=n --jobs=1 "$@"; then
+		estatus "threephase 3/3" "test-success"
+	else
+		eerror "failed" "test"
+
+		echo "test-failure $@ $(date -Is)" >> /tmp/merge.all
+
+		exit 1;
+	fi
+
+	echo "pass $@ $(date -Is)" >> /tmp/merge.all
+
+	cleanup
+}
+
 cleanup() {
 	if [[ -n $AUTODEPCLEAN ]]; then
 		unset USE
@@ -75,6 +121,17 @@ cleanup() {
 		source /root/set-gen/cleanup.sh
 	fi
 }
+
+if [[ -n $THREE_PHASE ]]; then
+	threephase "$@"
+	exit $?
+fi
+
+if [[ -n $NO_TEST ]]; then
+	FEATURES="${FEATURES} -test" installpkg  "$@"
+	exitstate=$?
+	exit $exitstate
+fi
 
 if [[ -z $NO_INSTALLDEPS ]]; then
 	installdeps "$@"
