@@ -88,6 +88,7 @@ sub categories_file {
 sub cmd_all {
     $_[0]->cmd_sync_eix_in;
     $_[0]->cmd_merge_in;
+
     #$_[0]->cmd_update_todo;
     $_[0]->cmd_check_index;
 }
@@ -132,17 +133,18 @@ sub cmd_stats_all {
         }
         return '';
     };
-    printf "%d/%-6d -> %8.2f%% %s\n", $stats->{'all'}->{done}, $stats->{'all'}->{count},
-        $stats->{'all'}->{pct},  $tag_fmt->(
+    printf "%d/%-6d -> %8.2f%% %s\n", $stats->{'all'}->{done},
+      $stats->{'all'}->{count}, $stats->{'all'}->{pct},
+      $tag_fmt->(
+        [
+            [ '%3d todo', $stats->{'all'}->{todo} ],
             [
-                [ '%3d todo', $stats->{'all'}->{todo} ],
-                [
-                    '%3d broken (%2.2f%%)', $stats->{'all'}->{broken},
-                    $stats->{'all'}->{broken_pct}
-                ],
-                [ '%3d to report', $stats->{'all'}->{to_report} ]
-            ]
-    );
+                '%3d broken (%2.2f%%)', $stats->{'all'}->{broken},
+                $stats->{'all'}->{broken_pct}
+            ],
+            [ '%3d to report', $stats->{'all'}->{to_report} ]
+        ]
+      );
 }
 
 sub cmd_stats {
@@ -182,6 +184,7 @@ sub cmd_stats {
                 [ '%3d to report', $stats->{$cat}->{to_report} ]
             ]
           );
+
     }
 }
 
@@ -306,10 +309,12 @@ sub cmd_stats_verbose_summary {
           My::IndexFile->parse_file( catfile( $_[0]->index_dir, $file ) );
         my $stats = $index->stats( {} );
         my ( $bucket, $suffix, $letter ) = $file =~ /\A(.*)-(.*?)-(.)\z/;
+
         # next if $stats->{all}->{todo} eq '0';
         # next if $stats->{all}->{broken} > '0';
         # next if $stats->{all}->{pct} > 0;
         $bucket = "$bucket-$suffix";
+
         # $letter = "$suffix-$letter";
         my $rec = {
             letter     => $letter,
@@ -367,14 +372,14 @@ sub cmd_stats_verbose_summary {
         return '';
     };
     for my $line (
-        sort { $a->{category} cmp $b->{category} } map { +{ category => $_, %{ $buckets{$_} } } } keys %buckets
+        sort { $a->{category} cmp $b->{category} }
+        map { +{ category => $_, %{ $buckets{$_} } } } keys %buckets
       )
     {
-        next unless ( $line->{todo} and $line->{todo} > 0 )
-                    or
-                    ( $line->{broken} and $line->{broken} > 0 )
-                    or
-                    ( $line->{to_report} and $line->{to_report} > 0 );
+        next
+          unless ( $line->{todo} and $line->{todo} > 0 )
+          or ( $line->{broken} and $line->{broken} > 0 )
+          or ( $line->{to_report} and $line->{to_report} > 0 );
         printf
           "%-30s : %4s : %8.2f%% %s\n",
           $line->{category}, $line->{count}, $line->{pct},
@@ -401,6 +406,7 @@ sub cmd_check_index {
             }
         }
     }
+
     #    {
     #        opendir my $fh, $_[0]->todo_dir;
     #        while ( my $file = readdir $fh ) {
@@ -546,7 +552,6 @@ sub cmd_sync_eix_system_in {
         write_todo( catfile( $_[0]->input_dir, $key ), $partitions->{$key} );
     }
 }
-
 
 sub cmd_gen_todolist {
     my (%buckets);
