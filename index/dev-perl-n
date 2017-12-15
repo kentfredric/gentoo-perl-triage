@@ -78,14 +78,17 @@
 =dev-perl/Net-Server-Mail-0.230.0                                                #        #+
 =dev-perl/Net-Telnet-3.40.0                                                      #        #+
 =dev-perl/Net-Telnet-Cisco-1.100.0-r1                                            #        #+
+#=dev-perl/Net-Telnet-Cisco-1.110.0                                              #testing #+
 =dev-perl/Net-UPnP-1.4.3                                                         #        #+
 =dev-perl/Net-XMPP-1.20.0-r1                                                     #        # tests broken: 623002
 #=dev-perl/Net-XMPP-1.50.0                                                       #testing #+
 =dev-perl/NetAddr-IP-4.78.0                                                      #        #+
+#=dev-perl/NetAddr-IP-4.79.0                                                     #testing #+
 =dev-perl/NetPacket-1.6.0                                                        #        #+
 =dev-perl/News-Newsrc-1.110.0                                                    #        #+
 =dev-perl/Nmap-Parser-1.310.0                                                    #        #+
 #=dev-perl/Nmap-Parser-1.340.0                                                   #testing #+
+#=dev-perl/Nmap-Parser-1.360.0                                                   #testing #+
 =dev-perl/Number-Compare-0.30.0-r1                                               #        #+
 =dev-perl/Number-Format-1.750.0                                                  #        #+
 =dev-perl/namespace-autoclean-0.130.0-r1                                         #        #+
@@ -93,6 +96,7 @@
 =dev-perl/namespace-clean-0.270.0                                                #        #+
 ## testing:
 #=dev-perl/Net-ARP-1.0.9                                                         #testing #+
+#=dev-perl/Net-ARP-1.0.9-r1                                                      #testing #+
 #=dev-perl/Net-Amazon-S3-0.800.0                                                 #testing #+
 #=dev-perl/Net-Bonjour-0.960.0                                                   #testing #+
 #=dev-perl/Net-DNS-Resolver-Mock-1.201.710.310                                   #testing #+
