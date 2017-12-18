@@ -40,3 +40,4 @@
 ## testing:
 #=dev-db/percona-server-5.6.37.82.2-r2                                           #testing # broken GCC7 639936
 #=dev-db/pgbadger-9.1-r1                                                         #testing #+
+#=dev-db/pgbadger-9.2                                                            #testing #+

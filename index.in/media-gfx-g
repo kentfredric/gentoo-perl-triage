@@ -1,8 +1,12 @@
 ## stable:
 =media-gfx/galleryadd-2.30                                                       #
+=media-gfx/gimp-2.8.22                                                           #
+#=media-gfx/gimp-2.9.6                                                           #testing
+#=media-gfx/gimp-2.9.8                                                           #testing
+#=media-gfx/gimp-9999                                                            #testing
 =media-gfx/graphicsmagick-1.3.25                                                 #
 #=media-gfx/graphicsmagick-1.3.26                                                #
-#=media-gfx/graphicsmagick-1.3.27                                                #testing
+#=media-gfx/graphicsmagick-1.3.27                                                #
 #=media-gfx/graphicsmagick-9999                                                  #testing
 =media-gfx/graphite2-1.3.10                                                      #
 =media-gfx/graphviz-2.38.0-r1                                                    #

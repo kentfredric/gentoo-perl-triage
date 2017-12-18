@@ -62,7 +62,7 @@
 #=dev-perl/Data-Validate-Domain-0.140.0                                          #testing
 =dev-perl/Data-Validate-IP-0.240.0                                               #
 #=dev-perl/Data-Validate-IP-0.260.0                                              #testing
-#=dev-perl/Data-Validate-IP-0.270.0                                              #testing
+#=dev-perl/Data-Validate-IP-0.270.0                                              #
 =dev-perl/Date-Calc-6.400.0                                                      #
 #=dev-perl/Date-Extract-0.40.0                                                   #testing
 =dev-perl/Date-Extract-0.50.0                                                    #
