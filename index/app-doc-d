@@ -1,5 +1,5 @@
 ## stable:
-=app-doc/doxygen-1.8.13-r1                                                       #        #+
-#=app-doc/doxygen-1.8.13-r2                                                      #testing #+
+=app-doc/doxygen-1.8.13-r1                                                       #        #
+#=app-doc/doxygen-1.8.13-r2                                                      #testing #
 #=app-doc/doxygen-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:

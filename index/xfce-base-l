@@ -1,5 +1,5 @@
 ## stable:
-=xfce-base/libxfce4ui-4.13.0                                                     #        #+
-#=xfce-base/libxfce4ui-4.13.3                                                    #testing #+
-#=xfce-base/libxfce4ui-4.13.4                                                    #testing #+
+=xfce-base/libxfce4ui-4.13.0                                                     #        #
+#=xfce-base/libxfce4ui-4.13.3                                                    #testing #
+#=xfce-base/libxfce4ui-4.13.4                                                    #testing #
 ## testing:

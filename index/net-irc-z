@@ -1,5 +1,5 @@
 ## stable:
-=net-irc/znc-1.6.3-r1                                                            #        #+
-#=net-irc/znc-1.6.5                                                              #        #+
+=net-irc/znc-1.6.3-r1                                                            #        #
+#=net-irc/znc-1.6.5                                                              #        #
 #=net-irc/znc-9999                                                               #testing # NEEDS KEYWORDS
 ## testing:

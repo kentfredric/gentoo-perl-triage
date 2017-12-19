@@ -1,6 +1,6 @@
 ## stable:
 =net-misc/openvswitch-2.6.1                                                      #        # Need OPENSWITCH kernel
-#=net-misc/openvswitch-2.7.2                                                     #        #+
-#=net-misc/openvswitch-2.7.2-r1                                                  #        #+
-#=net-misc/openvswitch-2.8.1                                                     #testing #+
+#=net-misc/openvswitch-2.7.2                                                     #        #
+#=net-misc/openvswitch-2.7.2-r1                                                  #        #
+#=net-misc/openvswitch-2.8.1                                                     #testing #
 ## testing:

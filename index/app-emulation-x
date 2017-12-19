@@ -1,5 +1,5 @@
 ## stable:
 =app-emulation/xen-tools-4.8.2-r3                                                #        # broken: 634596
-#=app-emulation/xen-tools-4.9.0                                                  #testing #+
-#=app-emulation/xen-tools-4.9.1                                                  #testing #+
+#=app-emulation/xen-tools-4.9.0                                                  #testing #
+#=app-emulation/xen-tools-4.9.1                                                  #testing #
 ## testing:

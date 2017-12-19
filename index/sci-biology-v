@@ -1,5 +1,5 @@
 ## stable:
-=sci-biology/vienna-rna-2.1.1                                                    #        #+
-#=sci-biology/vienna-rna-2.1.8                                                   #testing #+
+=sci-biology/vienna-rna-2.1.1                                                    #        #
+#=sci-biology/vienna-rna-2.1.8                                                   #testing #
 ## testing:
-#=sci-biology/vcftools-0.1.14                                                    #testing #+
+#=sci-biology/vcftools-0.1.14                                                    #testing #

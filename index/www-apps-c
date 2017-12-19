@@ -1,7 +1,7 @@
 ## stable:
-=www-apps/collectd-web-0.4.0                                                     #        #+
+=www-apps/collectd-web-0.4.0                                                     #        #
 ## testing:
 #=www-apps/cvsweb-1.112                                                          #testing # NEEDS KEYWORDS
 #=www-apps/cvsweb-3.0.5                                                          #testing # NEEDS KEYWORDS
-#=www-apps/cvsweb-3.0.6                                                          #testing #+
-#=www-apps/cvsweb-3.0.6-r1                                                       #testing #+
+#=www-apps/cvsweb-3.0.6                                                          #testing #
+#=www-apps/cvsweb-3.0.6-r1                                                       #testing #

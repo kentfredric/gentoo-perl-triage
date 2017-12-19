@@ -1,4 +1,4 @@
 ## stable:
-=net-firewall/xtables-addons-2.13                                                #        #+
-#=net-firewall/xtables-addons-2.14                                               #testing #+
+=net-firewall/xtables-addons-2.13                                                #        #
+#=net-firewall/xtables-addons-2.14                                               #testing #
 ## testing:

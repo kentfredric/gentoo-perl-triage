@@ -1,5 +1,5 @@
 ## stable:
-=sci-libs/fftw-2.1.5-r9                                                          #        #+
-#=sci-libs/fftw-3.3.6_p2                                                         #        #+
+=sci-libs/fftw-2.1.5-r9                                                          #        #
+#=sci-libs/fftw-3.3.6_p2                                                         #        #
 #=sci-libs/fftw-9999                                                             #testing # NEEDS KEYWORDS
 ## testing:

@@ -1,11 +1,11 @@
 ## stable:
-=app-text/xapian-omega-1.2.24                                                    #        #+
-#=app-text/xapian-omega-1.2.25                                                   #testing #+
-#=app-text/xapian-omega-1.4.4                                                    #        #+
-#=app-text/xapian-omega-1.4.5                                                    #testing #+
+=app-text/xapian-omega-1.2.24                                                    #        #
+#=app-text/xapian-omega-1.2.25                                                   #testing #
+#=app-text/xapian-omega-1.4.4                                                    #        #
+#=app-text/xapian-omega-1.4.5                                                    #testing #
 =app-text/xindy-2.4                                                              #        # broken: 622702
-#=app-text/xindy-2.4-r1                                                          #testing #+
+#=app-text/xindy-2.4-r1                                                          #testing #
 ## testing:
-#=app-text/xlsx2csv-0.7.2                                                        #testing #+
-#=app-text/xlsx2csv-0.7.3                                                        #testing #+
-#=app-text/xmlformat-1.04                                                        #testing #+
+#=app-text/xlsx2csv-0.7.2                                                        #testing #
+#=app-text/xlsx2csv-0.7.3                                                        #testing #
+#=app-text/xmlformat-1.04                                                        #testing #

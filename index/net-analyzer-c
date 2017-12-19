@@ -1,6 +1,6 @@
 ## stable:
-=net-analyzer/calamaris-2.59                                                     #        #+
-#=net-analyzer/calamaris-2.99.4.0                                                #testing #+
+=net-analyzer/calamaris-2.59                                                     #        #
+#=net-analyzer/calamaris-2.99.4.0                                                #testing #
 ## testing:
-#=net-analyzer/chaosreader-0.94                                                  #testing #+
-#=net-analyzer/chaosreader-0.94-r1                                               #testing #+
+#=net-analyzer/chaosreader-0.94                                                  #testing #
+#=net-analyzer/chaosreader-0.94-r1                                               #testing #

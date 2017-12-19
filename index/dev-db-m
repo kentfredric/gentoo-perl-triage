@@ -1,5 +1,5 @@
 ## stable:
-=dev-db/maatkit-7540-r1                                                          #        #+
+=dev-db/maatkit-7540-r1                                                          #        #
 #=dev-db/mariadb-5.5.58                                                          #testing # Impossible deps
 =dev-db/mariadb-10.0.30-r1                                                       #        # Build OK
 #=dev-db/mariadb-10.0.32-r1                                                      #        # Build OK
@@ -9,14 +9,14 @@
 #=dev-db/mariadb-10.1.29                                                         #testing # Build OK
 #=dev-db/mariadb-10.2.10                                                         #testing # Build OK
 #=dev-db/mariadb-10.2.11                                                         #testing # Build OK
-=dev-db/mysqltuner-1.2.0                                                         #        #+
-#=dev-db/mysqltuner-1.6.0                                                        #testing #+
-#=dev-db/mysqltuner-1.6.18                                                       #testing #+
-=dev-db/mytop-1.6-r4                                                             #        #+
-#=dev-db/mytop-1.9.1                                                             #testing #+
+=dev-db/mysqltuner-1.2.0                                                         #        #
+#=dev-db/mysqltuner-1.6.0                                                        #testing #
+#=dev-db/mysqltuner-1.6.18                                                       #testing #
+=dev-db/mytop-1.6-r4                                                             #        #
+#=dev-db/mytop-1.9.1                                                             #testing #
 ## testing:
 #=dev-db/mariadb-galera-10.0.32                                                  #testing # tests broken 631182
-#=dev-db/mtop-0.6.6-r3                                                           #testing #+
+#=dev-db/mtop-0.6.6-r3                                                           #testing #
 #=dev-db/mysql-cluster-7.2.31                                                    #testing # broken 638856
 #=dev-db/mysql-cluster-7.3.19                                                    #testing # Build OK
 #=dev-db/mysql-cluster-7.4.17                                                    #testing # Build OK
