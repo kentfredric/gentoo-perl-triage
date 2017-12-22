@@ -627,7 +627,7 @@ sub cmd_merge_status {
                     $line_color = "\e[43;30;1m";
                 }
                 else {
-                    $line_color = "\e[34m";
+                    $line_color = "\e[32m";
                 }
             }
             else {
@@ -635,12 +635,12 @@ sub cmd_merge_status {
                     $line_color = "\e[43;30;1m";
                 }
                 else {
-                    $line_color = "\e[35m";
+                    $line_color = "\e[40;31;1m";
                 }
             }
 
             printf "%s\n \e[33m%s-%s\e[0m -> %s #\e[36m%s\e[0m\n\n",
-              "$line_color$line\e[0m",
+              "$line_color████▶\e[0m $line\e[0m $line_color◀████\e[0m",
               $cat, $letter, $atom, $index->{data}->{$atom}->{whiteboard} || '';
         }
         else {
