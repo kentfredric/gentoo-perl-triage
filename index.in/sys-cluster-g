@@ -1,5 +1,5 @@
 ## stable:
-=sys-cluster/glusterfs-3.12.3                                                    #
-#=sys-cluster/glusterfs-3.13.0                                                   #testing
-#=sys-cluster/glusterfs-9999                                                     #testing
+=sys-cluster/glusterfs-3.12.3                                                    #        #
+#=sys-cluster/glusterfs-3.13.0                                                   #testing #
+#=sys-cluster/glusterfs-9999                                                     #testing #
 ## testing:

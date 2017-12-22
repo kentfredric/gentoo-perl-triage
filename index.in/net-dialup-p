@@ -1,5 +1,5 @@
 ## stable:
-=net-dialup/pppconfig-2.3.21                                                     #
-=net-dialup/pptpclient-1.7.2-r3                                                  #
-#=net-dialup/pptpclient-1.8.0                                                    #
+=net-dialup/pppconfig-2.3.21                                                     #        #
+=net-dialup/pptpclient-1.7.2-r3                                                  #        #
+#=net-dialup/pptpclient-1.8.0                                                    #        #
 ## testing:

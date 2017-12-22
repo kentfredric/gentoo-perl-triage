@@ -1,6 +1,5 @@
 ## stable:
-=net-misc/x2goserver-4.0.1.19                                                    #
-#=net-misc/x2goserver-4.0.1.20                                                   #testing
-#=net-misc/x2goserver-4.0.1.21                                                   #testing
-#=net-misc/x2goserver-4.0.1.22                                                   #testing
+=net-misc/x2goserver-4.0.1.20                                                    #        #
+#=net-misc/x2goserver-4.0.1.21                                                   #testing #
+#=net-misc/x2goserver-4.0.1.22                                                   #testing #
 ## testing:

@@ -1,8 +1,8 @@
 ## stable:
-=www-client/seamonkey-2.46-r1                                                    #
-#=www-client/seamonkey-2.48                                                      #
-#=www-client/seamonkey-2.48-r1                                                   #testing
-#=www-client/seamonkey-2.49.4.0_p0                                               #testing
-#=www-client/seamonkey-2.49.5.0_p0                                               #testing
-=www-client/surfraw-2.2.9-r1                                                     #
+=www-client/seamonkey-2.46-r1                                                    #        #
+#=www-client/seamonkey-2.48                                                      #        #
+#=www-client/seamonkey-2.48-r1                                                   #testing #
+#=www-client/seamonkey-2.49.4.0_p0                                               #testing #
+#=www-client/seamonkey-2.49.5.0_p0                                               #testing #
+=www-client/surfraw-2.2.9-r1                                                     #        #
 ## testing:

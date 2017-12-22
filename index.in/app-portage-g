@@ -1,14 +1,14 @@
 ## stable:
-=app-portage/g-cpan-0.16.5                                                       #
-#=app-portage/g-cpan-0.16.6                                                      #testing
-#=app-portage/g-cpan-0.16.7                                                      #testing
-#=app-portage/g-cpan-0.16.9                                                      #
-#=app-portage/g-cpan-9999                                                        #testing
-=app-portage/genlop-0.30.9-r1                                                    #
-#=app-portage/genlop-0.30.10                                                     #testing
-#=app-portage/genlop-0.30.10-r1                                                  #testing
-#=app-portage/genlop-9999                                                        #testing
-=app-portage/gentoolkit-dev-0.2.8.3-r1                                           #
-#=app-portage/gentoolkit-dev-0.3.0                                               #
-#=app-portage/gentoolkit-dev-0.3.1                                               #testing
+=app-portage/g-cpan-0.16.5                                                       #        #
+#=app-portage/g-cpan-0.16.6                                                      #testing #
+#=app-portage/g-cpan-0.16.7                                                      #testing #
+#=app-portage/g-cpan-0.16.9                                                      #        #
+#=app-portage/g-cpan-9999                                                        #testing #
+=app-portage/genlop-0.30.9-r1                                                    #        #
+#=app-portage/genlop-0.30.10                                                     #testing #
+#=app-portage/genlop-0.30.10-r1                                                  #testing #
+#=app-portage/genlop-9999                                                        #testing #
+=app-portage/gentoolkit-dev-0.2.8.3-r1                                           #        #
+#=app-portage/gentoolkit-dev-0.3.0                                               #        #
+#=app-portage/gentoolkit-dev-0.3.1                                               #testing #
 ## testing:

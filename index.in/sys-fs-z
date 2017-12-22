@@ -1,6 +1,6 @@
 ## stable:
 ## testing:
-#=sys-fs/zfs-kmod-0.6.5.4-r1                                                     #testing
-#=sys-fs/zfs-kmod-0.6.5.11                                                       #testing
-#=sys-fs/zfs-kmod-0.7.3                                                          #testing
-#=sys-fs/zfs-kmod-9999                                                           #testing
+#=sys-fs/zfs-kmod-0.6.5.4-r1                                                     #testing #
+#=sys-fs/zfs-kmod-0.6.5.11                                                       #testing #
+#=sys-fs/zfs-kmod-0.7.3                                                          #testing #
+#=sys-fs/zfs-kmod-9999                                                           #testing #

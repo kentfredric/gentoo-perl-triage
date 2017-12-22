@@ -1,8 +1,8 @@
 ## stable:
-=media-gfx/feh-2.18.3                                                            #
-#=media-gfx/feh-2.19.3                                                           #testing
-#=media-gfx/feh-2.20                                                             #testing
-#=media-gfx/feh-2.21                                                             #testing
-#=media-gfx/feh-2.22                                                             #testing
-#=media-gfx/feh-2.22.2                                                           #testing
+=media-gfx/feh-2.18.3                                                            #        #
+#=media-gfx/feh-2.19.3                                                           #testing #
+#=media-gfx/feh-2.20                                                             #testing #
+#=media-gfx/feh-2.21                                                             #testing #
+#=media-gfx/feh-2.22                                                             #testing #
+#=media-gfx/feh-2.22.2                                                           #testing #
 ## testing:

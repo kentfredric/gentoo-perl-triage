@@ -1,6 +1,6 @@
 ## stable:
-=sys-apps/ucspi-ssl-0.94-r1                                                      #
-#=sys-apps/ucspi-ssl-0.97                                                        #testing
-#=sys-apps/ucspi-ssl-0.98b                                                       #testing
-#=sys-apps/ucspi-ssl-0.99                                                        #testing
+=sys-apps/ucspi-ssl-0.94-r1                                                      #        #
+#=sys-apps/ucspi-ssl-0.97                                                        #testing #
+#=sys-apps/ucspi-ssl-0.98b                                                       #testing #
+#=sys-apps/ucspi-ssl-0.99                                                        #testing #
 ## testing:

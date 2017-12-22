@@ -1,13 +1,14 @@
 ## stable:
-=dev-lang/R-3.2.2                                                                #
-#=dev-lang/R-3.3.2                                                               #testing
-#=dev-lang/R-3.4.1                                                               #testing
+=dev-lang/R-3.2.2                                                                #        #
+#=dev-lang/R-3.3.2                                                               #testing #
+#=dev-lang/R-3.4.1                                                               #testing #
 ## testing:
-#=dev-lang/rakudo-2017.07                                                        #testing
-#=dev-lang/rakudo-2017.08                                                        #testing
-#=dev-lang/rakudo-2017.09                                                        #testing
-#=dev-lang/rakudo-2017.10                                                        #testing
-#=dev-lang/rakudo-9999                                                           #testing
-#=dev-lang/rust-1.15.1                                                           #testing
-#=dev-lang/rust-1.16.0                                                           #testing
-#=dev-lang/rust-1.19.0                                                           #testing
+#=dev-lang/rakudo-2017.07                                                        #testing #
+#=dev-lang/rakudo-2017.08                                                        #testing #
+#=dev-lang/rakudo-2017.09                                                        #testing #
+#=dev-lang/rakudo-2017.10                                                        #testing #
+#=dev-lang/rakudo-2017.11                                                        #testing #
+#=dev-lang/rakudo-9999                                                           #testing #
+#=dev-lang/rust-1.15.1                                                           #testing #
+#=dev-lang/rust-1.16.0                                                           #testing #
+#=dev-lang/rust-1.19.0                                                           #testing #

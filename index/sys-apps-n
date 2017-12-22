@@ -1,5 +1,5 @@
 ## stable:
 ## testing:
 #=sys-apps/nca-0.9.0-r1                                                          #testing #
-#=sys-apps/nix-1.11.14                                                           #testing #
 #=sys-apps/nix-1.11.15                                                           #testing #
+#=sys-apps/nix-1.11.16                                                           #testing #

@@ -1,6 +1,6 @@
 ## stable:
-=mail-filter/libspf2-1.2.9-r3                                                    #
-#=mail-filter/libspf2-1.2.10                                                     #
-=mail-filter/libsrs2-1.0.18                                                      #
-=mail-filter/libsrs_alt-1.0                                                      #
+=mail-filter/libspf2-1.2.9-r3                                                    #        #
+#=mail-filter/libspf2-1.2.10                                                     #        #
+=mail-filter/libsrs2-1.0.18                                                      #        #
+=mail-filter/libsrs_alt-1.0                                                      #        #
 ## testing:

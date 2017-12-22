@@ -3,6 +3,7 @@
 #=net-misc/spice-gtk-0.34                                                        #testing # deps broken 630266
 #=net-misc/spice-gtk-9999                                                        #testing # NEEDS KEYWORDS
 =net-misc/sslh-1.18-r2                                                           #        #
+#=net-misc/sslh-9999                                                             #testing #
 =net-misc/stunnel-5.36                                                           #        #
 #=net-misc/stunnel-5.40                                                          #testing #
 #=net-misc/stunnel-5.43                                                          #testing #

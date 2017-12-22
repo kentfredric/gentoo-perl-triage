@@ -1,6 +1,6 @@
 ## stable:
 =app-editors/gvim-8.0.0386                                                       #        #
 #=app-editors/gvim-8.0.1188                                                      #testing # tests broken 630042
-#=app-editors/gvim-8.0.1298                                                      #testing # tests broken 630042
+#=app-editors/gvim-8.0.1298                                                      #        # tests broken 630042
 #=app-editors/gvim-9999                                                          #testing # NEEDS KEYWORDS
 ## testing:

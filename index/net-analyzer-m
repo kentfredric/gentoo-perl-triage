@@ -10,4 +10,5 @@
 ## testing:
 #=net-analyzer/mk-livestatus-1.2.8_p10                                           #testing #
 #=net-analyzer/mk-livestatus-1.2.8_p16                                           #testing #
+#=net-analyzer/mk-livestatus-1.2.8_p26                                           #testing #
 #=net-analyzer/mrtg-ping-probe-2.2.0                                             #testing # NEEDS KEYWORDS

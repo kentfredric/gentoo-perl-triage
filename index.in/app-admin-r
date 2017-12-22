@@ -1,8 +1,8 @@
 ## stable:
-=app-admin/reportmagic-2.21                                                      #
+=app-admin/reportmagic-2.21                                                      #        #
 ## testing:
-#=app-admin/rex-1.3.3                                                            #testing
-#=app-admin/rex-1.4.0-r1                                                         #testing
-#=app-admin/rex-1.4.1                                                            #testing
-#=app-admin/rex-1.5.0                                                            #testing
-#=app-admin/rex-9999                                                             #testing
+#=app-admin/rex-1.3.3                                                            #testing #
+#=app-admin/rex-1.4.0-r1                                                         #testing #
+#=app-admin/rex-1.4.1                                                            #testing #
+#=app-admin/rex-1.5.0                                                            #testing #
+#=app-admin/rex-9999                                                             #testing #

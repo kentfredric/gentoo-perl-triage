@@ -2,8 +2,8 @@
 =media-gfx/sam2p-0.49.1                                                          #        #
 #=media-gfx/sam2p-0.49.2                                                         #testing #
 #=media-gfx/sam2p-0.49.3                                                         #        #
-=media-gfx/springgraph-88                                                        #        #
-## testing:
-#=media-gfx/slic3r-1.1.7                                                         #testing # PMASKED
+=media-gfx/slic3r-1.1.7                                                          #        # PMASKED
 #=media-gfx/slic3r-1.2.9-r2                                                      #testing #
 #=media-gfx/slic3r-9999                                                          #testing # NEEDS KEYWORDS
+=media-gfx/springgraph-88                                                        #        #
+## testing:

@@ -1,12 +1,12 @@
 ## stable:
-=app-editors/vile-9.8r                                                           #
-#=app-editors/vile-9.8s                                                          #testing
-=app-editors/vim-8.0.0386                                                        #
-#=app-editors/vim-8.0.1188                                                       #testing
-#=app-editors/vim-8.0.1298                                                       #testing
-#=app-editors/vim-9999                                                           #testing
-=app-editors/vim-core-8.0.0386                                                   #
-#=app-editors/vim-core-8.0.1188                                                  #testing
-#=app-editors/vim-core-8.0.1298                                                  #testing
-#=app-editors/vim-core-9999                                                      #testing
+=app-editors/vile-9.8r                                                           #        #
+#=app-editors/vile-9.8s                                                          #testing #
+=app-editors/vim-8.0.0386                                                        #        #
+#=app-editors/vim-8.0.1188                                                       #testing #
+#=app-editors/vim-8.0.1298                                                       #        #
+#=app-editors/vim-9999                                                           #testing #
+=app-editors/vim-core-8.0.0386                                                   #        #
+#=app-editors/vim-core-8.0.1188                                                  #testing #
+#=app-editors/vim-core-8.0.1298                                                  #        #
+#=app-editors/vim-core-9999                                                      #testing #
 ## testing:

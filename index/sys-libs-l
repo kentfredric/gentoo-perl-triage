@@ -8,10 +8,8 @@
 =sys-libs/libomp-3.9.1                                                           #        #
 #=sys-libs/libomp-4.0.1                                                          #        #
 #=sys-libs/libomp-5.0.0                                                          #testing # tests broken 638410
-#=sys-libs/libomp-5.0.1_rc2                                                      #testing # NEEDS KEYWORDS
-#=sys-libs/libomp-5.0.9999                                                       #testing # NEEDS KEYWORDS
+#=sys-libs/libomp-5.0.1                                                          #testing #
 #=sys-libs/libomp-9999                                                           #testing # NEEDS KEYWORDS
-#=sys-libs/libosinfo-1.0.0                                                       #testing # tests broken 602204
 =sys-libs/libosinfo-1.0.0-r1                                                     #        #
 ## testing:
 #=sys-libs/libapparmor-2.11.1                                                    #testing #

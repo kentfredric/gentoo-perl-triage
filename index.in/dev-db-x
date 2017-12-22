@@ -1,5 +1,5 @@
 ## stable:
 ## testing:
-#=dev-db/xtrabackup-bin-2.4.4                                                    #testing
-#=dev-db/xtrabackup-bin-2.4.6                                                    #testing
-#=dev-db/xtrabackup-bin-2.4.8                                                    #testing
+#=dev-db/xtrabackup-bin-2.4.4                                                    #testing #
+#=dev-db/xtrabackup-bin-2.4.6                                                    #testing #
+#=dev-db/xtrabackup-bin-2.4.8                                                    #testing #

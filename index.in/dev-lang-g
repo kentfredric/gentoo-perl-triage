@@ -1,7 +1,7 @@
 ## stable:
-=dev-lang/ghc-7.8.4                                                              #
-#=dev-lang/ghc-7.10.3                                                            #
-#=dev-lang/ghc-8.0.2                                                             #
-#=dev-lang/ghc-8.2.1                                                             #testing
-#=dev-lang/ghc-8.2.2                                                             #testing
+=dev-lang/ghc-7.8.4                                                              #        #
+#=dev-lang/ghc-7.10.3                                                            #        #
+#=dev-lang/ghc-8.0.2                                                             #        #
+#=dev-lang/ghc-8.2.1                                                             #testing #
+#=dev-lang/ghc-8.2.2                                                             #testing #
 ## testing:

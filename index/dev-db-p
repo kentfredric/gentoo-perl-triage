@@ -4,7 +4,7 @@
 #=dev-db/percona-toolkit-2.2.19                                                  #testing #
 #=dev-db/percona-toolkit-2.2.20                                                  #testing #
 =dev-db/percona-xtrabackup-2.4.7                                                 #        #
-#=dev-db/percona-xtrabackup-2.4.8                                                #testing #
+#=dev-db/percona-xtrabackup-2.4.8                                                #        #
 #=dev-db/percona-xtrabackup-2.4.9                                                #testing #
 =dev-db/pgtap-0.93.0                                                             #        # broken 496488
 #=dev-db/pgtap-0.97.0                                                            #testing # broken 624690
@@ -39,5 +39,6 @@
 #=dev-db/postgresql-9999                                                         #testing # NEEDS KEYWORDS
 ## testing:
 #=dev-db/percona-server-5.6.37.82.2-r2                                           #testing # broken GCC7 639936
+#=dev-db/percona-server-5.6.38.83.0                                              #testing #
 #=dev-db/pgbadger-9.1-r1                                                         #testing #
 #=dev-db/pgbadger-9.2                                                            #testing #

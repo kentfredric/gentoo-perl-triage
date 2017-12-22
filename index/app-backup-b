@@ -2,10 +2,10 @@
 =app-backup/backup-manager-0.7.5                                                 #        #
 #=app-backup/backup-manager-0.7.13                                               #testing #
 #=app-backup/backup-manager-0.7.13-r1                                            #testing #
-#=app-backup/backup-manager-0.7.14                                               #testing #
+#=app-backup/backup-manager-0.7.14                                               #        #
 =app-backup/backuppc-3.3.1-r5                                                    #        #
 =app-backup/btrbk-0.24.0-r1                                                      #        #
-#=app-backup/btrbk-0.25.1-r1                                                     #testing #
+#=app-backup/btrbk-0.25.1-r1                                                     #        #
 #=app-backup/btrbk-0.26.0                                                        #testing #
 #=app-backup/btrbk-9999                                                          #testing # NEEDS KEYWORDS
 ## testing:
