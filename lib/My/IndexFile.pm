@@ -153,7 +153,7 @@ sub to_filehandle {
                 $fh->printf( "%-7s #%s", $status, $suffix );
             }
             else {
-                $fh->print($status);
+                $fh->printf( "%-7s #", $status);
             }
             $fh->print("\n");
         }
