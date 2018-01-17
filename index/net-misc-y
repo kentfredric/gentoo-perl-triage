@@ -1,8 +1,8 @@
 ## stable:
-=net-misc/youtube-viewer-3.1.9                                                   #        #
-#=net-misc/youtube-viewer-3.2.0                                                  #testing #
-#=net-misc/youtube-viewer-3.2.4                                                  #testing #
-#=net-misc/youtube-viewer-3.2.5                                                  #testing #
-#=net-misc/youtube-viewer-3.2.8                                                  #testing #
+=net-misc/youtube-viewer-3.1.9                                                   #        #+
+#=net-misc/youtube-viewer-3.2.0                                                  #testing #+
+#=net-misc/youtube-viewer-3.2.4                                                  #testing #+
+#=net-misc/youtube-viewer-3.2.5                                                  #testing #+
+#=net-misc/youtube-viewer-3.2.8                                                  #testing #+
 #=net-misc/youtube-viewer-9999                                                   #testing # NEEDS KEYWORDS
 ## testing:

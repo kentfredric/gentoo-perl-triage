@@ -2,7 +2,7 @@
 =net-fs/samba-4.2.14                                                             #        # broken 616774
 #=net-fs/samba-4.5.10-r1                                                         #        # broken 608538
 #=net-fs/samba-4.5.15                                                            #testing # broken 608538
-#=net-fs/samba-4.6.11                                                            #testing #
+#=net-fs/samba-4.6.11                                                            #testing #+
 #=net-fs/samba-4.6.12                                                            #testing #
-#=net-fs/samba-4.7.3                                                             #testing #
+#=net-fs/samba-4.7.3                                                             #testing #+
 ## testing:

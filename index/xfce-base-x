@@ -1,9 +1,9 @@
 ## stable:
-=xfce-base/xfce4-panel-4.12.0-r1                                                 #        #
-#=xfce-base/xfce4-panel-4.12.1-r1                                                #testing #
-#=xfce-base/xfce4-panel-4.12.2                                                   #testing #
-#=xfce-base/xfce4-panel-4.13.1                                                   #testing #
-#=xfce-base/xfce4-panel-4.13.2                                                   #testing #
+=xfce-base/xfce4-panel-4.12.0-r1                                                 #        #+
+#=xfce-base/xfce4-panel-4.12.1-r1                                                #testing #+
+#=xfce-base/xfce4-panel-4.12.2                                                   #testing #+
+#=xfce-base/xfce4-panel-4.13.1                                                   #testing #+
+#=xfce-base/xfce4-panel-4.13.2                                                   #testing #+
 =xfce-base/xfconf-4.12.0-r1                                                      #        # tests broken 629608
 #=xfce-base/xfconf-4.12.1                                                        #testing # tests broken 629608
 #=xfce-base/xfconf-4.13.4                                                        #testing #

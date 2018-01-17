@@ -1,7 +1,7 @@
 ## stable:
-=media-video/mpv-0.18.0-r1                                                       #        #
-#=media-video/mpv-0.25.0-r2                                                      #        #
-#=media-video/mpv-0.26.0                                                         #testing #
-#=media-video/mpv-0.27.0-r1                                                      #testing #
+=media-video/mpv-0.18.0-r1                                                       #        #+
+#=media-video/mpv-0.25.0-r2                                                      #        #+
+#=media-video/mpv-0.26.0                                                         #testing #+
+#=media-video/mpv-0.27.0-r1                                                      #testing #+
 #=media-video/mpv-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:

@@ -2,10 +2,10 @@
 #=sys-devel/llvm-3.4.2-r100                                                      #testing # NEEDS KEYWORDS
 #=sys-devel/llvm-3.5.2-r100                                                      #testing # NEEDS KEYWORDS
 #=sys-devel/llvm-3.6.2-r100                                                      #testing # NEEDS KEYWORDS
-=sys-devel/llvm-3.7.1-r3                                                         #        #
+=sys-devel/llvm-3.7.1-r3                                                         #        #+
 #=sys-devel/llvm-3.9.1-r1                                                        #        #
 #=sys-devel/llvm-4.0.1-r1                                                        #        # tests broken 623722
 #=sys-devel/llvm-5.0.0                                                           #testing # tests broken 623722
-#=sys-devel/llvm-5.0.1                                                           #testing #
+#=sys-devel/llvm-5.0.1                                                           #testing #+
 #=sys-devel/llvm-9999                                                            #testing # NEEDS KEYWORDS
 ## testing:

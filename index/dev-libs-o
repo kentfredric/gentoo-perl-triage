@@ -1,13 +1,13 @@
 ## stable:
-=dev-libs/openssl-0.9.8z_p8                                                      #        #
-#=dev-libs/openssl-1.0.2k                                                        #        #
-#=dev-libs/openssl-1.0.2l                                                        #        #
+=dev-libs/openssl-0.9.8z_p8                                                      #        #+
+#=dev-libs/openssl-1.0.2k                                                        #        #+
+#=dev-libs/openssl-1.0.2l                                                        #        #+
 #=dev-libs/openssl-1.0.2l-r1                                                     #testing # PACKAGE MASKED
-#=dev-libs/openssl-1.0.2m                                                        #        #
-#=dev-libs/openssl-1.0.2n                                                        #        #
+#=dev-libs/openssl-1.0.2m                                                        #        #+
+#=dev-libs/openssl-1.0.2n                                                        #        #+
 #=dev-libs/openssl-1.1.0g-r2                                                     #testing # PACKAGE MASKED
-=dev-libs/ossp-uuid-1.6.2-r4                                                     #        #
-#=dev-libs/ossp-uuid-1.6.2-r6                                                    #        #
+=dev-libs/ossp-uuid-1.6.2-r4                                                     #        #+
+#=dev-libs/ossp-uuid-1.6.2-r6                                                    #        #+
 ## testing:
 #=dev-libs/OpenSRF-1.2.0                                                         #testing # blocked by libmemcache 564998
 #=dev-libs/OpenSRF-2.1.1                                                         #testing # blocked by libmemcache 564998

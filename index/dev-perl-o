@@ -1,18 +1,18 @@
 ## stable:
-=dev-perl/OLE-StorageLite-0.190.0-r1                                             #        #
-=dev-perl/ORLite-1.980.0-r1                                                      #        #
-=dev-perl/Object-Realize-Later-0.190.0                                           #        #
-=dev-perl/Ogg-Vorbis-Header-0.30.0-r1                                            #        #
-#=dev-perl/Ogg-Vorbis-Header-0.50.0                                              #testing #
+=dev-perl/OLE-StorageLite-0.190.0-r1                                             #        #+
+=dev-perl/ORLite-1.980.0-r1                                                      #        #+
+=dev-perl/Object-Realize-Later-0.190.0                                           #        #+
+=dev-perl/Ogg-Vorbis-Header-0.30.0-r1                                            #        #+
+#=dev-perl/Ogg-Vorbis-Header-0.50.0                                              #testing #+
 =dev-perl/Ogg-Vorbis-Header-PurePerl-1.0.0-r1                                    #        # tests broken: 623060
-#=dev-perl/Ogg-Vorbis-Header-PurePerl-1.0.0-r2                                   #testing #
+#=dev-perl/Ogg-Vorbis-Header-PurePerl-1.0.0-r2                                   #testing #+
 =dev-perl/OpenGL-0.670.400                                                       #        #
-#=dev-perl/OpenGL-0.700.0                                                        #testing #
+#=dev-perl/OpenGL-0.700.0                                                        #testing #+
 ## testing:
-#=dev-perl/OOTools-2.300.0-r1                                                    #testing #
-#=dev-perl/OOTools-2.400.0                                                       #testing #
-#=dev-perl/ORLite-Migrate-1.100.0-r1                                             #testing #
-#=dev-perl/Object-Enum-0.75.0                                                    #testing #
-#=dev-perl/Object-Event-1.230.0                                                  #testing #
-#=dev-perl/Object-MultiType-0.50.0                                               #testing #
-#=dev-perl/Olson-Abbreviations-0.40.0                                            #testing #
+#=dev-perl/OOTools-2.300.0-r1                                                    #testing #+
+#=dev-perl/OOTools-2.400.0                                                       #testing #+
+#=dev-perl/ORLite-Migrate-1.100.0-r1                                             #testing #+
+#=dev-perl/Object-Enum-0.75.0                                                    #testing #+
+#=dev-perl/Object-Event-1.230.0                                                  #testing #+
+#=dev-perl/Object-MultiType-0.50.0                                               #testing #+
+#=dev-perl/Olson-Abbreviations-0.40.0                                            #testing #+

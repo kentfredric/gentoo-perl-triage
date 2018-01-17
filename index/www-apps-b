@@ -2,5 +2,5 @@
 =www-apps/bugzilla-4.4.12-r1                                                     #        # tests broken 632064
 #=www-apps/bugzilla-5.0.3-r1                                                     #        # tests broken 632064
 ## testing:
-#=www-apps/blazeblogger-1.2.0                                                    #testing #
-#=www-apps/blazeblogger-1.2.0-r1                                                 #testing #
+#=www-apps/blazeblogger-1.2.0                                                    #testing #+
+#=www-apps/blazeblogger-1.2.0-r1                                                 #testing #+

@@ -1,8 +1,8 @@
 ## stable:
 =net-irc/inspircd-2.0.23                                                         #        # broken: 621528
-#=net-irc/inspircd-2.0.25                                                        #testing #
-=net-irc/irssi-1.0.4                                                             #        #
-#=net-irc/irssi-1.0.5                                                            #testing #
+#=net-irc/inspircd-2.0.25                                                        #testing #+
+=net-irc/irssi-1.0.4                                                             #        #+
+#=net-irc/irssi-1.0.5                                                            #testing #+
 #=net-irc/irssi-9999                                                             #testing # NEEDS KEYWORDS
 ## testing:
 #=net-irc/ircmap-0.99                                                            #testing # NEEDS KEYWORDS

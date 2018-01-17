@@ -1,12 +1,12 @@
 ## stable:
-=media-radio/fldigi-4.0.4                                                        #        #
-#=media-radio/fldigi-4.0.4-r1                                                    #testing #
+=media-radio/fldigi-4.0.4                                                        #        #+
+#=media-radio/fldigi-4.0.4-r1                                                    #testing #+
 #=media-radio/fldigi-4.0.5                                                       #testing # broken: 622582
-#=media-radio/fldigi-4.0.6                                                       #testing #
-#=media-radio/fldigi-4.0.7                                                       #testing #
-#=media-radio/fldigi-4.0.8                                                       #testing #
-#=media-radio/fldigi-4.0.9                                                       #testing #
-#=media-radio/fldigi-4.0.10                                                      #testing #
-#=media-radio/fldigi-4.0.11                                                      #testing #
-#=media-radio/fldigi-4.0.12                                                      #testing #
+#=media-radio/fldigi-4.0.6                                                       #testing #+
+#=media-radio/fldigi-4.0.7                                                       #testing #+
+#=media-radio/fldigi-4.0.8                                                       #testing #+
+#=media-radio/fldigi-4.0.9                                                       #testing #+
+#=media-radio/fldigi-4.0.10                                                      #testing #+
+#=media-radio/fldigi-4.0.11                                                      #testing #+
+#=media-radio/fldigi-4.0.12                                                      #testing #+
 ## testing:

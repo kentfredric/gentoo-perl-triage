@@ -1,6 +1,6 @@
 ## stable:
-=xfce-base/thunar-1.6.10-r1                                                      #        #
-#=xfce-base/thunar-1.6.12-r1                                                     #testing #
-#=xfce-base/thunar-1.6.13                                                        #testing #
+=xfce-base/thunar-1.6.10-r1                                                      #        #+
+#=xfce-base/thunar-1.6.12-r1                                                     #testing #+
+#=xfce-base/thunar-1.6.13                                                        #testing #+
 #=xfce-base/thunar-1.7.0                                                         #testing # PACKAGE MASKED
 ## testing:

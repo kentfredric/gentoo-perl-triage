@@ -1,4 +1,4 @@
 ## stable:
-=dev-libs/atk-2.22.0                                                             #        #
-#=dev-libs/atk-2.24.0                                                            #testing #
+=dev-libs/atk-2.22.0                                                             #        #+
+#=dev-libs/atk-2.24.0                                                            #testing #+
 ## testing:

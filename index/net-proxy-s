@@ -1,4 +1,4 @@
 ## stable:
-=net-proxy/squid-3.5.26                                                          #        #
-#=net-proxy/squid-3.5.27                                                         #testing #
+=net-proxy/squid-3.5.26                                                          #        #+
+#=net-proxy/squid-3.5.27                                                         #testing #+
 ## testing:

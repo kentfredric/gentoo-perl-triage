@@ -92,7 +92,7 @@
 #=dev-perl/Test-YAML-1.50.0                                                      #testing #+
 =dev-perl/Test-YAML-1.60.0                                                       #        #+
 =dev-perl/Test-utf8-1.10.0                                                       #        #+
-=dev-perl/Text-Aspell-0.90.0-r1                                                  #        #
+=dev-perl/Text-Aspell-0.90.0-r1                                                  #        #+
 =dev-perl/Text-Autoformat-1.740.0                                                #        #+
 =dev-perl/Text-BibTeX-0.800.0                                                    #        #+
 #=dev-perl/Text-BibTeX-0.850.0                                                   #testing #+
@@ -186,13 +186,13 @@
 #=dev-perl/Test-Dependencies-0.230.0                                             #testing #+
 #=dev-perl/Test-File-ShareDir-1.1.2                                              #testing #+
 #=dev-perl/Test-Files-0.140.0                                                    #testing #+
-#=dev-perl/Test-MinimumVersion-0.101.82                                          #testing #
+#=dev-perl/Test-MinimumVersion-0.101.82                                          #testing #+
 #=dev-perl/Test-Mock-LWP-Dispatch-0.80.0                                         #testing #+
 #=dev-perl/Test-MockTime-HiRes-0.60.0                                            #testing #+
 #=dev-perl/Test-MockTime-HiRes-0.70.0                                            #testing #+
 #=dev-perl/Test-Needs-0.2.2                                                      #testing #+
-#=dev-perl/Test-Perl-Critic-1.20.0-r1                                            #testing #
-#=dev-perl/Test-Perl-Critic-1.30.0                                               #testing #
+#=dev-perl/Test-Perl-Critic-1.20.0-r1                                            #testing #+
+#=dev-perl/Test-Perl-Critic-1.30.0                                               #testing #+
 #=dev-perl/Test-Timer-0.130.0                                                    #testing #+
 #=dev-perl/Test-Timer-1.0.0                                                      #testing #+
 #=dev-perl/Test-Unit-Lite-0.120.200-r1                                           #testing #+
@@ -225,5 +225,5 @@
 #=dev-perl/Time-Stopwatch-1.0.0                                                  #testing #+
 #=dev-perl/Time-TAI64-2.110.0-r1                                                 #testing #+
 #=dev-perl/Type-Tie-0.9.0                                                        #testing #+
-#=dev-perl/tkispell-0.180.0                                                      #testing #
+#=dev-perl/tkispell-0.180.0                                                      #testing #+
 #=dev-perl/txt2html-2.520.100                                                    #testing #+

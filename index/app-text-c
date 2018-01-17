@@ -1,10 +1,10 @@
 ## stable:
-=app-text/chasen-2.4.4-r3                                                        #        #
+=app-text/chasen-2.4.4-r3                                                        #        #+
 #=app-text/cmigemo-1.3c                                                          #testing #  NEED KEYWORDS
-#=app-text/cmigemo-1.3c-r1                                                       #testing #
-=app-text/cmigemo-1.3c-r2                                                        #        #
-=app-text/code2html-0.9.1-r2                                                     #        #
-=app-text/convmv-2.01                                                            #        #
-#=app-text/convmv-2.03                                                           #testing #
-#=app-text/convmv-2.04                                                           #testing #
+#=app-text/cmigemo-1.3c-r1                                                       #testing #+
+=app-text/cmigemo-1.3c-r2                                                        #        #+
+=app-text/code2html-0.9.1-r2                                                     #        #+
+=app-text/convmv-2.01                                                            #        #+
+#=app-text/convmv-2.03                                                           #testing #+
+#=app-text/convmv-2.04                                                           #testing #+
 ## testing:

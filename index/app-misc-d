@@ -1,6 +1,6 @@
 ## stable:
-=app-misc/dailystrips-1.0.28-r2                                                  #        #
-#=app-misc/dailystrips-1.0.28-r3                                                 #testing #
+=app-misc/dailystrips-1.0.28-r2                                                  #        #+
+#=app-misc/dailystrips-1.0.28-r3                                                 #testing #+
 ## testing:
-#=app-misc/ddccontrol-0.4.2_p20140105-r2                                         #testing #
-#=app-misc/ddccontrol-db-20061014_p20121105                                      #testing #
+#=app-misc/ddccontrol-0.4.2_p20140105-r2                                         #testing #+
+#=app-misc/ddccontrol-db-20061014_p20121105                                      #testing #+

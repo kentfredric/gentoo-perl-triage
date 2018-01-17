@@ -1,19 +1,19 @@
 ## stable:
-=sci-biology/bioperl-1.6.9                                                       #        #
+=sci-biology/bioperl-1.6.9                                                       #        #+
 #=sci-biology/bioperl-9999-r1                                                    #testing # NEEDS KEYWORDS
-=sci-biology/bioperl-db-1.6.9                                                    #        #
-#=sci-biology/bioperl-db-1.6.9-r1                                                #testing #
+=sci-biology/bioperl-db-1.6.9                                                    #        #+
+#=sci-biology/bioperl-db-1.6.9-r1                                                #testing #+
 #=sci-biology/bioperl-db-9999-r1                                                 #testing # NEEDS KEYWORDS
-=sci-biology/bioperl-network-1.6.9                                               #        #
+=sci-biology/bioperl-network-1.6.9                                               #        #+
 #=sci-biology/bioperl-network-9999-r1                                            #testing # NEEDS KEYWORDS
-=sci-biology/bioperl-run-1.6.9                                                   #        #
+=sci-biology/bioperl-run-1.6.9                                                   #        #+
 #=sci-biology/bioperl-run-9999-r1                                                #testing # NEEDS KEYWORDS
-=sci-biology/biosql-1.0.1-r1                                                     #        #
-=sci-biology/bowtie-1.1.2                                                        #        #
+=sci-biology/biosql-1.0.1-r1                                                     #        #+
+=sci-biology/bowtie-1.1.2                                                        #        #+
 #=sci-biology/bowtie-1.1.2-r1                                                    #testing # needs sequan w/ sse4_1
 #=sci-biology/bowtie-2.2.6                                                       #        # broken 630140
-#=sci-biology/bowtie-2.2.9                                                       #testing #
+#=sci-biology/bowtie-2.2.9                                                       #testing #+
 ## testing:
-#=sci-biology/bcftools-1.5                                                       #testing #
+#=sci-biology/bcftools-1.5                                                       #testing #+
 #=sci-biology/bfast-0.7.0a                                                       #testing # tests broken: 625490
-#=sci-biology/bwa-0.7.16a                                                        #testing #
+#=sci-biology/bwa-0.7.16a                                                        #testing #+

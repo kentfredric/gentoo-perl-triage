@@ -83,7 +83,7 @@
 ## testing:
 #=dev-perl/Algorithm-ClusterPoints-0.80.0                                        #testing #+
 #=dev-perl/AnyEvent-CacheDNS-0.80.0                                              #testing #+
-#=dev-perl/AnyEvent-HTTPD-0.930.0                                                #testing #
+#=dev-perl/AnyEvent-HTTPD-0.930.0                                                #testing #+
 #=dev-perl/Apache-CGI-Builder-1.300.0-r1                                         #testing #+
 #=dev-perl/Apache-CGI-Builder-1.300.0-r2                                         #testing #+
 #=dev-perl/App-CLI-0.313.0-r1                                                    #testing #+
@@ -99,7 +99,7 @@
 #=dev-perl/Audio-Scan-0.930.0-r1                                                 #testing #+
 #=dev-perl/Audio-Scan-0.980.0                                                    #testing #+
 #=dev-perl/Audio-WMA-1.300.0                                                     #testing #+
-#=dev-perl/Authen-Libwrap-0.220.0-r1                                             #testing #
+#=dev-perl/Authen-Libwrap-0.220.0-r1                                             #testing #+
 #=dev-perl/Authen-Libwrap-0.230.0                                                #testing #+
 #=dev-perl/Authen-SASL-SASLprep-1.10.0                                           #testing #+
 #=dev-perl/Authen-SASL-SASLprep-1.100.0                                          #testing #+

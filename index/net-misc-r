@@ -1,4 +1,4 @@
 ## stable:
 ## testing:
-#=net-misc/rancid-2.3.8                                                          #testing #
-#=net-misc/rancid-git-2.3.8                                                      #testing #
+#=net-misc/rancid-2.3.8                                                          #testing #+
+#=net-misc/rancid-git-2.3.8                                                      #testing #+

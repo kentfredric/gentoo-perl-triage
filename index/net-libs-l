@@ -1,13 +1,13 @@
 ## stable:
-=net-libs/libhubbub-0.3.3                                                        #        #
-#=net-libs/libhubbub-0.3.4                                                       #testing #
-=net-libs/liboping-1.9.0                                                         #        #
-#=net-libs/liboping-1.10.0                                                       #        #
-=net-libs/libproxy-0.4.13-r2                                                     #        #
-#=net-libs/libwebsockets-1.7.9                                                   #testing #
+=net-libs/libhubbub-0.3.3                                                        #        #+
+#=net-libs/libhubbub-0.3.4                                                       #testing #+
+=net-libs/liboping-1.9.0                                                         #        #+
+#=net-libs/liboping-1.10.0                                                       #        #+
+=net-libs/libproxy-0.4.13-r2                                                     #        #+
+#=net-libs/libwebsockets-1.7.9                                                   #testing #+
 #=net-libs/libwebsockets-2.0.2                                                   #testing #
-=net-libs/libwebsockets-2.1.1                                                    #        #
+=net-libs/libwebsockets-2.1.1                                                    #        #+
 ## testing:
 #=net-libs/libdom-0.3.1                                                          #testing #
 #=net-libs/libdom-0.3.2                                                          #testing #
-#=net-libs/libwhisker-2.5-r1                                                     #testing #
+#=net-libs/libwhisker-2.5-r1                                                     #testing #+

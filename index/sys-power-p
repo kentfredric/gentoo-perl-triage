@@ -1,5 +1,5 @@
 ## stable:
-=sys-power/pmtools-20071116                                                      #        #
-#=sys-power/pmtools-20110323                                                     #testing #
-#=sys-power/pmtools-20110323-r1                                                  #        #
+=sys-power/pmtools-20071116                                                      #        #+
+#=sys-power/pmtools-20110323                                                     #testing #+
+#=sys-power/pmtools-20110323-r1                                                  #        #+
 ## testing:

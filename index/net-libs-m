@@ -1,4 +1,4 @@
 ## stable:
-=net-libs/mbedtls-2.6.0                                                          #        #
-#=net-libs/mbedtls-2.6.1                                                         #testing #
+=net-libs/mbedtls-2.6.0                                                          #        #+
+#=net-libs/mbedtls-2.6.1                                                         #testing #+
 ## testing:

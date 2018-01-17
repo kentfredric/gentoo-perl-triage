@@ -3,12 +3,12 @@
 #=dev-lang/R-3.3.2                                                               #testing # tests broken 353545
 #=dev-lang/R-3.4.1                                                               #testing # tests broken 353545
 ## testing:
-#=dev-lang/rakudo-2017.07                                                        #testing #
+#=dev-lang/rakudo-2017.07                                                        #testing #+
 #=dev-lang/rakudo-2017.08                                                        #testing #
 #=dev-lang/rakudo-2017.09                                                        #testing # tests broken 631766
-#=dev-lang/rakudo-2017.10                                                        #testing #
-#=dev-lang/rakudo-2017.11                                                        #testing #
+#=dev-lang/rakudo-2017.10                                                        #testing #+
+#=dev-lang/rakudo-2017.11                                                        #testing #+
 #=dev-lang/rakudo-9999                                                           #testing # NEEDS KEYWORDS
 #=dev-lang/rust-1.15.1                                                           #testing # tests broken: 621932
 #=dev-lang/rust-1.16.0                                                           #testing # tests broken: 621932
-#=dev-lang/rust-1.19.0                                                           #testing #
+#=dev-lang/rust-1.19.0                                                           #testing #+

@@ -1,11 +1,11 @@
 ## stable:
-=mail-client/claws-mail-3.15.0-r2                                                #        #
-#=mail-client/claws-mail-3.15.1                                                  #testing #
-#=mail-client/claws-mail-3.16.0                                                  #testing #
-=mail-client/clawsker-0.7.8                                                      #        #
-#=mail-client/clawsker-0.7.10                                                    #testing #
-#=mail-client/clawsker-1.1.0                                                     #testing #
-=mail-client/cone-0.92                                                           #        #
-#=mail-client/cone-0.95                                                          #testing #
-#=mail-client/cone-0.96                                                          #testing #
+=mail-client/claws-mail-3.15.0-r2                                                #        #+
+#=mail-client/claws-mail-3.15.1                                                  #testing #+
+#=mail-client/claws-mail-3.16.0                                                  #testing #+
+=mail-client/clawsker-0.7.8                                                      #        #+
+#=mail-client/clawsker-0.7.10                                                    #testing #+
+#=mail-client/clawsker-1.1.0                                                     #testing #+
+=mail-client/cone-0.92                                                           #        #+
+#=mail-client/cone-0.95                                                          #testing #+
+#=mail-client/cone-0.96                                                          #testing #+
 ## testing:
