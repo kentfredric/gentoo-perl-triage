@@ -82,6 +82,11 @@ fixconf() {
 	exit 255;
 }
 
+bail() {
+	[[ 1 == "${BAILONFAIL:-1}" ]] && exit 255
+	exit 1
+}
+
 threephase() {
 	printf "\e[33;1m --~~-- ~~ \e[34;1m%s\e[33;1m ~~ --~~-- \e[0m\n" "$@" | tee -a /tmp/merge.log
 	estatus "threephase 1/3" "no-test-install"
@@ -95,7 +100,8 @@ threephase() {
 		else
 			eerror "failed" "no-test-install"
 			echo "installfailure $@ $(date -Is)" >> /tmp/merge.all
-			exit 1
+			bail
+			exit 255
 		fi
 	fi
 
@@ -111,7 +117,8 @@ threephase() {
 	else
 		echo "test-depfailure $@ $(date -Is)" >> /tmp/merge.all
 		eerror "failed" "install-test-deps"
-		exit 1
+		bail
+		exit 255
 	fi
 
 	estatus "threephase 3/3" "test"
@@ -122,8 +129,8 @@ threephase() {
 		eerror "failed" "test"
 
 		echo "test-failure $@ $(date -Is)" >> /tmp/merge.all
-
-		exit 1;
+		bail
+		exit 255
 	fi
 
 	echo "pass $@ $(date -Is)" >> /tmp/merge.all
