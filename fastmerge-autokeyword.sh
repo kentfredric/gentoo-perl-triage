@@ -75,6 +75,13 @@ installpkg() {
 	return $?
 }
 
+fixconf() {
+	if perl fixconf.pl "$1" "$2"; then
+		return
+	fi
+	exit 255;
+}
+
 threephase() {
 	printf "\e[33;1m --~~-- ~~ \e[34;1m%s\e[33;1m ~~ --~~-- \e[0m\n" "$@" | tee -a /tmp/merge.log
 	estatus "threephase 1/3" "no-test-install"
@@ -82,6 +89,7 @@ threephase() {
 	if [[ -z $FORCEMERGE ]] && portageq has_version / "$@" ; then
 		estatus "threephase 1/3" "already installed";
 	else
+		fixconf install "$@"
 		if FEATURES="${FEATURES} -test" eemerge "${EARGS[@]}" --with-test-deps=n "$@" ; then
 			estatus "threephase 1/3" "no-test-install-success"
 		else
@@ -97,6 +105,7 @@ threephase() {
 	portageq contents / "${1##=}" 2>/dev/null | grep -q '/bin/.'        || eerror "QA" "No /bin/ files"
 
 	estatus "threephase 2/3" "install-test-deps"
+	fixconf testdeps "$@"
 	if FEATURES="${FEATURES} -test" eemerge "${EARGS[@]}" --onlydeps --with-test-deps=y "$@" ; then
 		estatus "threephase 2/3" "install-test-deps-success"
 	else
@@ -106,6 +115,7 @@ threephase() {
 	fi
 
 	estatus "threephase 3/3" "test"
+	fixconf test "$@"
 	if eemerge "${EARGS[@]}" --quiet-build=n --jobs=1 "$@"; then
 		estatus "threephase 3/3" "test-success"
 	else
