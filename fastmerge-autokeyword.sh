@@ -146,7 +146,7 @@ cleanup() {
 	fi
 }
 
-if [[ -n $THREE_PHASE ]]; then
+if [[ 1 == "${THREE_PHASE:-1}" ]]; then
 	threephase "$@"
 	exit $?
 fi
