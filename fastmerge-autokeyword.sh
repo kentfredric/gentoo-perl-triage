@@ -13,8 +13,13 @@ EARGS=(
 	"--verbose"
 	"--backtrack=${BACKTRACK:-10}"
 )
+
 if [[ -n $EXTRA_EARGS ]]; then
 	EARGS+=( "${EXTRA_EARGS[@]}" )
+fi
+
+if [[ 1 == "${SINGLE_THREAD:-1}" ]]; then
+	EARGS+=( "--jobs=1" )
 fi
 
 estatus() {
