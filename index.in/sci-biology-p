@@ -1,8 +1,6 @@
 ## stable:
-=sci-biology/primer3-2.3.5                                                       #        #
-#=sci-biology/primer3-2.3.6                                                      #        #
-#=sci-biology/primer3-2.3.7                                                      #testing #
 ## testing:
 #=sci-biology/phrap-1.080812-r2                                                  #testing #
+#=sci-biology/primer3-2.3.7                                                      #testing #
 #=sci-biology/profphd-1.0.39                                                     #testing #
 #=sci-biology/profphd-1.0.40                                                     #testing #

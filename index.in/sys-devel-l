@@ -7,5 +7,6 @@
 #=sys-devel/llvm-4.0.1-r1                                                        #        #
 #=sys-devel/llvm-5.0.0                                                           #testing #
 #=sys-devel/llvm-5.0.1                                                           #testing #
+#=sys-devel/llvm-6.0.9999                                                        #testing #
 #=sys-devel/llvm-9999                                                            #testing #
 ## testing:

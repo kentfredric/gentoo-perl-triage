@@ -8,6 +8,7 @@
 #=dev-lang/rakudo-2017.09                                                        #testing # tests broken 631766
 #=dev-lang/rakudo-2017.10                                                        #testing #+
 #=dev-lang/rakudo-2017.11                                                        #testing #+
+#=dev-lang/rakudo-2017.12                                                        #testing #+
 #=dev-lang/rakudo-9999                                                           #testing # NEEDS KEYWORDS
 #=dev-lang/rust-1.15.1                                                           #testing # tests broken: 621932
 #=dev-lang/rust-1.16.0                                                           #testing # tests broken: 621932

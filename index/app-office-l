@@ -1,6 +1,6 @@
 ## stable:
 =app-office/libreoffice-5.4.2.2                                                  #        # SKIP ENOPOINT
-#=app-office/libreoffice-5.4.4.2                                                 #testing #
+#=app-office/libreoffice-5.4.4.2                                                 #testing # Build OK
 #=app-office/libreoffice-5.4.9999                                                #testing # NEEDS KEYWORDS
 #=app-office/libreoffice-6.0.9999                                                #testing # NEEDS KEYWORDS
 #=app-office/libreoffice-9999                                                    #testing # NEEDS KEYWORDS

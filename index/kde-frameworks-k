@@ -1,10 +1,10 @@
 ## stable:
 =kde-frameworks/kdelibs4support-5.40.0                                           #        #+
-#=kde-frameworks/kdelibs4support-5.41.0                                          #testing #+
+#=kde-frameworks/kdelibs4support-5.42.0                                          #testing #+
 =kde-frameworks/kdoctools-5.40.0-r1                                              #        #+
-#=kde-frameworks/kdoctools-5.41.0                                                #testing #+
+#=kde-frameworks/kdoctools-5.42.0                                                #testing #+
 =kde-frameworks/khtml-5.40.0                                                     #        #+
-#=kde-frameworks/khtml-5.41.0                                                    #testing #+
+#=kde-frameworks/khtml-5.42.0                                                    #testing #+
 =kde-frameworks/kjs-5.40.0                                                       #        #+
-#=kde-frameworks/kjs-5.41.0                                                      #testing #+
+#=kde-frameworks/kjs-5.42.0                                                      #testing #+
 ## testing:

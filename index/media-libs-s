@@ -1,5 +1,6 @@
 ## stable:
 ## testing:
-#=media-libs/stk-4.4.4-r1                                                        #testing #
-#=media-libs/stk-4.5.0                                                           #testing #
-#=media-libs/stk-4.5.1                                                           #testing #
+#=media-libs/stk-4.4.4-r1                                                        #testing # broken 525332
+#=media-libs/stk-4.5.0                                                           #testing # broken 525332
+#=media-libs/stk-4.5.1                                                           #testing # broken 525332
+#=media-libs/stk-4.5.1-r1                                                        #testing # broken 525332

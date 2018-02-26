@@ -31,7 +31,6 @@
 =dev-perl/Mail-Procmail-1.80.0-r1                                                #        #+
 =dev-perl/Mail-SPF-2.9.0-r1                                                      #        #+
 #=dev-perl/Mail-SPF-2.9.0-r2                                                     #testing #+
-=dev-perl/Mail-SPF-Query-1.999.1-r1                                              #        # PMASKED
 =dev-perl/Mail-SRS-0.310.0-r2                                                    #        #+
 =dev-perl/Mail-Sender-0.8.23                                                     #        #+
 #=dev-perl/Mail-Sender-0.903.0                                                   #testing #+
@@ -77,7 +76,7 @@
 =dev-perl/Module-Find-0.130.0                                                    #        #+
 =dev-perl/Module-Implementation-0.90.0                                           #        #+
 =dev-perl/Module-Info-0.350.0-r1                                                 #        # tests broken: 617110
-#=dev-perl/Module-Info-0.370.0-r1                                                #testing #+
+#=dev-perl/Module-Info-0.370.0-r1                                                #        #+
 =dev-perl/Module-Install-1.160.0                                                 #        # broken: 614454, waiting on 622974 and 622982
 #=dev-perl/Module-Install-1.180.0                                                #        #+
 =dev-perl/Module-Install-AuthorTests-0.2.0                                       #        #+
@@ -87,7 +86,7 @@
 =dev-perl/Module-Pluggable-5.200.0                                               #        #+
 =dev-perl/Module-Refresh-0.170.0-r1                                              #        #+
 =dev-perl/Module-Runtime-0.14.0                                                  #        # tests broken: 614338
-#=dev-perl/Module-Runtime-0.16.0                                                 #testing #+
+#=dev-perl/Module-Runtime-0.16.0                                                 #        #+
 =dev-perl/Module-Runtime-Conflicts-0.2.0                                         #        #+
 #=dev-perl/Module-Runtime-Conflicts-0.3.0                                        #testing #+
 =dev-perl/Module-ScanDeps-1.230.0                                                #        #+
@@ -140,7 +139,7 @@
 #=dev-perl/MouseX-Types-0.60.0-r1                                                #testing #+
 =dev-perl/Mozilla-CA-20999999                                                    #        #+
 =dev-perl/MusicBrainz-DiscID-0.30.0-r1                                           #        # tests broken: 622984
-#=dev-perl/MusicBrainz-DiscID-0.40.0                                             #testing #+
+#=dev-perl/MusicBrainz-DiscID-0.40.0                                             #        #+
 =dev-perl/mecab-perl-0.996                                                       #        #+
 =dev-perl/mime-construct-1.900.0-r1                                              #        #+
 #=dev-perl/mime-construct-1.1100.0-r1                                            #testing #+
@@ -167,7 +166,6 @@
 #=dev-perl/Mail-Box-IMAP4-3.2.0                                                  #testing #+
 #=dev-perl/Mail-Box-POP3-3.1.0                                                   #testing #+
 #=dev-perl/Mail-Box-POP3-3.3.0                                                   #testing #+
-#=dev-perl/Mail-Builder-2.90.0                                                   #testing # tests broken: 623226
 #=dev-perl/Mail-Builder-2.130.0                                                  #testing #+
 #=dev-perl/Mail-Builder-Simple-0.160.0-r1                                        #testing #
 #=dev-perl/Mail-DMARC-1.201.709.110                                              #testing #+

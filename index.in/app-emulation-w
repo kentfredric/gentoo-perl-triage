@@ -1,9 +1,4 @@
 ## stable:
-=app-emulation/wine-2.0                                                          #        #
-#=app-emulation/wine-2.1                                                         #testing #
-#=app-emulation/wine-2.2                                                         #testing #
-#=app-emulation/wine-2.3                                                         #testing #
-#=app-emulation/wine-9999                                                        #testing #
 =app-emulation/wine-vanilla-2.0-r1                                               #        #
 #=app-emulation/wine-vanilla-2.0.1-r1                                            #        #
 #=app-emulation/wine-vanilla-2.0.2-r1                                            #        #

@@ -1,4 +1,6 @@
 ## stable:
 =net-print/gutenprint-5.2.12                                                     #        #+
 #=net-print/gutenprint-5.2.13_pre1                                               #testing #+
+#=net-print/gutenprint-5.2.13                                                    #testing #+
+#=net-print/gutenprint-5.3.0_pre1                                                #testing # NEED KEYWORDS
 ## testing:

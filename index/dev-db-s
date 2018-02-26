@@ -2,5 +2,5 @@
 =dev-db/slony1-2.1.3                                                             #        # broken: 593544
 #=dev-db/slony1-2.1.4                                                            #testing # broken: 593544
 #=dev-db/slony1-2.2.5-r1                                                         #testing # tests broken: 624416
-#=dev-db/slony1-2.2.6                                                            #testing #+
+#=dev-db/slony1-2.2.6                                                            #        #+
 ## testing:

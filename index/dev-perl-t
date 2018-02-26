@@ -5,11 +5,13 @@
 =dev-perl/Taint-Runtime-0.30.0-r1                                                #        #+
 =dev-perl/Task-Weaken-1.40.0-r1                                                  #        #+
 =dev-perl/Template-DBI-2.650.0-r1                                                #        # tests broken: 623120
+#=dev-perl/Template-DBI-2.650.0-r2                                               #testing #+
 =dev-perl/Template-GD-2.660.0-r1                                                 #        #+
 =dev-perl/Template-Plugin-Latex-3.60.0                                           #        #+
 #=dev-perl/Template-Plugin-Latex-3.110.0                                         #testing #+
 =dev-perl/Template-Toolkit-2.260.0                                               #        # tests broken: 615704
 #=dev-perl/Template-Toolkit-2.270.0                                              #testing # tests broken: 615704
+#=dev-perl/Template-Toolkit-2.270.0-r1                                           #testing #+
 =dev-perl/Template-XML-2.170.0-r1                                                #        #+
 =dev-perl/Term-ANSIScreen-1.500.0-r1                                             #        #+
 =dev-perl/Term-ProgressBar-2.170.0                                               #        #+
@@ -41,7 +43,6 @@
 =dev-perl/Test-Exception-0.430.0                                                 #        #+
 =dev-perl/Test-FailWarnings-0.8.0                                                #        #+
 =dev-perl/Test-Fatal-0.14.0                                                      #        #+
-#=dev-perl/Test-File-1.442.0                                                     #testing #+
 =dev-perl/Test-File-1.443.0                                                      #        #+
 =dev-perl/Test-Inline-2.213.0-r1                                                 #        #+
 =dev-perl/Test-Inter-1.60.0                                                      #        #+
@@ -77,9 +78,9 @@
 =dev-perl/Test-Spec-0.510.0                                                      #        #+
 =dev-perl/Test-SubCalls-1.90.0-r1                                                #        #+
 =dev-perl/Test-TCP-2.60.0                                                        #        # tests broken: 614342
-#=dev-perl/Test-TCP-2.160.0                                                      #testing # tests broken: 614342
 #=dev-perl/Test-TCP-2.170.0                                                      #        # tests broken: 614342
 #=dev-perl/Test-TCP-2.190.0                                                      #testing # tests broken: 614342
+#=dev-perl/Test-TCP-2.190.0-r1                                                   #testing #+
 =dev-perl/Test-Taint-1.60.0-r1                                                   #        #+
 =dev-perl/Test-Time-0.40.0                                                       #        #+
 =dev-perl/Test-Trap-0.2.2-r1                                                     #        #+

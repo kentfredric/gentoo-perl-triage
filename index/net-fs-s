@@ -5,4 +5,6 @@
 #=net-fs/samba-4.6.11                                                            #testing #+
 #=net-fs/samba-4.6.12                                                            #testing #
 #=net-fs/samba-4.7.3                                                             #testing #+
+#=net-fs/samba-4.7.4                                                             #testing #+
+#=net-fs/samba-4.8.0_rc1                                                         #testing # NEEDS KEYWORDS
 ## testing:

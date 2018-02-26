@@ -5,6 +5,7 @@
 #=dev-perl/B-Hooks-OP-Check-0.220.0                                              #testing #
 =dev-perl/B-Keywords-1.140.0                                                     #        #
 #=dev-perl/B-Keywords-1.150.0                                                    #testing #
+=dev-perl/B-Utils-0.270.0                                                        #        #
 =dev-perl/BSD-Resource-1.291.100                                                 #        #
 =dev-perl/BerkeleyDB-0.550.0                                                     #        #
 =dev-perl/Bio-ASN1-EntrezGene-1.720.0                                            #        #
@@ -20,6 +21,7 @@
 =dev-perl/Business-ISMN-1.130.0                                                  #        #
 #=dev-perl/Business-ISMN-1.131.0                                                 #testing #
 =dev-perl/Business-ISSN-0.910.0-r1                                               #        #
+#=dev-perl/Business-ISSN-1.2.0                                                   #testing #
 =dev-perl/Business-UPS-2.10.0-r1                                                 #        #
 #=dev-perl/bareword-filehandles-0.4.0                                            #testing #
 =dev-perl/bareword-filehandles-0.5.0                                             #        #
@@ -28,7 +30,6 @@
 ## testing:
 #=dev-perl/B-Hooks-Parser-0.190.0                                                #testing #
 #=dev-perl/B-OPCheck-0.320.0                                                     #testing #
-#=dev-perl/B-Utils-0.270.0                                                       #testing #
 #=dev-perl/BSON-1.2.2                                                            #testing #
 #=dev-perl/BSON-1.4.0                                                            #testing #
 #=dev-perl/BZ-Client-1.72.0                                                      #testing #
@@ -39,6 +40,7 @@
 #=dev-perl/Bio-Das-1.170.0-r1                                                    #testing #
 #=dev-perl/Bio-Das-1.170.0-r2                                                    #testing #
 #=dev-perl/Bio-Graphics-2.390.0                                                  #testing #
+#=dev-perl/Bio-Graphics-2.400.0                                                  #testing #
 #=dev-perl/Bio-SamTools-1.420.0                                                  #testing #
 #=dev-perl/Bio-SamTools-1.430.0                                                  #testing #
 #=dev-perl/Browser-Open-0.40.0                                                   #testing #

@@ -2,4 +2,5 @@
 =app-doc/kicad-doc-4.0.1                                                         #        #+
 #=app-doc/kicad-doc-4.0.4                                                        #        # broken w/pdf: 590156
 #=app-doc/kicad-doc-4.0.5                                                        #testing # broken w/pdf: 590156
+#=app-doc/kicad-doc-4.0.6                                                        #testing #
 ## testing:

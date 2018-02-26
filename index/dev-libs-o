@@ -1,9 +1,6 @@
 ## stable:
 =dev-libs/openssl-0.9.8z_p8                                                      #        #+
-#=dev-libs/openssl-1.0.2k                                                        #        #+
-#=dev-libs/openssl-1.0.2l                                                        #        #+
-#=dev-libs/openssl-1.0.2l-r1                                                     #testing # PACKAGE MASKED
-#=dev-libs/openssl-1.0.2m                                                        #        #+
+#=dev-libs/openssl-0.9.8z_p8-r1                                                  #testing #+
 #=dev-libs/openssl-1.0.2n                                                        #        #+
 #=dev-libs/openssl-1.1.0g-r2                                                     #testing # PACKAGE MASKED
 =dev-libs/ossp-uuid-1.6.2-r4                                                     #        #+

@@ -1,8 +1,7 @@
 ## stable:
 =dev-util/shtool-2.0.8-r1                                                        #        #+
 =dev-util/strace-4.16                                                            #        # tests broken 570874
-#=dev-util/strace-4.19                                                           #testing # tests broken 570874
-#=dev-util/strace-4.20                                                           #testing # tests broken 570874
+#=dev-util/strace-4.20                                                           #        #+
 #=dev-util/strace-9999                                                           #testing # NEEDS KEYWORDS
 =dev-util/suse-build-2014.09.18                                                  #        #+
 #=dev-util/suse-build-2015.11.05                                                 #        #+

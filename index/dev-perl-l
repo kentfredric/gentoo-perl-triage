@@ -1,6 +1,7 @@
 ## stable:
 =dev-perl/LWP-Authen-Wsse-0.50.0-r1                                              #        #
 =dev-perl/LWP-MediaTypes-6.20.0-r1                                               #        #+
+=dev-perl/LWP-Online-1.80.0-r2                                                   #        #+
 =dev-perl/LWP-Protocol-http10-6.30.0                                             #        #+
 =dev-perl/LWP-Protocol-https-6.60.0                                              #        #+
 #=dev-perl/LWP-Protocol-https-6.70.0                                             #testing #+
@@ -19,7 +20,7 @@
 #=dev-perl/Lchown-1.10.0-r2                                                      #testing #+
 #=dev-perl/Lexical-SealRequireHints-0.9.0                                        #testing # tests broken: 614968
 =dev-perl/Lexical-SealRequireHints-0.10.0                                        #        # tests broken: 614968
-#=dev-perl/Lexical-SealRequireHints-0.11.0                                       #testing #+
+#=dev-perl/Lexical-SealRequireHints-0.11.0                                       #        #+
 =dev-perl/Lingua-EN-Inflect-1.899.0                                              #        #+
 #=dev-perl/Lingua-EN-Inflect-1.901.0                                             #testing #+
 #=dev-perl/Lingua-EN-Inflect-1.902.0                                             #testing #+
@@ -52,8 +53,7 @@
 =dev-perl/Locale-Maketext-Fuzzy-0.110.0-r1                                       #        #+
 =dev-perl/Locale-Maketext-Lexicon-1.0.0                                          #        #+
 =dev-perl/Locale-PO-0.270.0                                                      #        #+
-=dev-perl/Locale-gettext-1.50.0-r1                                               #        #+
-#=dev-perl/Locale-gettext-1.70.0                                                 #testing #+
+=dev-perl/Locale-gettext-1.70.0                                                  #        #+
 =dev-perl/LockFile-Simple-0.208.0-r1                                             #        #+
 #=dev-perl/LockFile-Simple-0.208.0-r2                                            #testing #+
 =dev-perl/Log-Agent-1.1.0                                                        #        #+
@@ -86,7 +86,6 @@
 =dev-perl/local-lib-2.0.19                                                       #        #+
 #=dev-perl/local-lib-2.0.24                                                      #testing #+
 ## testing:
-#=dev-perl/LWP-Online-1.80.0-r2                                                  #testing #+
 #=dev-perl/LWP-UserAgent-Cached-0.60.0                                           #testing #+
 #=dev-perl/LWP-UserAgent-Cached-0.60.0-r1                                        #testing #+
 #=dev-perl/LWP-UserAgent-Determined-1.70.0                                       #testing #+
