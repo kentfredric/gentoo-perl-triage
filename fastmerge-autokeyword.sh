@@ -139,7 +139,7 @@ threephase() {
 }
 
 cleanup() {
-	if [[ -n $AUTODEPCLEAN ]]; then
+	if [[ 1 == "${AUTODEPCLEAN:-1}" ]]; then
 		unset USE
 		unset FEATURES
 		source /root/set-gen/cleanup.sh
