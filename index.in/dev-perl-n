@@ -82,15 +82,13 @@
 #=dev-perl/Net-SSH-Perl-2.140.0                                                  #testing #
 =dev-perl/Net-SSLeay-1.810.0                                                     #        #
 #=dev-perl/Net-SSLeay-1.820.0                                                    #        #
-=dev-perl/Net-Server-2.8.0                                                       #        #
-#=dev-perl/Net-Server-2.9.0                                                      #        #
+=dev-perl/Net-Server-2.9.0                                                       #        #
 =dev-perl/Net-Server-Mail-0.230.0                                                #        #
 =dev-perl/Net-Telnet-3.40.0                                                      #        #
 =dev-perl/Net-Telnet-Cisco-1.100.0-r1                                            #        #
 #=dev-perl/Net-Telnet-Cisco-1.110.0                                              #testing #
 =dev-perl/Net-UPnP-1.4.3                                                         #        #
-=dev-perl/Net-XMPP-1.20.0-r1                                                     #        #
-#=dev-perl/Net-XMPP-1.50.0                                                       #        #
+=dev-perl/Net-XMPP-1.50.0                                                        #        #
 =dev-perl/NetAddr-IP-4.78.0                                                      #        #
 #=dev-perl/NetAddr-IP-4.79.0                                                     #testing #
 =dev-perl/NetPacket-1.6.0                                                        #        #

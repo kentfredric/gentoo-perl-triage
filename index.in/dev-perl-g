@@ -13,7 +13,7 @@
 =dev-perl/GDTextUtil-0.860.0-r1                                                  #        #
 #=dev-perl/GDTextUtil-0.860.0-r2                                                 #testing #
 =dev-perl/GSSAPI-0.280.0-r1                                                      #        #
-=dev-perl/Gentoo-App-Pram-0.100.100                                              #        #
+=dev-perl/Gentoo-App-Pram-0.100.200                                              #        #
 =dev-perl/Gentoo-PerlMod-Version-0.8.1                                           #        #
 =dev-perl/Geo-IP-1.450.0                                                         #        #
 #=dev-perl/Geo-IP-1.500.0-r1                                                     #testing #
@@ -54,8 +54,7 @@
 #=dev-perl/glib-perl-1.326.0                                                     #testing #
 =dev-perl/gnome2-canvas-1.2.0-r1                                                 #        #
 #=dev-perl/gnome2-canvas-1.2.0-r2                                                #testing #
-=dev-perl/gnome2-perl-1.45.0                                                     #        #
-#=dev-perl/gnome2-perl-1.46.0                                                    #        #
+=dev-perl/gnome2-perl-1.46.0                                                     #        #
 =dev-perl/gnome2-vfs-perl-1.81.0-r1                                              #        #
 #=dev-perl/gnome2-vfs-perl-1.83.0                                                #testing #
 =dev-perl/gnome2-wnck-0.160.0-r1                                                 #        #

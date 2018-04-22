@@ -5,7 +5,7 @@
 #=dev-perl/Readonly-2.10.0                                                       #testing #+
 #=dev-perl/Readonly-2.50.0                                                       #testing #+
 =dev-perl/Readonly-XS-1.50.0-r1                                                  #        #+
-=dev-perl/Regexp-Common-2017060201.0.0                                           #        #
+=dev-perl/Regexp-Common-2017060201.0.0                                           #        #+
 =dev-perl/Regexp-Common-net-CIDR-0.20.0-r1                                       #        #+
 #=dev-perl/Regexp-Common-net-CIDR-0.30.0                                         #testing #+
 =dev-perl/Regexp-IPv6-0.30.0-r1                                                  #        #+

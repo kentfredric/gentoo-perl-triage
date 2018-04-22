@@ -1,10 +1,7 @@
 ## stable:
 ## testing:
-#=dev-lang/moarvm-2017.07                                                        #testing #
-#=dev-lang/moarvm-2017.08.1                                                      #testing #
-#=dev-lang/moarvm-2017.09.1                                                      #testing #
-#=dev-lang/moarvm-2017.10                                                        #testing #
-#=dev-lang/moarvm-2017.11                                                        #testing #
-#=dev-lang/moarvm-2017.12.1                                                      #testing #
+#=dev-lang/moarvm-2018.01                                                        #testing #
+#=dev-lang/moarvm-2018.02                                                        #testing #
+#=dev-lang/moarvm-2018.03                                                        #testing #
 #=dev-lang/moarvm-9999                                                           #testing #
 #=dev-lang/mozart-1.4.0-r3                                                       #testing #

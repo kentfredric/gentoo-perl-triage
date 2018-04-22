@@ -1,6 +1,4 @@
 ## stable:
-=sys-process/parallel-20170822                                                   #        #
-#=sys-process/parallel-20171022                                                  #testing #
-#=sys-process/parallel-20171122                                                  #testing #
-#=sys-process/parallel-20171222                                                  #testing #
+=sys-process/parallel-20180222                                                   #        #
+#=sys-process/parallel-20180322                                                  #testing #
 ## testing:

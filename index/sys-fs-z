@@ -1,6 +1,8 @@
 ## stable:
-## testing:
 #=sys-fs/zfs-kmod-0.6.5.4-r1                                                     #testing # SKIP SPL Linux old
 #=sys-fs/zfs-kmod-0.6.5.11                                                       #testing #
-#=sys-fs/zfs-kmod-0.7.5                                                          #testing #
+#=sys-fs/zfs-kmod-0.7.6                                                          #testing #+
+=sys-fs/zfs-kmod-0.7.7                                                           #        #
+#=sys-fs/zfs-kmod-0.7.9999                                                       #testing # NEEDS KEYWORDS
 #=sys-fs/zfs-kmod-9999                                                           #testing # NEEDS KEYWORDS
+## testing:

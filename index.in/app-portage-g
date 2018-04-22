@@ -2,7 +2,7 @@
 =app-portage/g-cpan-0.16.5                                                       #        #
 #=app-portage/g-cpan-0.16.6                                                      #testing #
 #=app-portage/g-cpan-0.16.7                                                      #testing #
-#=app-portage/g-cpan-0.16.9                                                      #        #
+#=app-portage/g-cpan-0.16.9-r1                                                   #        #
 #=app-portage/g-cpan-9999                                                        #testing #
 =app-portage/genlop-0.30.9-r1                                                    #        #
 #=app-portage/genlop-0.30.10                                                     #testing #

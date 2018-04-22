@@ -1,21 +1,20 @@
 ## stable:
 =sys-devel/autoconf-2.13                                                         #        #+
-#=sys-devel/autoconf-2.64                                                        #        # broken: 625576
-#=sys-devel/autoconf-2.69                                                        #        # broken: 625576
 #=sys-devel/autoconf-2.69-r4                                                     #        #+
 #=sys-devel/autoconf-9999                                                        #testing # NEEDS KEYWORDS
-=sys-devel/automake-1.4_p6-r2                                                    #        #
-#=sys-devel/automake-1.5-r2                                                      #        #
-#=sys-devel/automake-1.6.3-r2                                                    #        # test broken: dont care
-#=sys-devel/automake-1.7.9-r3                                                    #        # test broken: dont care
-#=sys-devel/automake-1.8.5-r5                                                    #        # test broken: dont care
-#=sys-devel/automake-1.9.6-r4                                                    #        # test broken: dont care
-#=sys-devel/automake-1.10.3-r2                                                   #        # test broken: dont care
-#=sys-devel/automake-1.11.6-r2                                                   #        # test broken: dont care
-#=sys-devel/automake-1.12.6                                                      #        # test broken: dont care
-#=sys-devel/automake-1.12.6-r1                                                   #        # test broken: dont care
-#=sys-devel/automake-1.13.4-r1                                                   #        # test broken: dont care
-#=sys-devel/automake-1.14.1-r1                                                   #        # test broken: dont care
-#=sys-devel/automake-1.15.1-r1                                                   #        # test broken: 569064
+=sys-devel/automake-1.4_p6-r2                                                    #        # PMASKED
+#=sys-devel/automake-1.5-r2                                                      #        # PMASKED
+#=sys-devel/automake-1.6.3-r2                                                    #        # PMASKED
+#=sys-devel/automake-1.7.9-r3                                                    #        # PMASKED
+#=sys-devel/automake-1.8.5-r5                                                    #        # PMASKED
+#=sys-devel/automake-1.9.6-r5                                                    #        # test broken: dont care
+#=sys-devel/automake-1.10.3-r3                                                   #        # test broken: dont care
+#=sys-devel/automake-1.11.6-r3                                                   #        # test broken: dont care
+#=sys-devel/automake-1.12.6-r2                                                   #        # test broken: dont care
+#=sys-devel/automake-1.13.4-r2                                                   #        # test broken: dont care
+#=sys-devel/automake-1.14.1-r2                                                   #        #+
+#=sys-devel/automake-1.15.1-r2                                                   #        #+
+#=sys-devel/automake-1.16-r2                                                     #testing #+
+#=sys-devel/automake-1.16.1-r1                                                   #testing #+
 #=sys-devel/automake-9999                                                        #testing # NEEDS KEYWORDS
 ## testing:

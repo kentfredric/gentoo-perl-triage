@@ -1,5 +1,5 @@
 ## stable:
 =net-firewall/ferm-2.4                                                           #        #+
-#=net-firewall/ferm-2.4.1                                                        #testing #+
+#=net-firewall/ferm-2.4.1                                                        #        #+
 ## testing:
 #=net-firewall/fwanalog-0.6.4                                                    #testing #+

@@ -1,12 +1,9 @@
 ## stable:
 =dev-lang/nasm-2.11.08                                                           #        #+
 #=dev-lang/nasm-2.12.01                                                          #        #+
-#=dev-lang/nasm-2.13.01                                                          #testing #+
+#=dev-lang/nasm-2.13.01                                                          #        #+
 ## testing:
-#=dev-lang/nqp-2017.07                                                           #testing #+
-#=dev-lang/nqp-2017.08                                                           #testing #+
-#=dev-lang/nqp-2017.09                                                           #testing #+
-#=dev-lang/nqp-2017.10                                                           #testing #+
-#=dev-lang/nqp-2017.11                                                           #testing #+
-#=dev-lang/nqp-2017.12                                                           #testing #+
+#=dev-lang/nqp-2018.01                                                           #testing #+
+#=dev-lang/nqp-2018.02                                                           #testing #+
+#=dev-lang/nqp-2018.03                                                           #testing #
 #=dev-lang/nqp-9999                                                              #testing # NEEDS KEYWORDS

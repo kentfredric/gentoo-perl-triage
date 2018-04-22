@@ -1,6 +1,7 @@
 ## stable:
-#=mail-mta/exim-4.89-r1                                                          #testing #
 =mail-mta/exim-4.89-r5                                                           #        #+
 #=mail-mta/exim-4.89.1                                                           #testing #+
 #=mail-mta/exim-4.90                                                             #testing #+
+#=mail-mta/exim-4.90.1                                                           #        #+
+#=mail-mta/exim-4.91_rc1                                                         #testing #
 ## testing:

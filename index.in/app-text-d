@@ -1,7 +1,6 @@
 ## stable:
 =app-text/delta-20060803                                                         #        #
-=app-text/docbook-sgml-utils-0.6.14-r1                                           #        #
-#=app-text/docbook-sgml-utils-0.6.14-r2                                          #testing #
+=app-text/docbook-sgml-utils-0.6.14-r2                                           #        #
 =app-text/docbook2X-0.8.8-r4                                                     #        #
 =app-text/dos2unix-7.3.5                                                         #        #
 #=app-text/dos2unix-7.4.0                                                        #testing #

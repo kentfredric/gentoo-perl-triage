@@ -1,6 +1,5 @@
 ## stable:
-=net-irc/weechat-1.9.1                                                           #        #+
-#=net-irc/weechat-2.0                                                            #testing #+
-#=net-irc/weechat-2.0.1                                                          #testing #+
+=net-irc/weechat-2.0.1                                                           #        #+
+#=net-irc/weechat-2.1                                                            #testing #+
 #=net-irc/weechat-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:

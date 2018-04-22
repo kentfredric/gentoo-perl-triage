@@ -1,5 +1,6 @@
 ## stable:
 =sys-apps/ack-2.18-r1                                                            #        #
+#=sys-apps/ack-2.22                                                              #testing #
 ## testing:
 #=sys-apps/adjtime-0.4-r2                                                        #testing #
 #=sys-apps/apparmor-2.11.1-r2                                                    #testing #

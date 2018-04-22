@@ -2,16 +2,10 @@
 #=sys-kernel/linux-headers-2.4.33.3                                              #testing #
 #=sys-kernel/linux-headers-2.4.36                                                #testing #
 =sys-kernel/linux-headers-3.18                                                   #        #
-#=sys-kernel/linux-headers-4.3                                                   #        #
 #=sys-kernel/linux-headers-4.4                                                   #        #
-#=sys-kernel/linux-headers-4.5                                                   #testing #
-#=sys-kernel/linux-headers-4.6                                                   #testing #
-#=sys-kernel/linux-headers-4.7                                                   #testing #
-#=sys-kernel/linux-headers-4.8                                                   #testing #
 #=sys-kernel/linux-headers-4.9                                                   #testing #
-#=sys-kernel/linux-headers-4.10                                                  #testing #
-#=sys-kernel/linux-headers-4.11                                                  #testing #
-#=sys-kernel/linux-headers-4.12                                                  #testing #
 #=sys-kernel/linux-headers-4.13                                                  #        #
 #=sys-kernel/linux-headers-4.14                                                  #testing #
+#=sys-kernel/linux-headers-4.15                                                  #testing #
+#=sys-kernel/linux-headers-4.16                                                  #testing #
 ## testing:

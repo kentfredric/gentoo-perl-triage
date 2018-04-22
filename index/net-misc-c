@@ -4,4 +4,6 @@
 #=net-misc/clusterssh-9999                                                       #testing # NEEDS KEYWORDS
 =net-misc/curl-7.57.0                                                            #        #+
 #=net-misc/curl-7.57.0-r1                                                        #testing #+
+#=net-misc/curl-7.58.0                                                           #        #+
+#=net-misc/curl-7.59.0                                                           #        #+
 ## testing:

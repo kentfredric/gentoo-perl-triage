@@ -1,9 +1,8 @@
 ## stable:
-=app-office/libreoffice-5.4.2.2                                                  #        # SKIP ENOPOINT
-#=app-office/libreoffice-5.4.4.2                                                 #testing # Build OK
-#=app-office/libreoffice-5.4.9999                                                #testing # NEEDS KEYWORDS
+=app-office/libreoffice-5.4.5.1                                                  #        # broken 622838 with USE=test
+#=app-office/libreoffice-6.0.2.1                                                 #testing #
+#=app-office/libreoffice-6.0.3.2                                                 #testing #
 #=app-office/libreoffice-6.0.9999                                                #testing # NEEDS KEYWORDS
 #=app-office/libreoffice-9999                                                    #testing # NEEDS KEYWORDS
-=app-office/libreoffice-bin-5.4.2.2                                              #        # SKIP ENOPOINT
-#=app-office/libreoffice-bin-5.4.2.2-r1                                          #        # SKIP ENOPOINT
+=app-office/libreoffice-bin-5.4.5.1                                              #        #+
 ## testing:

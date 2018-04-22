@@ -1,6 +1,8 @@
 ## stable:
-## testing:
 #=sys-kernel/spl-0.6.5.4-r1                                                      #testing #
 #=sys-kernel/spl-0.6.5.11                                                        #testing #
-#=sys-kernel/spl-0.7.5                                                           #testing #
+#=sys-kernel/spl-0.7.6                                                           #testing #
+=sys-kernel/spl-0.7.7                                                            #        #
+#=sys-kernel/spl-0.7.9999                                                        #testing #
 #=sys-kernel/spl-9999                                                            #testing #
+## testing:

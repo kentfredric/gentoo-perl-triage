@@ -1,4 +1,6 @@
 ## stable:
 =x11-plugins/enigmail-1.9.9                                                      #        #
+#=x11-plugins/enigmail-2.0                                                       #testing #
+#=x11-plugins/enigmail-2.0.1                                                     #testing #
 #=x11-plugins/enigmail-9999                                                      #testing #
 ## testing:

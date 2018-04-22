@@ -1,3 +1,4 @@
 ## stable:
 =dev-libs/klibc-2.0.4-r2                                                         #        # broken: 623404
+#=dev-libs/klibc-2.0.4-r3                                                        #testing #+
 ## testing:

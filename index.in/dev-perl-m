@@ -75,8 +75,7 @@
 =dev-perl/Module-Compile-0.350.0                                                 #        #
 =dev-perl/Module-Find-0.130.0                                                    #        #
 =dev-perl/Module-Implementation-0.90.0                                           #        #
-=dev-perl/Module-Info-0.350.0-r1                                                 #        #
-#=dev-perl/Module-Info-0.370.0-r1                                                #        #
+=dev-perl/Module-Info-0.370.0-r1                                                 #        #
 =dev-perl/Module-Install-1.160.0                                                 #        #
 #=dev-perl/Module-Install-1.180.0                                                #        #
 =dev-perl/Module-Install-AuthorTests-0.2.0                                       #        #
@@ -85,8 +84,7 @@
 =dev-perl/Module-Manifest-1.80.0-r1                                              #        #
 =dev-perl/Module-Pluggable-5.200.0                                               #        #
 =dev-perl/Module-Refresh-0.170.0-r1                                              #        #
-=dev-perl/Module-Runtime-0.14.0                                                  #        #
-#=dev-perl/Module-Runtime-0.16.0                                                 #        #
+=dev-perl/Module-Runtime-0.16.0                                                  #        #
 =dev-perl/Module-Runtime-Conflicts-0.2.0                                         #        #
 #=dev-perl/Module-Runtime-Conflicts-0.3.0                                        #testing #
 =dev-perl/Module-ScanDeps-1.230.0                                                #        #
@@ -138,8 +136,7 @@
 =dev-perl/MouseX-Types-0.60.0                                                    #        #
 #=dev-perl/MouseX-Types-0.60.0-r1                                                #testing #
 =dev-perl/Mozilla-CA-20999999                                                    #        #
-=dev-perl/MusicBrainz-DiscID-0.30.0-r1                                           #        #
-#=dev-perl/MusicBrainz-DiscID-0.40.0                                             #        #
+=dev-perl/MusicBrainz-DiscID-0.40.0                                              #        #
 =dev-perl/mecab-perl-0.996                                                       #        #
 =dev-perl/mime-construct-1.900.0-r1                                              #        #
 #=dev-perl/mime-construct-1.1100.0-r1                                            #testing #

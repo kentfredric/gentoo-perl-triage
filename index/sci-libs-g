@@ -1,6 +1,5 @@
 ## stable:
-=sci-libs/gdal-2.0.3                                                             #        # broken: 602348
-#=sci-libs/gdal-2.2.3-r1                                                         #testing #+
+=sci-libs/gdal-2.2.3-r1                                                          #        #+
 ## testing:
 #=sci-libs/getdata-0.8.5                                                         #testing # broken: 625510
 #=sci-libs/getdata-0.9.0                                                         #testing #+

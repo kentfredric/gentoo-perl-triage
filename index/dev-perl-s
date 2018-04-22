@@ -12,7 +12,6 @@
 #=dev-perl/SVG-2.770.0                                                           #testing #+
 #=dev-perl/SVG-2.820.0                                                           #testing #+
 =dev-perl/SVG-Graph-0.20.0-r1                                                    #        #+
-=dev-perl/SVN-Simple-0.280.0-r1                                                  #        #+
 =dev-perl/Safe-Hole-0.130.0-r1                                                   #        #+
 =dev-perl/Safe-Isa-1.0.5                                                         #        #+
 #=dev-perl/Safe-Isa-1.0.8                                                        #testing #+
@@ -29,13 +28,11 @@
 =dev-perl/Server-Starter-0.330.0                                                 #        #+
 =dev-perl/Set-Infinite-0.650.0-r1                                                #        #+
 =dev-perl/Set-IntSpan-1.190.0-r1                                                 #        #+
-=dev-perl/Set-Object-1.350.0                                                     #        # broken: 623100
-#=dev-perl/Set-Object-1.380.0                                                    #testing #+
+=dev-perl/Set-Object-1.380.0                                                     #        #+
 =dev-perl/Set-Scalar-1.290.0                                                     #        #+
 =dev-perl/Shell-0.730.0                                                          #        #+
 =dev-perl/Shell-EnvImporter-1.70.0-r2                                            #        #+
-=dev-perl/ShipIt-0.600.0                                                         #        # tests broken: 623102
-#=dev-perl/ShipIt-0.600.0-r1                                                     #testing #+
+=dev-perl/ShipIt-0.600.0-r1                                                      #        #+
 =dev-perl/Signal-Mask-0.8.0                                                      #        #+
 =dev-perl/Snowball-Norwegian-1.200.0-r1                                          #        #+
 =dev-perl/Snowball-Swedish-1.200.0-r1                                            #        #+
@@ -71,9 +68,7 @@
 =dev-perl/Sub-Override-0.90.0                                                    #        #+
 =dev-perl/Sub-Quote-2.3.1                                                        #        #+
 #=dev-perl/Sub-Quote-2.4.0                                                       #testing #+
-=dev-perl/Sub-Uplevel-0.250.0                                                    #        # broken: 614186, waiting on 618980 (arm64,hppa)
-#=dev-perl/Sub-Uplevel-0.260.0                                                   #testing # broken: 614186, waiting on 618980 (arm64,hppa)
-#=dev-perl/Sub-Uplevel-0.280.0                                                   #        #+
+=dev-perl/Sub-Uplevel-0.280.0                                                    #        #+
 =dev-perl/Switch-2.170.0                                                         #        #+
 =dev-perl/Symbol-Global-Name-0.50.0                                              #        #
 =dev-perl/Sys-CPU-0.610.0                                                        #        #+

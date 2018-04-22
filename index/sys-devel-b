@@ -20,6 +20,7 @@
 #=sys-devel/binutils-apple-8.1                                                   #testing # SKIP need OSX
 #=sys-devel/binutils-apple-8.2.1                                                 #testing # SKIP need OSX
 #=sys-devel/binutils-apple-8.2.1-r1                                              #testing # SKIP need OSX
-#=sys-devel/byfl-1.4-r1                                                          #testing #+
 #=sys-devel/byfl-1.5                                                             #testing # broken tests: 625818
+#=sys-devel/byfl-1.6                                                             #testing #+
+#=sys-devel/byfl-1.6-r1                                                          #testing #+
 #=sys-devel/byfl-9999                                                            #testing # NEEDS KEYWORDS

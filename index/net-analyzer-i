@@ -1,5 +1,5 @@
 ## stable:
-=net-analyzer/icinga-1.14.2                                                      #        #
+=net-analyzer/icinga-1.14.2                                                      #        #+
 ## testing:
 #=net-analyzer/ibmonitor-1.4                                                     #testing #+
 #=net-analyzer/ipsumdump-1.85                                                    #testing #+

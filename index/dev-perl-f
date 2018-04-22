@@ -10,6 +10,8 @@
 #=dev-perl/Festival-Client-Async-0.30.300-r2                                     #testing #+
 =dev-perl/File-BaseDir-0.30.0-r1                                                 #        #+
 #=dev-perl/File-BaseDir-0.70.0                                                   #testing #+
+#=dev-perl/File-Copy-Link-0.113.0-r1                                             #testing #+
+=dev-perl/File-Copy-Link-0.140.0                                                 #        #+
 =dev-perl/File-Copy-Recursive-0.380.0-r1                                         #        #+
 =dev-perl/File-DesktopEntry-0.40.0-r1                                            #        #+
 #=dev-perl/File-DesktopEntry-0.220.0                                             #testing #+
@@ -32,8 +34,7 @@
 =dev-perl/File-ReadBackwards-1.50.0-r1                                           #        #+
 =dev-perl/File-Remove-1.570.0                                                    #        #+
 =dev-perl/File-RsyncP-0.740.0                                                    #        #+
-=dev-perl/File-ShareDir-1.102.0                                                  #        #
-#=dev-perl/File-ShareDir-1.104.0                                                 #        #+
+=dev-perl/File-ShareDir-1.104.0                                                  #        #+
 #=dev-perl/File-ShareDir-Install-0.90.0                                          #testing #+
 =dev-perl/File-ShareDir-Install-0.110.0                                          #        #+
 =dev-perl/File-Slurp-9999.190.0-r1                                               #        #+
@@ -51,7 +52,7 @@
 =dev-perl/File-Type-0.220.0-r1                                                   #        #+
 =dev-perl/File-Which-1.90.0-r1                                                   #        #+
 #=dev-perl/File-Which-1.210.0                                                    #testing #+
-#=dev-perl/File-Which-1.220.0                                                    #testing #+
+#=dev-perl/File-Which-1.220.0                                                    #        #+
 =dev-perl/File-chdir-0.101.0                                                     #        #+
 #=dev-perl/File-chdir-0.101.100                                                  #testing #+
 =dev-perl/File-chmod-0.420.0                                                     #        #+
@@ -82,8 +83,6 @@
 #=dev-perl/Fatal-Exception-0.50.0-r2                                             #testing #+
 #=dev-perl/File-BOM-0.140.0-r1                                                   #testing #+
 #=dev-perl/File-BOM-0.150.0                                                      #testing #+
-#=dev-perl/File-Copy-Link-0.113.0-r1                                             #testing #+
-#=dev-perl/File-Copy-Link-0.140.0                                                #testing #+
 #=dev-perl/File-Grep-0.020.0-r1                                                  #testing #+
 #=dev-perl/File-Grep-0.20.0-r2                                                   #testing #+
 #=dev-perl/File-KeePass-2.30.0                                                   #testing #+

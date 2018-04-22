@@ -1,5 +1,3 @@
 ## stable:
-=net-libs/webkit-gtk-2.4.11-r1                                                   #        #
-#=net-libs/webkit-gtk-2.4.11-r200                                                #        #
-#=net-libs/webkit-gtk-2.18.5                                                     #        #
+=net-libs/webkit-gtk-2.18.6                                                      #        #
 ## testing:

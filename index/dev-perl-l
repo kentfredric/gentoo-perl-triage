@@ -18,9 +18,7 @@
 #=dev-perl/Lab-Measurement-9999                                                  #testing # NEED KEYWORDS
 =dev-perl/Lchown-1.10.0-r1                                                       #        #+
 #=dev-perl/Lchown-1.10.0-r2                                                      #testing #+
-#=dev-perl/Lexical-SealRequireHints-0.9.0                                        #testing # tests broken: 614968
-=dev-perl/Lexical-SealRequireHints-0.10.0                                        #        # tests broken: 614968
-#=dev-perl/Lexical-SealRequireHints-0.11.0                                       #        #+
+=dev-perl/Lexical-SealRequireHints-0.11.0                                        #        #+
 =dev-perl/Lingua-EN-Inflect-1.899.0                                              #        #+
 #=dev-perl/Lingua-EN-Inflect-1.901.0                                             #testing #+
 #=dev-perl/Lingua-EN-Inflect-1.902.0                                             #testing #+
@@ -69,9 +67,7 @@
 #=dev-perl/Log-Log4perl-1.480.0                                                  #testing #+
 #=dev-perl/Log-Log4perl-1.490.0                                                  #        #+
 =dev-perl/Log-TraceMessages-1.400.0-r1                                           #        #+
-=dev-perl/libintl-perl-1.200.0-r1                                                #        # broken: 613804, waiting on stabilization 621642
-#=dev-perl/libintl-perl-1.240.0                                                  #        # broken: 613804, waiting on stabilization 621642
-#=dev-perl/libintl-perl-1.240.0-r2                                               #        #+
+=dev-perl/libintl-perl-1.240.0-r2                                                #        #+
 #=dev-perl/libintl-perl-1.280.0                                                  #testing #+
 =dev-perl/libvorbis-perl-0.50.0-r1                                               #        #+
 #=dev-perl/libvorbis-perl-0.50.0-r2                                              #testing # broken 635792
@@ -112,6 +108,7 @@
 #=dev-perl/Log-Report-1.180.0                                                    #testing #+
 #=dev-perl/Log-Report-1.190.0                                                    #testing #+
 #=dev-perl/Log-Report-1.220.0                                                    #testing #+
+#=dev-perl/Log-Report-1.260.0                                                    #testing #+
 #=dev-perl/Log-Report-Optional-1.20.0                                            #testing #+
 #=dev-perl/Log-Report-Optional-1.30.0                                            #testing #+
 #=dev-perl/librg-utils-perl-1.0.43                                               #testing #+

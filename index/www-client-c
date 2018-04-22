@@ -1,8 +1,7 @@
 ## stable:
-=www-client/chromium-63.0.3239.108                                               #        # NEEDS DISK + MEMORY
-#=www-client/chromium-63.0.3239.132                                              #        # NEEDS DISK + MEMORY
-#=www-client/chromium-64.0.3282.71                                               #testing # NEEDS DISK + MEMORY
-#=www-client/chromium-64.0.3282.85                                               #testing # NEEDS DISK + MEMORY
-#=www-client/chromium-65.0.3298.3                                                #testing # NEEDS DISK + MEMORY
-#=www-client/chromium-65.0.3315.3                                                #testing # NEEDS DISK + MEMORY
+=www-client/chromium-65.0.3325.146                                               #        #
+#=www-client/chromium-65.0.3325.181                                              #testing #
+#=www-client/chromium-66.0.3359.45                                               #testing #
+#=www-client/chromium-66.0.3359.66                                               #testing #
+#=www-client/chromium-67.0.3377.1                                                #testing #
 ## testing:

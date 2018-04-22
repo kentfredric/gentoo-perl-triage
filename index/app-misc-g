@@ -3,6 +3,7 @@
 #=app-misc/g15daemon-1.9.5.3-r21                                                 #testing # NEEDS KEYWORDS
 #=app-misc/g15daemon-9999                                                        #testing # NEEDS KEYWORDS
 =app-misc/gcstar-1.7.0                                                           #        #+
+#=app-misc/gcstar-1.7.1                                                          #testing #+
 =app-misc/golly-2.7-r1                                                           #        # broken 630456
 #=app-misc/golly-2.8                                                             #testing # broken 611724
 ## testing:

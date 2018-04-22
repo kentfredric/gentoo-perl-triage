@@ -1,12 +1,17 @@
 ## stable:
 =dev-perl/Validate-Net-0.600.0-r1                                                #        #+
 =dev-perl/Variable-Magic-0.610.0                                                 #        #
+#=dev-perl/Variable-Magic-0.620.0                                                #testing #+
 =dev-perl/Video-Frequencies-0.03-r1                                              #        #+
+#=dev-perl/Video-Frequencies-0.03-r2                                             #testing #+
 =dev-perl/Video-Info-0.993.0-r1                                                  #        #+
+#=dev-perl/Video-Info-0.993.0-r2                                                 #testing #+
 =dev-perl/Video-ivtv-0.13-r1                                                     #        #+
+#=dev-perl/Video-ivtv-0.13-r2                                                    #testing #+
 ## testing:
 #=dev-perl/VM-EC2-1.280.0                                                        #testing #+
 #=dev-perl/VM-EC2-Security-CredentialCache-0.250.0                               #testing #+
 #=dev-perl/Validate-Tiny-1.551                                                   #testing #+
 #=dev-perl/Validate-Tiny-1.600                                                   #testing #+
+#=dev-perl/Validate-Tiny-1.600.0-r1                                              #testing #+
 #=dev-perl/Version-Next-1.0.0                                                    #testing #+

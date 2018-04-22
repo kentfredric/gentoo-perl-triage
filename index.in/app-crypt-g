@@ -6,5 +6,8 @@
 #=app-crypt/gnupg-2.2.1                                                          #testing #
 #=app-crypt/gnupg-2.2.3                                                          #testing #
 #=app-crypt/gnupg-2.2.4                                                          #        #
+#=app-crypt/gnupg-2.2.4-r1                                                       #testing #
+#=app-crypt/gnupg-2.2.4-r2                                                       #        #
+#=app-crypt/gnupg-2.2.5-r1                                                       #testing #
 =app-crypt/gpg-ringmgr-1.12                                                      #        #
 ## testing:

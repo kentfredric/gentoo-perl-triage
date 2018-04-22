@@ -1,7 +1,5 @@
 ## stable:
 =sys-devel/autoconf-2.13                                                         #        #
-#=sys-devel/autoconf-2.64                                                        #        #
-#=sys-devel/autoconf-2.69                                                        #        #
 #=sys-devel/autoconf-2.69-r4                                                     #        #
 #=sys-devel/autoconf-9999                                                        #testing #
 =sys-devel/automake-1.4_p6-r2                                                    #        #
@@ -9,13 +7,14 @@
 #=sys-devel/automake-1.6.3-r2                                                    #        #
 #=sys-devel/automake-1.7.9-r3                                                    #        #
 #=sys-devel/automake-1.8.5-r5                                                    #        #
-#=sys-devel/automake-1.9.6-r4                                                    #        #
-#=sys-devel/automake-1.10.3-r2                                                   #        #
-#=sys-devel/automake-1.11.6-r2                                                   #        #
-#=sys-devel/automake-1.12.6                                                      #        #
-#=sys-devel/automake-1.12.6-r1                                                   #        #
-#=sys-devel/automake-1.13.4-r1                                                   #        #
-#=sys-devel/automake-1.14.1-r1                                                   #        #
-#=sys-devel/automake-1.15.1-r1                                                   #        #
+#=sys-devel/automake-1.9.6-r5                                                    #        #
+#=sys-devel/automake-1.10.3-r3                                                   #        #
+#=sys-devel/automake-1.11.6-r3                                                   #        #
+#=sys-devel/automake-1.12.6-r2                                                   #        #
+#=sys-devel/automake-1.13.4-r2                                                   #        #
+#=sys-devel/automake-1.14.1-r2                                                   #        #
+#=sys-devel/automake-1.15.1-r2                                                   #        #
+#=sys-devel/automake-1.16-r2                                                     #testing #
+#=sys-devel/automake-1.16.1-r1                                                   #testing #
 #=sys-devel/automake-9999                                                        #testing #
 ## testing:
