@@ -1,15 +1,15 @@
 ## stable:
 =dev-lang/R-3.2.2                                                                #        #
 #=dev-lang/R-3.3.2                                                               #testing #
-#=dev-lang/R-3.4.1                                                               #testing #
+#=dev-lang/R-3.4.1                                                               #        #
 ## testing:
 #=dev-lang/rakudo-2018.01                                                        #testing #
 #=dev-lang/rakudo-2018.02                                                        #testing #
 #=dev-lang/rakudo-2018.02.1                                                      #testing #
 #=dev-lang/rakudo-2018.03                                                        #testing #
 #=dev-lang/rakudo-9999                                                           #testing #
-#=dev-lang/rust-1.15.1                                                           #testing #
 #=dev-lang/rust-1.16.0                                                           #testing #
 #=dev-lang/rust-1.19.0                                                           #testing #
 #=dev-lang/rust-1.23.0                                                           #testing #
 #=dev-lang/rust-1.23.0-r1                                                        #testing #
+#=dev-lang/rust-1.25.0                                                           #testing #

@@ -1,7 +1,7 @@
 ## stable:
 =net-print/cups-filters-1.17.9                                                   #        #+
 #=net-print/cups-filters-1.19.0                                                  #testing #+
-#=net-print/cups-filters-1.20.1                                                  #testing #+
 #=net-print/cups-filters-1.20.2                                                  #testing #+
+#=net-print/cups-filters-1.20.3                                                  #testing #+
 #=net-print/cups-filters-9999                                                    #testing # NEEDS KEYWORDS
 ## testing:

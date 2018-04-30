@@ -11,5 +11,6 @@
 #=media-libs/gegl-0.3.26                                                         #        #+
 #=media-libs/gegl-0.3.28                                                         #testing #+
 #=media-libs/gegl-0.3.30                                                         #testing #+
+#=media-libs/gegl-0.3.34                                                         #testing #+
 #=media-libs/gegl-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:

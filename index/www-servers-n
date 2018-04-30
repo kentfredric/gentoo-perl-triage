@@ -1,8 +1,5 @@
 ## stable:
 =www-servers/nginx-1.12.2-r1                                                     #        #+
-#=www-servers/nginx-1.13.8                                                       #testing #+
-#=www-servers/nginx-1.13.8-r1                                                    #testing #+
-#=www-servers/nginx-1.13.9                                                       #testing #+
-#=www-servers/nginx-1.13.10                                                      #testing #+
-#=www-servers/nginx-1.13.11                                                      #testing #+
+#=www-servers/nginx-1.13.12-r1                                                   #testing #+
+#=www-servers/nginx-1.14.0                                                       #testing #+
 ## testing:

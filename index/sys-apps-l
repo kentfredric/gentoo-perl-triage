@@ -1,6 +1,6 @@
 ## stable:
-=sys-apps/lm_sensors-3.4.0_p20160725                                             #        #+
-#=sys-apps/lm_sensors-3.4.0_p20170901                                            #        #+
+=sys-apps/lm_sensors-3.4.0_p20170901                                             #        #+
+#=sys-apps/lm_sensors-3.4.0_p20180318                                            #testing #+
 =sys-apps/lnxhc-1.2-r1                                                           #        #+
 =sys-apps/logwatch-7.4.3                                                         #        #+
 #=sys-apps/logwatch-7.4.3_p20171025                                              #testing #+

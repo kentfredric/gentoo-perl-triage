@@ -6,7 +6,6 @@
 #=dev-util/cloc-1.74                                                             #testing #+
 =dev-util/colorgcc-1.3.2-r7                                                      #        #+
 ## testing:
-#=dev-util/creduce-2.6.0                                                         #testing #+
 #=dev-util/creduce-2.7.0                                                         #testing #+
 #=dev-util/creduce-2.7.0-r1                                                      #testing #+
 #=dev-util/creduce-9999                                                          #testing # NEEDS KEYWORDS

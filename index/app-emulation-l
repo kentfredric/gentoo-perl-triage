@@ -1,6 +1,6 @@
 ## stable:
-=app-emulation/libvirt-4.1.0                                                     #        #+
-#=app-emulation/libvirt-4.1.0-r3                                                 #        #+
+=app-emulation/libvirt-4.1.0-r3                                                  #        #+
+#=app-emulation/libvirt-4.2.0                                                    #testing #+
 #=app-emulation/libvirt-9999                                                     #testing # NEEDS KEYWORDS
 ## testing:
 #=app-emulation/libguestfs-1.28.5-r3                                             #testing # broken gcc-5 601162

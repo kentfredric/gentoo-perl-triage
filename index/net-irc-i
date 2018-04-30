@@ -1,6 +1,6 @@
 ## stable:
 =net-irc/inspircd-2.0.23                                                         #        # broken: 621528
-#=net-irc/inspircd-2.0.25                                                        #testing #+
+#=net-irc/inspircd-2.0.25                                                        #        #+
 =net-irc/irssi-1.0.4                                                             #        #+
 #=net-irc/irssi-1.0.5                                                            #        #+
 #=net-irc/irssi-1.0.6                                                            #        #+

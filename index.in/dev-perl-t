@@ -10,9 +10,7 @@
 =dev-perl/Template-Plugin-Latex-3.60.0                                           #        #
 #=dev-perl/Template-Plugin-Latex-3.110.0                                         #testing #
 #=dev-perl/Template-Plugin-Latex-3.120.0                                         #testing #
-=dev-perl/Template-Toolkit-2.260.0                                               #        #
-#=dev-perl/Template-Toolkit-2.270.0                                              #testing #
-#=dev-perl/Template-Toolkit-2.270.0-r1                                           #        #
+=dev-perl/Template-Toolkit-2.270.0-r1                                            #        #
 =dev-perl/Template-XML-2.170.0-r1                                                #        #
 =dev-perl/Term-ANSIScreen-1.500.0-r1                                             #        #
 =dev-perl/Term-ProgressBar-2.170.0                                               #        #
@@ -165,8 +163,7 @@
 =dev-perl/Text-WrapI18N-0.60.0-r1                                                #        #
 =dev-perl/Text-Wrapper-1.50.0                                                    #        #
 =dev-perl/Text-vFile-asData-0.80.0                                               #        #
-=dev-perl/TheSchwartz-1.120.0                                                    #        #
-#=dev-perl/TheSchwartz-1.120.0-r1                                                #        #
+=dev-perl/TheSchwartz-1.120.0-r1                                                 #        #
 =dev-perl/Thread-SigMask-0.4.0                                                   #        #
 =dev-perl/Throwable-0.200.11                                                     #        #
 #=dev-perl/Throwable-0.200.13                                                    #        #

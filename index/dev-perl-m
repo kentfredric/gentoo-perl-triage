@@ -49,9 +49,8 @@
 =dev-perl/Math-GMP-2.60.0-r1                                                     #        #+
 #=dev-perl/Math-GMP-2.110.0                                                      #testing #+
 #=dev-perl/Math-GMP-2.150.0                                                      #testing #+
-=dev-perl/Math-Pari-2.10.806.50-r1                                               #        # broken: 613624, stabilize 2.10.809.0 after 07-11
-#=dev-perl/Math-Pari-2.10.808                                                    #testing # broken: 613624, stabilize 2.10.809.0 after 07-11
-#=dev-perl/Math-Pari-2.10.809.0                                                  #        #+
+=dev-perl/Math-Pari-2.10.806.50-r2                                               #        #
+#=dev-perl/Math-Pari-2.10.809.0-r1                                               #        #+
 =dev-perl/Math-Random-0.720.0                                                    #        #+
 =dev-perl/Math-Random-ISAAC-1.4.0-r1                                             #        #+
 =dev-perl/Math-Random-ISAAC-XS-1.4.0-r1                                          #        #+
@@ -76,8 +75,7 @@
 =dev-perl/Module-Find-0.130.0                                                    #        #+
 =dev-perl/Module-Implementation-0.90.0                                           #        #+
 =dev-perl/Module-Info-0.370.0-r1                                                 #        #+
-=dev-perl/Module-Install-1.160.0                                                 #        # broken: 614454, waiting on 622974 and 622982
-#=dev-perl/Module-Install-1.180.0                                                #        #+
+=dev-perl/Module-Install-1.180.0                                                 #        #+
 =dev-perl/Module-Install-AuthorTests-0.2.0                                       #        #+
 #=dev-perl/Module-Install-AuthorTests-0.2.0-r1                                   #testing #+
 =dev-perl/Module-Locate-1.800.0                                                  #        #+

@@ -1,6 +1,5 @@
 ## stable:
 =app-admin/logcheck-1.3.15-r2                                                    #        #+
-#=app-admin/logcheck-1.3.17                                                      #testing #+
-#=app-admin/logcheck-1.3.18                                                      #testing #+
+#=app-admin/logcheck-1.3.18-r1                                                   #testing #+
 =app-admin/lsat-0.9.7.1-r2                                                       #        #+
 ## testing:

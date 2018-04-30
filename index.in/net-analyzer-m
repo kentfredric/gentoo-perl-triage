@@ -6,7 +6,7 @@
 #=net-analyzer/mrtg-2.17.4-r2                                                    #testing #
 =net-analyzer/munin-2.0.33                                                       #        #
 #=net-analyzer/munin-2.0.33-r1                                                   #testing #
-#=net-analyzer/munin-2.0.34                                                      #testing #
+#=net-analyzer/munin-2.0.34                                                      #        #
 #=net-analyzer/munin-2.1.9999                                                    #testing #
 ## testing:
 #=net-analyzer/mk-livestatus-1.2.8_p10                                           #testing #

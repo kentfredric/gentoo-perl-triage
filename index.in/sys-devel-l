@@ -3,8 +3,8 @@
 #=sys-devel/llvm-3.5.2-r100                                                      #testing #
 #=sys-devel/llvm-3.6.2-r100                                                      #testing #
 #=sys-devel/llvm-3.7.1-r3                                                        #testing #
-=sys-devel/llvm-3.9.1-r1                                                         #        #
-#=sys-devel/llvm-4.0.1-r1                                                        #        #
+#=sys-devel/llvm-3.9.1-r1                                                        #testing #
+=sys-devel/llvm-4.0.1-r1                                                         #        #
 #=sys-devel/llvm-5.0.1                                                           #        #
 #=sys-devel/llvm-6.0.0                                                           #testing #
 #=sys-devel/llvm-6.0.9999                                                        #testing #
