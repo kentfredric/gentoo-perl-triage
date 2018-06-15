@@ -3,6 +3,5 @@
 #=app-office/gnucash-2.7.5                                                       #testing #
 #=app-office/gnucash-2.7.7-r1                                                    #testing #
 #=app-office/gnucash-3.0                                                         #testing #
-=app-office/gnumeric-1.12.35                                                     #        #
-#=app-office/gnumeric-1.12.38                                                    #testing #+
+=app-office/gnumeric-1.12.38                                                     #        #+
 ## testing:

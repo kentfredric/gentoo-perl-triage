@@ -5,6 +5,7 @@
 #=dev-libs/openssl-1.0.2o                                                        #        #
 #=dev-libs/openssl-1.0.2o-r1                                                     #testing #
 #=dev-libs/openssl-1.1.0h-r1                                                     #testing #
+#=dev-libs/openssl-1.1.1_pre5                                                    #testing #
 =dev-libs/ossp-uuid-1.6.2-r4                                                     #        #
 #=dev-libs/ossp-uuid-1.6.2-r6                                                    #        #
 ## testing:

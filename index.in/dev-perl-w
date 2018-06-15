@@ -1,6 +1,4 @@
 ## stable:
-=dev-perl/WWW-Bugzilla-1.500.0-r1                                                #        #
-#=dev-perl/WWW-Bugzilla-1.500.0-r2                                               #testing #
 =dev-perl/WWW-Curl-4.170.0                                                       #        #
 #=dev-perl/WWW-Curl-4.170.0-r1                                                   #testing #
 =dev-perl/WWW-Form-UrlEncoded-0.240.0                                            #        #

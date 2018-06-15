@@ -1,6 +1,0 @@
-## stable:
-=mail-filter/qmail-scanner-1.25-r1                                               #        # broken: 623596
-#=mail-filter/qmail-scanner-2.05                                                 #        # broken dep problem 639130
-#=mail-filter/qmail-scanner-2.06                                                 #testing # broken dep problem 639130
-#=mail-filter/qmail-scanner-2.08                                                 #        # broken dep problem 639130
-## testing:

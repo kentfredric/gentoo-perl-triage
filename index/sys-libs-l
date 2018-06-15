@@ -9,8 +9,7 @@
 #=sys-libs/libomp-6.0.0                                                          #testing #
 #=sys-libs/libomp-6.0.9999                                                       #testing # NEEDS KEYWORDS
 #=sys-libs/libomp-9999                                                           #testing # NEEDS KEYWORDS
-=sys-libs/libosinfo-1.0.0-r1                                                     #        #+
-#=sys-libs/libosinfo-1.1.0                                                       #testing #+
+=sys-libs/libosinfo-1.1.0                                                        #        #+
 ## testing:
 #=sys-libs/libhugetlbfs-2.18                                                     #testing # broken 616074
 #=sys-libs/libhugetlbfs-2.19                                                     #testing # broken 616074

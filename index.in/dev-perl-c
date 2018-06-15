@@ -7,11 +7,13 @@
 #=dev-perl/CGI-4.310.0                                                           #testing #
 #=dev-perl/CGI-4.330.0                                                           #testing #
 #=dev-perl/CGI-4.360.0                                                           #        #
+#=dev-perl/CGI-4.380.0                                                           #testing #
 =dev-perl/CGI-Compile-0.220.0                                                    #        #
 =dev-perl/CGI-Emulate-PSGI-0.230.0                                               #        #
 =dev-perl/CGI-Fast-2.100.0                                                       #        #
 #=dev-perl/CGI-Fast-2.110.0                                                      #testing #
 #=dev-perl/CGI-Fast-2.120.0                                                      #        #
+#=dev-perl/CGI-Fast-2.130.0                                                      #testing #
 =dev-perl/CGI-FastTemplate-1.90.0-r2                                             #        #
 =dev-perl/CGI-FormBuilder-3.100.0                                                #        #
 =dev-perl/CGI-PSGI-0.150.0-r1                                                    #        #
@@ -22,6 +24,7 @@
 =dev-perl/CPAN-Meta-Check-0.14.0                                                 #        #
 =dev-perl/CPAN-Mini-1.111.16                                                     #        #
 =dev-perl/CPAN-Perl-Releases-3.380.0                                             #        #
+#=dev-perl/CPAN-Perl-Releases-3.560.0                                            #testing #
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #        #
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #        #
 =dev-perl/Cache-2.110.0                                                          #        #
@@ -30,12 +33,9 @@
 =dev-perl/Cache-Simple-TimedExpiry-0.270.0-r1                                    #        #
 =dev-perl/Cairo-1.106.0                                                          #        #
 =dev-perl/Calendar-Simple-1.210.0-r1                                             #        #
-=dev-perl/Canary-Stability-2006                                                  #        #
-#=dev-perl/Canary-Stability-2011.0.0                                             #testing #
-#=dev-perl/Canary-Stability-2012.0.0                                             #        #
-=dev-perl/Capture-Tiny-0.360.0                                                   #        #
-#=dev-perl/Capture-Tiny-0.420.0                                                  #testing #
-#=dev-perl/Capture-Tiny-0.460.0                                                  #        #
+#=dev-perl/Calendar-Simple-1.230.0                                               #testing #
+=dev-perl/Canary-Stability-2012.0.0                                              #        #
+=dev-perl/Capture-Tiny-0.460.0                                                   #        #
 =dev-perl/Carp-Always-0.130.0                                                    #        #
 =dev-perl/Carp-Assert-0.210.0                                                    #        #
 =dev-perl/Carp-Assert-More-1.160.0                                               #        #
@@ -59,8 +59,7 @@
 =dev-perl/Class-ErrorHandler-0.40.0                                              #        #
 =dev-perl/Class-Factory-Util-1.700.0-r2                                          #        #
 =dev-perl/Class-ISA-0.360.0                                                      #        #
-=dev-perl/Class-Inspector-1.310.0                                                #        #
-#=dev-perl/Class-Inspector-1.320.0                                               #        #
+=dev-perl/Class-Inspector-1.320.0                                                #        #
 =dev-perl/Class-Load-0.200.0-r1                                                  #        #
 #=dev-perl/Class-Load-0.230.0                                                    #        #
 #=dev-perl/Class-Load-0.240.0                                                    #        #
@@ -79,8 +78,7 @@
 =dev-perl/Class-WhiteHole-0.40.0-r1                                              #        #
 =dev-perl/Class-XPath-1.400.0-r1                                                 #        #
 =dev-perl/Class-XSAccessor-1.190.0                                               #        #
-=dev-perl/Clipboard-0.130.0-r2                                                   #        #
-#=dev-perl/Clipboard-0.130.0-r3                                                  #        #
+=dev-perl/Clipboard-0.130.0-r3                                                   #        #
 =dev-perl/Clone-0.390.0                                                          #        #
 =dev-perl/Color-Calc-1.74.0                                                      #        #
 =dev-perl/Color-Library-0.21.0-r1                                                #        #
@@ -131,6 +129,7 @@
 #=dev-perl/Crypt-OpenSSL-Bignum-0.70.0                                           #testing #
 #=dev-perl/Crypt-OpenSSL-Bignum-0.80.0                                           #testing #
 #=dev-perl/Crypt-OpenSSL-Bignum-0.80.0-r1                                        #testing #
+#=dev-perl/Crypt-OpenSSL-Bignum-0.90.0                                           #testing #
 #=dev-perl/Crypt-OpenSSL-DSA-0.150.0-r1                                          #testing #
 #=dev-perl/Crypt-OpenSSL-DSA-0.180.0                                             #testing #
 =dev-perl/Crypt-OpenSSL-DSA-0.190.0                                              #        #
@@ -171,8 +170,10 @@
 #=dev-perl/CQL-Parser-1.130.0                                                    #testing #
 #=dev-perl/CSS-Minifier-0.10.0-r1                                                #testing #
 #=dev-perl/CSS-Packer-2.30.0                                                     #testing #
+#=dev-perl/CSS-Packer-2.50.0                                                     #testing #
 #=dev-perl/CSS-Tiny-1.200.0                                                      #testing #
 #=dev-perl/Cache-FastMmap-1.460.0                                                #testing #
+#=dev-perl/Cache-FastMmap-1.470.0                                                #testing #
 #=dev-perl/Cache-Memcached-Fast-0.250.0                                          #testing #
 #=dev-perl/Cisco-IPPhone-0.50.0-r2                                               #testing #
 #=dev-perl/Class-Adapter-1.80.0-r1                                               #testing #

@@ -34,8 +34,8 @@
 #=dev-perl/URI-Find-20160806.0.0                                                 #testing #+
 #=dev-perl/URI-redis-0.20.0                                                      #testing #+
 #=dev-perl/USB-LibUSB-0.50.0                                                     #testing #+
-#=dev-perl/USB-TMC-0.5.0                                                         #testing #+
 #=dev-perl/USB-TMC-0.6.0                                                         #testing #+
+#=dev-perl/USB-TMC-0.7.0                                                         #testing #+
 #=dev-perl/UUID-0.250.0                                                          #testing #+
 #=dev-perl/UUID-0.260.0                                                          #testing #+
 #=dev-perl/UUID-0.270.0                                                          #testing #+

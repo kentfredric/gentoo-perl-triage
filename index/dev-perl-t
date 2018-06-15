@@ -226,6 +226,7 @@
 #=dev-perl/Test-Deep-JSON-0.30.0                                                 #testing #+
 #=dev-perl/Test-Deep-JSON-0.40.0                                                 #testing #+
 #=dev-perl/Test-Dependencies-0.230.0                                             #testing #+
+#=dev-perl/Test-File-Contents-0.230.0                                            #testing #+
 #=dev-perl/Test-File-ShareDir-1.1.2                                              #testing #+
 #=dev-perl/Test-Files-0.140.0                                                    #testing #+
 #=dev-perl/Test-MinimumVersion-0.101.82                                          #testing #+

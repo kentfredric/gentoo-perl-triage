@@ -61,6 +61,7 @@
 =dev-perl/XML-SimpleObject-0.530.0-r1                                            #        #+
 =dev-perl/XML-Stream-1.240.0                                                     #        #+
 #=dev-perl/XML-Stream-1.240.0-r1                                                 #testing #+
+=dev-perl/XML-TreePP-0.430.0-r1                                                  #        #+
 =dev-perl/XML-Twig-3.520.0                                                       #        #+
 =dev-perl/XML-Writer-0.625.0                                                     #        #+
 =dev-perl/XML-XPath-1.130.0-r1                                                   #        #+
@@ -73,8 +74,7 @@
 ## testing:
 #=dev-perl/X-Osd-0.700.0-r1                                                      #testing #+
 #=dev-perl/X-Osd-0.700.0-r2                                                      #testing #+
-#=dev-perl/X11-XCB-0.160.0                                                       #testing #+
-#=dev-perl/X11-XCB-0.170.0                                                       #testing #+
+#=dev-perl/X11-XCB-0.170.0-r1                                                    #testing #+
 #=dev-perl/XML-CompactTree-XS-0.20.0-r1                                          #testing #+
 #=dev-perl/XML-CompactTree-XS-0.30.0                                             #testing #+
 #=dev-perl/XML-Compile-1.540.0                                                   #testing #+
@@ -97,8 +97,6 @@
 #=dev-perl/XML-Simple-DTDReader-0.40.0-r1                                        #testing #+
 #=dev-perl/XML-Smart-1.790.0                                                     #testing #+
 #=dev-perl/XML-TokeParser-0.50.0                                                 #testing #+
-#=dev-perl/XML-TreePP-0.430.0                                                    #testing #+
-#=dev-perl/XML-TreePP-0.430.0-r1                                                 #testing #+
 #=dev-perl/XML-Validator-Schema-1.100.0                                          #testing #+
 #=dev-perl/XMLRPC-Lite-0.717.0                                                   #testing #+
 #=dev-perl/XS-Object-Magic-0.40.0-r3                                             #testing #+

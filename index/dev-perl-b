@@ -1,5 +1,6 @@
 ## stable:
 =dev-perl/B-Hooks-EndOfScope-0.210.0                                             #        #+
+#=dev-perl/B-Hooks-EndOfScope-0.240.0                                            #testing #+
 =dev-perl/B-Hooks-OP-Check-0.220.0                                               #        #+
 =dev-perl/B-Keywords-1.150.0                                                     #        #+
 #=dev-perl/B-Keywords-1.180.0                                                    #testing #+
@@ -25,6 +26,7 @@
 #=dev-perl/BSON-1.4.0                                                            #testing #+
 #=dev-perl/BZ-Client-4.400.200                                                   #testing #+
 #=dev-perl/Benchmark-Timer-0.710.700                                             #testing #+
+#=dev-perl/Bio-DB-HTS-2.10                                                       #testing #
 #=dev-perl/Bio-Das-1.170.0-r2                                                    #testing #+
 #=dev-perl/Bio-Graphics-2.390.0                                                  #testing #+
 #=dev-perl/Bio-Graphics-2.400.0                                                  #testing #+

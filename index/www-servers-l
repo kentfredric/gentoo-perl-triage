@@ -1,8 +1,6 @@
 ## stable:
-=www-servers/lighttpd-1.4.42                                                     #        #+
-#=www-servers/lighttpd-1.4.43                                                    #testing #+
-#=www-servers/lighttpd-1.4.44                                                    #testing #+
-#=www-servers/lighttpd-1.4.45                                                    #        #+
-#=www-servers/lighttpd-1.4.47                                                    #testing #+
+=www-servers/lighttpd-1.4.45                                                     #        #+
+#=www-servers/lighttpd-1.4.45-r1                                                 #        #
+#=www-servers/lighttpd-1.4.49                                                    #testing #
 #=www-servers/lighttpd-9999                                                      #testing # NEEDS KEYWORDS
 ## testing:
