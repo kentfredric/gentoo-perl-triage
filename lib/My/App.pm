@@ -622,32 +622,81 @@ sub cmd_merge_status {
         if ( exists $index->{data}->{$atom} ) {
             my $line_color;
 
-            if ( ( $index->{data}->{$atom}->{whiteboard} || '' ) eq '+' ) {
-                if ( $line !~ /^pass/ ) {
-                    $line_color = "\e[43;30;1m";
-                }
-                else {
-                    $line_color = "\e[32m";
-                }
+            my $grade = '';
+
+            my $whiteboard = ( $index->{data}->{$atom}->{whiteboard} || '' );
+            $whiteboard =~ s/\A\s+//;
+            $whiteboard =~ s/\s+\z//;
+
+            my $age = length $whiteboard ? 'new' : 'old';
+            my $old_status =
+                $whiteboard eq '+' ? 'pass'
+              : $age eq 'new'      ? 'new'
+              :                      'fail';
+
+            if ( $whiteboard eq '+' and $line =~ /^pass/ ) {
+                $line_color = "\e[32m";
+                $grade      = "confirming pass";
+                next if $self->{show_interesting};
+            }
+            elsif ( $whiteboard eq '+' ) {
+                $line_color = "\e[41;33;1m";
+                $grade      = "opposing failure";
+                next if $self->{show_ignorable};
+            }
+            elsif ( length $whiteboard and $line =~ /^pass/ ) {
+                $line_color = "\e[33m";
+                $grade      = "opposing pass";
+                next if $self->{show_interesting};
+                next if $self->{show_ignorable};
+            }
+            elsif ( length $whiteboard ) {
+                $line_color = "\e[40;31;1m";
+                $grade      = "confirming failure";
+                next if $self->{show_interesting};
+            }
+            elsif ( $line =~ /^pass/ ) {
+                $line_color = "\e[42;33;1m";
+                $grade      = "new pass";
+                next if $self->{show_ignorable};
             }
             else {
-                if ( $line =~ /^pass/ ) {
-                    $line_color = "\e[43;30;1m";
-                }
-                else {
-                    $line_color = "\e[40;31;1m";
-                }
+                $line_color = "\e[41;33;1m";
+                $grade      = "new failure";
+                next if $self->{show_ignorable};
+            }
+            my $grademsg = '';
+            if ( length $grade ) {
+              $grademsg = sprintf "%s ( %s ) \e[0m", $line_color, $grade;
             }
 
-            printf "%s\n \e[33m%s-%s\e[0m -> %s #\e[36m%s\e[0m\n\n",
+            if ( not $self->{simple_format} ) {
+            printf "%s\n \e[33m%s-%s\e[0m -> %s #\e[36m%s\e[0m %s\n\n",
               "$line_color████▶\e[0m $line\e[0m $line_color◀████\e[0m",
-              $cat, $letter, $atom, $index->{data}->{$atom}->{whiteboard} || '';
+              $cat, $letter, $atom, $whiteboard, $grademsg
+            } else {
+              $line =~ s/[ ][^ ]+$//;
+              printf "%s | \e[36m%s\e[0m %s\n", $line, $whiteboard, $grademsg;
+            }
         }
         else {
             printf "%s: %s\n", $line, "\e[31m: NO DATA IN $cat-$letter\e[0m";
             next;
         }
     }
+}
+
+sub cmd_merge_interesting {
+  my ( $self, $status_file ) = @_;
+  local $self->{show_interesting} = 1;
+  return $self->cmd_merge_status( $status_file );
+}
+
+sub cmd_merge_ignore {
+  my ( $self, $status_file ) = @_;
+  local $self->{show_ignorable} = 1;
+  local $self->{simple_format}  = 1;
+  return $self->cmd_merge_status( $status_file );
 }
 
 1;
