@@ -1,13 +1,11 @@
 ## stable:
 =dev-libs/openssl-0.9.8z_p8                                                      #        #
 #=dev-libs/openssl-0.9.8z_p8-r1                                                  #        #
-#=dev-libs/openssl-1.0.2n                                                        #        #
-#=dev-libs/openssl-1.0.2o                                                        #        #
-#=dev-libs/openssl-1.0.2o-r1                                                     #testing #
-#=dev-libs/openssl-1.1.0h-r1                                                     #testing #
-#=dev-libs/openssl-1.1.1_pre5                                                    #testing #
+#=dev-libs/openssl-1.0.2o-r3                                                     #        #
+#=dev-libs/openssl-1.0.2o-r6                                                     #testing #
+#=dev-libs/openssl-1.1.0h-r2                                                     #testing #
+#=dev-libs/openssl-1.1.1_pre7-r1                                                 #testing #
 =dev-libs/ossp-uuid-1.6.2-r4                                                     #        #
 #=dev-libs/ossp-uuid-1.6.2-r6                                                    #        #
 ## testing:
-#=dev-libs/OpenSRF-1.2.0                                                         #testing #
 #=dev-libs/OpenSRF-2.1.1                                                         #testing #

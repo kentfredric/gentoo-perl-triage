@@ -17,6 +17,8 @@
 #=dev-perl/Role-Tiny-2.0.5                                                       #        #
 #=dev-perl/Role-Tiny-2.0.6                                                       #testing #
 =dev-perl/Roman-1.240.0                                                          #        #
+#=dev-perl/Router-Simple-0.140.0-r1                                              #testing #
+=dev-perl/Router-Simple-0.170.0                                                  #        #
 =dev-perl/rename-1.900.0                                                         #        #
 ## testing:
 #=dev-perl/REST-Client-273                                                       #testing #
@@ -40,5 +42,3 @@
 #=dev-perl/Regexp-Util-0.3.0                                                     #testing #
 #=dev-perl/Role-HasMessage-0.6.0                                                 #testing #
 #=dev-perl/Role-Identifiable-0.7.0                                               #testing #
-#=dev-perl/Router-Simple-0.140.0-r1                                              #testing #
-#=dev-perl/Router-Simple-0.170.0                                                 #testing #

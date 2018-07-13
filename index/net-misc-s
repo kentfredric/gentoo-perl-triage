@@ -8,7 +8,9 @@
 #=net-misc/sslh-9999                                                             #testing # NEEDS KEYWORDS
 =net-misc/stunnel-5.36                                                           #        #+
 #=net-misc/stunnel-5.40                                                          #testing #+
-#=net-misc/stunnel-5.43                                                          #testing #+
+#=net-misc/stunnel-5.43                                                          #        #+
 #=net-misc/stunnel-5.44                                                          #testing #+
+#=net-misc/stunnel-5.45                                                          #testing #+
+#=net-misc/stunnel-5.46                                                          #testing #+
 ## testing:
 #=net-misc/ssh-chain-20131217                                                    #testing #+

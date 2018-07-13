@@ -2,8 +2,5 @@
 =net-misc/clusterssh-4.03.03                                                     #        #
 #=net-misc/clusterssh-4.30.600                                                   #testing #
 #=net-misc/clusterssh-9999                                                       #testing #
-=net-misc/curl-7.57.0                                                            #        #
-#=net-misc/curl-7.57.0-r1                                                        #testing #
-#=net-misc/curl-7.58.0                                                           #        #
-#=net-misc/curl-7.59.0                                                           #        #
+=net-misc/curl-7.60.0                                                            #        #
 ## testing:

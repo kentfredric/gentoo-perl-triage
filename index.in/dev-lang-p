@@ -1,8 +1,6 @@
 ## stable:
-=dev-lang/perl-5.24.3                                                            #        #
-#=dev-lang/perl-5.24.3-r1                                                        #        #
+=dev-lang/perl-5.24.3-r1                                                         #        #
 #=dev-lang/perl-5.24.4                                                           #testing #
-#=dev-lang/perl-5.26.1                                                           #testing #
 #=dev-lang/perl-5.26.1-r1                                                        #testing #
 #=dev-lang/perl-5.26.1-r2                                                        #testing #
 #=dev-lang/perl-5.26.2                                                           #testing #

@@ -8,7 +8,7 @@
 #=dev-perl/WWW-Mechanize-1.840.0                                                 #testing #
 #=dev-perl/WWW-Mechanize-1.870.0                                                 #testing #
 =dev-perl/WWW-Mechanize-FormFiller-0.110.0                                       #        #
-#=dev-perl/WWW-Mechanize-FormFiller-0.120.0                                      #testing #
+#=dev-perl/WWW-Mechanize-FormFiller-0.120.0                                      #        #
 =dev-perl/WWW-RobotRules-6.20.0                                                  #        #
 #=dev-perl/WWW-RobotRules-6.20.0-r1                                              #testing #
 =dev-perl/Want-0.290.0                                                           #        #
@@ -20,7 +20,7 @@
 #=dev-perl/WebService-MusicBrainz-1.0.4                                          #testing #
 =dev-perl/Wx-0.992.800                                                           #        #
 #=dev-perl/Wx-0.993.200                                                          #testing #
-#=dev-perl/Wx-0.993.200-r1                                                       #testing #
+#=dev-perl/Wx-0.993.200-r1                                                       #        #
 ## testing:
 #=dev-perl/WWW-Dict-Leo-Org-1.400.0                                              #testing #
 #=dev-perl/WWW-Dict-Leo-Org-2.0.0                                                #testing #

@@ -5,4 +5,6 @@
 #=dev-lang/ghc-8.2.1                                                             #testing #
 #=dev-lang/ghc-8.2.2                                                             #testing #
 #=dev-lang/ghc-8.4.1                                                             #testing #
+#=dev-lang/ghc-8.4.2                                                             #testing #
+#=dev-lang/ghc-8.4.3                                                             #testing #
 ## testing:

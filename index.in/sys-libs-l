@@ -6,6 +6,7 @@
 #=sys-libs/libieee1284-0.2.11-r6                                                 #        #
 =sys-libs/libomp-4.0.1                                                           #        #
 #=sys-libs/libomp-5.0.1                                                          #        #
+#=sys-libs/libomp-5.0.2                                                          #        #
 #=sys-libs/libomp-6.0.0                                                          #testing #
 #=sys-libs/libomp-6.0.9999                                                       #testing #
 #=sys-libs/libomp-9999                                                           #testing #

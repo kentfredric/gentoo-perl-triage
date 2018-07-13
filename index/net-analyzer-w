@@ -1,6 +1,6 @@
 ## stable:
 =net-analyzer/wireshark-2.4.5                                                    #        #+
 #=net-analyzer/wireshark-2.4.6                                                   #        #+
-#=net-analyzer/wireshark-2.6.0                                                   #testing #+
+#=net-analyzer/wireshark-2.6.1                                                   #        #+
 #=net-analyzer/wireshark-99999999                                                #testing # NEEDS KEYWORDS
 ## testing:

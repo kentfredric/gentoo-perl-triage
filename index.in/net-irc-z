@@ -1,5 +1,6 @@
 ## stable:
 =net-irc/znc-1.6.5                                                               #        #
 #=net-irc/znc-1.6.6                                                              #        #
+#=net-irc/znc-1.7.0                                                              #testing #
 #=net-irc/znc-9999                                                               #testing #
 ## testing:

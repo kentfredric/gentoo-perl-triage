@@ -2,5 +2,6 @@
 =app-text/texi2html-5.0-r1                                                       #        #
 =app-text/texlive-core-2016-r6                                                   #        #
 #=app-text/texlive-core-2017-r3                                                  #        #
+#=app-text/texlive-core-2017-r4                                                  #testing #
 =app-text/txt2pdbdoc-1.4.4                                                       #        #
 ## testing:

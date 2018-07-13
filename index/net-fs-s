@@ -1,10 +1,7 @@
 ## stable:
 #=net-fs/samba-4.2.14                                                            #testing # broken 616774
 =net-fs/samba-4.5.16                                                             #        #+
-#=net-fs/samba-4.6.14                                                            #testing #+
 #=net-fs/samba-4.6.15                                                            #testing #+
-#=net-fs/samba-4.7.6                                                             #testing #+
 #=net-fs/samba-4.7.7                                                             #testing #+
-#=net-fs/samba-4.8.0                                                             #testing #+
-#=net-fs/samba-4.8.1                                                             #testing #+
+#=net-fs/samba-4.8.2                                                             #testing #+
 ## testing:

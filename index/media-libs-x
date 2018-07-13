@@ -1,5 +1,4 @@
 ## stable:
-=media-libs/x264-0.0.20160712                                                    #        #+
-#=media-libs/x264-0.0.20170701                                                   #        #+
+=media-libs/x264-0.0.20170701                                                    #        #+
 #=media-libs/x264-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:

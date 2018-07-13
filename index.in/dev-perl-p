@@ -15,7 +15,7 @@
 =dev-perl/POE-1.367                                                              #        #
 =dev-perl/POE-Test-Loops-1.360.0                                                 #        #
 =dev-perl/POSIX-strftime-Compiler-0.410.0                                        #        #
-#=dev-perl/POSIX-strftime-Compiler-0.420.0                                       #testing #
+#=dev-perl/POSIX-strftime-Compiler-0.420.0                                       #        #
 =dev-perl/PPI-1.224.0                                                            #        #
 #=dev-perl/PPI-1.236.0                                                           #testing #
 =dev-perl/PPIx-Regexp-0.48.0                                                     #        #
@@ -69,6 +69,7 @@
 #=dev-perl/PerlIO-eol-0.160.0                                                    #testing #
 =dev-perl/PerlIO-gzip-0.190.0                                                    #        #
 #=dev-perl/PerlIO-gzip-0.200.0                                                   #testing #
+=dev-perl/PerlIO-utf8_strict-0.7.0                                               #        #
 =dev-perl/PerlIO-via-Timeout-0.320.0                                             #        #
 =dev-perl/PerlIO-via-dynamic-0.140.0-r1                                          #        #
 =dev-perl/PlRPC-0.202.0-r2                                                       #        #
@@ -143,7 +144,6 @@
 #=dev-perl/Perl-Unsafe-Signals-0.30.0                                            #testing #
 #=dev-perl/Perl-Unsafe-Signals-0.30.0-r1                                         #testing #
 #=dev-perl/Perl-Version-1.13.0                                                   #testing #
-#=dev-perl/PerlIO-utf8_strict-0.7.0                                              #testing #
 #=dev-perl/Perlbal-1.800.0-r1                                                    #testing #
 #=dev-perl/Perlbal-1.800.0-r2                                                    #testing #
 #=dev-perl/Perlbal-XS-HTTPHeaders-0.200.0-r1                                     #testing #
