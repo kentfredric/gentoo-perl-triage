@@ -1,5 +1,5 @@
 ## stable:
-=sys-apps/texinfo-6.1                                                            #        #+
+=sys-apps/texinfo-6.1                                                            #        #
 #=sys-apps/texinfo-6.3                                                           #        # broken 574740
 #=sys-apps/texinfo-6.4                                                           #testing # broken 574740
 #=sys-apps/texinfo-6.5                                                           #testing # broken 574740

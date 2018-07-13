@@ -7,4 +7,5 @@
 #=sys-kernel/linux-headers-4.15                                                  #testing #
 #=sys-kernel/linux-headers-4.16                                                  #testing #
 #=sys-kernel/linux-headers-4.16-r1                                               #testing #
+#=sys-kernel/linux-headers-4.17                                                  #testing #
 ## testing:

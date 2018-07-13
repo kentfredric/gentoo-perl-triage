@@ -1,11 +1,11 @@
 ## stable:
-=app-emulation/libvirt-4.1.0-r3                                                  #        #
-#=app-emulation/libvirt-4.2.0                                                    #testing #
-#=app-emulation/libvirt-4.3.0                                                    #        #
+=app-emulation/libvirt-4.3.0                                                     #        #
+#=app-emulation/libvirt-4.4.0-r1                                                 #testing #
+#=app-emulation/libvirt-4.5.0-r1                                                 #testing #
 #=app-emulation/libvirt-9999                                                     #testing #
 ## testing:
 #=app-emulation/libguestfs-1.28.5-r3                                             #testing #
 #=app-emulation/libguestfs-1.36.5                                                #testing #
 #=app-emulation/libguestfs-1.36.13                                               #testing #
-#=app-emulation/libspectrum-1.4.1                                                #testing #
 #=app-emulation/libspectrum-1.4.2                                                #testing #
+#=app-emulation/libspectrum-1.4.4                                                #testing #

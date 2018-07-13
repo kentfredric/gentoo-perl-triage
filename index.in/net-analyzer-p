@@ -1,10 +1,5 @@
 ## stable:
 =net-analyzer/pbnj-2.04                                                          #        #
-=net-analyzer/pnp4nagios-0.6.24                                                  #        #
-#=net-analyzer/pnp4nagios-0.6.25                                                 #testing #
-#=net-analyzer/pnp4nagios-0.6.25-r1                                              #testing #
-#=net-analyzer/pnp4nagios-0.6.25-r2                                              #        #
-#=net-analyzer/pnp4nagios-0.6.25-r3                                              #testing #
-#=net-analyzer/pnp4nagios-0.6.26-r9                                              #        #
+=net-analyzer/pnp4nagios-0.6.26-r9                                               #        #
 ## testing:
 #=net-analyzer/prelude-nessus-20021107                                           #testing #

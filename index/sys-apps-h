@@ -1,10 +1,11 @@
 ## stable:
-=sys-apps/help2man-1.47.4                                                        #        #+
-#=sys-apps/help2man-1.47.5                                                       #testing #+
-#=sys-apps/help2man-1.47.6                                                       #testing #+
-=sys-apps/hwids-20170328                                                         #        #+
-#=sys-apps/hwids-20170715                                                        #testing #+
-#=sys-apps/hwids-20171003                                                        #        #+
-#=sys-apps/hwids-20180315                                                        #testing #+
+=sys-apps/help2man-1.47.4                                                        #        #
+#=sys-apps/help2man-1.47.5                                                       #testing #
+#=sys-apps/help2man-1.47.6                                                       #testing #
+=sys-apps/hwids-20170328                                                         #        #
+#=sys-apps/hwids-20170715                                                        #testing #
+#=sys-apps/hwids-20171003                                                        #        #
+#=sys-apps/hwids-20180315                                                        #testing #
+#=sys-apps/hwids-20180518                                                        #testing #
 #=sys-apps/hwids-99999999                                                        #testing # NEEDS KEYWORDS
 ## testing:

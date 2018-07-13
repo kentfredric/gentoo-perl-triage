@@ -30,6 +30,7 @@
 =dev-perl/Archive-Any-0.94.500                                                   #        #
 =dev-perl/Archive-Extract-0.800.0                                                #        #
 =dev-perl/Archive-Zip-1.600.0                                                    #        #
+#=dev-perl/Archive-Zip-1.600.0-r1                                                #testing #
 =dev-perl/Array-Compare-3.0.0                                                    #        #
 #=dev-perl/Array-Compare-3.0.1                                                   #        #
 =dev-perl/Array-RefElem-1.0.0-r1                                                 #        #

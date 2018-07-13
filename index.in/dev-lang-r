@@ -2,6 +2,7 @@
 =dev-lang/R-3.2.2                                                                #        #
 #=dev-lang/R-3.3.2                                                               #testing #
 #=dev-lang/R-3.4.1                                                               #        #
+#=dev-lang/R-3.5.1                                                               #testing #
 ## testing:
 #=dev-lang/rakudo-2018.01                                                        #testing #
 #=dev-lang/rakudo-2018.02                                                        #testing #
@@ -10,4 +11,5 @@
 #=dev-lang/rakudo-2018.04                                                        #testing #
 #=dev-lang/rakudo-2018.04.1                                                      #testing #
 #=dev-lang/rakudo-2018.05                                                        #testing #
+#=dev-lang/rakudo-2018.06                                                        #testing #
 #=dev-lang/rakudo-9999                                                           #testing #

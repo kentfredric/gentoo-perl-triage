@@ -1,5 +1,5 @@
 ## stable:
-=media-gfx/album-4.07                                                            #        #+
-#=media-gfx/album-4.13-r1                                                        #testing #+
-=media-gfx/asymptote-2.41-r1                                                     #        #+
+=media-gfx/album-4.07                                                            #        #
+#=media-gfx/album-4.13-r1                                                        #testing #
+=media-gfx/asymptote-2.41-r1                                                     #        #
 ## testing:

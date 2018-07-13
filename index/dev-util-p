@@ -1,11 +1,11 @@
 ## stable:
 ## testing:
-#=dev-util/perf-3.12                                                             #testing #+
-#=dev-util/perf-3.13.1-r1                                                        #testing #+
+#=dev-util/perf-3.12                                                             #testing #
+#=dev-util/perf-3.13.1-r1                                                        #testing #
 #=dev-util/perf-3.15.5                                                           #testing # broken: 623520
-#=dev-util/perf-4.1.5-r1                                                         #testing #+
-#=dev-util/perf-4.4.4                                                            #testing #+
-#=dev-util/perf-4.9.13                                                           #testing #+
-#=dev-util/perf-4.14.33                                                          #testing #+
+#=dev-util/perf-4.1.5-r1                                                         #testing #
+#=dev-util/perf-4.4.4                                                            #testing #
+#=dev-util/perf-4.9.13                                                           #testing #
+#=dev-util/perf-4.14.33                                                          #testing #
 #=dev-util/pkgconfig-openbsd-20130507-r1                                         #testing #
 #=dev-util/pkgconfig-openbsd-20130507-r2                                         #testing #

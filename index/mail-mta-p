@@ -1,8 +1,9 @@
 ## stable:
 #=mail-mta/postfix-2.10.9                                                        #testing # NEED KEYWORDS
-=mail-mta/postfix-3.1.6                                                          #        #+
-#=mail-mta/postfix-3.2.4                                                         #        #+
-#=mail-mta/postfix-3.2.6                                                         #testing #+
-#=mail-mta/postfix-3.3.1                                                         #testing #+
-#=mail-mta/postfix-3.4_pre20180603                                               #testing # NEEDS KEYWORDS
+=mail-mta/postfix-3.1.6                                                          #        #
+#=mail-mta/postfix-3.2.4                                                         #        #
+#=mail-mta/postfix-3.2.6                                                         #testing #
+#=mail-mta/postfix-3.3.1                                                         #testing #
+#=mail-mta/postfix-3.3.1-r1                                                      #testing #
+#=mail-mta/postfix-3.4_pre20180701                                               #testing #
 ## testing:

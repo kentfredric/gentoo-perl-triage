@@ -1,5 +1,5 @@
 ## stable:
-=media-libs/ming-0.4.8-r1                                                        #        #+
-=media-libs/mlt-6.4.1-r6                                                         #        #+
-#=media-libs/mlt-6.6.0                                                           #testing #+
+=media-libs/ming-0.4.8-r1                                                        #        #
+=media-libs/mlt-6.4.1-r6                                                         #        #
+#=media-libs/mlt-6.6.0                                                           #testing #
 ## testing:

@@ -6,8 +6,8 @@
 #=sys-apps/collectl-4.2.0                                                        #testing #
 #=sys-apps/collectl-4.3.0                                                        #testing #
 =sys-apps/coreutils-8.28-r1                                                      #        #
-#=sys-apps/coreutils-8.29                                                        #testing #
-#=sys-apps/coreutils-8.29-r1                                                     #testing #
+#=sys-apps/coreutils-8.29-r1                                                     #        #
+#=sys-apps/coreutils-8.30                                                        #testing #
 =sys-apps/cpuid-20170122                                                         #        #
 #=sys-apps/cpuid-20180419                                                        #testing #
 ## testing:
