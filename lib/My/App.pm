@@ -699,5 +699,100 @@ sub cmd_merge_ignore {
   return $self->cmd_merge_status( $status_file );
 }
 
+sub foreach_status {
+    my ( $self, $cmd, $status_file, $cb ) = @_;
+    local $?;
+    if ( not defined $status_file or not -e $status_file ) {
+        die "$cmd <status-file> --- <status-file> missing/non-existent ("
+          . ( $? || "" ) . ")";
+    }
+    open my $fh, '<', $status_file or die "Can't open $status_file, $?";
+    local $/ = "\n";
+    while ( my $line = <$fh> ) {
+        chomp $line;
+        my ( $atom, ) = grep /\A=/, split /\s+/, $line;
+        if ( not $atom ) {
+            $cb->( "NOATOM", $line );
+            next;
+        }
+        $line =~ s{\Q$atom\E}{\e[32m$atom\e[0m}g;
+
+        my ( $cat, $letter, $rest ) = $atom =~ qr{\A=([^/]+)/(.)(.+)\z};
+
+        $letter = lc($letter);
+
+        my $idx_file = catfile( $_[0]->index_dir, "$cat-$letter" );
+
+        if ( not -e $idx_file ) {
+            $cb->( "NOIDX", $line, $atom );
+            next;
+        }
+
+        my $index =
+            ( exists $idx_cache->{$idx_file} )
+          ? ( $idx_cache->{$idx_file} )
+          : ( $idx_cache->{$idx_file} = My::IndexFile->parse_file($idx_file) );
+
+        if ( not exists $index->{data}->{$atom} ) {
+            $cb->( "NOENT", $line, $atom );
+            next;
+        }
+
+        my $line_color;
+
+        my $grade = '';
+
+        my $whiteboard = ( $index->{data}->{$atom}->{whiteboard} || '' );
+        $whiteboard =~ s/\A\s+//;
+        $whiteboard =~ s/\s+\z//;
+
+        my $age = length $whiteboard ? 'new' : 'old';
+        my $old_status =
+            $whiteboard eq '+' ? 'pass'
+          : $age eq 'new'      ? 'new'
+          :                      'fail';
+
+        if ( $whiteboard eq '+' and $line =~ /^pass/ ) {
+            $line_color = "\e[32m";
+            $grade      = "confirming pass";
+        }
+        elsif ( $whiteboard eq '+' ) {
+            $line_color = "\e[41;33;1m";
+            $grade      = "opposing failure";
+        }
+        elsif ( length $whiteboard and $line =~ /^pass/ ) {
+            $line_color = "\e[33m";
+            $grade      = "opposing pass";
+        }
+        elsif ( length $whiteboard ) {
+            $line_color = "\e[40;31;1m";
+            $grade      = "confirming failure";
+        }
+        elsif ( $line =~ /^pass/ ) {
+            $line_color = "\e[42;33;1m";
+            $grade      = "new pass";
+        }
+        else {
+            $line_color = "\e[41;33;1m";
+            $grade      = "new failure";
+        }
+        my $grademsg = '';
+        if ( length $grade ) {
+            $grademsg = sprintf "%s ( %s ) \e[0m", $line_color, $grade;
+        }
+        $cb->(
+            "RESULT", $line, $atom,
+            {
+                index      => $index,
+                idxfile    => $idx_file,
+                grade      => $grade,
+                grademsg   => $grademsg,
+                whiteboard => $whiteboard,
+                linecolor  => $line_color,
+            }
+        );
+    }
+}
+
 1;
 
