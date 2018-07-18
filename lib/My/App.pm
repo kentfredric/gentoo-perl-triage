@@ -699,6 +699,28 @@ sub cmd_merge_ignore {
   return $self->cmd_merge_status( $status_file );
 }
 
+sub cmd_merge_update {
+    my ( $self, $status_file ) = @_;
+    $self->foreach_status(
+        'merge-update' => $status_file => sub {
+            my ( $status, $line, $atom, $info ) = @_;
+            return unless $status eq 'RESULT';
+            $line =~ s/[ ][^ ]+$//;
+
+            if ( $info->{grade} eq 'confirming pass' ) {
+              return;
+            }
+            printf "%s | \e[36m%s\e[0m %s\n", $line, $info->{whiteboard},
+                $info->{grademsg};
+
+            if ( $info->{grade} eq 'new pass' ) {
+              $info->{index}->{data}->{$atom}->{whiteboard} = '+';
+              $info->{index}->to_file( $info->{idxfile} );
+            }
+        }
+    );
+}
+
 sub foreach_status {
     my ( $self, $cmd, $status_file, $cb ) = @_;
     local $?;
