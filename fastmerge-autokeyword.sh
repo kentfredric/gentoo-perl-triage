@@ -83,7 +83,7 @@ fixconf() {
 }
 
 bail() {
-	[[ 1 == "${BAILONFAIL:-1}" ]] && exit 255
+	[[ 1 == "${BAILONFAIL:-0}" ]] && exit 255
 	exit 1
 }
 
