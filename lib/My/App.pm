@@ -721,6 +721,43 @@ sub cmd_merge_update {
     );
 }
 
+sub cmd_merge_errors {
+    my ( $self, $status_file ) = @_;
+    $self->foreach_status(
+        'merge-errors' => $status_file => sub {
+            my ( $status, $line, $atom, $info ) = @_;
+            if ( $status eq 'NOATOM' ) {
+                printf "\e[31mNOATOM:\e[0m %s\n", $line;
+                return;
+            }
+            if ( $status eq 'NOIDX' ) {
+                printf "\e[31mNOIDX:\e[0m %s\n", $line;
+                return;
+            }
+            if ( $status eq 'NOENT' ) {
+                printf "\e[31mNOENT:\e[0m %s\n", $line;
+                return;
+            }
+        }
+    );
+}
+
+sub cmd_merge_failures {
+    my ( $self, $status_file ) = @_;
+    $self->foreach_status(
+        'merge-errors' => $status_file => sub {
+            my ( $status, $line, $atom, $info ) = @_;
+            return unless $status eq 'RESULT';
+            return if $info->{grade} =~ /confirming/;
+            return if $info->{grade} eq 'new pass';
+            $line =~ s/[ ][^ ]+$//;
+            printf "%s | \e[36m%s\e[0m %s\n", $line, $info->{whiteboard},
+              $info->{grademsg};
+
+        }
+    );
+}
+
 sub foreach_status {
     my ( $self, $cmd, $status_file, $cb ) = @_;
     local $?;
