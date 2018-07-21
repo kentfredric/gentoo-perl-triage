@@ -3,6 +3,7 @@
 =media-gfx/gimp-2.8.22-r1                                                        #        # tests fail 583916
 #=media-gfx/gimp-2.9.8-r1                                                        #testing # tests fail 583916
 #=media-gfx/gimp-2.10.2                                                          #testing #
+#=media-gfx/gimp-2.10.4                                                          #testing #
 #=media-gfx/gimp-9999                                                            #testing # NEEDS KEYWORDS
 =media-gfx/graphicsmagick-1.3.27                                                 #        # test fail w/ USE=perl 629256
 #=media-gfx/graphicsmagick-1.3.28                                                #testing #

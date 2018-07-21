@@ -3,4 +3,5 @@
 #=dev-vcs/stgit-0.18                                                             #testing #
 =dev-vcs/subversion-1.9.7-r1                                                     #        #
 #=dev-vcs/subversion-1.10.0                                                      #testing #
+#=dev-vcs/subversion-1.10.2                                                      #testing #
 ## testing:

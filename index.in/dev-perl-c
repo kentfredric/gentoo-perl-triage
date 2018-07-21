@@ -33,8 +33,7 @@
 =dev-perl/Cache-Memcached-1.300.0-r1                                             #        #
 =dev-perl/Cache-Simple-TimedExpiry-0.270.0-r1                                    #        #
 =dev-perl/Cairo-1.106.0                                                          #        #
-=dev-perl/Calendar-Simple-1.210.0-r1                                             #        #
-#=dev-perl/Calendar-Simple-1.230.0                                               #        #
+=dev-perl/Calendar-Simple-1.230.0                                                #        #
 =dev-perl/Canary-Stability-2012.0.0                                              #        #
 =dev-perl/Capture-Tiny-0.460.0                                                   #        #
 =dev-perl/Carp-Always-0.130.0                                                    #        #

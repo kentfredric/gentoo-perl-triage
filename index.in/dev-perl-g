@@ -27,8 +27,7 @@
 #=dev-perl/Glib-Object-Introspection-0.40.0                                      #testing #
 =dev-perl/Glib-Object-Introspection-0.42.0                                       #        #
 #=dev-perl/Glib-Object-Introspection-0.43.0                                      #        #
-=dev-perl/GnuPG-Interface-0.520.0-r1                                             #        #
-#=dev-perl/GnuPG-Interface-0.520.0-r2                                            #        #
+=dev-perl/GnuPG-Interface-0.520.0-r2                                             #        #
 #=dev-perl/GnuPG-Interface-0.520.0-r3                                            #        #
 =dev-perl/Goo-Canvas-0.60.0-r1                                                   #        #
 #=dev-perl/Goo-Canvas-0.60.0-r2                                                  #        #

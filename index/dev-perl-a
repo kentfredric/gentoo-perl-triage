@@ -54,8 +54,7 @@
 =dev-perl/AutoXS-Header-1.20.0-r1                                                #        #+
 =dev-perl/aliased-0.340.0-r1                                                     #        #+
 =dev-perl/asa-1.30.0-r1                                                          #        #+
-=dev-perl/autobox-2.850.0                                                        #        #+
-#=dev-perl/autobox-2.860.0                                                       #        #+
+=dev-perl/autobox-2.860.0                                                        #        #+
 =dev-perl/autovivification-0.170.0                                               #        #+
 #=dev-perl/autovivification-0.180.0                                              #        #+
 ## testing:

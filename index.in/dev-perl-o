@@ -4,12 +4,10 @@
 =dev-perl/Object-Realize-Later-0.190.0                                           #        #
 =dev-perl/Ogg-Vorbis-Header-0.30.0-r1                                            #        #
 #=dev-perl/Ogg-Vorbis-Header-0.50.0                                              #testing #
-=dev-perl/Ogg-Vorbis-Header-PurePerl-1.0.0-r1                                    #        #
-#=dev-perl/Ogg-Vorbis-Header-PurePerl-1.0.0-r2                                   #        #
+=dev-perl/Ogg-Vorbis-Header-PurePerl-1.0.0-r2                                    #        #
 =dev-perl/OpenGL-0.670.400                                                       #        #
 #=dev-perl/OpenGL-0.700.0                                                        #testing #
 ## testing:
-#=dev-perl/OOTools-2.300.0-r1                                                    #testing #
 #=dev-perl/OOTools-2.400.0                                                       #testing #
 #=dev-perl/ORLite-Migrate-1.100.0-r1                                             #testing #
 #=dev-perl/Object-Enum-0.75.0                                                    #testing #

@@ -8,10 +8,14 @@
 #=media-gfx/imagemagick-6.9.9.47                                                 #testing #
 #=media-gfx/imagemagick-6.9.10.3                                                 #testing #
 #=media-gfx/imagemagick-6.9.10.5                                                 #        #
+#=media-gfx/imagemagick-6.9.10.6                                                 #testing #
+#=media-gfx/imagemagick-6.9.10.7                                                 #testing #
 #=media-gfx/imagemagick-7.0.7.19                                                 #        #
 #=media-gfx/imagemagick-7.0.7.28                                                 #        #
 #=media-gfx/imagemagick-7.0.7.35                                                 #testing #
 #=media-gfx/imagemagick-7.0.8.3                                                  #testing #
 #=media-gfx/imagemagick-7.0.8.5                                                  #        #
+#=media-gfx/imagemagick-7.0.8.6                                                  #testing #
+#=media-gfx/imagemagick-7.0.8.7                                                  #testing #
 #=media-gfx/imagemagick-9999                                                     #testing #
 ## testing:

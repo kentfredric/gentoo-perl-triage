@@ -82,7 +82,6 @@
 =dev-perl/DateTime-Format-Natural-1.40.0                                         #        #+
 #=dev-perl/DateTime-Format-Natural-1.50.0                                        #testing #+
 =dev-perl/DateTime-Format-Strptime-1.700.0                                       #        #+
-#=dev-perl/DateTime-Format-Strptime-1.730.0                                      #testing # broken
 #=dev-perl/DateTime-Format-Strptime-1.740.0                                      #testing #+
 =dev-perl/DateTime-Format-W3CDTF-0.70.0                                          #        #+
 =dev-perl/DateTime-Locale-0.460.0                                                #        #+

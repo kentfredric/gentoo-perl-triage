@@ -3,4 +3,6 @@
 #=app-emulation/xen-tools-4.9.1-r2                                               #testing #
 #=app-emulation/xen-tools-4.9.2-r1                                               #        #
 #=app-emulation/xen-tools-4.10.0                                                 #testing #
+#=app-emulation/xen-tools-4.10.1                                                 #testing #
+#=app-emulation/xen-tools-4.11.0                                                 #testing #
 ## testing:

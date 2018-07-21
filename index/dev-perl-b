@@ -1,6 +1,5 @@
 ## stable:
-=dev-perl/B-Hooks-EndOfScope-0.210.0                                             #        #+
-#=dev-perl/B-Hooks-EndOfScope-0.240.0                                            #        #+
+=dev-perl/B-Hooks-EndOfScope-0.240.0                                             #        #+
 =dev-perl/B-Hooks-OP-Check-0.220.0                                               #        #+
 =dev-perl/B-Keywords-1.150.0                                                     #        #+
 #=dev-perl/B-Keywords-1.180.0                                                    #        #+

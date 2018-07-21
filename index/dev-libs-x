@@ -4,5 +4,6 @@
 #=dev-libs/xapian-bindings-1.4.4                                                 #        #
 #=dev-libs/xapian-bindings-1.4.5                                                 #        # broken: 634738
 #=dev-libs/xapian-bindings-1.4.6                                                 #testing #
+#=dev-libs/xapian-bindings-1.4.7                                                 #testing #
 =dev-libs/xerces-c-3.1.4-r1                                                      #        # broken: 624310
 ## testing:

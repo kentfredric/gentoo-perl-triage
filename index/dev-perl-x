@@ -32,7 +32,6 @@
 =dev-perl/XML-LibXML-Simple-0.970.0                                              #        #
 #=dev-perl/XML-LibXML-Simple-0.990.0                                             #testing #
 =dev-perl/XML-LibXSLT-1.940.0                                                    #        # tests broken: 623192 FIXED?
-#=dev-perl/XML-LibXSLT-1.950.0                                                   #testing # tests broken: 623192 FIXED?
 #=dev-perl/XML-LibXSLT-1.960.0                                                   #        #
 =dev-perl/XML-Mini-1.380.0-r1                                                    #        #
 =dev-perl/XML-NamespaceSupport-1.120.0                                           #        #
