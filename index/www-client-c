@@ -1,7 +1,8 @@
 ## stable:
 =www-client/chromium-67.0.3396.87                                                #        #
-#=www-client/chromium-68.0.3440.17                                               #testing #
+#=www-client/chromium-67.0.3396.99                                               #testing #
 #=www-client/chromium-68.0.3440.25                                               #testing #
+#=www-client/chromium-68.0.3440.68                                               #testing #
 #=www-client/chromium-69.0.3452.0                                                #testing #
 #=www-client/chromium-69.0.3464.0                                                #testing #
 ## testing:

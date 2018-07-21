@@ -1,23 +1,23 @@
 ## stable:
 =app-emulation/wine-vanilla-3.0.1                                                #        #
 #=app-emulation/wine-vanilla-3.0.2                                               #testing #
-#=app-emulation/wine-vanilla-3.10                                                #testing #
 #=app-emulation/wine-vanilla-3.11                                                #testing #
 #=app-emulation/wine-vanilla-3.12                                                #testing #
+#=app-emulation/wine-vanilla-3.13                                                #testing #
 #=app-emulation/wine-vanilla-9999                                                #testing # NEEDS KEYWORDS
 ## testing:
 #=app-emulation/wine-any-2.0-r1                                                  #testing #
-#=app-emulation/wine-any-3.10                                                    #testing #
 #=app-emulation/wine-any-3.11                                                    #testing #
 #=app-emulation/wine-any-3.12                                                    #testing #
+#=app-emulation/wine-any-3.13                                                    #testing #
 #=app-emulation/wine-any-9999                                                    #testing # NEEDS KEYWORDS
 #=app-emulation/wine-d3d9-2.0-r1                                                 #testing #
-#=app-emulation/wine-d3d9-3.10                                                   #testing #
 #=app-emulation/wine-d3d9-3.11                                                   #testing #
 #=app-emulation/wine-d3d9-3.12                                                   #testing #
+#=app-emulation/wine-d3d9-3.13                                                   #testing #
 #=app-emulation/wine-d3d9-9999                                                   #testing # NEEDS KEYWORDS
 #=app-emulation/wine-staging-2.0-r1                                              #testing #
-#=app-emulation/wine-staging-3.10                                                #testing #
 #=app-emulation/wine-staging-3.11                                                #testing #
 #=app-emulation/wine-staging-3.12                                                #testing #
+#=app-emulation/wine-staging-3.13                                                #testing #
 #=app-emulation/wine-staging-9999                                                #testing # NEEDS KEYWORDS
