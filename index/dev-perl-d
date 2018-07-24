@@ -98,6 +98,7 @@
 #=dev-perl/DateTime-TimeZone-2.110.0                                             #testing #+
 #=dev-perl/DateTime-TimeZone-2.130.0                                             #testing #+
 =dev-perl/DelimMatch-1.06-r1                                                     #        #+
+=dev-perl/Devel-CallChecker-0.8.0                                                #        #+
 =dev-perl/Devel-Caller-2.60.0                                                    #        #+
 =dev-perl/Devel-CheckBin-0.40.0                                                  #        #+
 =dev-perl/Devel-CheckCompiler-0.50.0                                             #        #+
@@ -144,6 +145,7 @@
 =dev-perl/Digest-Perl-MD5-1.900.0                                                #        #+
 =dev-perl/Digest-SHA1-2.130.0-r1                                                 #        #+
 =dev-perl/Dist-CheckConflicts-0.110.0                                            #        #+
+=dev-perl/DynaLoader-Functions-0.3.0                                             #        #+
 ## testing:
 #=dev-perl/DBICx-TestDatabase-0.50.0                                             #testing #+
 #=dev-perl/DBIx-Class-0.82.840                                                   #testing # tests broken 661214
@@ -175,7 +177,6 @@
 #=dev-perl/DateTimeX-Easy-0.89.0                                                 #testing #+
 #=dev-perl/Debug-Client-0.310.0                                                  #testing #+
 #=dev-perl/Devel-ArgNames-0.30.0-r1                                              #testing #+
-#=dev-perl/Devel-CallChecker-0.8.0                                               #testing #+
 #=dev-perl/Devel-Cover-1.290.0                                                   #testing # broken by B::Debug 661202
 #=dev-perl/Devel-Declare-0.6.19                                                  #testing #+
 #=dev-perl/Devel-Dumpvar-1.60.0-r1                                               #testing #+
@@ -203,4 +204,3 @@
 #=dev-perl/Dist-Zilla-Plugin-Test-MinimumVersion-2.0.7                           #testing #+
 #=dev-perl/Dist-Zilla-Plugin-Test-Perl-Critic-3.1.0                              #testing #+
 #=dev-perl/Dist-Zilla-Role-ModuleMetadata-0.4.0                                  #testing #+
-#=dev-perl/DynaLoader-Functions-0.3.0                                            #testing #+

@@ -71,6 +71,7 @@
 =dev-perl/Class-Mix-0.6.0                                                        #        #
 =dev-perl/Class-ReturnValue-0.550.0-r1                                           #        #
 =dev-perl/Class-Singleton-1.500.0                                                #        #
+=dev-perl/Class-Tiny-1.6.0                                                       #        #
 =dev-perl/Class-Trigger-0.140.0-r1                                               #        #
 =dev-perl/Class-Virtual-0.80.0                                                   #        #
 =dev-perl/Class-WhiteHole-0.40.0-r1                                              #        #
@@ -178,7 +179,6 @@
 #=dev-perl/Class-Spiffy-0.150.0-r1                                               #testing #
 #=dev-perl/Class-Std-0.13.0                                                      #testing #
 #=dev-perl/Class-Std-Fast-0.0.8-r1                                               #testing #
-#=dev-perl/Class-Tiny-1.6.0                                                      #testing #
 #=dev-perl/Class-Unload-0.110.0                                                  #testing #
 #=dev-perl/Config-Auto-0.440.0                                                   #testing #
 #=dev-perl/Config-INI-0.25.0                                                     #testing #
