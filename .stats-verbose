@@ -32,7 +32,7 @@ dev-lang                       :   73 :    32.88% (        49 todo,  10 broken (
 dev-libs                       :   64 :     9.38% (        58 todo,   4 broken (6.25%))
 dev-lua                        :    1 :     0.00% (         1 todo)
 dev-ml                         :   12 :    16.67% (        10 todo)
-dev-perl                       : 2164 :    49.72% (      1088 todo,  51 broken (2.36%))
+dev-perl                       : 2164 :    59.29% (       881 todo,  52 broken (2.40%))
 dev-python                     :    1 :     0.00% (         1 todo)
 dev-qt                         :    2 :     0.00% (         2 todo)
 dev-ruby                       :    1 :     0.00% (         1 todo)
