@@ -21,8 +21,7 @@
 =dev-perl/Apache-SizeLimit-0.970.0-r1                                            #        #
 =dev-perl/Apache-Test-1.400.0-r2                                                 #        #
 =dev-perl/Apache2-AuthenNTLM-0.20.0-r2                                           #        #
-=dev-perl/App-cpanminus-1.704.300                                                #        #
-#=dev-perl/App-cpanminus-1.704.400                                               #        #
+=dev-perl/App-cpanminus-1.704.400                                                #        #
 =dev-perl/App-perlbrew-0.820.0                                                   #        #
 =dev-perl/App-pwhich-1.140.0                                                     #        #
 #=dev-perl/App-pwhich-1.150.0                                                    #testing #
@@ -31,8 +30,7 @@
 =dev-perl/Archive-Extract-0.800.0                                                #        #
 =dev-perl/Archive-Zip-1.600.0                                                    #        #
 #=dev-perl/Archive-Zip-1.600.0-r1                                                #testing #
-=dev-perl/Array-Compare-3.0.0                                                    #        #
-#=dev-perl/Array-Compare-3.0.1                                                   #        #
+=dev-perl/Array-Compare-3.0.1                                                    #        #
 =dev-perl/Array-RefElem-1.0.0-r1                                                 #        #
 =dev-perl/Array-Window-1.20.0-r1                                                 #        #
 =dev-perl/Astro-FITS-Header-3.70.0                                               #        #
@@ -55,8 +53,7 @@
 =dev-perl/aliased-0.340.0-r1                                                     #        #
 =dev-perl/asa-1.30.0-r1                                                          #        #
 =dev-perl/autobox-2.860.0                                                        #        #
-=dev-perl/autovivification-0.170.0                                               #        #
-#=dev-perl/autovivification-0.180.0                                              #        #
+=dev-perl/autovivification-0.180.0                                               #        #
 ## testing:
 #=dev-perl/Algorithm-ClusterPoints-0.80.0                                        #testing #
 #=dev-perl/AnyEvent-CacheDNS-0.80.0                                              #testing #

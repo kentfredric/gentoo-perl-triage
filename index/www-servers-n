@@ -2,5 +2,7 @@
 =www-servers/nginx-1.14.0-r3                                                     #        #
 #=www-servers/nginx-1.15.1-r1                                                    #testing #
 #=www-servers/nginx-1.15.2                                                       #testing #
+#=www-servers/nginx-1.15.2-r1                                                    #testing #
 ## testing:
 #=www-servers/nginx-unit-1.3                                                     #testing #
+#=www-servers/nginx-unit-1.3-r1                                                  #testing #

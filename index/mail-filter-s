@@ -1,7 +1,6 @@
 ## stable:
 =mail-filter/sieve-connect-0.87                                                  #        #
-=mail-filter/spamassassin-3.4.1-r8                                               #        # broken 625316
-#=mail-filter/spamassassin-3.4.1-r19                                             #        #
+=mail-filter/spamassassin-3.4.1-r19                                              #        #
 #=mail-filter/spamassassin-3.4.1-r20                                             #        #
 #=mail-filter/spamassassin-3.4.1-r21                                             #testing #
 =mail-filter/sqlgrey-1.7.6-r2                                                    #        #

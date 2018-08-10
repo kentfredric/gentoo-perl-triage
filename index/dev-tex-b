@@ -1,4 +1,5 @@
 ## stable:
 =dev-tex/biber-2.5                                                               #        # broken: 623410
+#=dev-tex/biber-2.7                                                              #testing #
 #=dev-tex/biber-2.10                                                             #testing #
 ## testing:

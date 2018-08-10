@@ -24,8 +24,7 @@
 =dev-perl/CPAN-Checksums-2.120.0                                                 #        #+
 =dev-perl/CPAN-Meta-Check-0.14.0                                                 #        #+
 =dev-perl/CPAN-Mini-1.111.16                                                     #        #+
-=dev-perl/CPAN-Perl-Releases-3.380.0                                             #        #+
-#=dev-perl/CPAN-Perl-Releases-3.560.0                                            #        #+
+=dev-perl/CPAN-Perl-Releases-3.560.0                                             #        #+
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #        #+
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #        #+
 =dev-perl/Cache-2.110.0                                                          #        #+
@@ -145,8 +144,7 @@
 =dev-perl/Crypt-X509-0.510.0                                                     #        #+
 =dev-perl/Curses-1.360.0                                                         #        #+
 =dev-perl/Curses-UI-0.960.900-r2                                                 #        #+
-=dev-perl/CursesWidgets-1.997.0-r1                                               #        #+
-#=dev-perl/CursesWidgets-1.997.0-r2                                              #        #+
+=dev-perl/CursesWidgets-1.997.0-r2                                               #        #+
 =dev-perl/Cwd-Guard-0.50.0                                                       #        #+
 =dev-perl/capitalization-0.30.0-r1                                               #        #+
 =dev-perl/common-sense-3.740.0-r1                                                #        #+
@@ -172,7 +170,6 @@
 #=dev-perl/Class-DBI-AbstractSearch-0.70.0-r1                                    #testing #+
 #=dev-perl/Class-DBI-Plugin-0.30.0                                               #testing #+
 #=dev-perl/Class-DBI-Plugin-DeepAbstractSearch-0.80.0                            #testing #+
-#=dev-perl/Class-Data-Accessor-0.40.40-r1                                        #testing #+
 #=dev-perl/Class-Data-Accessor-0.40.40-r2                                        #testing #+
 #=dev-perl/Class-InsideOut-1.140.0                                               #testing #+
 #=dev-perl/Class-Member-1.600.0-r1                                               #testing #+

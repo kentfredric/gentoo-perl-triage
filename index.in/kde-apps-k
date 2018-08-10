@@ -1,6 +1,4 @@
 ## stable:
-=kde-apps/kde-dev-scripts-17.12.3                                                #        #
-#=kde-apps/kde-dev-scripts-18.04.3                                               #        #
-=kde-apps/kdesdk-kioslaves-17.12.3                                               #        #
-#=kde-apps/kdesdk-kioslaves-18.04.3                                              #        #
+=kde-apps/kde-dev-scripts-18.04.3                                                #        #
+=kde-apps/kdesdk-kioslaves-18.04.3                                               #        #
 ## testing:

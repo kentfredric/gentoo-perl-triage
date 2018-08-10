@@ -20,6 +20,7 @@
 =dev-perl/File-Flat-1.40.0-r1                                                    #        #+
 =dev-perl/File-Flock-2014.10.0                                                   #        #+
 =dev-perl/File-HomeDir-1.2.0                                                     #        #+
+=dev-perl/File-LibMagic-1.150.0                                                  #        #+
 =dev-perl/File-Listing-6.40.0-r1                                                 #        #+
 =dev-perl/File-MMagic-1.300.0-r1                                                 #        #+
 =dev-perl/File-Map-0.640.0                                                       #        #+
@@ -82,7 +83,6 @@
 #=dev-perl/File-BOM-0.150.0                                                      #testing #+
 #=dev-perl/File-Grep-0.20.0-r2                                                   #testing #+
 #=dev-perl/File-KeePass-2.30.0-r1                                                #testing #+
-#=dev-perl/File-LibMagic-1.150.0                                                 #testing #+
 #=dev-perl/File-Scan-ClamAV-1.950.0                                              #testing #+
 #=dev-perl/File-SearchPath-0.70.0                                                #testing #+
 #=dev-perl/File-ShareDir-ProjectDistDir-1.0.9                                    #testing #+
