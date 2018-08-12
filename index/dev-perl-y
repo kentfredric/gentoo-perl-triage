@@ -1,11 +1,11 @@
 ## stable:
-=dev-perl/YAML-1.150.0                                                           #        #
-#=dev-perl/YAML-1.240.0                                                          #testing #
-#=dev-perl/YAML-1.260.0                                                          #testing #
-=dev-perl/YAML-LibYAML-0.640.0                                                   #        #
-#=dev-perl/YAML-LibYAML-0.650.0                                                  #testing #
-#=dev-perl/YAML-LibYAML-0.690.0                                                  #        #
-=dev-perl/YAML-Syck-1.300.0                                                      #        #
-=dev-perl/YAML-Tiny-1.690.0                                                      #        #
-#=dev-perl/YAML-Tiny-1.730.0                                                     #testing #
+=dev-perl/YAML-1.150.0                                                           #        #+
+#=dev-perl/YAML-1.240.0                                                          #testing #+
+#=dev-perl/YAML-1.260.0                                                          #testing # tests broken 663414
+=dev-perl/YAML-LibYAML-0.640.0                                                   #        #+
+#=dev-perl/YAML-LibYAML-0.650.0                                                  #testing #+
+#=dev-perl/YAML-LibYAML-0.690.0                                                  #        #+
+=dev-perl/YAML-Syck-1.300.0                                                      #        #+
+=dev-perl/YAML-Tiny-1.690.0                                                      #        #+
+#=dev-perl/YAML-Tiny-1.730.0                                                     #testing #+
 ## testing:
