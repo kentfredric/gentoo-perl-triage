@@ -4,11 +4,11 @@
 #=sys-devel/clang-3.6.2-r100                                                     #testing # NEEDS KEYWORDS
 #=sys-devel/clang-3.7.1-r100                                                     #testing #
 #=sys-devel/clang-3.9.1-r100                                                     #testing #
-=sys-devel/clang-4.0.1                                                           #        #
-#=sys-devel/clang-5.0.2                                                          #        #
-#=sys-devel/clang-6.0.1                                                          #        #
+=sys-devel/clang-4.0.1                                                           #        #+
+#=sys-devel/clang-5.0.2                                                          #        #+
+#=sys-devel/clang-6.0.1                                                          #        #+
 #=sys-devel/clang-7.0.9999                                                       #testing #
 #=sys-devel/clang-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:
-#=sys-devel/cons-2.2.0                                                           #testing #
-#=sys-devel/cons-2.3.0                                                           #testing #
+#=sys-devel/cons-2.2.0                                                           #testing #+
+#=sys-devel/cons-2.3.0                                                           #testing #+
