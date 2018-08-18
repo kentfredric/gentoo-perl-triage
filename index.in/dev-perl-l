@@ -5,8 +5,7 @@
 =dev-perl/LWP-Protocol-http10-6.30.0                                             #        #
 =dev-perl/LWP-Protocol-https-6.60.0                                              #        #
 #=dev-perl/LWP-Protocol-https-6.70.0                                             #        #
-=dev-perl/LWPx-ParanoidAgent-1.100.0                                             #        #
-#=dev-perl/LWPx-ParanoidAgent-1.120.0                                            #        #
+=dev-perl/LWPx-ParanoidAgent-1.120.0                                             #        #
 =dev-perl/LaTeX-Driver-0.200.4                                                   #        #
 #=dev-perl/LaTeX-Driver-0.300.2                                                  #        #
 =dev-perl/LaTeX-Encode-0.91.6-r1                                                 #        #
@@ -29,12 +28,8 @@
 =dev-perl/Lingua-Stem-It-0.20.0-r1                                               #        #
 =dev-perl/Lingua-Stem-Ru-0.40.0                                                  #        #
 =dev-perl/Lingua-Stem-Snowball-Da-1.10.0-r1                                      #        #
-=dev-perl/Lingua-Translit-0.250.0                                                #        #
-#=dev-perl/Lingua-Translit-0.270.0                                               #testing #
-#=dev-perl/Lingua-Translit-0.280.0                                               #        #
-=dev-perl/Linux-DesktopFiles-0.90.0                                              #        #
-#=dev-perl/Linux-DesktopFiles-0.130.0                                            #testing #
-#=dev-perl/Linux-DesktopFiles-0.250.0                                            #        #
+=dev-perl/Lingua-Translit-0.280.0                                                #        #
+=dev-perl/Linux-DesktopFiles-0.250.0                                             #        #
 =dev-perl/Linux-Pid-0.40.0-r1                                                    #        #
 =dev-perl/Lirc-Client-2.20.0                                                     #        #
 =dev-perl/List-AllUtils-0.90.0                                                   #        #
@@ -74,8 +69,7 @@
 #=dev-perl/libwww-perl-6.270.0                                                   #testing #
 =dev-perl/libxml-perl-0.80.0-r1                                                  #        #
 #=dev-perl/libxml-perl-0.80.0-r2                                                 #        #
-=dev-perl/local-lib-2.0.19                                                       #        #
-#=dev-perl/local-lib-2.0.24                                                      #        #
+=dev-perl/local-lib-2.0.24                                                       #        #
 ## testing:
 #=dev-perl/LWP-UserAgent-Cached-0.60.0-r1                                        #testing #
 #=dev-perl/LWP-UserAgent-Determined-1.70.0                                       #testing #

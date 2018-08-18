@@ -13,7 +13,7 @@
 =dev-perl/Term-ANSIScreen-1.500.0-r1                                             #        #+
 =dev-perl/Term-ProgressBar-2.170.0                                               #        #+
 #=dev-perl/Term-ProgressBar-2.210.0                                              #testing #+
-=dev-perl/Term-ProgressBar-Quiet-0.310.0                                         #        #+
+=dev-perl/Term-ProgressBar-Quiet-0.310.0-r1                                      #        #
 =dev-perl/Term-ProgressBar-Simple-0.30.0                                         #        # tests broken 663268
 =dev-perl/Term-ReadLine-Gnu-1.310.0                                              #        #+
 =dev-perl/Term-ReadLine-Perl-1.30.300-r1                                         #        #+
@@ -34,8 +34,7 @@
 #=dev-perl/Test-ClassAPI-1.70.0                                                  #testing #+
 =dev-perl/Test-CleanNamespaces-0.180.0                                           #        #+
 #=dev-perl/Test-CleanNamespaces-0.220.0                                          #testing #+
-=dev-perl/Test-Command-0.80.0-r1                                                 #        #+
-#=dev-perl/Test-Command-0.110.0                                                  #        #+
+=dev-perl/Test-Command-0.110.0                                                   #        #+
 =dev-perl/Test-Deep-1.126.0                                                      #        #+
 #=dev-perl/Test-Deep-1.127.0                                                     #testing #+
 =dev-perl/Test-Differences-0.640.0                                               #        #+

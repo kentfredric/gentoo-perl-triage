@@ -71,8 +71,7 @@
 =dev-perl/DateTime-Format-DateParse-0.50.0-r1                                    #        #+
 =dev-perl/DateTime-Format-HTTP-0.420.0                                           #        #+
 =dev-perl/DateTime-Format-ISO8601-0.80.0-r1                                      #        #+
-=dev-perl/DateTime-Format-Mail-0.402.0                                           #        #+
-#=dev-perl/DateTime-Format-Mail-0.403.0                                          #        #+
+=dev-perl/DateTime-Format-Mail-0.403.0                                           #        #+
 #=dev-perl/DateTime-Format-Natural-1.10.0-r1                                     #testing #+
 =dev-perl/DateTime-Format-Natural-1.40.0                                         #        #+
 #=dev-perl/DateTime-Format-Natural-1.50.0                                        #testing #+

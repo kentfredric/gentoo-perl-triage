@@ -3,5 +3,6 @@
 #=app-emulation/virt-manager-1.5.1-r1                                            #        #
 #=app-emulation/virt-manager-9999                                                #testing #
 =app-emulation/virt-viewer-6.0-r1                                                #        #
+#=app-emulation/virt-viewer-7.0                                                  #testing #
 =app-emulation/virt-what-1.18                                                    #        #
 ## testing:
