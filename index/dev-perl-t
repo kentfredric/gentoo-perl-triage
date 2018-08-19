@@ -13,8 +13,8 @@
 =dev-perl/Term-ANSIScreen-1.500.0-r1                                             #        #+
 =dev-perl/Term-ProgressBar-2.170.0                                               #        #+
 #=dev-perl/Term-ProgressBar-2.210.0                                              #testing #+
-=dev-perl/Term-ProgressBar-Quiet-0.310.0-r1                                      #        #
-=dev-perl/Term-ProgressBar-Simple-0.30.0                                         #        # tests broken 663268
+=dev-perl/Term-ProgressBar-Quiet-0.310.0-r1                                      #        #+
+=dev-perl/Term-ProgressBar-Simple-0.30.0                                         #        #+
 =dev-perl/Term-ReadLine-Gnu-1.310.0                                              #        #+
 =dev-perl/Term-ReadLine-Perl-1.30.300-r1                                         #        #+
 #=dev-perl/Term-ReadLine-Perl-1.30.300-r2                                        #testing #+

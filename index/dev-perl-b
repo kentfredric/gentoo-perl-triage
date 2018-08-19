@@ -22,7 +22,7 @@
 #=dev-perl/B-Hooks-Parser-0.190.0                                                #testing #+
 #=dev-perl/B-OPCheck-0.320.0                                                     #testing #+
 #=dev-perl/BSON-1.4.0                                                            #testing #+
-#=dev-perl/BSON-1.6.7                                                            #testing #
+#=dev-perl/BSON-1.6.7                                                            #testing #+
 #=dev-perl/BZ-Client-4.400.200                                                   #testing #+
 #=dev-perl/Benchmark-Timer-0.710.700                                             #testing #+
 #=dev-perl/Bio-DB-HTS-2.11                                                       #testing #+

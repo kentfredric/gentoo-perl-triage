@@ -31,7 +31,7 @@ dev-lang                       :   73 :    32.88% (        49 todo,  10 broken (
 dev-libs                       :   64 :    12.50% (        56 todo,   4 broken (6.25%))
 dev-lua                        :    1 :     0.00% (         1 todo)
 dev-ml                         :   10 :    20.00% (         8 todo)
-dev-perl                       : 2064 :    99.90% (         2 todo,  74 broken (3.59%))
+dev-perl                       : 2064 :   100.00% ( 73 broken (3.54%))
 dev-python                     :    1 :     0.00% (         1 todo)
 dev-qt                         :    2 :     0.00% (         2 todo)
 dev-tcltk                      :    1 :     0.00% (         1 todo)
