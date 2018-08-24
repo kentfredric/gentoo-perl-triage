@@ -1,4 +1,4 @@
 ## stable:
 =dev-util/gtk-doc-1.25-r1                                                        #        # build and tests broken: 623420 623422
-=dev-util/gtk-doc-am-1.25-r1                                                     #        #
+=dev-util/gtk-doc-am-1.25-r1                                                     #        #+
 ## testing:
