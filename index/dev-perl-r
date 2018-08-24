@@ -5,11 +5,13 @@
 #=dev-perl/Readonly-2.10.0                                                       #testing #+
 #=dev-perl/Readonly-2.50.0                                                       #testing #+
 =dev-perl/Readonly-XS-1.50.0-r1                                                  #        #+
+=dev-perl/Ref-Util-XS-0.116.0                                                    #        #+
 =dev-perl/Regexp-Common-2017060201.0.0                                           #        #+
 =dev-perl/Regexp-Common-net-CIDR-0.20.0-r1                                       #        #+
 #=dev-perl/Regexp-Common-net-CIDR-0.30.0                                         #testing #+
 =dev-perl/Regexp-IPv6-0.30.0-r1                                                  #        #+
 =dev-perl/Regexp-Shellish-0.930.0-r1                                             #        #+
+=dev-perl/Regexp-Util-0.3.0                                                      #        #+
 =dev-perl/Return-Value-1.666.1-r1                                                #        #+
 #=dev-perl/Return-Value-1.666.5                                                  #testing #+
 =dev-perl/Role-Basic-0.130.0                                                     #        #+
@@ -28,8 +30,6 @@
 #=dev-perl/RedisDB-2.540.0                                                       #testing #+
 #=dev-perl/RedisDB-Parser-2.220.0                                                #testing #+
 #=dev-perl/Ref-Util-0.203.0                                                      #testing #+
-#=dev-perl/Ref-Util-XS-0.116.0                                                   #testing #+
 #=dev-perl/Regexp-RegGrp-2.10.0                                                  #testing #+
-#=dev-perl/Regexp-Util-0.3.0                                                     #testing #+
 #=dev-perl/Role-HasMessage-0.6.0                                                 #testing #+
 #=dev-perl/Role-Identifiable-0.7.0                                               #testing #+

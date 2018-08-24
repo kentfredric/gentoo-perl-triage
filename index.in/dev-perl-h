@@ -58,6 +58,7 @@
 =dev-perl/HTTP-Server-Simple-Mason-0.140.0-r1                                    #        #
 =dev-perl/HTTP-Server-Simple-PSGI-0.160.0                                        #        #
 =dev-perl/HTTPD-User-Manage-1.660.0-r1                                           #        #
+=dev-perl/Hash-FieldHash-0.150.0                                                 #        #
 =dev-perl/Hash-Merge-0.200.0                                                     #        #
 =dev-perl/Hash-MoreUtils-0.50.0                                                  #        #
 =dev-perl/Hash-MultiValue-0.160.0                                                #        #
@@ -75,5 +76,4 @@
 #=dev-perl/HTML-Template-Pro-0.951.0                                             #testing #
 #=dev-perl/HTTP-CookieJar-0.8.0                                                  #testing #
 #=dev-perl/HTTP-Response-Encoding-0.60.0-r1                                      #testing #
-#=dev-perl/Hash-FieldHash-0.150.0                                                #testing #
 #=dev-perl/Hash-Merge-Simple-0.51.0                                              #testing #

@@ -5,7 +5,7 @@
 =dev-perl/UNIVERSAL-moniker-0.80.0-r1                                            #        #
 =dev-perl/UNIVERSAL-require-0.180.0                                              #        #
 =dev-perl/URI-1.710.0                                                            #        #
-#=dev-perl/URI-1.730.0                                                           #testing #
+#=dev-perl/URI-1.730.0                                                           #        #
 =dev-perl/URI-Fetch-0.130.0                                                      #        #
 =dev-perl/Unicode-EastAsianWidth-1.330.0-r1                                      #        #
 =dev-perl/Unicode-LineBreak-2016.3.0                                             #        #
@@ -21,12 +21,12 @@
 =dev-perl/Unicode-UTF8-0.620.0                                                   #        #
 =dev-perl/Unicode-UTF8simple-1.60.0                                              #        #
 =dev-perl/Unix-Getrusage-0.030.0                                                 #        #
-#=dev-perl/Unix-Getrusage-0.30.0-r1                                              #testing #
+#=dev-perl/Unix-Getrusage-0.30.0-r1                                              #        #
 =dev-perl/Unix-Syslog-1.100.0-r1                                                 #        #
-#=dev-perl/Unix-Syslog-1.100.0-r2                                                #testing #
+#=dev-perl/Unix-Syslog-1.100.0-r2                                                #        #
 =dev-perl/User-Identity-0.940.0                                                  #        #
 #=dev-perl/User-Identity-0.970.0                                                 #testing #
-#=dev-perl/User-Identity-0.990.0                                                 #testing #
+#=dev-perl/User-Identity-0.990.0                                                 #        #
 ## testing:
 #=dev-perl/URI-Encode-1.1.1                                                      #testing #
 #=dev-perl/URI-Find-20140709.0.0                                                 #testing #

@@ -1,22 +1,22 @@
 ## stable:
 =dev-perl/WWW-Curl-4.170.0                                                       #        #
-#=dev-perl/WWW-Curl-4.170.0-r1                                                   #testing #
+#=dev-perl/WWW-Curl-4.170.0-r1                                                   #        #
 =dev-perl/WWW-Form-UrlEncoded-0.240.0                                            #        #
 =dev-perl/WWW-Form-UrlEncoded-XS-0.240.0                                         #        #
 =dev-perl/WWW-Mechanize-1.750.0                                                  #        #
 #=dev-perl/WWW-Mechanize-1.790.0                                                 #testing #
 #=dev-perl/WWW-Mechanize-1.840.0                                                 #testing #
-#=dev-perl/WWW-Mechanize-1.870.0                                                 #testing #
+#=dev-perl/WWW-Mechanize-1.870.0                                                 #        #
 =dev-perl/WWW-Mechanize-FormFiller-0.120.0                                       #        #
 =dev-perl/WWW-RobotRules-6.20.0                                                  #        #
-#=dev-perl/WWW-RobotRules-6.20.0-r1                                              #testing #
+#=dev-perl/WWW-RobotRules-6.20.0-r1                                              #        #
 =dev-perl/Want-0.290.0                                                           #        #
 =dev-perl/WeakRef-0.10.0-r1                                                      #        #
 =dev-perl/WebService-Linode-0.28.0                                               #        #
 =dev-perl/WebService-MusicBrainz-0.930.0-r1                                      #        #
 #=dev-perl/WebService-MusicBrainz-0.940.0                                        #testing #
 #=dev-perl/WebService-MusicBrainz-1.0.2                                          #testing #
-#=dev-perl/WebService-MusicBrainz-1.0.4                                          #testing #
+#=dev-perl/WebService-MusicBrainz-1.0.4                                          #        #
 =dev-perl/Wx-0.993.200-r1                                                        #        #
 ## testing:
 #=dev-perl/WWW-Dict-Leo-Org-1.400.0                                              #testing #

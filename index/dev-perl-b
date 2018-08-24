@@ -25,6 +25,7 @@
 #=dev-perl/BSON-1.6.7                                                            #testing #+
 #=dev-perl/BZ-Client-4.400.200                                                   #testing #+
 #=dev-perl/Benchmark-Timer-0.710.700                                             #testing #+
+#=dev-perl/Benchmark-Timer-0.711.200                                             #testing #
 #=dev-perl/Bio-DB-HTS-2.11                                                       #testing #+
 #=dev-perl/Bio-Das-1.170.0-r2                                                    #testing #+
 #=dev-perl/Bio-Graphics-2.390.0                                                  #testing #+

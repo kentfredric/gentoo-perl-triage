@@ -8,6 +8,7 @@
 #=dev-perl/CGI-4.330.0                                                           #testing #
 #=dev-perl/CGI-4.360.0                                                           #        #
 #=dev-perl/CGI-4.380.0                                                           #testing #
+#=dev-perl/CGI-4.400.0                                                           #testing #
 =dev-perl/CGI-Compile-0.220.0                                                    #        #
 =dev-perl/CGI-Emulate-PSGI-0.230.0                                               #        #
 =dev-perl/CGI-Fast-2.100.0                                                       #        #
