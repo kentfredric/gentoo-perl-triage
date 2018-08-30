@@ -1,4 +1,4 @@
 ## stable:
-=sys-apps/moreutils-0.61                                                         #        #
-#=sys-apps/moreutils-0.62                                                        #testing #
+=sys-apps/moreutils-0.61                                                         #        #+
+#=sys-apps/moreutils-0.62                                                        #testing #+
 ## testing:

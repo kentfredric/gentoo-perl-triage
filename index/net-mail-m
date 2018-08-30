@@ -1,5 +1,5 @@
 ## stable:
-=net-mail/mailgraph-1.14-r2                                                      #        #
-=net-mail/mhonarc-2.6.18-r2                                                      #        #
+=net-mail/mailgraph-1.14-r2                                                      #        #+
+=net-mail/mhonarc-2.6.18-r2                                                      #        #+
 ## testing:
-#=net-mail/mhonarc-gentoo-2.6.18-r2                                              #testing #
+#=net-mail/mhonarc-gentoo-2.6.18-r2                                              #testing #+
