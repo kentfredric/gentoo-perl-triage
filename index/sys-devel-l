@@ -8,6 +8,7 @@
 #=sys-devel/llvm-5.0.2                                                           #        #+
 #=sys-devel/llvm-6.0.1                                                           #        #+
 #=sys-devel/llvm-6.0.1-r1                                                        #testing #+
+#=sys-devel/llvm-7.0.0_rc2                                                       #testing #
 #=sys-devel/llvm-7.0.9999                                                        #testing #
 #=sys-devel/llvm-9999                                                            #testing # NEEDS KEYWORDS
 ## testing:

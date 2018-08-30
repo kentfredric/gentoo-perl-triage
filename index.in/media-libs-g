@@ -7,10 +7,7 @@
 #=media-libs/gegl-0.3.8-r1                                                       #testing #
 #=media-libs/gegl-0.3.26                                                         #        #
 #=media-libs/gegl-0.3.34                                                         #testing #
-#=media-libs/gegl-0.4.0                                                          #testing #
-#=media-libs/gegl-0.4.0-r1                                                       #testing #
-#=media-libs/gegl-0.4.2                                                          #testing #
-#=media-libs/gegl-0.4.4                                                          #testing #
-#=media-libs/gegl-0.4.6                                                          #testing #
+#=media-libs/gegl-0.4.6-r1                                                       #testing #
+#=media-libs/gegl-0.4.8-r1                                                       #testing #
 #=media-libs/gegl-9999                                                           #testing #
 ## testing:
