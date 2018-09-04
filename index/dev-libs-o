@@ -1,12 +1,12 @@
 ## stable:
-=dev-libs/openssl-0.9.8z_p8                                                      #        #
-#=dev-libs/openssl-0.9.8z_p8-r1                                                  #        #
-#=dev-libs/openssl-1.0.2o-r3                                                     #        #
-#=dev-libs/openssl-1.0.2o-r6                                                     #testing #
-#=dev-libs/openssl-1.0.2p                                                        #testing #
+=dev-libs/openssl-0.9.8z_p8                                                      #        #+
+#=dev-libs/openssl-0.9.8z_p8-r1                                                  #        #+
+#=dev-libs/openssl-1.0.2o-r3                                                     #        #+
+#=dev-libs/openssl-1.0.2o-r6                                                     #testing #+
+#=dev-libs/openssl-1.0.2p                                                        #testing #+
 #=dev-libs/openssl-1.1.0i                                                        #testing #
 #=dev-libs/openssl-1.1.1_pre8                                                    #testing #
 #=dev-libs/openssl-1.1.1_pre9                                                    #testing #
-=dev-libs/ossp-uuid-1.6.2-r6                                                     #        #
+=dev-libs/ossp-uuid-1.6.2-r6                                                     #        #+
 ## testing:
 #=dev-libs/OpenSRF-2.1.1                                                         #testing # blocked by libmemcache 564998

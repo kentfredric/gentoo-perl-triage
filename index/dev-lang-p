@@ -8,7 +8,7 @@
 #=dev-lang/perl-5.28.0                                                           #testing #
 #=dev-lang/perl-5.28.9999                                                        #testing # Nontarget
 ## testing:
-#=dev-lang/parrot-7.1.0                                                          #testing #
-#=dev-lang/parrot-7.5.0                                                          #testing #
-#=dev-lang/parrot-7.11.0                                                         #testing #
-#=dev-lang/parrot-8.1.0                                                          #testing #
+#=dev-lang/parrot-7.1.0                                                          #testing #+
+#=dev-lang/parrot-7.5.0                                                          #testing #+
+#=dev-lang/parrot-7.11.0                                                         #testing #+
+#=dev-lang/parrot-8.1.0                                                          #testing #+

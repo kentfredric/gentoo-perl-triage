@@ -1,7 +1,7 @@
 ## stable:
 ## testing:
-#=sys-auth/pam_ssh_agent_auth-0.9.2                                              #testing #
-#=sys-auth/pam_ssh_agent_auth-0.9.3                                              #testing #
-#=sys-auth/pam_ssh_agent_auth-0.9.4                                              #testing #
-#=sys-auth/pam_ssh_agent_auth-0.10.2                                             #testing #
-#=sys-auth/pam_yubico-2.26                                                       #testing #
+#=sys-auth/pam_ssh_agent_auth-0.9.2                                              #testing #+
+#=sys-auth/pam_ssh_agent_auth-0.9.3                                              #testing #+
+#=sys-auth/pam_ssh_agent_auth-0.9.4                                              #testing #+
+#=sys-auth/pam_ssh_agent_auth-0.10.2                                             #testing #+
+#=sys-auth/pam_yubico-2.26                                                       #testing #+

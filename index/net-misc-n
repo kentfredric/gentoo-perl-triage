@@ -1,12 +1,12 @@
 ## stable:
-=net-misc/nat-traverse-0.6                                                       #        #
-=net-misc/ndisc6-0.9.9                                                           #        #
-#=net-misc/ndisc6-0.9.9-r2                                                       #testing #
-#=net-misc/ndisc6-1.0.2                                                          #testing #
-#=net-misc/ndisc6-1.0.2-r1                                                       #testing #
-#=net-misc/ndisc6-1.0.3                                                          #testing #
+=net-misc/nat-traverse-0.6                                                       #        #+
+=net-misc/ndisc6-0.9.9                                                           #        #+
+#=net-misc/ndisc6-0.9.9-r2                                                       #testing #+
+#=net-misc/ndisc6-1.0.2                                                          #testing #+
+#=net-misc/ndisc6-1.0.2-r1                                                       #testing #+
+#=net-misc/ndisc6-1.0.3                                                          #testing #+
 =net-misc/networkmanager-1.4.4-r1                                                #        #
-#=net-misc/networkmanager-1.8.4                                                  #        #
-#=net-misc/networkmanager-1.10.6                                                 #testing #
-#=net-misc/networkmanager-1.10.10                                                #        #
+#=net-misc/networkmanager-1.8.4                                                  #        #+
+#=net-misc/networkmanager-1.10.6                                                 #testing #+
+#=net-misc/networkmanager-1.10.10                                                #        #+
 ## testing:
