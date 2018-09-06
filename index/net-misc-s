@@ -1,17 +1,17 @@
 ## stable:
-=net-misc/spice-gtk-0.34-r2                                                      #        #
-#=net-misc/spice-gtk-0.34-r3                                                     #testing #
-#=net-misc/spice-gtk-0.35                                                        #testing #
+=net-misc/spice-gtk-0.34-r2                                                      #        #+
+#=net-misc/spice-gtk-0.34-r3                                                     #testing #+
+#=net-misc/spice-gtk-0.35                                                        #testing #+
 #=net-misc/spice-gtk-9999                                                        #testing # NEEDS KEYWORDS
-=net-misc/sslh-1.18-r2                                                           #        #
-#=net-misc/sslh-1.19c                                                            #testing #
+=net-misc/sslh-1.18-r2                                                           #        #+
+#=net-misc/sslh-1.19c                                                            #testing #+
 #=net-misc/sslh-9999                                                             #testing # NEEDS KEYWORDS
-=net-misc/stunnel-5.36                                                           #        #
-#=net-misc/stunnel-5.40                                                          #testing #
-#=net-misc/stunnel-5.43                                                          #        #
-#=net-misc/stunnel-5.44                                                          #testing #
-#=net-misc/stunnel-5.45                                                          #testing #
-#=net-misc/stunnel-5.46                                                          #testing #
-#=net-misc/stunnel-5.48                                                          #testing #
+=net-misc/stunnel-5.36                                                           #        #+
+#=net-misc/stunnel-5.40                                                          #testing #+
+#=net-misc/stunnel-5.43                                                          #        #+
+#=net-misc/stunnel-5.44                                                          #testing #+
+#=net-misc/stunnel-5.45                                                          #testing #+
+#=net-misc/stunnel-5.46                                                          #testing #+
+#=net-misc/stunnel-5.48                                                          #testing #+
 ## testing:
-#=net-misc/ssh-chain-20131217                                                    #testing #
+#=net-misc/ssh-chain-20131217                                                    #testing #+

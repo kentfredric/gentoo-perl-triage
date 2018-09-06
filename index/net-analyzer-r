@@ -1,4 +1,4 @@
 ## stable:
-=net-analyzer/rrdtool-1.6.0-r1                                                   #        #
-#=net-analyzer/rrdtool-1.7.0                                                     #testing #
+=net-analyzer/rrdtool-1.6.0-r1                                                   #        #+
+#=net-analyzer/rrdtool-1.7.0                                                     #testing #+
 ## testing:
