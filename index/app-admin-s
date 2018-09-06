@@ -1,8 +1,7 @@
 ## stable:
-=app-admin/sudo-1.8.22-r2                                                        #        #+
-#=app-admin/sudo-1.8.23-r1                                                       #testing #+
-#=app-admin/sudo-1.8.23-r2                                                       #        #+
+=app-admin/sudo-1.8.23-r2                                                        #        #+
 #=app-admin/sudo-1.8.24                                                          #testing #+
+#=app-admin/sudo-1.8.25                                                          #testing #
 #=app-admin/sudo-9999                                                            #testing # NEEDS KEYWORDS
 =app-admin/swatchdog-3.2.4-r1                                                    #        #+
 =app-admin/sysklogd-1.5.1-r1                                                     #        #+

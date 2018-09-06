@@ -1,7 +1,7 @@
 ## stable:
 =sys-devel/bison-2.7.1                                                           #        #+
 #=sys-devel/bison-3.0.4-r1                                                       #        # tests broken 656776
-#=sys-devel/bison-3.0.5-r1                                                       #testing #
+#=sys-devel/bison-3.0.5-r1                                                       #        #
 #=sys-devel/bison-3.1                                                            #testing #
 ## testing:
 #=sys-devel/binutils-apple-3.2                                                   #testing # SKIP need OSX

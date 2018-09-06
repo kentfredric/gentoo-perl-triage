@@ -1,7 +1,7 @@
 ## stable:
 =dev-vcs/git-2.16.4                                                              #        #
-#=dev-vcs/git-2.17.1-r1                                                          #testing #
 #=dev-vcs/git-2.18.0                                                             #testing #
+#=dev-vcs/git-2.19.0_rc2                                                         #testing #
 #=dev-vcs/git-9999                                                               #testing #
 #=dev-vcs/git-9999-r1                                                            #testing #
 #=dev-vcs/git-9999-r2                                                            #testing #
