@@ -1,7 +1,7 @@
 ## stable:
-=net-misc/wakeonlan-0.41-r2                                                      #        #
-=net-misc/wget-1.19.5                                                            #        #
-=net-misc/whois-5.2.20                                                           #        #
-#=net-misc/whois-5.3.1                                                           #testing #
-#=net-misc/whois-5.3.2                                                           #testing #
+=net-misc/wakeonlan-0.41-r2                                                      #        #+
+=net-misc/wget-1.19.5                                                            #        #+
+=net-misc/whois-5.2.20                                                           #        #+
+#=net-misc/whois-5.3.1                                                           #testing #+
+#=net-misc/whois-5.3.2                                                           #testing #+
 ## testing:
