@@ -26,6 +26,7 @@
 =dev-perl/CPAN-Meta-Check-0.14.0                                                 #        #+
 =dev-perl/CPAN-Mini-1.111.16                                                     #        #+
 =dev-perl/CPAN-Perl-Releases-3.560.0                                             #        #+
+#=dev-perl/CPAN-Perl-Releases-3.740.0                                            #testing #
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #        #+
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #        #+
 =dev-perl/Cache-2.110.0                                                          #        #+
@@ -110,6 +111,7 @@
 =dev-perl/Crypt-CAST5_PP-1.40.0-r1                                               #        #+
 =dev-perl/Crypt-CBC-2.330.0-r1                                                   #        #+
 =dev-perl/Crypt-Cracklib-1.700.0-r1                                              #        #+
+=dev-perl/Crypt-Curve25519-0.60.0                                                #        #+
 =dev-perl/Crypt-DES-2.70.0-r1                                                    #        #+
 =dev-perl/Crypt-DES_EDE3-0.10.0-r1                                               #        #+
 =dev-perl/Crypt-DH-0.70.0-r2                                                     #        #+
@@ -143,6 +145,7 @@
 #=dev-perl/Crypt-SmbHash-0.120.0-r2                                              #        #+
 =dev-perl/Crypt-Twofish-2.170.0-r1                                               #        #+
 =dev-perl/Crypt-X509-0.510.0                                                     #        #+
+=dev-perl/CryptX-0.53.0                                                          #        #+
 =dev-perl/Curses-1.360.0                                                         #        #+
 =dev-perl/Curses-UI-0.960.900-r2                                                 #        #+
 =dev-perl/CursesWidgets-1.997.0-r2                                               #        #+
@@ -188,7 +191,6 @@
 #=dev-perl/Contextual-Return-0.4.14                                              #testing #+
 #=dev-perl/Coro-6.514.0                                                          #testing #+
 #=dev-perl/Crypt-CipherSaber-1.10.0-r1                                           #testing #+
-#=dev-perl/Crypt-Curve25519-0.60.0                                               #testing #+
 #=dev-perl/Crypt-OpenSSL-EC-1.310.0                                              #testing #+
 #=dev-perl/Crypt-OpenSSL-ECDSA-0.80.0                                            #testing #+
 #=dev-perl/Crypt-SMIME-0.150.0-r1                                                #testing #+
@@ -196,6 +198,5 @@
 #=dev-perl/Crypt-SMIME-0.170.0                                                   #testing #+
 #=dev-perl/Crypt-SMIME-0.190.0                                                   #testing #+
 #=dev-perl/Crypt-URandom-0.360.0                                                 #testing #+
-#=dev-perl/CryptX-0.53.0                                                         #testing #+
 #=dev-perl/constant-boolean-0.20.0-r1                                            #testing #+
 #=dev-perl/constant-defer-6.0.0                                                  #testing #+

@@ -110,6 +110,7 @@
 #=dev-perl/Speech-Recognizer-SPX-0.80.100-r1                                     #testing #
 #=dev-perl/Sphinx-Config-0.100.0                                                 #testing #
 #=dev-perl/Sphinx-Search-0.310.0                                                 #testing #
+#=dev-perl/Statistics-CaseResampling-0.150.0                                     #testing #
 #=dev-perl/Statistics-Distributions-1.20.0-r1                                    #testing #
 #=dev-perl/Statistics-TTest-1.1.0-r1                                             #testing #
 #=dev-perl/String-Errf-0.8.0                                                     #testing #

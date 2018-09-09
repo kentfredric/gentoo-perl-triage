@@ -1,6 +1,6 @@
 ## stable:
 =net-misc/aggregate-1.6                                                          #        #
 ## testing:
-#=net-misc/apt-cacher-ng-3                                                       #testing #
 #=net-misc/apt-cacher-ng-3.1                                                     #testing #
+#=net-misc/apt-cacher-ng-3.2                                                     #testing #
 #=net-misc/arpsponge-3.12.2                                                      #testing #

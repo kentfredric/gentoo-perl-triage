@@ -208,9 +208,11 @@
 #=dev-perl/Test-File-Contents-0.230.0                                            #testing #+
 #=dev-perl/Test-File-ShareDir-1.1.2                                              #testing #+
 #=dev-perl/Test-Files-0.140.0                                                    #testing #+
+#=dev-perl/Test-LectroTest-0.500.100                                             #testing #
 #=dev-perl/Test-MinimumVersion-0.101.82                                          #testing #+
 #=dev-perl/Test-Mock-LWP-Dispatch-0.80.0                                         #testing #+
 #=dev-perl/Test-Perl-Critic-1.30.0                                               #testing #+
+#=dev-perl/Test-TempDir-Tiny-0.17.0                                              #testing #
 #=dev-perl/Test-Timer-0.130.0                                                    #testing #+
 #=dev-perl/Test-Timer-1.0.0                                                      #testing #+
 #=dev-perl/Test-Timer-2.60.0                                                     #testing #+

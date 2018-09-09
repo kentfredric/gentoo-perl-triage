@@ -2,6 +2,7 @@
 =dev-perl/B-Hooks-EndOfScope-0.240.0                                             #        #
 =dev-perl/B-Hooks-OP-Check-0.220.0                                               #        #
 =dev-perl/B-Keywords-1.180.0                                                     #        #
+#=dev-perl/B-Keywords-1.190.0                                                    #testing #
 =dev-perl/B-Utils-0.270.0                                                        #        #
 =dev-perl/BSD-Resource-1.291.100                                                 #        #
 =dev-perl/BerkeleyDB-0.550.0                                                     #        #

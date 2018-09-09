@@ -1,4 +1,5 @@
 ## stable:
-=app-doc/kicad-doc-4.0.4                                                         #        # broken w/pdf: 590156
-#=app-doc/kicad-doc-4.0.7                                                        #        #
+=app-doc/kicad-doc-4.0.7                                                         #        #
+#=app-doc/kicad-doc-4.0.7-r1                                                     #testing #
+#=app-doc/kicad-doc-5.0.0                                                        #testing #
 ## testing:
