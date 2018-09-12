@@ -2,7 +2,7 @@
 =dev-perl/B-Hooks-EndOfScope-0.240.0                                             #        #+
 =dev-perl/B-Hooks-OP-Check-0.220.0                                               #        #+
 =dev-perl/B-Keywords-1.180.0                                                     #        #+
-#=dev-perl/B-Keywords-1.190.0                                                    #testing #
+#=dev-perl/B-Keywords-1.190.0                                                    #testing #+
 =dev-perl/B-Utils-0.270.0                                                        #        #+
 =dev-perl/BSD-Resource-1.291.100                                                 #        #+
 =dev-perl/BerkeleyDB-0.550.0                                                     #        #+
@@ -15,6 +15,7 @@
 =dev-perl/Business-ISBN-3.4.0                                                    #        #+
 =dev-perl/Business-ISBN-Data-20140910.3.0                                        #        #+
 =dev-perl/Business-ISMN-1.131.0                                                  #        #+
+#=dev-perl/Business-ISMN-1.132.0                                                 #testing #+
 =dev-perl/Business-ISSN-1.2.0                                                    #        #+
 =dev-perl/Business-UPS-2.10.0-r1                                                 #        #+
 =dev-perl/bareword-filehandles-0.5.0                                             #        #+
