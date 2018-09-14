@@ -1,6 +1,6 @@
 ## stable:
-=app-emulation/wine-vanilla-3.0.1                                                #        #
-#=app-emulation/wine-vanilla-3.0.2                                               #        #
+=app-emulation/wine-vanilla-3.0.2                                                #        #
+#=app-emulation/wine-vanilla-3.0.3                                               #testing #
 #=app-emulation/wine-vanilla-3.12                                                #testing #
 #=app-emulation/wine-vanilla-3.13-r1                                             #testing #
 #=app-emulation/wine-vanilla-3.14                                                #testing #
