@@ -1,10 +1,10 @@
 ## stable:
-=net-mail/courier-imap-4.17.3                                                    #        #
-#=net-mail/courier-imap-4.18.2                                                   #testing #
-=net-mail/cyrus-imapd-2.5.10                                                     #        #
-#=net-mail/cyrus-imapd-2.5.11-r1                                                 #testing #
-#=net-mail/cyrus-imapd-3.0.4                                                     #        #
-#=net-mail/cyrus-imapd-3.0.5                                                     #        #
-#=net-mail/cyrus-imapd-3.0.6                                                     #testing #
-#=net-mail/cyrus-imapd-3.0.8                                                     #testing #
+=net-mail/courier-imap-4.17.3                                                    #        #+
+#=net-mail/courier-imap-4.18.2                                                   #testing #+
+=net-mail/cyrus-imapd-2.5.10                                                     #        # PMASKED
+#=net-mail/cyrus-imapd-2.5.11-r1                                                 #testing # PMASKED
+#=net-mail/cyrus-imapd-3.0.4                                                     #        #+
+#=net-mail/cyrus-imapd-3.0.5                                                     #        #+
+#=net-mail/cyrus-imapd-3.0.6                                                     #testing #+
+#=net-mail/cyrus-imapd-3.0.8                                                     #testing #+
 ## testing:
