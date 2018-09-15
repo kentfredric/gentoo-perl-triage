@@ -18,6 +18,7 @@
 =dev-db/mysql-5.6.38                                                             #        #
 #=dev-db/mysql-5.6.39                                                            #        # Build OK
 #=dev-db/mysql-5.6.40                                                            #        #
+#=dev-db/mysql-5.6.40-r2                                                         #        #
 #=dev-db/mysql-5.6.41                                                            #testing #
 #=dev-db/mysql-5.7.23                                                            #testing #
 =dev-db/mysqltuner-1.6.18                                                        #        #+
