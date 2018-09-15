@@ -2,4 +2,4 @@
 ## testing:
 #=dev-util/egypt-1.10                                                            #testing #+
 #=dev-util/electron-1.6.16                                                       #testing # needs 3G ram 10G disk
-#=dev-util/electron-1.7.15                                                       #testing #
+#=dev-util/electron-1.7.15                                                       #testing # needs 3G ram 10G disk
