@@ -2,6 +2,8 @@
 =dev-vcs/colorcvs-1.4-r2                                                         #        #+
 =dev-vcs/colorsvn-0.3.3                                                          #        #+
 =dev-vcs/cvs2cl-2.71                                                             #        #+
+#=dev-vcs/cvs2cl-2.71-r1                                                         #testing #
 =dev-vcs/cvsd-1.0.17                                                             #        #+
 ## testing:
 #=dev-vcs/cvsutils-0.2.5                                                         #testing #+
+#=dev-vcs/cvsutils-0.2.5-r1                                                      #testing #

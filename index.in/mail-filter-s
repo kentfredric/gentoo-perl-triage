@@ -1,5 +1,6 @@
 ## stable:
 =mail-filter/sieve-connect-0.87                                                  #        #
+#=mail-filter/sieve-connect-0.87-r1                                              #testing #
 =mail-filter/spamassassin-3.4.1-r19                                              #        #
 #=mail-filter/spamassassin-3.4.1-r20                                             #        #
 #=mail-filter/spamassassin-3.4.1-r21                                             #        #
