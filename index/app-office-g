@@ -1,7 +1,7 @@
 ## stable:
 =app-office/gnucash-2.7.4-r1                                                     #        #+
 #=app-office/gnucash-3.2                                                         #testing #+
-#=app-office/gnucash-3.2-r2                                                      #testing #
-=app-office/gnumeric-1.12.38                                                     #        #
-#=app-office/gnumeric-1.12.39                                                    #testing #
+#=app-office/gnucash-3.2-r2                                                      #testing #+
+=app-office/gnumeric-1.12.38                                                     #        # build failure 649390
+#=app-office/gnumeric-1.12.39                                                    #testing # build failure 649390
 ## testing:

@@ -1,7 +1,7 @@
 ## stable:
 =dev-vcs/git-2.16.4                                                              #        #+
 #=dev-vcs/git-2.18.0                                                             #testing #+
-#=dev-vcs/git-2.19.0                                                             #testing #
+#=dev-vcs/git-2.19.0                                                             #testing #+
 #=dev-vcs/git-9999                                                               #testing # NEEDS KEYWORDS
 #=dev-vcs/git-9999-r1                                                            #testing # NEEDS KEYWORDS
 #=dev-vcs/git-9999-r2                                                            #testing # NEEDS KEYWORDS
@@ -23,7 +23,7 @@
 #=dev-vcs/gitolite-gentoo-2.3.3-r1                                               #testing #+
 #=dev-vcs/gitolite-gentoo-3.5.3.1                                                #testing #+
 #=dev-vcs/gitolite-gentoo-3.6.1                                                  #testing #+
-#=dev-vcs/gitolite-gentoo-3.6.1-r1                                               #testing # tests broken 630454
+#=dev-vcs/gitolite-gentoo-3.6.1-r1                                               #testing # broken 630454
 #=dev-vcs/gitolite-gentoo-3.6.2.1                                                #testing #+
 #=dev-vcs/gitolite-gentoo-3.6.2.2                                                #testing #+
 #=dev-vcs/gitolite-gentoo-3.6.2.3                                                #testing #+
