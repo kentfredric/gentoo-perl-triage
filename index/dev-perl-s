@@ -22,10 +22,8 @@
 =dev-perl/Scope-Guard-0.210.0                                                    #        #+
 =dev-perl/Scope-Upper-0.290.0-r1                                                 #        #+
 #=dev-perl/Scope-Upper-0.300.0                                                   #        #+
-=dev-perl/Search-Xapian-1.2.23.0                                                 #        #+
-#=dev-perl/Search-Xapian-1.2.23.0-r1                                             #testing #+
-#=dev-perl/Search-Xapian-1.2.25.0                                                #        #+
-#=dev-perl/Search-Xapian-1.2.25.1                                                #testing # broken 661728
+=dev-perl/Search-Xapian-1.2.25.0                                                 #        #+
+#=dev-perl/Search-Xapian-1.2.25.2                                                #testing #
 =dev-perl/Sereal-4.4.0                                                           #        #+
 =dev-perl/Sereal-Decoder-4.4.0                                                   #        #+
 =dev-perl/Sereal-Encoder-4.4.0                                                   #        #+

@@ -2,5 +2,4 @@
 =app-antivirus/clamav-unofficial-sigs-3.7.2                                      #        #+
 #=app-antivirus/clamav-unofficial-sigs-5.6.2                                     #testing #+
 ## testing:
-#=app-antivirus/clamtk-5.25                                                      #testing #+
-#=app-antivirus/clamtk-5.25-r1                                                   #testing #+
+#=app-antivirus/clamtk-5.26                                                      #testing #

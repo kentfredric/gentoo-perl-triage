@@ -12,6 +12,7 @@
 =dev-perl/Any-Moose-0.270.0                                                      #        #
 =dev-perl/AnyEvent-7.140.0                                                       #        #
 =dev-perl/AnyEvent-HTTP-2.230.0                                                  #        #
+#=dev-perl/AnyEvent-HTTP-2.240.0                                                 #testing #
 =dev-perl/AnyEvent-I3-0.170.0                                                    #        #
 =dev-perl/Apache-AuthCookie-3.270.0-r1                                           #        #
 =dev-perl/Apache-DBI-1.120.0-r2                                                  #        #
@@ -30,8 +31,8 @@
 =dev-perl/Archive-Any-0.94.500                                                   #        #
 =dev-perl/Archive-Extract-0.800.0                                                #        #
 =dev-perl/Archive-Zip-1.600.0                                                    #        #
-#=dev-perl/Archive-Zip-1.600.0-r1                                                #testing #
 #=dev-perl/Archive-Zip-1.630.0                                                   #testing #
+#=dev-perl/Archive-Zip-1.640.0                                                   #testing #
 =dev-perl/Array-Compare-3.0.1                                                    #        #
 =dev-perl/Array-RefElem-1.0.0-r1                                                 #        #
 =dev-perl/Array-Window-1.20.0-r1                                                 #        #

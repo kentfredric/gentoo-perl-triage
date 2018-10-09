@@ -93,9 +93,7 @@
 =dev-perl/Devel-CallChecker-0.8.0                                                #        #
 =dev-perl/Devel-Caller-2.60.0                                                    #        #
 =dev-perl/Devel-CheckBin-0.40.0                                                  #        #
-=dev-perl/Devel-CheckCompiler-0.50.0                                             #        #
-#=dev-perl/Devel-CheckCompiler-0.60.0                                            #testing #
-#=dev-perl/Devel-CheckCompiler-0.70.0                                            #        #
+=dev-perl/Devel-CheckCompiler-0.70.0                                             #        #
 =dev-perl/Devel-CheckLib-1.60.0                                                  #        #
 #=dev-perl/Devel-CheckLib-1.70.0                                                 #testing #
 #=dev-perl/Devel-CheckLib-1.90.0                                                 #testing #

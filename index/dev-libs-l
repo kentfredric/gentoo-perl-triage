@@ -14,7 +14,6 @@
 #=dev-libs/libical-3.0.3                                                         #testing #
 =dev-libs/libmoe-1.5.8-r3                                                        #        #+
 =dev-libs/libparserutils-0.2.3                                                   #        #+
-=dev-libs/libtasn1-4.13                                                          #        #+
 #=dev-libs/lockdev-1.0.3.1.2-r2                                                  #testing #+
 =dev-libs/lockdev-1.0.3.1.2-r3                                                   #        #+
 ## testing:

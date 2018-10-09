@@ -9,6 +9,7 @@
 #=dev-db/percona-toolkit-3.0.10                                                  #testing #
 #=dev-db/percona-toolkit-3.0.10-r1                                               #testing #
 #=dev-db/percona-toolkit-3.0.11                                                  #testing #
+#=dev-db/percona-toolkit-3.0.12                                                  #testing #
 =dev-db/percona-xtrabackup-2.4.9                                                 #        #
 #=dev-db/percona-xtrabackup-2.4.10                                               #testing #
 #=dev-db/percona-xtrabackup-2.4.11                                               #testing #
@@ -16,27 +17,15 @@
 =dev-db/pgbadger-9.2                                                             #        #
 #=dev-db/pgbadger-10.0                                                           #testing #
 =dev-db/pgtap-0.98.0                                                             #        #
-=dev-db/postgresql-9.3.22                                                        #        #
-#=dev-db/postgresql-9.3.23                                                       #testing #
-#=dev-db/postgresql-9.3.24                                                       #        #
-#=dev-db/postgresql-9.4.17                                                       #        #
-#=dev-db/postgresql-9.4.18                                                       #testing #
+=dev-db/postgresql-9.3.24                                                        #        #
 #=dev-db/postgresql-9.4.19                                                       #        #
-#=dev-db/postgresql-9.5.12                                                       #        #
-#=dev-db/postgresql-9.5.13                                                       #testing #
 #=dev-db/postgresql-9.5.14                                                       #        #
-#=dev-db/postgresql-9.6.8                                                        #        #
-#=dev-db/postgresql-9.6.9                                                        #testing #
 #=dev-db/postgresql-9.6.10                                                       #        #
-#=dev-db/postgresql-10.3                                                         #        #
-#=dev-db/postgresql-10.4                                                         #testing #
 #=dev-db/postgresql-10.5                                                         #        #
-#=dev-db/postgresql-11_beta1                                                     #testing #
-#=dev-db/postgresql-11_beta2                                                     #testing #
 #=dev-db/postgresql-11_beta3                                                     #testing #
+#=dev-db/postgresql-11_beta4                                                     #testing #
 #=dev-db/postgresql-9999                                                         #testing #
 ## testing:
-#=dev-db/percona-server-5.6.39.83.1                                              #testing #
 #=dev-db/percona-server-5.6.40.84.0                                              #testing #
 #=dev-db/percona-server-5.6.41.84.1                                              #testing #
 #=dev-db/percona-xtrabackup-bin-2.4.11                                           #testing #

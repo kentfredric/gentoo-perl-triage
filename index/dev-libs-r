@@ -1,5 +1,5 @@
 ## stable:
-=dev-libs/rasqal-0.9.29                                                          #        #+
-#=dev-libs/rasqal-0.9.32                                                         #        #+
+=dev-libs/rasqal-0.9.32                                                          #        #+
+#=dev-libs/rasqal-0.9.33                                                         #testing #
 =dev-libs/redland-bindings-1.0.14.1-r2                                           #        #+
 ## testing:

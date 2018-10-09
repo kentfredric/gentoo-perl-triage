@@ -4,6 +4,7 @@
 =mail-filter/spamassassin-3.4.1-r19                                              #        #+
 #=mail-filter/spamassassin-3.4.1-r20                                             #        #+
 #=mail-filter/spamassassin-3.4.1-r21                                             #        #+
+#=mail-filter/spamassassin-3.4.2-r1                                              #testing #
 =mail-filter/sqlgrey-1.7.6-r2                                                    #        #+
 ## testing:
 #=mail-filter/spamassassin-botnet-0.8-r1                                         #testing #+

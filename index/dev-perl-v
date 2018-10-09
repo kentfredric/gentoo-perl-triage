@@ -1,7 +1,6 @@
 ## stable:
 =dev-perl/Validate-Net-0.600.0-r1                                                #        #+
-=dev-perl/Variable-Magic-0.610.0                                                 #        #+
-#=dev-perl/Variable-Magic-0.620.0                                                #        #+
+=dev-perl/Variable-Magic-0.620.0                                                 #        #+
 =dev-perl/Video-Frequencies-0.03-r1                                              #        #+
 #=dev-perl/Video-Frequencies-0.03-r2                                             #        #+
 =dev-perl/Video-Info-0.993.0-r1                                                  #        #+
