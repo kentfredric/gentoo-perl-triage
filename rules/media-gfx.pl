@@ -24,4 +24,12 @@ match(
   },
 );
 
+match(
+  qr/^gimp-2\.10\.[246]$/ => {
+    install => sub {
+      add_keywords('~amd64', [ '=dev-util/gdbus-codegen-2.56.2-r1' ]);
+    },
+  },
+);
+
 1;
