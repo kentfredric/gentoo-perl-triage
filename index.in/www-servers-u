@@ -1,4 +1,5 @@
 ## stable:
 =www-servers/uwsgi-2.0.17                                                        #        #
 #=www-servers/uwsgi-2.0.17.1                                                     #testing #
+#=www-servers/uwsgi-2.0.17.1-r1                                                  #testing #
 ## testing:

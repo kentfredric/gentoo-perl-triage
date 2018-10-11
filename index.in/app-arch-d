@@ -2,4 +2,5 @@
 =app-arch/deb2targz-1-r2                                                         #        #
 =app-arch/dpkg-1.19.0.5                                                          #        #
 #=app-arch/dpkg-1.19.1                                                           #testing #
+#=app-arch/dpkg-1.19.2                                                           #testing #
 ## testing:
