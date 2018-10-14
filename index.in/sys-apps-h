@@ -1,6 +1,7 @@
 ## stable:
 =sys-apps/help2man-1.47.6                                                        #        #
 #=sys-apps/help2man-1.47.7                                                       #testing #
+#=sys-apps/help2man-1.47.8                                                       #testing #
 =sys-apps/hwids-20170328                                                         #        #
 #=sys-apps/hwids-20170715                                                        #testing #
 #=sys-apps/hwids-20171003                                                        #        #

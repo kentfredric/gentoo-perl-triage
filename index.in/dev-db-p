@@ -14,8 +14,7 @@
 #=dev-db/percona-xtrabackup-2.4.10                                               #testing #
 #=dev-db/percona-xtrabackup-2.4.11                                               #testing #
 #=dev-db/percona-xtrabackup-2.4.12                                               #testing #
-=dev-db/pgbadger-9.2                                                             #        #
-#=dev-db/pgbadger-10.0                                                           #testing #
+=dev-db/pgbadger-10.0                                                            #        #
 =dev-db/pgtap-0.98.0                                                             #        #
 =dev-db/postgresql-9.3.24                                                        #        #
 #=dev-db/postgresql-9.4.19                                                       #        #

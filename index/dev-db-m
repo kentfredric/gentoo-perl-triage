@@ -12,7 +12,7 @@
 #=dev-db/mysql-5.5.61                                                            #testing #
 =dev-db/mysql-5.6.40-r2                                                          #        #
 #=dev-db/mysql-5.6.41                                                            #testing #
-#=dev-db/mysql-5.7.23                                                            #testing #
+#=dev-db/mysql-5.7.23-r1                                                         #testing #
 =dev-db/mysqltuner-1.6.18                                                        #        #+
 =dev-db/mytop-1.6-r4                                                             #        #+
 #=dev-db/mytop-1.9.1                                                             #testing #+

@@ -2,6 +2,6 @@
 =net-misc/ipcalc-0.41                                                            #        #+
 =net-misc/ipv6calc-0.97.4                                                        #        #+
 #=net-misc/ipv6calc-0.99.2                                                       #        # tests broken: 622836
-#=net-misc/ipv6calc-1.0.0                                                        #testing # tests broken: 622836
+#=net-misc/ipv6calc-1.0.0                                                        #        # tests broken: 622836
 #=net-misc/ipv6calc-1.1.0                                                        #testing #
 ## testing:
