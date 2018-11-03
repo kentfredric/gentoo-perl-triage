@@ -1,7 +1,7 @@
 ## stable:
 =media-sound/lilypond-2.18.2-r3                                                  #        # broken 632642
-#=media-sound/lilypond-2.19.80-r1                                                #        #
+#=media-sound/lilypond-2.19.80-r1                                                #        # broken 662368
 #=media-sound/lilypond-9999                                                      #testing # NEEDS KEYWORDS
 ## testing:
-#=media-sound/lltag-0.14.4-r1                                                    #testing #
-#=media-sound/lltag-0.14.5                                                       #testing #
+#=media-sound/lltag-0.14.4-r1                                                    #testing #+
+#=media-sound/lltag-0.14.5                                                       #testing #+

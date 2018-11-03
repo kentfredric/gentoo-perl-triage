@@ -74,7 +74,7 @@
 #=dev-perl/LWP-UserAgent-Cached-0.60.0-r1                                        #testing #+
 #=dev-perl/LWP-UserAgent-Determined-1.70.0                                       #testing #+
 #=dev-perl/Lab-Measurement-3.631                                                 #testing #+
-#=dev-perl/Lab-Measurement-3.661                                                 #testing #
+#=dev-perl/Lab-Measurement-3.661                                                 #testing #+
 #=dev-perl/Lab-Measurement-9999                                                  #testing # NEED KEYWORDS
 #=dev-perl/Lab-VXI11-0.20.0                                                      #testing #+
 #=dev-perl/Lab-Zhinst-0.30.0                                                     #testing #+
