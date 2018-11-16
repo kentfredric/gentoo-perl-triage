@@ -1,10 +1,12 @@
 ## stable:
 =app-text/xapian-omega-1.2.24                                                    #        #+
-#=app-text/xapian-omega-1.2.25                                                   #testing #+
+#=app-text/xapian-omega-1.2.25                                                   #        #+
 #=app-text/xapian-omega-1.4.4                                                    #        #+
 #=app-text/xapian-omega-1.4.5                                                    #        #+
 #=app-text/xapian-omega-1.4.6                                                    #testing #+
-#=app-text/xapian-omega-1.4.7                                                    #testing #+
+#=app-text/xapian-omega-1.4.7                                                    #        #+
+#=app-text/xapian-omega-1.4.8                                                    #testing #
+#=app-text/xapian-omega-1.4.9                                                    #testing #
 =app-text/xindy-2.4-r1                                                           #        #
 ## testing:
 #=app-text/xlsx2csv-0.7.2                                                        #testing #+

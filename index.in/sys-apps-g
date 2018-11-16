@@ -1,5 +1,5 @@
 ## stable:
 =sys-apps/groff-1.22.2                                                           #        #
-#=sys-apps/groff-1.22.3                                                          #testing #
-#=sys-apps/groff-1.22.4_rc2                                                      #testing #
+#=sys-apps/groff-1.22.3                                                          #        #
+#=sys-apps/groff-1.22.4_rc3                                                      #testing #
 ## testing:

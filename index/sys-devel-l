@@ -11,6 +11,7 @@
 #=sys-devel/llvm-6.0.1-r2                                                        #testing # tests broken 668088
 #=sys-devel/llvm-7.0.0                                                           #testing #+
 #=sys-devel/llvm-7.0.0-r1                                                        #testing #+
+#=sys-devel/llvm-7.0.1_rc2                                                       #testing #
 #=sys-devel/llvm-7.0.9999                                                        #testing # NEEDS KEYWORDS
 #=sys-devel/llvm-9999                                                            #testing # NEEDS KEYWORDS
 ## testing:

@@ -164,6 +164,7 @@
 #=dev-perl/DateTime-Tiny-1.60.0                                                  #testing #+
 #=dev-perl/DateTimeX-Easy-0.89.0                                                 #testing #+
 #=dev-perl/Debug-Client-0.310.0                                                  #testing #+
+#=dev-perl/Deliantra-1.300.0                                                     #testing #
 #=dev-perl/Devel-ArgNames-0.30.0-r1                                              #testing #+
 #=dev-perl/Devel-CheckOS-1.810.0                                                 #testing #+
 #=dev-perl/Devel-Cover-1.290.0                                                   #testing # broken by B::Debug 661202

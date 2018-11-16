@@ -7,5 +7,6 @@
 #=dev-util/perf-4.4.4                                                            #testing #+
 #=dev-util/perf-4.9.13                                                           #testing #+
 #=dev-util/perf-4.14.33                                                          #testing #+
+#=dev-util/perf-4.14.33-r1                                                       #testing #
 #=dev-util/pkgconfig-openbsd-20130507-r1                                         #testing #
 #=dev-util/pkgconfig-openbsd-20130507-r2                                         #testing #

@@ -1,10 +1,8 @@
 ## stable:
 =net-irc/inspircd-2.0.25                                                         #        #+
 #=net-irc/inspircd-2.0.26                                                        #testing #+
-=net-irc/irssi-1.0.7                                                             #        #+
-#=net-irc/irssi-1.0.7-r1                                                         #testing #+
-#=net-irc/irssi-1.1.1                                                            #testing #+
-#=net-irc/irssi-1.1.1-r1                                                         #testing #+
+=net-irc/irssi-1.0.7-r1                                                          #        #+
+#=net-irc/irssi-1.1.1-r2                                                         #        #
 #=net-irc/irssi-9999                                                             #testing # NEEDS KEYWORDS
 ## testing:
 #=net-irc/ircmap-0.99                                                            #testing # NEEDS KEYWORDS

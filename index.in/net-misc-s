@@ -1,10 +1,9 @@
 ## stable:
 =net-misc/spice-gtk-0.34-r2                                                      #        #
-#=net-misc/spice-gtk-0.34-r3                                                     #testing #
-#=net-misc/spice-gtk-0.35                                                        #testing #
+#=net-misc/spice-gtk-0.35                                                        #        #
 #=net-misc/spice-gtk-9999                                                        #testing #
 =net-misc/sslh-1.18-r2                                                           #        #
-#=net-misc/sslh-1.19c                                                            #testing #
+#=net-misc/sslh-1.19c                                                            #        #
 #=net-misc/sslh-9999                                                             #testing #
 =net-misc/stunnel-5.36                                                           #        #
 #=net-misc/stunnel-5.40                                                          #testing #

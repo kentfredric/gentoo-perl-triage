@@ -14,11 +14,11 @@
 #=dev-libs/libical-3.0.3                                                         #testing # tests broken 669046
 =dev-libs/libmoe-1.5.8-r3                                                        #        #+
 =dev-libs/libparserutils-0.2.3                                                   #        #+
+#=dev-libs/libparserutils-0.2.4                                                  #testing #
 #=dev-libs/lockdev-1.0.3.1.2-r2                                                  #testing #+
 =dev-libs/lockdev-1.0.3.1.2-r3                                                   #        #+
 ## testing:
-#=dev-libs/libcss-0.6.1                                                          #testing # blocked by libwapcaplet 664288
-#=dev-libs/libcss-0.7.0                                                          #testing # blocked by libwapcaplet 664288
+#=dev-libs/libcss-0.8.0                                                          #testing #
 #=dev-libs/libntru-0.4.1-r1                                                      #testing #+
 #=dev-libs/libprelude-3.0.0                                                      #testing #+
 #=dev-libs/libprelude-3.1.0-r1                                                   #testing #+

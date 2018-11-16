@@ -1,4 +1,7 @@
 ## stable:
 =app-arch/cabextract-1.6                                                         #        #
 #=app-arch/cabextract-1.7                                                        #testing #
+#=app-arch/cabextract-1.8                                                        #testing #
+#=app-arch/cabextract-1.9                                                        #        #
+#=app-arch/cabextract-9999                                                       #testing #
 ## testing:

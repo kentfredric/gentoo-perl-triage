@@ -1,5 +1,4 @@
 ## stable:
-=app-arch/rpm-4.11.0.1                                                           #        #
-#=app-arch/rpm-4.14.1                                                            #        #
+=app-arch/rpm-4.14.1                                                             #        #
 #=app-arch/rpm-4.14.1-r1                                                         #testing #
 ## testing:

@@ -2,7 +2,7 @@
 =app-text/lesspipe-1.83                                                          #        # tests broken 632008
 #=app-text/lesspipe-1.83-r1                                                      #testing # tests broken 632008
 =app-text/linuxdoc-tools-0.9.72                                                  #        #+
-#=app-text/linuxdoc-tools-0.9.73                                                 #testing #+
+#=app-text/linuxdoc-tools-0.9.73                                                 #        #+
 =app-text/lv-4.51-r3                                                             #        #+
 #=app-text/lv-4.51-r4                                                            #        #+
 ## testing:

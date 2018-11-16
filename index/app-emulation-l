@@ -1,8 +1,6 @@
 ## stable:
-=app-emulation/libvirt-4.3.0                                                     #        # blocked by broken qemu
-#=app-emulation/libvirt-4.4.0-r1                                                 #testing # blocked by broken qemu
-#=app-emulation/libvirt-4.5.0-r1                                                 #        # blocked by broken qemu
-#=app-emulation/libvirt-4.6.0-r1                                                 #testing # blocked by broken qemu
+=app-emulation/libvirt-4.5.0-r1                                                  #        # blocked by broken qemu
+#=app-emulation/libvirt-4.9.0                                                    #testing #
 #=app-emulation/libvirt-9999                                                     #testing # NEEDS KEYWORDS
 ## testing:
 #=app-emulation/libguestfs-1.28.5-r3                                             #testing # broken gcc-5 601162

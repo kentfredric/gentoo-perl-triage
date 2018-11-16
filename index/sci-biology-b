@@ -11,6 +11,7 @@
 =sci-biology/biosql-1.0.1-r1                                                     #        #+
 ## testing:
 #=sci-biology/bcftools-1.5                                                       #testing #+
+#=sci-biology/bcftools-1.9                                                       #testing #
 #=sci-biology/bfast-0.7.0a                                                       #testing # tests broken: 625490
 #=sci-biology/bowtie-1.1.2-r1                                                    #testing # needs sequan w/ sse4_1
 #=sci-biology/bowtie-2.2.9                                                       #testing #+

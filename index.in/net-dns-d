@@ -1,8 +1,6 @@
 ## stable:
 =net-dns/ddclient-3.8.1-r5                                                       #        #
-#=net-dns/ddclient-3.8.2                                                         #testing #
-#=net-dns/ddclient-3.8.3                                                         #testing #
-#=net-dns/ddclient-3.9.0-r1                                                      #testing #
+#=net-dns/ddclient-3.9.0-r1                                                      #        #
 =net-dns/dnssec-root-20150403                                                    #        #
 #=net-dns/dnssec-root-20170203-r1                                                #        #
 =net-dns/dnswalk-2.0.2                                                           #        #

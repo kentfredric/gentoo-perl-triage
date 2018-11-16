@@ -1,6 +1,6 @@
 ## stable:
-#=sys-libs/libapparmor-2.11.1                                                    #testing #
 =sys-libs/libapparmor-2.12.0                                                     #        #
+#=sys-libs/libapparmor-2.13.1                                                    #testing #
 =sys-libs/libieee1284-0.2.11-r4                                                  #        #
 #=sys-libs/libieee1284-0.2.11-r5                                                 #        #
 #=sys-libs/libieee1284-0.2.11-r6                                                 #        #
@@ -8,6 +8,7 @@
 #=sys-libs/libomp-5.0.2                                                          #        #
 #=sys-libs/libomp-6.0.1                                                          #        #
 #=sys-libs/libomp-7.0.0                                                          #testing #
+#=sys-libs/libomp-7.0.1_rc2                                                      #testing #
 #=sys-libs/libomp-7.0.9999                                                       #testing #
 #=sys-libs/libomp-9999                                                           #testing #
 =sys-libs/libosinfo-1.1.0                                                        #        #

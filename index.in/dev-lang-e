@@ -1,12 +1,10 @@
 ## stable:
 =dev-lang/erlang-19.1                                                            #        #
 #=dev-lang/erlang-19.3                                                           #        #
-#=dev-lang/erlang-20.2                                                           #testing #
+#=dev-lang/erlang-19.3.6.12                                                      #testing #
 #=dev-lang/erlang-20.3                                                           #        #
-#=dev-lang/erlang-20.3.2                                                         #testing #
 #=dev-lang/erlang-20.3.8                                                         #testing #
-#=dev-lang/erlang-20.3.8.9                                                       #testing #
-#=dev-lang/erlang-21.0.2                                                         #testing #
-#=dev-lang/erlang-21.0.9                                                         #testing #
+#=dev-lang/erlang-20.3.8.10                                                      #testing #
 #=dev-lang/erlang-21.1                                                           #testing #
+#=dev-lang/erlang-21.1.1                                                         #testing #
 ## testing:

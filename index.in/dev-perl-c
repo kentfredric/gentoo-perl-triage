@@ -165,6 +165,7 @@
 #=dev-perl/CSS-Tiny-1.200.0                                                      #testing #
 #=dev-perl/Cache-FastMmap-1.470.0                                                #testing #
 #=dev-perl/Cache-Memcached-Fast-0.250.0                                          #testing #
+#=dev-perl/Cairo-GObject-1.4.0-r1                                                #testing #
 #=dev-perl/Cisco-IPPhone-0.50.0-r2                                               #testing #
 #=dev-perl/Class-Adapter-1.80.0-r1                                               #testing #
 #=dev-perl/Class-Base-0.80.0                                                     #testing #
@@ -179,6 +180,7 @@
 #=dev-perl/Class-Std-0.13.0                                                      #testing #
 #=dev-perl/Class-Std-Fast-0.0.8-r1                                               #testing #
 #=dev-perl/Class-Unload-0.110.0                                                  #testing #
+#=dev-perl/Compress-LZF-3.800.0                                                  #testing #
 #=dev-perl/Config-Auto-0.440.0                                                   #testing #
 #=dev-perl/Config-INI-0.25.0                                                     #testing #
 #=dev-perl/Config-JSON-1.520.200                                                 #testing #

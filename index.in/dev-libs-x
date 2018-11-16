@@ -1,9 +1,11 @@
 ## stable:
 =dev-libs/xapian-bindings-1.2.24                                                 #        #
-#=dev-libs/xapian-bindings-1.2.25                                                #testing #
+#=dev-libs/xapian-bindings-1.2.25                                                #        #
 #=dev-libs/xapian-bindings-1.4.4                                                 #        #
 #=dev-libs/xapian-bindings-1.4.5                                                 #        #
 #=dev-libs/xapian-bindings-1.4.6                                                 #testing #
-#=dev-libs/xapian-bindings-1.4.7                                                 #testing #
+#=dev-libs/xapian-bindings-1.4.7                                                 #        #
+#=dev-libs/xapian-bindings-1.4.8                                                 #testing #
+#=dev-libs/xapian-bindings-1.4.9                                                 #testing #
 =dev-libs/xerces-c-3.1.4-r1                                                      #        #
 ## testing:

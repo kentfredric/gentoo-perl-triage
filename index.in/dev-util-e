@@ -1,5 +1,6 @@
 ## stable:
 ## testing:
 #=dev-util/egypt-1.10                                                            #testing #
-#=dev-util/electron-1.6.16                                                       #testing #
-#=dev-util/electron-1.7.15                                                       #testing #
+#=dev-util/electron-1.6.18                                                       #testing #
+#=dev-util/electron-1.7.16                                                       #testing #
+#=dev-util/electron-2.0.10                                                       #testing #
