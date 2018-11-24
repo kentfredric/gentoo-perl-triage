@@ -26,4 +26,15 @@ match(
     },
 );
 
+match(
+    qr/^(marble)-\d/ => {
+        testdeps => sub {
+          add_use('xvfb -glamor' => [
+              'x11-base/xorg-server'
+          ]);
+      }
+   },
+);
+
+
 1;
