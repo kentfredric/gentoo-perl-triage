@@ -26,4 +26,11 @@ match(
         }
     },
 );
+
+match(
+  qr/^(mythweb)-\d/ => {
+    install => sub {
+      add_use( 'mysqli' => [ 'dev-lang/php' ] );
+    }
+  } );
 1;
