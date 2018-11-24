@@ -10,7 +10,7 @@
 #=dev-db/mysql-5.5.61                                                            #testing # tests broken 670816
 =dev-db/mysql-5.6.40-r2                                                          #        # tests broken 670882
 #=dev-db/mysql-5.6.41                                                            #testing # tests broken 670882
-#=dev-db/mysql-5.7.23-r2                                                         #        #
+#=dev-db/mysql-5.7.23-r2                                                         #        # tests broken 671310
 #=dev-db/mysql-5.7.24                                                            #testing #
 =dev-db/mysqltuner-1.6.18                                                        #        #+
 =dev-db/mytop-1.6-r4                                                             #        #+

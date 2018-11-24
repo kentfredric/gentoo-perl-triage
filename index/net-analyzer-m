@@ -1,15 +1,15 @@
 ## stable:
-=net-analyzer/monitoring-plugins-2.2-r2                                          #        #
-#=net-analyzer/monitoring-plugins-2.2-r3                                         #testing #
-=net-analyzer/mrtg-2.17.4-r1                                                     #        #
-#=net-analyzer/mrtg-2.17.4-r2                                                    #testing #
-#=net-analyzer/mrtg-2.17.7                                                       #testing #
-=net-analyzer/munin-2.0.34                                                       #        #
-#=net-analyzer/munin-2.0.37                                                      #testing #
-#=net-analyzer/munin-2.0.38                                                      #testing #
+=net-analyzer/monitoring-plugins-2.2-r2                                          #        #+
+#=net-analyzer/monitoring-plugins-2.2-r3                                         #testing #+
+=net-analyzer/mrtg-2.17.4-r1                                                     #        #+
+#=net-analyzer/mrtg-2.17.4-r2                                                    #testing #+
+#=net-analyzer/mrtg-2.17.7                                                       #testing #+
+=net-analyzer/munin-2.0.34                                                       #        #+
+#=net-analyzer/munin-2.0.37                                                      #testing #+
+#=net-analyzer/munin-2.0.38                                                      #testing #+
 #=net-analyzer/munin-2.1.9999                                                    #testing # NEEDS KEYWORDS
 ## testing:
-#=net-analyzer/mk-livestatus-1.2.8_p10                                           #testing #
-#=net-analyzer/mk-livestatus-1.2.8_p16                                           #testing #
-#=net-analyzer/mk-livestatus-1.2.8_p26                                           #testing #
+#=net-analyzer/mk-livestatus-1.2.8_p10                                           #testing # broken 671788
+#=net-analyzer/mk-livestatus-1.2.8_p16                                           #testing # tests broken 671792
+#=net-analyzer/mk-livestatus-1.2.8_p26                                           #testing # tests broken 671792
 #=net-analyzer/mrtg-ping-probe-2.2.0                                             #testing # NEEDS KEYWORDS

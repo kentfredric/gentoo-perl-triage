@@ -1,6 +1,6 @@
 ## stable:
-=media-video/mpv-0.27.2                                                          #        #
+=media-video/mpv-0.27.2                                                          #        #+
 #=media-video/mpv-0.28.2                                                         #testing # PMASKED
-#=media-video/mpv-0.29.1                                                         #testing #
+#=media-video/mpv-0.29.1                                                         #testing # PMASKED
 #=media-video/mpv-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:
