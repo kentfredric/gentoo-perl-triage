@@ -1,4 +1,5 @@
 ## stable:
 =sci-libs/linux-gpib-4.1.0                                                       #        #+
 #=sci-libs/linux-gpib-4.2.0_rc1                                                  #testing # blocked by linux-gpib-modules 668616
+#=sci-libs/linux-gpib-4.2.0                                                      #testing #
 ## testing:

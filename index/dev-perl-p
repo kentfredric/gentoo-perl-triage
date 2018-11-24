@@ -15,7 +15,7 @@
 =dev-perl/POE-Test-Loops-1.360.0                                                 #        #+
 =dev-perl/POSIX-strftime-Compiler-0.420.0                                        #        #+
 =dev-perl/PPI-1.224.0                                                            #        #+
-#=dev-perl/PPI-1.236.0                                                           #testing #+
+#=dev-perl/PPI-1.236.0                                                           #        #+
 =dev-perl/PPIx-Regexp-0.48.0                                                     #        #+
 #=dev-perl/PPIx-Regexp-0.51.0                                                    #testing #+
 #=dev-perl/PPIx-Regexp-0.53.0                                                    #        #+
@@ -141,6 +141,7 @@
 #=dev-perl/Pod-Elemental-PerlMunger-0.200.6                                      #testing #+
 #=dev-perl/Pod-Eventual-0.94.1                                                   #testing #+
 #=dev-perl/Pod-POM-2.10.0                                                        #testing #+
+#=dev-perl/Pod-POM-View-Restructured-1.0.1                                       #testing #
 #=dev-perl/Pod-Strip-1.20.0-r1                                                   #testing #+
 #=dev-perl/Pod-Weaver-4.15.0                                                     #testing #+
 #=dev-perl/Proc-Background-1.100.0-r1                                            #testing #+

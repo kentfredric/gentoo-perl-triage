@@ -14,7 +14,7 @@
 =dev-perl/IO-Interface-1.90.0                                                    #        #
 =dev-perl/IO-LockedFile-0.230.0-r1                                               #        #
 =dev-perl/IO-Multiplex-1.160.0                                                   #        #
-#=dev-perl/IO-Multiplex-1.160.0-r1                                               #testing #
+#=dev-perl/IO-Multiplex-1.160.0-r1                                               #        #
 =dev-perl/IO-Pager-0.390.0                                                       #        #
 =dev-perl/IO-Pipely-0.5.0-r1                                                     #        #
 =dev-perl/IO-SessionData-1.30.0-r1                                               #        #
@@ -22,7 +22,7 @@
 #=dev-perl/IO-Socket-INET6-2.720.0-r1                                            #        #
 =dev-perl/IO-Socket-SSL-2.24.0                                                   #        #
 #=dev-perl/IO-Socket-SSL-2.48.0                                                  #        #
-#=dev-perl/IO-Socket-SSL-2.52.0                                                  #testing #
+#=dev-perl/IO-Socket-SSL-2.52.0                                                  #        #
 =dev-perl/IO-Socket-Timeout-0.320.0                                              #        #
 =dev-perl/IO-String-1.80.0-r1                                                    #        #
 =dev-perl/IO-Stty-0.30.0                                                         #        #

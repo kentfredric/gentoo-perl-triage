@@ -6,4 +6,5 @@
 #=x11-wm/i3-4.16                                                                 #testing #
 #=x11-wm/i3-9999                                                                 #testing # NEEDS KEYWORDS
 =x11-wm/i3-gaps-4.15.0.1                                                         #        #+
+#=x11-wm/i3-gaps-4.16                                                            #testing #
 ## testing:

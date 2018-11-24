@@ -5,13 +5,13 @@
 =dev-perl/FLV-AudioExtractor-0.010.0                                             #        #+
 =dev-perl/Feed-Find-0.70.0-r2                                                    #        #+
 =dev-perl/Festival-Client-Async-0.30.300-r1                                      #        #+
-#=dev-perl/Festival-Client-Async-0.30.300-r2                                     #testing #+
+#=dev-perl/Festival-Client-Async-0.30.300-r2                                     #        #+
 =dev-perl/File-BaseDir-0.30.0-r1                                                 #        #+
-#=dev-perl/File-BaseDir-0.70.0                                                   #testing #+
+#=dev-perl/File-BaseDir-0.70.0                                                   #        #+
 =dev-perl/File-Copy-Link-0.140.0                                                 #        #+
 =dev-perl/File-Copy-Recursive-0.380.0-r1                                         #        #+
 =dev-perl/File-DesktopEntry-0.40.0-r1                                            #        #+
-#=dev-perl/File-DesktopEntry-0.220.0                                             #testing #+
+#=dev-perl/File-DesktopEntry-0.220.0                                             #        #+
 =dev-perl/File-Find-Rule-0.330.0-r1                                              #        #+
 #=dev-perl/File-Find-Rule-0.340.0                                                #        #+
 =dev-perl/File-Find-Rule-Perl-1.150.0                                            #        #+

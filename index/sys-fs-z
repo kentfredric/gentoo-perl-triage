@@ -4,6 +4,7 @@
 #=sys-fs/zfs-kmod-0.7.9                                                          #        #+
 #=sys-fs/zfs-kmod-0.7.9-r1                                                       #testing #+
 #=sys-fs/zfs-kmod-0.7.11                                                         #testing #
+#=sys-fs/zfs-kmod-0.7.12                                                         #testing #
 #=sys-fs/zfs-kmod-0.7.9999                                                       #testing # NEEDS KEYWORDS
 #=sys-fs/zfs-kmod-9999                                                           #testing # NEEDS KEYWORDS
 ## testing:

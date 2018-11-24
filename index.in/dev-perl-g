@@ -14,6 +14,7 @@
 #=dev-perl/GDTextUtil-0.860.0-r2                                                 #testing #
 =dev-perl/GSSAPI-0.280.0-r1                                                      #        #
 =dev-perl/Gentoo-App-Pram-0.100.200                                              #        #
+#=dev-perl/Gentoo-App-Pram-0.200.0                                               #testing #
 =dev-perl/Gentoo-PerlMod-Version-0.8.1                                           #        #
 =dev-perl/Geo-IP-1.450.0                                                         #        #
 #=dev-perl/Geo-IP-1.500.0-r1                                                     #testing #
@@ -21,7 +22,7 @@
 =dev-perl/Geography-Countries-2009041301.0.0-r1                                  #        #
 =dev-perl/Getopt-ArgvFile-1.110.0-r1                                             #        #
 =dev-perl/Getopt-Long-Descriptive-0.100.0                                        #        #
-#=dev-perl/Getopt-Long-Descriptive-0.103.0                                       #testing #
+#=dev-perl/Getopt-Long-Descriptive-0.103.0                                       #        #
 =dev-perl/Getopt-Mixed-1.120.0                                                   #        #
 =dev-perl/Glib-Object-Introspection-0.43.0                                       #        #
 =dev-perl/GnuPG-Interface-0.520.0-r2                                             #        #

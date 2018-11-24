@@ -25,7 +25,7 @@
 =dev-perl/Term-ScreenColor-1.200.0-r1                                            #        #
 =dev-perl/Term-ShellUI-0.920.0-r1                                                #        #
 =dev-perl/TermReadKey-2.330.0                                                    #        #
-#=dev-perl/TermReadKey-2.370.0                                                   #testing #
+#=dev-perl/TermReadKey-2.370.0                                                   #        #
 =dev-perl/Test-Base-0.880.0                                                      #        #
 =dev-perl/Test-CPAN-Meta-0.250.0                                                 #        #
 =dev-perl/Test-CheckDeps-0.10.0                                                  #        #
@@ -33,7 +33,7 @@
 =dev-perl/Test-ClassAPI-1.60.0-r2                                                #        #
 #=dev-perl/Test-ClassAPI-1.70.0                                                  #        #
 =dev-perl/Test-CleanNamespaces-0.180.0                                           #        #
-#=dev-perl/Test-CleanNamespaces-0.220.0                                          #testing #
+#=dev-perl/Test-CleanNamespaces-0.220.0                                          #        #
 =dev-perl/Test-Command-0.110.0                                                   #        #
 =dev-perl/Test-Deep-1.126.0                                                      #        #
 #=dev-perl/Test-Deep-1.127.0                                                     #        #
@@ -89,6 +89,7 @@
 #=dev-perl/Test-SubCalls-1.100.0                                                 #        #
 =dev-perl/Test-TCP-2.190.0-r1                                                    #        #
 =dev-perl/Test-Taint-1.60.0-r1                                                   #        #
+=dev-perl/Test-TempDir-Tiny-0.17.0                                               #        #
 =dev-perl/Test-Time-0.50.0                                                       #        #
 =dev-perl/Test-Trap-0.2.2-r1                                                     #        #
 #=dev-perl/Test-Trap-0.3.2                                                       #testing #
@@ -97,7 +98,7 @@
 #=dev-perl/Test-WWW-Mechanize-1.480.0                                            #        #
 =dev-perl/Test-Warn-0.300.0-r1                                                   #        #
 #=dev-perl/Test-Warn-0.310.0                                                     #testing #
-#=dev-perl/Test-Warn-0.320.0                                                     #testing #
+#=dev-perl/Test-Warn-0.320.0                                                     #        #
 =dev-perl/Test-Warnings-0.16.0                                                   #        #
 #=dev-perl/Test-Warnings-0.26.0                                                  #        #
 #=dev-perl/Test-YAML-1.50.0                                                      #testing #
@@ -107,7 +108,7 @@
 #=dev-perl/Text-Aspell-0.90.0-r2                                                 #        #
 =dev-perl/Text-Autoformat-1.740.0                                                #        #
 =dev-perl/Text-BibTeX-0.800.0                                                    #        #
-#=dev-perl/Text-BibTeX-0.850.0                                                   #testing #
+#=dev-perl/Text-BibTeX-0.850.0                                                   #        #
 =dev-perl/Text-CSV-1.940.0                                                       #        #
 #=dev-perl/Text-CSV-1.950.0                                                      #        #
 =dev-perl/Text-CSV-Simple-1.0.0-r1                                               #        #
@@ -171,7 +172,7 @@
 =dev-perl/Tk-CursorControl-0.400.0-r1                                            #        #
 #=dev-perl/Tk-CursorControl-0.400.0-r2                                           #testing #
 =dev-perl/Tk-JPEG-Lite-2.14.30-r1                                                #        #
-#=dev-perl/Tk-JPEG-Lite-2.15.0                                                   #testing #
+#=dev-perl/Tk-JPEG-Lite-2.15.0                                                   #        #
 =dev-perl/Tk-TableMatrix-1.230.0-r1                                              #        #
 #=dev-perl/Tk-TableMatrix-1.230.0-r2                                             #testing #
 =dev-perl/Tree-DAG_Node-1.60.0-r1                                                #        #
@@ -212,7 +213,6 @@
 #=dev-perl/Test-MinimumVersion-0.101.82                                          #testing #
 #=dev-perl/Test-Mock-LWP-Dispatch-0.80.0                                         #testing #
 #=dev-perl/Test-Perl-Critic-1.30.0                                               #testing #
-#=dev-perl/Test-TempDir-Tiny-0.17.0                                              #testing #
 #=dev-perl/Test-Timer-0.130.0                                                    #testing #
 #=dev-perl/Test-Timer-1.0.0                                                      #testing #
 #=dev-perl/Test-Timer-2.60.0                                                     #testing #

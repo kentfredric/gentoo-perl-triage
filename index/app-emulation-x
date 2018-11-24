@@ -1,5 +1,4 @@
 ## stable:
-=app-emulation/xen-tools-4.10.1-r2                                               #        #
-#=app-emulation/xen-tools-4.10.2-r1                                              #        #
+=app-emulation/xen-tools-4.10.2-r1                                               #        #
 #=app-emulation/xen-tools-4.11.0-r3                                              #testing #
 ## testing:
