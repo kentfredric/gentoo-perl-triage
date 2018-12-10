@@ -1,5 +1,6 @@
 ## stable:
 =sys-cluster/glusterfs-4.0.0-r1                                                  #        #+
-#=sys-cluster/glusterfs-4.0.2                                                    #testing #+
+#=sys-cluster/glusterfs-4.0.2                                                    #        #+
+#=sys-cluster/glusterfs-4.1.5                                                    #testing #
 #=sys-cluster/glusterfs-9999                                                     #testing # NEEDS KEYWORDS
 ## testing:

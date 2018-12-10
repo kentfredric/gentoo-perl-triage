@@ -11,8 +11,7 @@
 #=sys-libs/libomp-7.0.1_rc2                                                      #testing #
 #=sys-libs/libomp-7.0.9999                                                       #testing # NEEDS KEYWORDS
 #=sys-libs/libomp-9999                                                           #testing # NEEDS KEYWORDS
-=sys-libs/libosinfo-1.1.0                                                        #        #+
-#=sys-libs/libosinfo-1.2.0                                                       #testing #+
+=sys-libs/libosinfo-1.2.0                                                        #        #+
 ## testing:
 #=sys-libs/libhugetlbfs-2.20                                                     #testing # tests broken 630128
 #=sys-libs/libhugetlbfs-2.21                                                     #testing # tests broken 630128

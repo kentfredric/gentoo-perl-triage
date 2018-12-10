@@ -1,5 +1,3 @@
 ## stable:
-=net-nds/openldap-2.4.44                                                         #        # broken: 625464
-#=net-nds/openldap-2.4.44-r1                                                     #testing # broken: 625464
-#=net-nds/openldap-2.4.45                                                        #testing # broken: 625464
+=net-nds/openldap-2.4.45                                                         #        # broken: 625464
 ## testing:

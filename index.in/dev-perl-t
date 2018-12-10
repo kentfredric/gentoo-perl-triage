@@ -141,6 +141,7 @@
 =dev-perl/Text-Template-1.460.0-r1                                               #        #
 #=dev-perl/Text-Template-1.470.0                                                 #testing #
 #=dev-perl/Text-Template-1.510.0                                                 #        #
+#=dev-perl/Text-Template-1.530.0                                                 #testing #
 =dev-perl/Text-Unaccent-1.80.0-r1                                                #        #
 =dev-perl/Text-Unidecode-0.40.0-r1                                               #        #
 #=dev-perl/Text-Unidecode-1.270.0                                                #        #
@@ -212,6 +213,7 @@
 #=dev-perl/Test-LectroTest-0.500.100                                             #testing #
 #=dev-perl/Test-MinimumVersion-0.101.82                                          #testing #
 #=dev-perl/Test-Mock-LWP-Dispatch-0.80.0                                         #testing #
+#=dev-perl/Test-More-UTF8-0.50.0                                                 #testing #
 #=dev-perl/Test-Perl-Critic-1.30.0                                               #testing #
 #=dev-perl/Test-Timer-0.130.0                                                    #testing #
 #=dev-perl/Test-Timer-1.0.0                                                      #testing #
@@ -227,6 +229,7 @@
 #=dev-perl/Text-Netstring-0.70.0-r1                                              #testing #
 #=dev-perl/Text-Table-1.133.0                                                    #testing #
 #=dev-perl/Text-VimColor-0.280.0                                                 #testing #
+#=dev-perl/Text-VimColor-0.290.0                                                 #testing #
 #=dev-perl/Tie-CPHash-2.0.0                                                      #testing #
 #=dev-perl/Tie-Cache-0.210.0                                                     #testing #
 #=dev-perl/Tie-Cache-0.210.0-r1                                                  #testing #

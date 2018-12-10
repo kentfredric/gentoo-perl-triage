@@ -3,8 +3,8 @@
 #=app-emulation/libvirt-4.9.0                                                    #testing #
 #=app-emulation/libvirt-9999                                                     #testing # NEEDS KEYWORDS
 ## testing:
-#=app-emulation/libguestfs-1.28.5-r3                                             #testing # broken gcc-5 601162
-#=app-emulation/libguestfs-1.36.5                                                #testing # broken gcc-7 640494, tests broken 629946
 #=app-emulation/libguestfs-1.36.13                                               #testing # broken 650068, blocked by qemu
+#=app-emulation/libguestfs-1.36.15                                               #testing #
+#=app-emulation/libguestfs-1.38.6                                                #testing #
 #=app-emulation/libspectrum-1.4.2                                                #testing #+
 #=app-emulation/libspectrum-1.4.4                                                #testing #+

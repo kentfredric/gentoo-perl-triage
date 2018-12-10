@@ -2,5 +2,6 @@
 =www-apps/dspam-web-3.10.1                                                       #        #+
 ## testing:
 #=www-apps/davical-1.1.7                                                         #testing #+
+#=www-apps/davical-1.1.7-r1                                                      #testing #
 #=www-apps/drraw-2.0.1                                                           #testing # NEEDS KEYWORDS
 #=www-apps/drraw-2.1.3                                                           #testing #+

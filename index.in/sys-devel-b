@@ -1,6 +1,5 @@
 ## stable:
-=sys-devel/bison-3.0.5-r1                                                        #        #
-#=sys-devel/bison-3.1                                                            #        #
+=sys-devel/bison-3.1                                                             #        #
 #=sys-devel/bison-3.2.1                                                          #testing #
 #=sys-devel/bison-3.2.2                                                          #testing #
 ## testing:

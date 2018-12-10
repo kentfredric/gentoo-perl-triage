@@ -1,4 +1,5 @@
 ## stable:
 =app-forensics/sleuthkit-4.5.0                                                   #        #
 #=app-forensics/sleuthkit-4.6.0                                                  #testing #
+#=app-forensics/sleuthkit-4.6.4-r1                                               #testing #
 ## testing:

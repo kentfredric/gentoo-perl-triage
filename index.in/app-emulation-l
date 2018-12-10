@@ -3,8 +3,8 @@
 #=app-emulation/libvirt-4.9.0                                                    #testing #
 #=app-emulation/libvirt-9999                                                     #testing #
 ## testing:
-#=app-emulation/libguestfs-1.28.5-r3                                             #testing #
-#=app-emulation/libguestfs-1.36.5                                                #testing #
 #=app-emulation/libguestfs-1.36.13                                               #testing #
+#=app-emulation/libguestfs-1.36.15                                               #testing #
+#=app-emulation/libguestfs-1.38.6                                                #testing #
 #=app-emulation/libspectrum-1.4.2                                                #testing #
 #=app-emulation/libspectrum-1.4.4                                                #testing #

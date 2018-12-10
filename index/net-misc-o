@@ -1,6 +1,4 @@
 ## stable:
-=net-misc/openvswitch-2.7.2                                                      #        # Need no-OPENSWITCH kernel
-#=net-misc/openvswitch-2.7.2-r1                                                  #        # Need no-OPENSWITCH kernel
-#=net-misc/openvswitch-2.8.1                                                     #        # Need no-OPENSWITCH kernel
-#=net-misc/openvswitch-2.10.0-r1                                                 #        #
+=net-misc/openvswitch-2.8.1                                                      #        # Need no-OPENSWITCH kernel
+#=net-misc/openvswitch-2.10.0-r1                                                 #        # broken 672870
 ## testing:

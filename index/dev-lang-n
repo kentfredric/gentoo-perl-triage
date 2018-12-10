@@ -1,7 +1,7 @@
 ## stable:
 =dev-lang/nasm-2.13.01                                                           #        #+
 #=dev-lang/nasm-2.13.03-r1                                                       #testing #+
-#=dev-lang/nasm-2.14                                                             #testing # PACKAGE MASKED
+#=dev-lang/nasm-2.14-r1                                                          #testing #
 ## testing:
 #=dev-lang/nqp-2018.06                                                           #testing #+
 #=dev-lang/nqp-2018.08                                                           #testing #+

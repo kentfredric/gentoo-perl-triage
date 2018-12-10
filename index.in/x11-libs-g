@@ -1,5 +1,4 @@
 ## stable:
-=x11-libs/goffice-0.10.38                                                        #        #
-#=x11-libs/goffice-0.10.41                                                       #testing #
+=x11-libs/goffice-0.10.41                                                        #        #
 #=x11-libs/goffice-0.10.43                                                       #testing #
 ## testing:

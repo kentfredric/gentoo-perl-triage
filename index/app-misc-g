@@ -5,7 +5,8 @@
 =app-misc/gcstar-1.7.0                                                           #        #+
 #=app-misc/gcstar-1.7.1                                                          #testing #+
 =app-misc/golly-2.7-r1                                                           #        #+
-#=app-misc/golly-2.8                                                             #testing # broken 611724
+#=app-misc/golly-2.8-r1                                                          #testing #
+#=app-misc/golly-3.2                                                             #testing #
 ## testing:
 #=app-misc/glastree-1.04                                                         #testing # tests broken 623466
 #=app-misc/grabcartoons-2.8.4_p20141112                                          #testing #+

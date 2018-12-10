@@ -5,7 +5,7 @@
 #=net-analyzer/mrtg-2.17.4-r2                                                    #testing #+
 #=net-analyzer/mrtg-2.17.7                                                       #testing #+
 =net-analyzer/munin-2.0.34                                                       #        #+
-#=net-analyzer/munin-2.0.38                                                      #testing #+
+#=net-analyzer/munin-2.0.38                                                      #        #+
 #=net-analyzer/munin-2.0.43                                                      #testing #
 #=net-analyzer/munin-2.1.9999                                                    #testing # NEEDS KEYWORDS
 ## testing:
