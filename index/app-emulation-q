@@ -1,6 +1,6 @@
 ## stable:
-=app-emulation/qemu-2.12.0-r3                                                    #        #
-#=app-emulation/qemu-2.12.1                                                      #        #
-#=app-emulation/qemu-3.0.0                                                       #testing #
+=app-emulation/qemu-2.12.0-r3                                                    #        # broken 662368
+#=app-emulation/qemu-2.12.1                                                      #        # broken 662368
+#=app-emulation/qemu-3.0.0                                                       #testing # broken 662368
 #=app-emulation/qemu-9999                                                        #testing # NEEDS KEYWORDS
 ## testing:
