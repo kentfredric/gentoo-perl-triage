@@ -1,11 +1,11 @@
 ## stable:
 =dev-lang/perl-5.24.3-r1                                                         #        # Nontarget
-#=dev-lang/perl-5.24.4                                                           #testing #
+#=dev-lang/perl-5.24.4                                                           #testing # Nontarget
 #=dev-lang/perl-5.26.1-r1                                                        #testing # Nontarget
 #=dev-lang/perl-5.26.1-r2                                                        #testing # Nontarget
-#=dev-lang/perl-5.26.2                                                           #testing #
+#=dev-lang/perl-5.26.2                                                           #testing # Nontarget
 #=dev-lang/perl-5.26.9999                                                        #testing # Nontarget
-#=dev-lang/perl-5.28.0                                                           #testing #
+#=dev-lang/perl-5.28.0                                                           #testing # Nontarget
 #=dev-lang/perl-5.28.9999                                                        #testing # Nontarget
 ## testing:
 #=dev-lang/parrot-7.1.0                                                          #testing #+
