@@ -10,5 +10,3 @@
 #=sys-apps/lsb-release-1.4-r2                                                    #testing #+
 #=sys-apps/lsb-release-1.4-r3                                                    #        #+
 ## testing:
-#=sys-apps/likwid-4.1.1                                                          #testing # broken 637350
-#=sys-apps/likwid-4.1.2                                                          #testing # broken 637350

@@ -8,7 +8,4 @@
 #=app-portage/genlop-0.30.10                                                     #testing #+
 #=app-portage/genlop-0.30.10-r1                                                  #testing #+
 #=app-portage/genlop-9999                                                        #testing # NEEDS KEYWORDS
-=app-portage/gentoolkit-dev-0.2.8.3-r1                                           #        # tests broken 607398
-#=app-portage/gentoolkit-dev-0.3.0                                               #        # tests broken 607398
-#=app-portage/gentoolkit-dev-0.3.1                                               #testing # tests broken 607398
 ## testing:
