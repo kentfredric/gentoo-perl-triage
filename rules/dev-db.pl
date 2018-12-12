@@ -15,4 +15,14 @@ match(
     },
   } );
 
+match(
+  qr/^percona-server-\d/ => {
+    test => sub {
+
+      # usersandbox unsupported
+      disable_feature( 'usersandbox', [ 'dev-db/percona-server' ] );
+    },
+  } );
+
+
 1;
