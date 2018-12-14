@@ -5,6 +5,6 @@
 #=dev-lang/R-3.5.1                                                               #testing #+
 ## testing:
 #=dev-lang/rakudo-2018.06                                                        #testing #+
-#=dev-lang/rakudo-2018.08                                                        #testing #
-#=dev-lang/rakudo-2018.09                                                        #testing #
+#=dev-lang/rakudo-2018.08                                                        #testing #+
+#=dev-lang/rakudo-2018.09                                                        #testing #+
 #=dev-lang/rakudo-9999                                                           #testing # NEEDS KEYWORDS
