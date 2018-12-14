@@ -3,5 +3,6 @@
 =net-analyzer/wireshark-2.6.3                                                    #        #
 #=net-analyzer/wireshark-2.6.4-r1                                                #        #
 #=net-analyzer/wireshark-2.6.5                                                   #testing #
+#=net-analyzer/wireshark-2.9.0                                                   #testing #
 #=net-analyzer/wireshark-99999999                                                #testing #
 ## testing:
