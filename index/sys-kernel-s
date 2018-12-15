@@ -3,8 +3,8 @@
 #=sys-kernel/spl-0.7.8                                                           #        #+
 #=sys-kernel/spl-0.7.9                                                           #        #+
 #=sys-kernel/spl-0.7.9-r1                                                        #testing #+
-#=sys-kernel/spl-0.7.11                                                          #testing #
-#=sys-kernel/spl-0.7.12                                                          #testing #
+#=sys-kernel/spl-0.7.11                                                          #testing #+
+#=sys-kernel/spl-0.7.12                                                          #testing #+
 #=sys-kernel/spl-0.7.9999                                                        #testing # NEEDS KEYWORDS
 #=sys-kernel/spl-9999                                                            #testing # NEEDS KEYWORDS
 ## testing:
