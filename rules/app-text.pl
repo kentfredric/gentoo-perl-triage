@@ -3,7 +3,7 @@
 package ruleset::app::text;
 
 use My::Ruleset::Register -category => 'app-text';
-use My::Ruleset::Utils qw/add_keywords/;
+use My::Ruleset::Utils qw/add_keywords add_use/;
 
 match(
     qr/^(xindy)-\d/ => {
@@ -20,5 +20,15 @@ match(
         }
     },
 );
+
+match(
+    qr/^(referencer)-\d/ => {
+        install => sub {
+            add_use("X" => [ 'dev-cpp/gtkmm', 'dev-cpp/cairomm' ]);
+            add_use("cairo" => ['app-text/poppler']);
+        }
+    },
+);
+
 
 1;
