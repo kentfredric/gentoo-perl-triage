@@ -9,7 +9,7 @@
 #=dev-libs/libcdio-paranoia-0.93_p1                                              #        #+
 #=dev-libs/libcdio-paranoia-0.93_p1-r1                                           #testing #+
 #=dev-libs/libcdio-paranoia-0.94_p1-r1                                           #testing #+
-#=dev-libs/libcdio-paranoia-0.94_p2                                              #testing #+
+#=dev-libs/libcdio-paranoia-0.94_p2                                              #        #+
 =dev-libs/libical-2.0.0-r3                                                       #        #+
 #=dev-libs/libical-3.0.3                                                         #testing # tests broken 669046
 =dev-libs/libmoe-1.5.8-r3                                                        #        #+
