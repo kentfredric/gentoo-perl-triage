@@ -1,10 +1,10 @@
 ## stable:
-=app-emulation/virt-manager-1.4.3-r1                                             #        #
-#=app-emulation/virt-manager-1.5.1-r1                                            #        #
-#=app-emulation/virt-manager-2.0.0                                               #testing #
+=app-emulation/virt-manager-1.4.3-r1                                             #        # blocked by qemu+texinfo 662368
+#=app-emulation/virt-manager-1.5.1-r1                                            #        # blocked by qemu+texinfo 662368
+#=app-emulation/virt-manager-2.0.0                                               #testing # blocked by qemu+texinfo 662368
 #=app-emulation/virt-manager-9999                                                #testing # NEEDS KEYWORDS
-=app-emulation/virt-viewer-6.0-r1                                                #        #
-#=app-emulation/virt-viewer-7.0                                                  #        #
+=app-emulation/virt-viewer-6.0-r1                                                #        # blocked by qemu+texinfo 662368
+#=app-emulation/virt-viewer-7.0                                                  #        # blocked by qemu+texinfo 662368
 =app-emulation/virt-what-1.18                                                    #        #+
-#=app-emulation/virt-what-1.19                                                   #testing #
+#=app-emulation/virt-what-1.19                                                   #testing #+
 ## testing:
