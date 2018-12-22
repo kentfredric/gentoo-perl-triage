@@ -5,7 +5,6 @@
 #=app-portage/g-cpan-0.16.9-r1                                                   #        # tests broken 603492
 #=app-portage/g-cpan-9999                                                        #testing # NEEDS KEYWORDS
 =app-portage/genlop-0.30.9-r1                                                    #        #+
-#=app-portage/genlop-0.30.10                                                     #testing #+
 #=app-portage/genlop-0.30.10-r1                                                  #testing #+
 #=app-portage/genlop-9999                                                        #testing # NEEDS KEYWORDS
 ## testing:

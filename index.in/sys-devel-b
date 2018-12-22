@@ -2,6 +2,7 @@
 =sys-devel/bison-3.1                                                             #        #
 #=sys-devel/bison-3.2.1                                                          #testing #
 #=sys-devel/bison-3.2.2                                                          #testing #
+#=sys-devel/bison-3.2.3                                                          #testing #
 ## testing:
 #=sys-devel/binutils-apple-3.2                                                   #testing #
 #=sys-devel/binutils-apple-4.3-r2                                                #testing #

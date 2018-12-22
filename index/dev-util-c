@@ -3,6 +3,7 @@
 #=dev-util/cgvg-1.6.3                                                            #testing #
 =dev-util/checkbashisms-2.18.6                                                   #        #
 #=dev-util/checkbashisms-2.18.9                                                  #testing #
+#=dev-util/checkbashisms-2.18.11                                                 #testing #
 =dev-util/cloc-1.72                                                              #        #+
 #=dev-util/cloc-1.74                                                             #testing #+
 #=dev-util/cloc-1.76-r1                                                          #testing #+
