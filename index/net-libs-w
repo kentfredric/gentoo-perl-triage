@@ -1,4 +1,4 @@
 ## stable:
-=net-libs/webkit-gtk-2.22.2                                                      #        #
-#=net-libs/webkit-gtk-2.22.4                                                     #testing #
+=net-libs/webkit-gtk-2.22.2                                                      #        # broken 673500
+#=net-libs/webkit-gtk-2.22.4                                                     #testing #+
 ## testing:
