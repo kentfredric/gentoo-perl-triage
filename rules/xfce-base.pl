@@ -15,4 +15,14 @@ match(
     },
 );
 
+match(
+    qr/^xfconf-\d/ => {
+        testdeps => sub {
+          add_use('-glamor' => [
+              'x11-base/xorg-server'
+          ]);
+        }
+    }
+);
+
 1;
