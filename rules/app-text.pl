@@ -13,7 +13,7 @@ match(
 
                     # Older versions broken on newer profiles
                     #  bug #638514
-                    '=dev-lisp/clisp-2.49.60',
+                    '=dev-lisp/clisp-2.49.90',
                 ]
             );
 
