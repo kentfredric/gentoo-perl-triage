@@ -67,6 +67,7 @@
 #=dev-perl/DateTime-1.360.0                                                      #testing #+
 #=dev-perl/DateTime-1.420.0                                                      #testing #+
 #=dev-perl/DateTime-1.440.0                                                      #testing #+
+=dev-perl/DateTime-Calendar-Julian-0.40.0                                        #        #+
 =dev-perl/DateTime-Format-Builder-0.810.0-r1                                     #        #+
 =dev-perl/DateTime-Format-DateParse-0.50.0-r1                                    #        #+
 =dev-perl/DateTime-Format-HTTP-0.420.0                                           #        #+
@@ -153,7 +154,6 @@
 #=dev-perl/Data-Stream-Bulk-0.110.0-r1                                           #testing #+
 #=dev-perl/Data-URIEncode-0.110.0-r1                                             #testing #+
 #=dev-perl/Data-Visitor-0.300.0-r1                                               #testing #+
-#=dev-perl/DateTime-Calendar-Julian-0.40.0                                       #testing #+
 #=dev-perl/DateTime-Event-ICal-0.130.0                                           #testing #+
 #=dev-perl/DateTime-Event-Recurrence-0.190.0                                     #testing #+
 #=dev-perl/DateTime-Format-Flexible-0.280.0                                      #testing #+

@@ -2,6 +2,7 @@
 =mail-filter/maildrop-2.8.3                                                      #        #+
 #=mail-filter/maildrop-2.8.5                                                     #testing #+
 #=mail-filter/maildrop-2.9.0                                                     #testing #+
+#=mail-filter/maildrop-3.0.0                                                     #testing #
 =mail-filter/mimedefang-2.73                                                     #        # broken 514412
 #=mail-filter/mimedefang-2.74                                                    #        # broken 514412
 #=mail-filter/mimedefang-2.75                                                    #testing # broken 514412

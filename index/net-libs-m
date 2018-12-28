@@ -4,4 +4,5 @@
 #=net-libs/mbedtls-2.13.1                                                        #testing #+
 #=net-libs/mbedtls-2.14.1                                                        #testing #
 #=net-libs/mbedtls-2.15.1                                                        #testing #
+#=net-libs/mbedtls-2.16.0                                                        #testing #
 ## testing:

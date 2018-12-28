@@ -7,9 +7,7 @@
 =dev-perl/XML-Atom-0.420.0                                                       #        #
 =dev-perl/XML-Catalog-1.30.0                                                     #        #
 #=dev-perl/XML-Catalog-1.30.0-r1                                                 #        #
-=dev-perl/XML-DOM-1.450.0                                                        #        #
-#=dev-perl/XML-DOM-1.460.0                                                       #testing #
-#=dev-perl/XML-DOM-1.460.0-r1                                                    #        #
+=dev-perl/XML-DOM-1.460.0-r1                                                     #        #
 =dev-perl/XML-DOM-XPath-0.140.0-r2                                               #        #
 =dev-perl/XML-DT-0.680.0                                                         #        #
 =dev-perl/XML-DTDParser-2.10.0-r1                                                #        #

@@ -8,9 +8,7 @@
 #=dev-perl/URI-1.730.0                                                           #        #
 =dev-perl/URI-Fetch-0.130.0                                                      #        #
 =dev-perl/Unicode-EastAsianWidth-1.330.0-r1                                      #        #
-=dev-perl/Unicode-LineBreak-2016.3.0                                             #        #
-#=dev-perl/Unicode-LineBreak-2017.4.0                                            #testing #
-#=dev-perl/Unicode-LineBreak-2017.4.0-r1                                         #        #
+=dev-perl/Unicode-LineBreak-2017.4.0-r1                                          #        #
 =dev-perl/Unicode-Map-0.112.0-r1                                                 #        #
 =dev-perl/Unicode-Map8-0.130.0                                                   #        #
 #=dev-perl/Unicode-Map8-0.130.0-r1                                               #testing #

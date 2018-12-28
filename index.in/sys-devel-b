@@ -1,24 +1,18 @@
 ## stable:
 =sys-devel/bison-3.1                                                             #        #
-#=sys-devel/bison-3.2.1                                                          #testing #
-#=sys-devel/bison-3.2.2                                                          #testing #
 #=sys-devel/bison-3.2.3                                                          #testing #
+#=sys-devel/bison-3.2.4                                                          #testing #
 ## testing:
 #=sys-devel/binutils-apple-3.2                                                   #testing #
 #=sys-devel/binutils-apple-4.3-r2                                                #testing #
 #=sys-devel/binutils-apple-5.1-r1                                                #testing #
 #=sys-devel/binutils-apple-6.1-r1                                                #testing #
-#=sys-devel/binutils-apple-6.3-r1                                                #testing #
-#=sys-devel/binutils-apple-7.0                                                   #testing #
+#=sys-devel/binutils-apple-6.3-r2                                                #testing #
 #=sys-devel/binutils-apple-7.0-r1                                                #testing #
-#=sys-devel/binutils-apple-7.1                                                   #testing #
 #=sys-devel/binutils-apple-7.1-r1                                                #testing #
-#=sys-devel/binutils-apple-7.2                                                   #testing #
 #=sys-devel/binutils-apple-7.2-r1                                                #testing #
-#=sys-devel/binutils-apple-7.3                                                   #testing #
 #=sys-devel/binutils-apple-7.3.1                                                 #testing #
 #=sys-devel/binutils-apple-8.1                                                   #testing #
-#=sys-devel/binutils-apple-8.2.1                                                 #testing #
 #=sys-devel/binutils-apple-8.2.1-r1                                              #testing #
 #=sys-devel/byfl-1.6                                                             #testing #
 #=sys-devel/byfl-1.6-r1                                                          #testing #

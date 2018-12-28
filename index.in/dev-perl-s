@@ -40,6 +40,7 @@
 =dev-perl/Snowball-Swedish-1.200.0-r1                                            #        #
 =dev-perl/Socket6-0.270.0                                                        #        #
 #=dev-perl/Socket6-0.280.0                                                       #        #
+=dev-perl/Sort-Key-1.330.0-r1                                                    #        #
 =dev-perl/Sort-Naturally-1.30.0-r1                                               #        #
 =dev-perl/Sort-Tree-1.90.0-r1                                                    #        #
 =dev-perl/Sort-Versions-1.620.0                                                  #        #
@@ -100,7 +101,6 @@
 #=dev-perl/Set-Crontab-1.30.0                                                    #testing #
 #=dev-perl/Socket-GetAddrInfo-0.220.0                                            #testing #
 #=dev-perl/Software-License-0.103.13                                             #testing #
-#=dev-perl/Sort-Key-1.330.0-r1                                                   #testing #
 #=dev-perl/Sort-Key-IPv4-0.30.0-r1                                               #testing #
 #=dev-perl/Specio-0.320.0                                                        #testing #
 #=dev-perl/Specio-0.370.0                                                        #testing #

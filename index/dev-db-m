@@ -6,6 +6,7 @@
 #=dev-db/mariadb-10.1.37                                                         #        #
 #=dev-db/mariadb-10.2.19                                                         #testing #
 #=dev-db/mariadb-10.2.19-r1                                                      #testing #
+#=dev-db/mariadb-10.2.20                                                         #testing #
 #=dev-db/mariadb-10.3.10                                                         #testing #
 #=dev-db/mariadb-10.3.11                                                         #testing #
 #=dev-db/mysql-5.5.61                                                            #testing # tests broken 670816
