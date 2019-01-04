@@ -27,7 +27,7 @@
 =dev-perl/CPAN-Mini-1.111.16                                                     #        #+
 =dev-perl/CPAN-Perl-Releases-3.560.0                                             #        #+
 #=dev-perl/CPAN-Perl-Releases-3.740.0                                            #testing #+
-#=dev-perl/CPAN-Perl-Releases-3.760.0                                            #        #
+#=dev-perl/CPAN-Perl-Releases-3.760.0                                            #        #+
 =dev-perl/CSS-Minifier-XS-0.90.0-r1                                              #        #+
 =dev-perl/CSS-Squish-0.100.0-r1                                                  #        #+
 =dev-perl/Cache-2.110.0                                                          #        #+
@@ -38,7 +38,7 @@
 =dev-perl/Calendar-Simple-1.230.0                                                #        #+
 =dev-perl/Canary-Stability-2012.0.0                                              #        #+
 =dev-perl/Capture-Tiny-0.460.0                                                   #        #+
-#=dev-perl/Capture-Tiny-0.480.0                                                  #        #
+#=dev-perl/Capture-Tiny-0.480.0                                                  #        #+
 =dev-perl/Carp-Always-0.130.0                                                    #        #+
 =dev-perl/Carp-Assert-0.210.0                                                    #        #+
 =dev-perl/Carp-Assert-More-1.160.0                                               #        #+
@@ -165,7 +165,7 @@
 #=dev-perl/CSS-Tiny-1.200.0                                                      #testing #+
 #=dev-perl/Cache-FastMmap-1.470.0                                                #testing #+
 #=dev-perl/Cache-Memcached-Fast-0.250.0                                          #testing #+
-#=dev-perl/Cairo-GObject-1.4.0-r1                                                #testing #
+#=dev-perl/Cairo-GObject-1.4.0-r1                                                #testing #+
 #=dev-perl/Cisco-IPPhone-0.50.0-r2                                               #testing #+
 #=dev-perl/Class-Adapter-1.80.0-r1                                               #testing #+
 #=dev-perl/Class-Base-0.80.0                                                     #testing #+
@@ -180,7 +180,7 @@
 #=dev-perl/Class-Std-0.13.0                                                      #testing #+
 #=dev-perl/Class-Std-Fast-0.0.8-r1                                               #testing #+
 #=dev-perl/Class-Unload-0.110.0                                                  #testing #+
-#=dev-perl/Compress-LZF-3.800.0                                                  #testing #
+#=dev-perl/Compress-LZF-3.800.0                                                  #testing #+
 #=dev-perl/Config-Auto-0.440.0                                                   #testing #+
 #=dev-perl/Config-INI-0.25.0                                                     #testing #+
 #=dev-perl/Config-JSON-1.520.200                                                 #testing #+

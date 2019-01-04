@@ -13,7 +13,7 @@
 =dev-perl/GDTextUtil-0.860.0-r1                                                  #        #+
 #=dev-perl/GDTextUtil-0.860.0-r2                                                 #testing #+
 =dev-perl/GSSAPI-0.280.0-r1                                                      #        #+
-=dev-perl/Gentoo-App-Pram-0.200.0                                                #        #
+=dev-perl/Gentoo-App-Pram-0.200.0                                                #        #+
 =dev-perl/Gentoo-PerlMod-Version-0.8.1                                           #        #+
 =dev-perl/Geo-IP-1.450.0                                                         #        #+
 #=dev-perl/Geo-IP-1.500.0-r1                                                     #testing #+
@@ -62,10 +62,10 @@
 #=dev-perl/Getopt-GUI-Long-0.930.0-r2                                            #testing #+
 #=dev-perl/Getopt-Tabular-0.300.0-r1                                             #testing #+
 #=dev-perl/Git-Wrapper-0.47.0-r1                                                 #testing #+
-#=dev-perl/GooCanvas2-0.60.0                                                     #testing #
+#=dev-perl/GooCanvas2-0.60.0                                                     #testing #+
 #=dev-perl/Google-Ads-AdWords-Client-4.18.0                                      #testing #+
 #=dev-perl/Growl-GNTP-0.210.0-r1                                                 #testing #+
 #=dev-perl/Gtk2-AppIndicator-0.150.0-r1                                          #testing #+
 #=dev-perl/Gtk2-SourceView2-0.100.0-r1                                           #testing #+
-#=dev-perl/Gtk3-0.34.0                                                           #testing #
-#=dev-perl/Gtk3-SimpleList-0.170.0                                               #testing #
+#=dev-perl/Gtk3-0.34.0                                                           #testing #+
+#=dev-perl/Gtk3-SimpleList-0.170.0                                               #testing #+
