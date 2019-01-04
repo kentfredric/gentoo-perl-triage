@@ -7,7 +7,6 @@
 =sys-libs/libomp-4.0.1                                                           #        #
 #=sys-libs/libomp-5.0.2                                                          #        #
 #=sys-libs/libomp-6.0.1                                                          #        #
-#=sys-libs/libomp-7.0.0                                                          #testing #
 #=sys-libs/libomp-7.0.1                                                          #testing #
 #=sys-libs/libomp-7.0.9999                                                       #testing #
 #=sys-libs/libomp-9999                                                           #testing #

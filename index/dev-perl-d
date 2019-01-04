@@ -109,6 +109,7 @@
 =dev-perl/Devel-Leak-0.30.0                                                      #        #+
 =dev-perl/Devel-LexAlias-0.50.0                                                  #        #+
 =dev-perl/Devel-NYTProf-6.40.0                                                   #        # broken 661210
+#=dev-perl/Devel-NYTProf-6.60.0                                                  #testing #
 =dev-perl/Devel-OverloadInfo-0.4.0                                               #        #+
 =dev-perl/Devel-PatchPerl-1.480.0                                                #        #+
 #=dev-perl/Devel-PatchPerl-1.520.0                                               #        #+
@@ -167,7 +168,7 @@
 #=dev-perl/Deliantra-1.300.0                                                     #testing #
 #=dev-perl/Devel-ArgNames-0.30.0-r1                                              #testing #+
 #=dev-perl/Devel-CheckOS-1.810.0                                                 #testing #+
-#=dev-perl/Devel-Cover-1.290.0                                                   #testing # broken by B::Debug 661202
+#=dev-perl/Devel-Cover-1.290.0-r1                                                #testing #
 #=dev-perl/Devel-Declare-0.6.19                                                  #testing #+
 #=dev-perl/Devel-Dumpvar-1.60.0-r1                                               #testing #+
 #=dev-perl/Devel-FindPerl-0.14.0                                                 #testing #+

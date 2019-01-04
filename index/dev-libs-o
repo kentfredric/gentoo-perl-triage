@@ -2,8 +2,10 @@
 =dev-libs/openssl-0.9.8z_p8-r1                                                   #        #+
 #=dev-libs/openssl-1.0.2p-r1                                                     #        #+
 #=dev-libs/openssl-1.0.2q                                                        #        #+
+#=dev-libs/openssl-1.0.2q-r200                                                   #testing #
 #=dev-libs/openssl-1.1.0j                                                        #testing # PMASKED
 #=dev-libs/openssl-1.1.1a                                                        #testing # PMASKED
+#=dev-libs/openssl-1.1.1a-r1                                                     #testing #
 =dev-libs/ossp-uuid-1.6.2-r6                                                     #        #+
 ## testing:
 #=dev-libs/OpenSRF-2.1.1                                                         #testing # broken 655502

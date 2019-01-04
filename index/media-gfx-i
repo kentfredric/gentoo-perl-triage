@@ -5,7 +5,9 @@
 =media-gfx/igal-2.0-r1                                                           #        #+
 =media-gfx/imagemagick-6.9.10.16-r1                                              #        #
 #=media-gfx/imagemagick-6.9.10.19                                                #testing #
+#=media-gfx/imagemagick-6.9.10.21                                                #testing #
 #=media-gfx/imagemagick-7.0.8.16                                                 #        #
 #=media-gfx/imagemagick-7.0.8.19                                                 #testing #
+#=media-gfx/imagemagick-7.0.8.21                                                 #testing #
 #=media-gfx/imagemagick-9999                                                     #testing # NEEDS KEYWORDS
 ## testing:

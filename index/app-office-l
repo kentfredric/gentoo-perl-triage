@@ -1,8 +1,9 @@
 ## stable:
 =app-office/libreoffice-6.0.6.2                                                  #        # broken with USE=test 601492
-#=app-office/libreoffice-6.1.4.2                                                 #testing #
+#=app-office/libreoffice-6.1.4.2                                                 #        #
 #=app-office/libreoffice-6.1.9999                                                #testing # NEEDS KEYWORDS
+#=app-office/libreoffice-6.2.9999                                                #testing #
 #=app-office/libreoffice-9999                                                    #testing # NEEDS KEYWORDS
 =app-office/libreoffice-bin-6.0.6.2                                              #        #+
-#=app-office/libreoffice-bin-6.1.4.2                                             #testing #
+#=app-office/libreoffice-bin-6.1.4.2                                             #        #
 ## testing:

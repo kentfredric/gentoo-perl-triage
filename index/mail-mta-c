@@ -3,4 +3,5 @@
 #=mail-mta/courier-0.75.0-r1                                                     #testing #+
 #=mail-mta/courier-0.76.4                                                        #testing # broken 632190
 #=mail-mta/courier-0.78.2                                                        #testing #+
+#=mail-mta/courier-1.0.5                                                         #testing #
 ## testing:

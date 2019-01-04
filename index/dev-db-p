@@ -25,11 +25,6 @@
 #=dev-db/postgresql-11.1                                                         #testing #+
 #=dev-db/postgresql-9999                                                         #testing # NEEDS KEYWORDS
 ## testing:
-#=dev-db/percona-server-5.6.40.84.0                                              #testing #+
-#=dev-db/percona-server-5.6.41.84.1                                              #testing #
-#=dev-db/percona-server-5.7.23.23-r1                                             #testing #
-#=dev-db/percona-server-5.7.23.24                                                #testing #
-#=dev-db/percona-server-5.7.23.25                                                #testing #
 #=dev-db/percona-server-5.7.24.27                                                #testing #
 #=dev-db/percona-xtrabackup-bin-2.4.11                                           #testing #+
 #=dev-db/percona-xtrabackup-bin-2.4.12                                           #testing #+

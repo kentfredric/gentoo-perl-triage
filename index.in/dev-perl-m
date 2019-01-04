@@ -39,8 +39,7 @@
 #=dev-perl/MailTools-2.180.0                                                     #testing #
 #=dev-perl/MailTools-2.190.0                                                     #        #
 =dev-perl/Math-Base-Convert-0.110.0                                              #        #
-=dev-perl/Math-BigInt-GMP-1.380.0                                                #        #
-#=dev-perl/Math-BigInt-GMP-1.490.0                                               #        #
+=dev-perl/Math-BigInt-GMP-1.490.0                                                #        #
 #=dev-perl/Math-BigInt-GMP-1.600.200                                             #testing #
 =dev-perl/Math-Calc-Units-1.70.0-r1                                              #        #
 =dev-perl/Math-Derivative-1.10.0                                                 #        #

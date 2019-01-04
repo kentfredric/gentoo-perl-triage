@@ -23,6 +23,8 @@
 #=dev-perl/bareword-filehandles-0.6.0                                            #        #
 =dev-perl/boolean-0.460.0                                                        #        #+
 ## testing:
+#=dev-perl/B-Debug-1.260.0                                                       #testing #
+#=dev-perl/B-Flags-0.170.0                                                       #testing #
 #=dev-perl/B-Hooks-Parser-0.190.0                                                #testing #+
 #=dev-perl/B-OPCheck-0.320.0                                                     #testing #+
 #=dev-perl/BDB-1.920.0                                                           #testing #

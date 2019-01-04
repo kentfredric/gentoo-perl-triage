@@ -9,5 +9,6 @@
 #=dev-libs/xapian-bindings-1.4.9                                                 #testing #+
 =dev-libs/xerces-c-3.1.4-r1                                                      #        # broken: 624310
 #=dev-libs/xerces-c-3.2.2                                                        #testing #+
+#=dev-libs/xerces-c-3.2.2-r1                                                     #testing #
 #=dev-libs/xerces-c-9999                                                         #testing # NEEDS KEYWORDS
 ## testing:

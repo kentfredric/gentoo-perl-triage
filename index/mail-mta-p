@@ -6,5 +6,5 @@
 #=mail-mta/postfix-3.3.1                                                         #testing #+
 #=mail-mta/postfix-3.3.1-r1                                                      #        #+
 #=mail-mta/postfix-3.3.2                                                         #testing #+
-#=mail-mta/postfix-3.4_pre20181202                                               #testing # PMASKED
+#=mail-mta/postfix-3.4_pre20181229                                               #testing #
 ## testing:
