@@ -3,7 +3,7 @@
 package ruleset::dev::perl;
 
 use My::Ruleset::Register -category => 'dev-perl';
-use My::Ruleset::Utils qw/add_keywords/;
+use My::Ruleset::Utils qw/add_keywords add_use/;
 
 match(
     qr/^(SQL-Translator|Specio|Params-ValidationCompiler)-\d/ => {
@@ -19,5 +19,15 @@ match(
         }
     },
 );
-
+match(
+    qr/^Gtk3-\d/ => {
+        testdeps => sub {
+            add_use(
+              '-glamor' => [
+                'x11-base/xorg-server'
+              ],
+            )
+        }
+    }
+);
 1;
